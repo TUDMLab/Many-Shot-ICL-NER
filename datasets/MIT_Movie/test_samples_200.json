@@ -1,0 +1,3676 @@
+[
+    {
+        "text": "what is the movie about a dead child murderer that comes back in kids dreams and has a glove that has knives for fingers",
+        "target": "what is the movie about <entity type=\"Plot\">a dead child murderer that comes back in kids dreams and has a glove that has knives for fingers</entity>",
+        "entities": [
+            [
+                "a dead child murderer that comes back in kids dreams and has a glove that has knives for fingers",
+                "Plot"
+            ]
+        ],
+        "sent_id": 400
+    },
+    {
+        "text": "what is the 2010 american romantic comedy film starring drew barrymore and justin long about a couple who fall in love in new york city",
+        "target": "what is the <entity type=\"Year\">2010</entity> <entity type=\"Genre\">american romantic comedy</entity> film starring <entity type=\"Actor\">drew barrymore</entity> and <entity type=\"Actor\">justin long</entity> about a <entity type=\"Plot\">couple who fall in love in new york city</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "american romantic comedy",
+                "Genre"
+            ],
+            [
+                "drew barrymore",
+                "Actor"
+            ],
+            [
+                "justin long",
+                "Actor"
+            ],
+            [
+                "couple who fall in love in new york city",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1067
+    },
+    {
+        "text": "i want to see a movie that is animated suitable for kids and is in 3 d version more over something with characters which are in toy version",
+        "target": "i want to see a movie that is <entity type=\"Genre\">animated</entity> suitable for kids and is in 3 d version more over something with <entity type=\"Plot\">characters</entity> which <entity type=\"Plot\">are in toy version</entity>",
+        "entities": [
+            [
+                "animated",
+                "Genre"
+            ],
+            [
+                "characters",
+                "Plot"
+            ],
+            [
+                "are in toy version",
+                "Plot"
+            ]
+        ],
+        "sent_id": 627
+    },
+    {
+        "text": "what movie features 3 furry little creatures who sing with high pitch voices are the male counterpart of the chipettes and become shipwrecked",
+        "target": "what movie features <entity type=\"Plot\">3 furry little creatures who sing with high pitch voices are the male counterpart of the chipettes and become shipwrecked</entity>",
+        "entities": [
+            [
+                "3 furry little creatures who sing with high pitch voices are the male counterpart of the chipettes and become shipwrecked",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1893
+    },
+    {
+        "text": "yul brynner and steve mcqueen are two of the actors playing gunfighters hired to protect a mexican village in this 1960 movie",
+        "target": "<entity type=\"Actor\">yul brynner</entity> and <entity type=\"Actor\">steve mcqueen</entity> are two of the actors playing <entity type=\"Plot\">gunfighters hired to protect a mexican village</entity> in this <entity type=\"Year\">1960</entity> movie",
+        "entities": [
+            [
+                "yul brynner",
+                "Actor"
+            ],
+            [
+                "steve mcqueen",
+                "Actor"
+            ],
+            [
+                "gunfighters hired to protect a mexican village",
+                "Plot"
+            ],
+            [
+                "1960",
+                "Year"
+            ]
+        ],
+        "sent_id": 405
+    },
+    {
+        "text": "what movie takes place in world war ii and features a character who wants to join the army but is rejected until a scientist experiments on him and is ultimately turned into a superhero",
+        "target": "what movie <entity type=\"Plot\">takes place in world war ii and features a character who wants to join the army but is rejected until a scientist experiments on him and is ultimately turned into a superhero</entity>",
+        "entities": [
+            [
+                "takes place in world war ii and features a character who wants to join the army but is rejected until a scientist experiments on him and is ultimately turned into a superhero",
+                "Plot"
+            ]
+        ],
+        "sent_id": 416
+    },
+    {
+        "text": "what 2011 drama depicts an idealistic staffer for a new presidential candidate getting a crash course on dirty politics",
+        "target": "what <entity type=\"Year\">2011</entity> <entity type=\"Genre\">drama</entity> <entity type=\"Plot\">depicts an idealistic staffer for a new presidential candidate getting a crash course on dirty politics</entity>",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "drama",
+                "Genre"
+            ],
+            [
+                "depicts an idealistic staffer for a new presidential candidate getting a crash course on dirty politics",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1750
+    },
+    {
+        "text": "what is the movie based on the novel by stephen king and starring jack nichols as jack torrence who along with his family must take care of a hotel in colorado over the winter",
+        "target": "what is the movie <entity type=\"Origin\">based on the novel by stephen king</entity> and starring <entity type=\"Actor\">jack nichols</entity> as <entity type=\"Character_Name\">jack torrence</entity> <entity type=\"Plot\">who along with his family must take care of a hotel in colorado over the winter</entity>",
+        "entities": [
+            [
+                "based on the novel by stephen king",
+                "Origin"
+            ],
+            [
+                "jack nichols",
+                "Actor"
+            ],
+            [
+                "jack torrence",
+                "Character_Name"
+            ],
+            [
+                "who along with his family must take care of a hotel in colorado over the winter",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1144
+    },
+    {
+        "text": "this comedy stars cameron diaz as a gold digging foul mouthed junior high school teacher who tries to woo a fellow teacher",
+        "target": "this <entity type=\"Genre\">comedy</entity> stars <entity type=\"Actor\">cameron diaz</entity> as <entity type=\"Plot\">a gold digging foul mouthed junior high school teacher who tries to woo a fellow teacher</entity>",
+        "entities": [
+            [
+                "comedy",
+                "Genre"
+            ],
+            [
+                "cameron diaz",
+                "Actor"
+            ],
+            [
+                "a gold digging foul mouthed junior high school teacher who tries to woo a fellow teacher",
+                "Plot"
+            ]
+        ],
+        "sent_id": 218
+    },
+    {
+        "text": "in this movie s most iconic scene a strange creature erupts from the chest cavity of a space voyager",
+        "target": "in this movie s most <entity type=\"Opinion\">iconic</entity> scene a <entity type=\"Plot\">strange creature erupts from the chest cavity of a space voyager</entity>",
+        "entities": [
+            [
+                "iconic",
+                "Opinion"
+            ],
+            [
+                "strange creature erupts from the chest cavity of a space voyager",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1492
+    },
+    {
+        "text": "what s the third movie with johnny depp and olander bloom where they stage a massive battleship fight in the sea",
+        "target": "what s the <entity type=\"Relationship\">third</entity> movie with <entity type=\"Actor\">johnny depp</entity> and <entity type=\"Actor\">olander bloom</entity> where <entity type=\"Plot\">they stage a massive battleship fight in the sea</entity>",
+        "entities": [
+            [
+                "third",
+                "Relationship"
+            ],
+            [
+                "johnny depp",
+                "Actor"
+            ],
+            [
+                "olander bloom",
+                "Actor"
+            ],
+            [
+                "they stage a massive battleship fight in the sea",
+                "Plot"
+            ]
+        ],
+        "sent_id": 908
+    },
+    {
+        "text": "what 1974 western is set during the civil war and stars clint eastwood as the title character",
+        "target": "what <entity type=\"Year\">1974</entity> <entity type=\"Genre\">western</entity> is set during the civil war and stars <entity type=\"Actor\">clint eastwood</entity> as the title character",
+        "entities": [
+            [
+                "1974",
+                "Year"
+            ],
+            [
+                "western",
+                "Genre"
+            ],
+            [
+                "clint eastwood",
+                "Actor"
+            ]
+        ],
+        "sent_id": 919
+    },
+    {
+        "text": "in what 2012 movie did a young man survive a disaster at sea only to be taken on an extraordinary adventure",
+        "target": "in what <entity type=\"Year\">2012</entity> movie did a <entity type=\"Plot\">young man survive a disaster at sea only to be taken on an extraordinary adventure</entity>",
+        "entities": [
+            [
+                "2012",
+                "Year"
+            ],
+            [
+                "young man survive a disaster at sea only to be taken on an extraordinary adventure",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1497
+    },
+    {
+        "text": "what is that movie starring seth rogen where he plays a rich playboy turned masked crime fighter",
+        "target": "what is that movie starring <entity type=\"Actor\">seth rogen</entity> where he plays <entity type=\"Plot\">a rich playboy turned masked crime fighter</entity>",
+        "entities": [
+            [
+                "seth rogen",
+                "Actor"
+            ],
+            [
+                "a rich playboy turned masked crime fighter",
+                "Plot"
+            ]
+        ],
+        "sent_id": 198
+    },
+    {
+        "text": "in what horror franchise do people have to stay awake to avoid the wrath of freddy",
+        "target": "in what <entity type=\"Genre\">horror</entity> <entity type=\"Relationship\">franchise</entity> do <entity type=\"Plot\">people have to stay awake to avoid the wrath of freddy</entity>",
+        "entities": [
+            [
+                "horror",
+                "Genre"
+            ],
+            [
+                "franchise",
+                "Relationship"
+            ],
+            [
+                "people have to stay awake to avoid the wrath of freddy",
+                "Plot"
+            ]
+        ],
+        "sent_id": 675
+    },
+    {
+        "text": "in which film does a wealthy san francisco socialite pursue a potential boyfriend to a small northern california town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people there in increasing numbers and with increasing viciousness",
+        "target": "in which film does <entity type=\"Plot\">a wealthy san francisco socialite pursue a potential boyfriend to a small northern california town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people there in increasing numbers and with increasing viciousness</entity>",
+        "entities": [
+            [
+                "a wealthy san francisco socialite pursue a potential boyfriend to a small northern california town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people there in increasing numbers and with increasing viciousness",
+                "Plot"
+            ]
+        ],
+        "sent_id": 696
+    },
+    {
+        "text": "what is the 1981 american action adventure film directed by steven spielberg starring harrison ford as indiana jones",
+        "target": "what is the <entity type=\"Year\">1981</entity> <entity type=\"Genre\">american action adventure</entity> film directed by <entity type=\"Director\">steven spielberg</entity> starring <entity type=\"Actor\">harrison ford</entity> as <entity type=\"Character_Name\">indiana jones</entity>",
+        "entities": [
+            [
+                "1981",
+                "Year"
+            ],
+            [
+                "american action adventure",
+                "Genre"
+            ],
+            [
+                "steven spielberg",
+                "Director"
+            ],
+            [
+                "harrison ford",
+                "Actor"
+            ],
+            [
+                "indiana jones",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1052
+    },
+    {
+        "text": "name the 1985 film where a woman falls in love with a big game hunter",
+        "target": "name the <entity type=\"Year\">1985</entity> film where <entity type=\"Plot\">a woman falls in love with a big game hunter</entity>",
+        "entities": [
+            [
+                "1985",
+                "Year"
+            ],
+            [
+                "a woman falls in love with a big game hunter",
+                "Plot"
+            ]
+        ],
+        "sent_id": 317
+    },
+    {
+        "text": "what 2011 steven soderbergh action thriller film starred former mixed martial art fighter gina carano",
+        "target": "what <entity type=\"Year\">2011</entity> <entity type=\"Director\">steven soderbergh</entity> <entity type=\"Genre\">action thriller</entity> film starred former mixed martial art fighter <entity type=\"Actor\">gina carano</entity>",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "steven soderbergh",
+                "Director"
+            ],
+            [
+                "action thriller",
+                "Genre"
+            ],
+            [
+                "gina carano",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1757
+    },
+    {
+        "text": "this is mel brooks comedy shot entirely in black and white starring gene wilder as the title character",
+        "target": "this is <entity type=\"Director\">mel brooks</entity> <entity type=\"Genre\">comedy</entity> shot entirely in black and white starring <entity type=\"Actor\">gene wilder</entity> as the title character",
+        "entities": [
+            [
+                "mel brooks",
+                "Director"
+            ],
+            [
+                "comedy",
+                "Genre"
+            ],
+            [
+                "gene wilder",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1641
+    },
+    {
+        "text": "what is the movie about a machine sent back in time by john conner to protect himself",
+        "target": "what is the movie about <entity type=\"Plot\">a machine sent back in time by</entity> <entity type=\"Character_Name\">john conner</entity> <entity type=\"Plot\">to protect himself</entity>",
+        "entities": [
+            [
+                "a machine sent back in time by",
+                "Plot"
+            ],
+            [
+                "john conner",
+                "Character_Name"
+            ],
+            [
+                "to protect himself",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1126
+    },
+    {
+        "text": "selena gomez is mistaken for a british heiress in this 2011 comedy romance directed by thomas bezucha",
+        "target": "<entity type=\"Actor\">selena gomez</entity> <entity type=\"Plot\">is mistaken for a british heiress</entity> in this <entity type=\"Year\">2011</entity> <entity type=\"Genre\">comedy romance</entity> directed by <entity type=\"Director\">thomas bezucha</entity>",
+        "entities": [
+            [
+                "selena gomez",
+                "Actor"
+            ],
+            [
+                "is mistaken for a british heiress",
+                "Plot"
+            ],
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "comedy romance",
+                "Genre"
+            ],
+            [
+                "thomas bezucha",
+                "Director"
+            ]
+        ],
+        "sent_id": 1577
+    },
+    {
+        "text": "which french silent film depicts the trial imprisonment and execution of joan of arc at the hands of the english",
+        "target": "which <entity type=\"Genre\">french silent film</entity> depicts <entity type=\"Plot\">the trial imprisonment and execution of joan of arc at the hands of the english</entity>",
+        "entities": [
+            [
+                "french silent film",
+                "Genre"
+            ],
+            [
+                "the trial imprisonment and execution of joan of arc at the hands of the english",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1937
+    },
+    {
+        "text": "what is the movie about two friends played by jack lemmon and walter matthau who share an apartment but one is very neat and the other is very messy",
+        "target": "what is the movie about two friends played by <entity type=\"Actor\">jack lemmon</entity> and <entity type=\"Actor\">walter matthau</entity> who share an apartment but one is very neat and the other is very messy",
+        "entities": [
+            [
+                "jack lemmon",
+                "Actor"
+            ],
+            [
+                "walter matthau",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1140
+    },
+    {
+        "text": "what horror film written by and starring leigh whannell spurred a large number of sequels and a whole new way to look at shawnee smith",
+        "target": "what <entity type=\"Genre\">horror film</entity> written by and starring <entity type=\"Actor\">leigh whannell</entity> spurred a large number of sequels and a whole new way to look at <entity type=\"Actor\">shawnee smith</entity>",
+        "entities": [
+            [
+                "horror film",
+                "Genre"
+            ],
+            [
+                "leigh whannell",
+                "Actor"
+            ],
+            [
+                "shawnee smith",
+                "Actor"
+            ]
+        ],
+        "sent_id": 997
+    },
+    {
+        "text": "what is the crime drama that was release in 1980 about cigarette smugglers in naples run into problems with cocaine operations being set up by a rival smuggler starring fabio testi",
+        "target": "what is the <entity type=\"Genre\">crime drama</entity> that was release in <entity type=\"Year\">1980</entity> about <entity type=\"Plot\">cigarette smugglers in naples run into problems with cocaine operations being set up by a rival smuggler</entity> starring <entity type=\"Actor\">fabio testi</entity>",
+        "entities": [
+            [
+                "crime drama",
+                "Genre"
+            ],
+            [
+                "1980",
+                "Year"
+            ],
+            [
+                "cigarette smugglers in naples run into problems with cocaine operations being set up by a rival smuggler",
+                "Plot"
+            ],
+            [
+                "fabio testi",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1821
+    },
+    {
+        "text": "cary grant and rosalind russell star in this 1940 screwball comedy directed by howard hawks that is a gender bender on the front page",
+        "target": "<entity type=\"Actor\">cary grant</entity> and <entity type=\"Actor\">rosalind russell</entity> star in this <entity type=\"Year\">1940</entity> screwball <entity type=\"Genre\">comedy</entity> directed by <entity type=\"Director\">howard hawks</entity> that is <entity type=\"Plot\">a gender bender on the front page</entity>",
+        "entities": [
+            [
+                "cary grant",
+                "Actor"
+            ],
+            [
+                "rosalind russell",
+                "Actor"
+            ],
+            [
+                "1940",
+                "Year"
+            ],
+            [
+                "comedy",
+                "Genre"
+            ],
+            [
+                "howard hawks",
+                "Director"
+            ],
+            [
+                "a gender bender on the front page",
+                "Plot"
+            ]
+        ],
+        "sent_id": 528
+    },
+    {
+        "text": "what s the science fiction movie that wowed audiences by having a stewardess walk up a wall",
+        "target": "what s the <entity type=\"Genre\">science fiction</entity> movie that <entity type=\"Opinion\">wowed</entity> audiences by having <entity type=\"Plot\">a stewardess walk up a wall</entity>",
+        "entities": [
+            [
+                "science fiction",
+                "Genre"
+            ],
+            [
+                "wowed",
+                "Opinion"
+            ],
+            [
+                "a stewardess walk up a wall",
+                "Plot"
+            ]
+        ],
+        "sent_id": 383
+    },
+    {
+        "text": "i am thinking of a film about a catastrophic pandemic that stars an ensemble cast featuring matt damon and gwyneth paltrow",
+        "target": "i am thinking of a film about a <entity type=\"Plot\">catastrophic pandemic</entity> that stars an ensemble cast featuring <entity type=\"Actor\">matt damon</entity> and <entity type=\"Actor\">gwyneth paltrow</entity>",
+        "entities": [
+            [
+                "catastrophic pandemic",
+                "Plot"
+            ],
+            [
+                "matt damon",
+                "Actor"
+            ],
+            [
+                "gwyneth paltrow",
+                "Actor"
+            ]
+        ],
+        "sent_id": 209
+    },
+    {
+        "text": "1982 movie from ridley scott telling the story of a cop played by harrison ford taking place in a dystopian future",
+        "target": "<entity type=\"Year\">1982</entity> movie from <entity type=\"Director\">ridley scott</entity> telling the story of a cop played by <entity type=\"Actor\">harrison ford</entity> <entity type=\"Plot\">taking place in a dystopian future</entity>",
+        "entities": [
+            [
+                "1982",
+                "Year"
+            ],
+            [
+                "ridley scott",
+                "Director"
+            ],
+            [
+                "harrison ford",
+                "Actor"
+            ],
+            [
+                "taking place in a dystopian future",
+                "Plot"
+            ]
+        ],
+        "sent_id": 477
+    },
+    {
+        "text": "this classic george romero horror film tells the story of a group of people who attempt to survive a night filled with the walking dead",
+        "target": "this classic <entity type=\"Director\">george romero</entity> <entity type=\"Genre\">horror</entity> film tells the <entity type=\"Plot\">story of a group of people who attempt to survive a night filled with the walking dead</entity>",
+        "entities": [
+            [
+                "george romero",
+                "Director"
+            ],
+            [
+                "horror",
+                "Genre"
+            ],
+            [
+                "story of a group of people who attempt to survive a night filled with the walking dead",
+                "Plot"
+            ]
+        ],
+        "sent_id": 813
+    },
+    {
+        "text": "what is the movie about the sinking of a ship crossing the atlantic near the turn of the century",
+        "target": "what is the movie about <entity type=\"Plot\">the sinking of a ship crossing the atlantic near the turn of the century</entity>",
+        "entities": [
+            [
+                "the sinking of a ship crossing the atlantic near the turn of the century",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1835
+    },
+    {
+        "text": "i m thinking of a movie about a boy in search of a lost family dog",
+        "target": "i m thinking of a movie about <entity type=\"Plot\">a boy in search of a lost family dog</entity>",
+        "entities": [
+            [
+                "a boy in search of a lost family dog",
+                "Plot"
+            ]
+        ],
+        "sent_id": 135
+    },
+    {
+        "text": "a unique twist on the classic fairy tale takes the titular character on an adventure outside of the safety of her home",
+        "target": "a unique twist on the <entity type=\"Opinion\">classic</entity> <entity type=\"Genre\">fairy tale</entity> <entity type=\"Plot\">takes the titular character on an adventure outside of the safety of her home</entity>",
+        "entities": [
+            [
+                "classic",
+                "Opinion"
+            ],
+            [
+                "fairy tale",
+                "Genre"
+            ],
+            [
+                "takes the titular character on an adventure outside of the safety of her home",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1400
+    },
+    {
+        "text": "what classic film stars charlton heston as moses and yul brynner as the pharaoh ramses",
+        "target": "what <entity type=\"Opinion\">classic</entity> film stars <entity type=\"Actor\">charlton heston</entity> as <entity type=\"Character_Name\">moses</entity> and <entity type=\"Actor\">yul brynner</entity> as the <entity type=\"Character_Name\">pharaoh ramses</entity>",
+        "entities": [
+            [
+                "classic",
+                "Opinion"
+            ],
+            [
+                "charlton heston",
+                "Actor"
+            ],
+            [
+                "moses",
+                "Character_Name"
+            ],
+            [
+                "yul brynner",
+                "Actor"
+            ],
+            [
+                "pharaoh ramses",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1774
+    },
+    {
+        "text": "what is the disney animated movie in which the characters have extra ordinary abilities and fight",
+        "target": "what is the <entity type=\"Director\">disney</entity> <entity type=\"Genre\">animated movie</entity> in which <entity type=\"Plot\">the characters have extra ordinary abilities and fight</entity>",
+        "entities": [
+            [
+                "disney",
+                "Director"
+            ],
+            [
+                "animated movie",
+                "Genre"
+            ],
+            [
+                "the characters have extra ordinary abilities and fight",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1824
+    },
+    {
+        "text": "what is the cartoon movie that has jack black and angelina jolie doing voices for it",
+        "target": "what is the <entity type=\"Genre\">cartoon</entity> movie that has <entity type=\"Actor\">jack black</entity> and <entity type=\"Actor\">angelina jolie</entity> doing voices for it",
+        "entities": [
+            [
+                "cartoon",
+                "Genre"
+            ],
+            [
+                "jack black",
+                "Actor"
+            ],
+            [
+                "angelina jolie",
+                "Actor"
+            ]
+        ],
+        "sent_id": 20
+    },
+    {
+        "text": "what animated film resembled a shakespeare story that took place in two separate gardens side by side",
+        "target": "what <entity type=\"Genre\">animated</entity> film resembled a shakespeare story that <entity type=\"Plot\">took place in two separate gardens side by side</entity>",
+        "entities": [
+            [
+                "animated",
+                "Genre"
+            ],
+            [
+                "took place in two separate gardens side by side",
+                "Plot"
+            ]
+        ],
+        "sent_id": 961
+    },
+    {
+        "text": "i want to watch a romantic and comedic movie which is positive and is played by that actor called owen wilson",
+        "target": "i want to watch a <entity type=\"Genre\">romantic and comedic</entity> movie which is positive and is played by that actor called <entity type=\"Actor\">owen wilson</entity>",
+        "entities": [
+            [
+                "romantic and comedic",
+                "Genre"
+            ],
+            [
+                "owen wilson",
+                "Actor"
+            ]
+        ],
+        "sent_id": 628
+    },
+    {
+        "text": "what 2011 romance featured anne hathaway and jim sturgess as an on again off again couple",
+        "target": "what <entity type=\"Year\">2011</entity> <entity type=\"Genre\">romance</entity> featured <entity type=\"Actor\">anne hathaway</entity> and <entity type=\"Actor\">jim sturgess</entity> as <entity type=\"Plot\">an on again off again couple</entity>",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "romance",
+                "Genre"
+            ],
+            [
+                "anne hathaway",
+                "Actor"
+            ],
+            [
+                "jim sturgess",
+                "Actor"
+            ],
+            [
+                "an on again off again couple",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1753
+    },
+    {
+        "text": "the third movie with will smith that started in the 90 s in which he has on a pair of glasses",
+        "target": "<entity type=\"Relationship\">the third movie</entity> with <entity type=\"Actor\">will smith</entity> that <entity type=\"Relationship\">started in the 90 s</entity> in which he has on a pair of glasses",
+        "entities": [
+            [
+                "the third movie",
+                "Relationship"
+            ],
+            [
+                "will smith",
+                "Actor"
+            ],
+            [
+                "started in the 90 s",
+                "Relationship"
+            ]
+        ],
+        "sent_id": 1598
+    },
+    {
+        "text": "what is the movie starring jessica biel from 2003 where a group of friends are stalked and hunted by a deformed killer with a chainsaw",
+        "target": "what is the movie starring <entity type=\"Actor\">jessica biel</entity> from <entity type=\"Year\">2003</entity> where a <entity type=\"Plot\">group of friends are stalked and hunted by a deformed killer with a chainsaw</entity>",
+        "entities": [
+            [
+                "jessica biel",
+                "Actor"
+            ],
+            [
+                "2003",
+                "Year"
+            ],
+            [
+                "group of friends are stalked and hunted by a deformed killer with a chainsaw",
+                "Plot"
+            ]
+        ],
+        "sent_id": 3
+    },
+    {
+        "text": "what is the name of the movie in which jack skellington suffers a major identity crisis",
+        "target": "what is the name of the movie in which <entity type=\"Character_Name\">jack skellington</entity> <entity type=\"Plot\">suffers a major identity crisis</entity>",
+        "entities": [
+            [
+                "jack skellington",
+                "Character_Name"
+            ],
+            [
+                "suffers a major identity crisis",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1221
+    },
+    {
+        "text": "what movie was the second installment in a series about luke skywalker han solo princess leia and others in their quest to vanquish the evil empire",
+        "target": "what movie was the <entity type=\"Relationship\">second installment</entity> in a series about <entity type=\"Character_Name\">luke skywalker han solo princess leia</entity> and others in their <entity type=\"Plot\">quest to vanquish the evil empire</entity>",
+        "entities": [
+            [
+                "second installment",
+                "Relationship"
+            ],
+            [
+                "luke skywalker han solo princess leia",
+                "Character_Name"
+            ],
+            [
+                "quest to vanquish the evil empire",
+                "Plot"
+            ]
+        ],
+        "sent_id": 253
+    },
+    {
+        "text": "martin scorsese directed this film starring robert deniro about a famous boxer",
+        "target": "<entity type=\"Director\">martin scorsese</entity> directed this film starring <entity type=\"Actor\">robert deniro</entity> <entity type=\"Plot\">about a famous boxer</entity>",
+        "entities": [
+            [
+                "martin scorsese",
+                "Director"
+            ],
+            [
+                "robert deniro",
+                "Actor"
+            ],
+            [
+                "about a famous boxer",
+                "Plot"
+            ]
+        ],
+        "sent_id": 41
+    },
+    {
+        "text": "what animals did the main character hallucinate at the bar",
+        "target": "what animals did the main character hallucinate at the bar",
+        "entities": [],
+        "sent_id": 262
+    },
+    {
+        "text": "james franco stars in this exciting and fun continuation of a landmark series in science fiction",
+        "target": "<entity type=\"Actor\">james franco</entity> stars in this <entity type=\"Opinion\">exciting and fun</entity> <entity type=\"Relationship\">continuation of a landmark series</entity> in <entity type=\"Genre\">science fiction</entity>",
+        "entities": [
+            [
+                "james franco",
+                "Actor"
+            ],
+            [
+                "exciting and fun",
+                "Opinion"
+            ],
+            [
+                "continuation of a landmark series",
+                "Relationship"
+            ],
+            [
+                "science fiction",
+                "Genre"
+            ]
+        ],
+        "sent_id": 704
+    },
+    {
+        "text": "what movie features eric roberts as sal maroni and does also does not feature katie holmes as rachel dawes",
+        "target": "what movie features <entity type=\"Actor\">eric roberts</entity> as <entity type=\"Character_Name\">sal maroni</entity> and does also does not feature <entity type=\"Actor\">katie holmes</entity> as <entity type=\"Character_Name\">rachel dawes</entity>",
+        "entities": [
+            [
+                "eric roberts",
+                "Actor"
+            ],
+            [
+                "sal maroni",
+                "Character_Name"
+            ],
+            [
+                "katie holmes",
+                "Actor"
+            ],
+            [
+                "rachel dawes",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1270
+    },
+    {
+        "text": "you know that movie everyone goes out of their way to tell you they watch on christmas the one with bruce willis what is it",
+        "target": "you know that movie everyone goes out of their way to tell you they watch on <entity type=\"Genre\">christmas</entity> the one with <entity type=\"Actor\">bruce willis</entity> what is it",
+        "entities": [
+            [
+                "christmas",
+                "Genre"
+            ],
+            [
+                "bruce willis",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1366
+    },
+    {
+        "text": "which 1980 s horror classic featured a five fingered razor wielding demon",
+        "target": "which <entity type=\"Year\">1980 s</entity> <entity type=\"Genre\">horror</entity> classic featured a five fingered razor wielding demon",
+        "entities": [
+            [
+                "1980 s",
+                "Year"
+            ],
+            [
+                "horror",
+                "Genre"
+            ]
+        ],
+        "sent_id": 1929
+    },
+    {
+        "text": "name the second film that starred toby maquire as a wall crawling superhero that can shoot web out of his wrists",
+        "target": "name the <entity type=\"Relationship\">second film</entity> that starred <entity type=\"Actor\">toby maquire</entity> as a <entity type=\"Plot\">wall crawling superhero that can shoot web out of his wrists</entity>",
+        "entities": [
+            [
+                "second film",
+                "Relationship"
+            ],
+            [
+                "toby maquire",
+                "Actor"
+            ],
+            [
+                "wall crawling superhero that can shoot web out of his wrists",
+                "Plot"
+            ]
+        ],
+        "sent_id": 736
+    },
+    {
+        "text": "i m thinking of a movie that stars joseph gordon levitt as a man who is diagnosed with cancer and seth rogan as his best friend",
+        "target": "i m thinking of a movie that stars <entity type=\"Actor\">joseph gordon levitt</entity> as <entity type=\"Plot\">a man who is diagnosed with cancer and</entity> <entity type=\"Actor\">seth rogan</entity> <entity type=\"Plot\">as his best friend</entity>",
+        "entities": [
+            [
+                "joseph gordon levitt",
+                "Actor"
+            ],
+            [
+                "a man who is diagnosed with cancer and",
+                "Plot"
+            ],
+            [
+                "seth rogan",
+                "Actor"
+            ],
+            [
+                "as his best friend",
+                "Plot"
+            ]
+        ],
+        "sent_id": 128
+    },
+    {
+        "text": "i m thinking of a 1971 thriller starring dustin hoffman as a man who moves to england with his wife and starts being harassed by the townspeople",
+        "target": "i m thinking of a <entity type=\"Year\">1971</entity> <entity type=\"Genre\">thriller</entity> starring <entity type=\"Actor\">dustin hoffman</entity> as <entity type=\"Plot\">a man who moves to england with his wife and starts being harassed by the townspeople</entity>",
+        "entities": [
+            [
+                "1971",
+                "Year"
+            ],
+            [
+                "thriller",
+                "Genre"
+            ],
+            [
+                "dustin hoffman",
+                "Actor"
+            ],
+            [
+                "a man who moves to england with his wife and starts being harassed by the townspeople",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1445
+    },
+    {
+        "text": "who was the actress that played in the popular 2011 movie that was made after a book named for three action verbs",
+        "target": "who was the actress that played in the popular <entity type=\"Year\">2011</entity> movie that was <entity type=\"Origin\">made after a book named for three action verbs</entity>",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "made after a book named for three action verbs",
+                "Origin"
+            ]
+        ],
+        "sent_id": 76
+    },
+    {
+        "text": "what is the name of the 2010 walt disney movie that was about horse racing",
+        "target": "what is the name of the <entity type=\"Year\">2010</entity> <entity type=\"Director\">walt disney</entity> movie that was <entity type=\"Plot\">about horse racing</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "walt disney",
+                "Director"
+            ],
+            [
+                "about horse racing",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1859
+    },
+    {
+        "text": "do you remember the movie that has food falling out of the sky that was directed by phil lord",
+        "target": "do you remember the movie that has <entity type=\"Plot\">food falling out of the sky</entity> that was directed by <entity type=\"Director\">phil lord</entity>",
+        "entities": [
+            [
+                "food falling out of the sky",
+                "Plot"
+            ],
+            [
+                "phil lord",
+                "Director"
+            ]
+        ],
+        "sent_id": 543
+    },
+    {
+        "text": "what was the classic black and white horror film featuring seven characters trapped in a farm house and attacked by zombies",
+        "target": "what was the classic <entity type=\"Genre\">black and white horror</entity> film featuring <entity type=\"Plot\">seven characters trapped in a farm house and attacked by zombies</entity>",
+        "entities": [
+            [
+                "black and white horror",
+                "Genre"
+            ],
+            [
+                "seven characters trapped in a farm house and attacked by zombies",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1921
+    },
+    {
+        "text": "in the german version of this 1942 romance the immortal line here s lookin at you kid became ich seh dir in die augen kleines which translates as i look in your eyes honey",
+        "target": "in the german version of this <entity type=\"Year\">1942</entity> <entity type=\"Genre\">romance</entity> the <entity type=\"Opinion\">immortal</entity> line <entity type=\"Quote\">here s lookin at you kid</entity> became <entity type=\"Quote\">ich seh dir in die augen kleines</entity> which translates as i look in your eyes honey",
+        "entities": [
+            [
+                "1942",
+                "Year"
+            ],
+            [
+                "romance",
+                "Genre"
+            ],
+            [
+                "immortal",
+                "Opinion"
+            ],
+            [
+                "here s lookin at you kid",
+                "Quote"
+            ],
+            [
+                "ich seh dir in die augen kleines",
+                "Quote"
+            ]
+        ],
+        "sent_id": 638
+    },
+    {
+        "text": "who directed the movie dirty dozen",
+        "target": "who directed the movie dirty dozen",
+        "entities": [],
+        "sent_id": 1949
+    },
+    {
+        "text": "what is the movie about the two men who deal marijuana and are both dating the same girl and she gets kidnapped and they have to save her",
+        "target": "what is the movie about the <entity type=\"Plot\">two men who deal marijuana and are both dating the same girl and she gets kidnapped and they have to save her</entity>",
+        "entities": [
+            [
+                "two men who deal marijuana and are both dating the same girl and she gets kidnapped and they have to save her",
+                "Plot"
+            ]
+        ],
+        "sent_id": 420
+    },
+    {
+        "text": "what is the movie in which cary grant stars as a newspaper editor trying to sabotage his ex wife s upcoming nuptials",
+        "target": "what is the movie in which <entity type=\"Actor\">cary grant</entity> stars as a <entity type=\"Plot\">newspaper editor trying to sabotage his ex wife s upcoming nuptials</entity>",
+        "entities": [
+            [
+                "cary grant",
+                "Actor"
+            ],
+            [
+                "newspaper editor trying to sabotage his ex wife s upcoming nuptials",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1147
+    },
+    {
+        "text": "forrest whittaker stars as a modern day samurai with his own code working for the mob",
+        "target": "<entity type=\"Actor\">forrest whittaker</entity> stars as a <entity type=\"Plot\">modern day samurai with his own code working for the mob</entity>",
+        "entities": [
+            [
+                "forrest whittaker",
+                "Actor"
+            ],
+            [
+                "modern day samurai with his own code working for the mob",
+                "Plot"
+            ]
+        ],
+        "sent_id": 445
+    },
+    {
+        "text": "what christmas movie was it that featured an old miser that was haunted throughout the night by the ghosts of past present and yet to come",
+        "target": "what <entity type=\"Genre\">christmas</entity> movie was it that featured <entity type=\"Plot\">an old miser that was haunted throughout the night by the ghosts of past present and yet to come</entity>",
+        "entities": [
+            [
+                "christmas",
+                "Genre"
+            ],
+            [
+                "an old miser that was haunted throughout the night by the ghosts of past present and yet to come",
+                "Plot"
+            ]
+        ],
+        "sent_id": 308
+    },
+    {
+        "text": "what is the 1959 historical epic that is set in ancient rome and features a jewish prince",
+        "target": "what is the <entity type=\"Year\">1959</entity> <entity type=\"Genre\">historical epic</entity> that is <entity type=\"Plot\">set in ancient rome and features a jewish prince</entity>",
+        "entities": [
+            [
+                "1959",
+                "Year"
+            ],
+            [
+                "historical epic",
+                "Genre"
+            ],
+            [
+                "set in ancient rome and features a jewish prince",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1041
+    },
+    {
+        "text": "adrien brody and sarah polley are trying to alter animal dna and create hybrids for medical use in this 2009 sci fi thriller",
+        "target": "<entity type=\"Actor\">adrien brody</entity> and <entity type=\"Actor\">sarah polley</entity> are <entity type=\"Plot\">trying to alter animal dna and create hybrids for medical use</entity> in this <entity type=\"Year\">2009</entity> <entity type=\"Genre\">sci fi thriller</entity>",
+        "entities": [
+            [
+                "adrien brody",
+                "Actor"
+            ],
+            [
+                "sarah polley",
+                "Actor"
+            ],
+            [
+                "trying to alter animal dna and create hybrids for medical use",
+                "Plot"
+            ],
+            [
+                "2009",
+                "Year"
+            ],
+            [
+                "sci fi thriller",
+                "Genre"
+            ]
+        ],
+        "sent_id": 1405
+    },
+    {
+        "text": "a hotly anticipated sequel in which the wolfpack travels to thailand for their second wedding",
+        "target": "a hotly anticipated <entity type=\"Relationship\">sequel</entity> in which <entity type=\"Plot\">the wolfpack travels to thailand for their second wedding</entity>",
+        "entities": [
+            [
+                "sequel",
+                "Relationship"
+            ],
+            [
+                "the wolfpack travels to thailand for their second wedding",
+                "Plot"
+            ]
+        ],
+        "sent_id": 496
+    },
+    {
+        "text": "name the romantic drama about a military man that falls in love with a college student",
+        "target": "name the <entity type=\"Genre\">romantic drama</entity> about <entity type=\"Plot\">a military man that falls in love with a college student</entity>",
+        "entities": [
+            [
+                "romantic drama",
+                "Genre"
+            ],
+            [
+                "a military man that falls in love with a college student",
+                "Plot"
+            ]
+        ],
+        "sent_id": 734
+    },
+    {
+        "text": "what is the popular movie geared toward children in which scientists have recreated dinosaurs and made it into a tourist attraction",
+        "target": "what is the <entity type=\"Opinion\">popular</entity> movie geared toward <entity type=\"Genre\">children</entity> in which <entity type=\"Plot\">scientists have recreated dinosaurs and made it into a tourist attraction</entity>",
+        "entities": [
+            [
+                "popular",
+                "Opinion"
+            ],
+            [
+                "children",
+                "Genre"
+            ],
+            [
+                "scientists have recreated dinosaurs and made it into a tourist attraction",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1877
+    },
+    {
+        "text": "what 2010 paul haggis film shows how a married couple s life is turned when the wife is accused of murder",
+        "target": "what <entity type=\"Year\">2010</entity> <entity type=\"Director\">paul haggis</entity> film shows <entity type=\"Plot\">how a married couple s life is turned when the wife is accused of murder</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "paul haggis",
+                "Director"
+            ],
+            [
+                "how a married couple s life is turned when the wife is accused of murder",
+                "Plot"
+            ]
+        ],
+        "sent_id": 941
+    },
+    {
+        "text": "what 1939 judy garland classic film features some sequences in black and white and some in technicolor",
+        "target": "what <entity type=\"Year\">1939</entity> <entity type=\"Actor\">judy garland</entity> <entity type=\"Genre\">classic</entity> film features some sequences in black and white and some in technicolor",
+        "entities": [
+            [
+                "1939",
+                "Year"
+            ],
+            [
+                "judy garland",
+                "Actor"
+            ],
+            [
+                "classic",
+                "Genre"
+            ]
+        ],
+        "sent_id": 45
+    },
+    {
+        "text": "howard hawks directed this adaptation of raymond chandler s novel starring humphrey bogart as philip marlowe",
+        "target": "<entity type=\"Director\">howard hawks</entity> directed this <entity type=\"Origin\">adaptation</entity> of <entity type=\"Origin\">raymond chandler s novel</entity> starring <entity type=\"Actor\">humphrey bogart</entity> as <entity type=\"Character_Name\">philip marlowe</entity>",
+        "entities": [
+            [
+                "howard hawks",
+                "Director"
+            ],
+            [
+                "adaptation",
+                "Origin"
+            ],
+            [
+                "raymond chandler s novel",
+                "Origin"
+            ],
+            [
+                "humphrey bogart",
+                "Actor"
+            ],
+            [
+                "philip marlowe",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 562
+    },
+    {
+        "text": "which movie has both a mr white and a mr pink",
+        "target": "which movie has both a <entity type=\"Character_Name\">mr white</entity> and a <entity type=\"Character_Name\">mr pink</entity>",
+        "entities": [
+            [
+                "mr white",
+                "Character_Name"
+            ],
+            [
+                "mr pink",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1348
+    },
+    {
+        "text": "james cromwell has the leading human role in this film about a pig who thinks like a sheepdog",
+        "target": "<entity type=\"Actor\">james cromwell</entity> has the leading human role in this film about <entity type=\"Plot\">a pig who thinks like a sheepdog</entity>",
+        "entities": [
+            [
+                "james cromwell",
+                "Actor"
+            ],
+            [
+                "a pig who thinks like a sheepdog",
+                "Plot"
+            ]
+        ],
+        "sent_id": 394
+    },
+    {
+        "text": "what is the name of the movie where adam sandler has jennifer aniston pretend to be his wife in order to impress a girl",
+        "target": "what is the name of the movie where <entity type=\"Actor\">adam sandler</entity> has <entity type=\"Actor\">jennifer aniston</entity> <entity type=\"Plot\">pretend to be his wife in order to impress a girl</entity>",
+        "entities": [
+            [
+                "adam sandler",
+                "Actor"
+            ],
+            [
+                "jennifer aniston",
+                "Actor"
+            ],
+            [
+                "pretend to be his wife in order to impress a girl",
+                "Plot"
+            ]
+        ],
+        "sent_id": 222
+    },
+    {
+        "text": "ryan reynolds stars as a single man who switches lives with jason bateman who is married with two children",
+        "target": "<entity type=\"Actor\">ryan reynolds</entity> stars as <entity type=\"Plot\">a single man who switches lives</entity> with <entity type=\"Actor\">jason bateman</entity> who is <entity type=\"Plot\">married with two children</entity>",
+        "entities": [
+            [
+                "ryan reynolds",
+                "Actor"
+            ],
+            [
+                "a single man who switches lives",
+                "Plot"
+            ],
+            [
+                "jason bateman",
+                "Actor"
+            ],
+            [
+                "married with two children",
+                "Plot"
+            ]
+        ],
+        "sent_id": 760
+    },
+    {
+        "text": "what movie did renee zellweger gain a lot of weight for in order to appear in",
+        "target": "what movie did <entity type=\"Actor\">renee zellweger</entity> gain a lot of weight for in order to appear in",
+        "entities": [
+            [
+                "renee zellweger",
+                "Actor"
+            ]
+        ],
+        "sent_id": 131
+    },
+    {
+        "text": "what is this 1975 movie based on a peter benchley novel and directed by steven spielberg",
+        "target": "what is this <entity type=\"Year\">1975</entity> movie <entity type=\"Origin\">based on a peter benchley novel</entity> and directed by <entity type=\"Director\">steven spielberg</entity>",
+        "entities": [
+            [
+                "1975",
+                "Year"
+            ],
+            [
+                "based on a peter benchley novel",
+                "Origin"
+            ],
+            [
+                "steven spielberg",
+                "Director"
+            ]
+        ],
+        "sent_id": 1257
+    },
+    {
+        "text": "tim burton and johnny depp take us into a world where a man who lives in this utopia and he stands out because of his weird hands",
+        "target": "<entity type=\"Director\">tim burton</entity> and <entity type=\"Actor\">johnny depp</entity> <entity type=\"Plot\">take us into a world where a man who lives in this utopia and he stands out because of his weird hands</entity>",
+        "entities": [
+            [
+                "tim burton",
+                "Director"
+            ],
+            [
+                "johnny depp",
+                "Actor"
+            ],
+            [
+                "take us into a world where a man who lives in this utopia and he stands out because of his weird hands",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1658
+    },
+    {
+        "text": "what is this seth rogan comedy that depicts him as a super hero",
+        "target": "what is this <entity type=\"Actor\">seth rogan</entity> <entity type=\"Genre\">comedy</entity> that <entity type=\"Plot\">depicts him as a super hero</entity>",
+        "entities": [
+            [
+                "seth rogan",
+                "Actor"
+            ],
+            [
+                "comedy",
+                "Genre"
+            ],
+            [
+                "depicts him as a super hero",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1883
+    },
+    {
+        "text": "what is the name of the movie in which johnny knoxville and his cohorts make you feel as if you are a part of the action",
+        "target": "what is the name of the movie in which <entity type=\"Actor\">johnny knoxville</entity> and his cohorts make you feel as if you are a part of the action",
+        "entities": [
+            [
+                "johnny knoxville",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1222
+    },
+    {
+        "text": "there is an american classic with anthony hopkins as a intellectual serial killer",
+        "target": "there is an <entity type=\"Genre\">american</entity> <entity type=\"Opinion\">classic</entity> with <entity type=\"Actor\">anthony hopkins</entity> as <entity type=\"Plot\">a intellectual serial killer</entity>",
+        "entities": [
+            [
+                "american",
+                "Genre"
+            ],
+            [
+                "classic",
+                "Opinion"
+            ],
+            [
+                "anthony hopkins",
+                "Actor"
+            ],
+            [
+                "a intellectual serial killer",
+                "Plot"
+            ]
+        ],
+        "sent_id": 781
+    },
+    {
+        "text": "i am thinking of a 70 s cult classic film about a young man and his unhealthy relationship with rats",
+        "target": "i am thinking of a <entity type=\"Year\">70 s</entity> <entity type=\"Genre\">cult</entity> <entity type=\"Opinion\">classic</entity> film about a <entity type=\"Plot\">young man and his unhealthy relationship with rats</entity>",
+        "entities": [
+            [
+                "70 s",
+                "Year"
+            ],
+            [
+                "cult",
+                "Genre"
+            ],
+            [
+                "classic",
+                "Opinion"
+            ],
+            [
+                "young man and his unhealthy relationship with rats",
+                "Plot"
+            ]
+        ],
+        "sent_id": 596
+    },
+    {
+        "text": "humphrey bogart and ingrid bergman star in this classic black and white film about love and virtue",
+        "target": "<entity type=\"Actor\">humphrey bogart</entity> and <entity type=\"Actor\">ingrid bergman</entity> star in this classic black and white film about love and virtue",
+        "entities": [
+            [
+                "humphrey bogart",
+                "Actor"
+            ],
+            [
+                "ingrid bergman",
+                "Actor"
+            ]
+        ],
+        "sent_id": 47
+    },
+    {
+        "text": "which movie start brad pitt morgan freeman who were cops in a city that constantly rained",
+        "target": "which movie start <entity type=\"Actor\">brad pitt morgan freeman</entity> who were <entity type=\"Plot\">cops in a city that constantly rained</entity>",
+        "entities": [
+            [
+                "brad pitt morgan freeman",
+                "Actor"
+            ],
+            [
+                "cops in a city that constantly rained",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1358
+    },
+    {
+        "text": "what movie is about a boy who receives a doll for his birthday that is possessed by the soul of a serial killer",
+        "target": "what movie is <entity type=\"Plot\">about a boy who receives a doll for his birthday that is possessed by the soul of a serial killer</entity>",
+        "entities": [
+            [
+                "about a boy who receives a doll for his birthday that is possessed by the soul of a serial killer",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1275
+    },
+    {
+        "text": "what comedy film about a group of women preparing for a wedding was written by an snl alumn",
+        "target": "what <entity type=\"Genre\">comedy</entity> film about a <entity type=\"Plot\">group of women preparing for a wedding</entity> was written by an snl alumn",
+        "entities": [
+            [
+                "comedy",
+                "Genre"
+            ],
+            [
+                "group of women preparing for a wedding",
+                "Plot"
+            ]
+        ],
+        "sent_id": 971
+    },
+    {
+        "text": "this movie starred kevin costner as a minor league baseball player susan sarandon was a co star",
+        "target": "this movie starred <entity type=\"Actor\">kevin costner</entity> as a minor league baseball player <entity type=\"Actor\">susan sarandon</entity> was a co star",
+        "entities": [
+            [
+                "kevin costner",
+                "Actor"
+            ],
+            [
+                "susan sarandon",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1650
+    },
+    {
+        "text": "the first film in christopher nolan s dark knight trilogy starring christian bale and michael cane",
+        "target": "the <entity type=\"Relationship\">first film in christopher nolan s dark knight trilogy</entity> starring <entity type=\"Actor\">christian bale</entity> and <entity type=\"Actor\">michael cane</entity>",
+        "entities": [
+            [
+                "first film in christopher nolan s dark knight trilogy",
+                "Relationship"
+            ],
+            [
+                "christian bale",
+                "Actor"
+            ],
+            [
+                "michael cane",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1588
+    },
+    {
+        "text": "name the film that dwayne johnson plays a hockey player thats a jerk and ends up as a fairy tale figure",
+        "target": "name the film that <entity type=\"Actor\">dwayne johnson</entity> plays <entity type=\"Plot\">a hockey player thats a jerk and ends up as a fairy tale figure</entity>",
+        "entities": [
+            [
+                "dwayne johnson",
+                "Actor"
+            ],
+            [
+                "a hockey player thats a jerk and ends up as a fairy tale figure",
+                "Plot"
+            ]
+        ],
+        "sent_id": 732
+    },
+    {
+        "text": "in what movie does commissioner jim gordan fake his death in order to capture the joker",
+        "target": "in what movie does commissioner <entity type=\"Character_Name\">jim gordan</entity> <entity type=\"Plot\">fake his death in order to capture the joker</entity>",
+        "entities": [
+            [
+                "jim gordan",
+                "Character_Name"
+            ],
+            [
+                "fake his death in order to capture the joker",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1501
+    },
+    {
+        "text": "what is the 2009 television romantic film directed by peter markle starring emilie de ravin and ivan sergei",
+        "target": "what is the <entity type=\"Year\">2009</entity> <entity type=\"Genre\">television romantic</entity> film directed by <entity type=\"Director\">peter markle</entity> starring <entity type=\"Actor\">emilie de ravin</entity> and <entity type=\"Actor\">ivan sergei</entity>",
+        "entities": [
+            [
+                "2009",
+                "Year"
+            ],
+            [
+                "television romantic",
+                "Genre"
+            ],
+            [
+                "peter markle",
+                "Director"
+            ],
+            [
+                "emilie de ravin",
+                "Actor"
+            ],
+            [
+                "ivan sergei",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1064
+    },
+    {
+        "text": "in which film does a nostalgic screenwriter on a trip to paris with his fianc s family find himself mysteriously going back to the 1920 s every day at midnight",
+        "target": "in which film does a <entity type=\"Plot\">nostalgic screenwriter on a trip to paris with his fianc s family find himself mysteriously going back to the 1920 s every day at midnight</entity>",
+        "entities": [
+            [
+                "nostalgic screenwriter on a trip to paris with his fianc s family find himself mysteriously going back to the 1920 s every day at midnight",
+                "Plot"
+            ]
+        ],
+        "sent_id": 694
+    },
+    {
+        "text": "mila kunis and justin timberlake star in a romantic comedy that involves sex friendships and falling in love",
+        "target": "<entity type=\"Actor\">mila kunis</entity> and <entity type=\"Actor\">justin timberlake</entity> star in a <entity type=\"Genre\">romantic comedy</entity> that <entity type=\"Plot\">involves sex friendships and falling in love</entity>",
+        "entities": [
+            [
+                "mila kunis",
+                "Actor"
+            ],
+            [
+                "justin timberlake",
+                "Actor"
+            ],
+            [
+                "romantic comedy",
+                "Genre"
+            ],
+            [
+                "involves sex friendships and falling in love",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1534
+    },
+    {
+        "text": "which movie did mongo ride into town on a steer and then punched a horse",
+        "target": "which movie did <entity type=\"Character_Name\">mongo</entity> <entity type=\"Plot\">ride into town on a steer and then punched a horse</entity>",
+        "entities": [
+            [
+                "mongo",
+                "Character_Name"
+            ],
+            [
+                "ride into town on a steer and then punched a horse",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1939
+    },
+    {
+        "text": "roman polanski directed this noir thriller starring jack nicholson as a private dick involved with faye dunaway",
+        "target": "<entity type=\"Director\">roman polanski</entity> directed this <entity type=\"Genre\">noir thriller</entity> starring <entity type=\"Actor\">jack nicholson</entity> as a private dick involved with <entity type=\"Actor\">faye dunaway</entity>",
+        "entities": [
+            [
+                "roman polanski",
+                "Director"
+            ],
+            [
+                "noir thriller",
+                "Genre"
+            ],
+            [
+                "jack nicholson",
+                "Actor"
+            ],
+            [
+                "faye dunaway",
+                "Actor"
+            ]
+        ],
+        "sent_id": 67
+    },
+    {
+        "text": "what is the 80 s classic starring arnold schwarzenegger in which he plays a mercenary in the jungle fighting an alien hunter",
+        "target": "what is the <entity type=\"Year\">80 s</entity> <entity type=\"Opinion\">classic</entity> starring <entity type=\"Actor\">arnold schwarzenegger</entity> in which he plays <entity type=\"Plot\">a mercenary in the jungle fighting an alien hunter</entity>",
+        "entities": [
+            [
+                "80 s",
+                "Year"
+            ],
+            [
+                "classic",
+                "Opinion"
+            ],
+            [
+                "arnold schwarzenegger",
+                "Actor"
+            ],
+            [
+                "a mercenary in the jungle fighting an alien hunter",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1081
+    },
+    {
+        "text": "what well known julia roberts movie has the line i m also a girl standing in front of a boy asking him to love her",
+        "target": "what <entity type=\"Opinion\">well known</entity> <entity type=\"Actor\">julia roberts</entity> movie has the line <entity type=\"Quote\">i m also a girl standing in front of a boy asking him to love her</entity>",
+        "entities": [
+            [
+                "well known",
+                "Opinion"
+            ],
+            [
+                "julia roberts",
+                "Actor"
+            ],
+            [
+                "i m also a girl standing in front of a boy asking him to love her",
+                "Quote"
+            ]
+        ],
+        "sent_id": 73
+    },
+    {
+        "text": "what 2011 movie features robert pattinson as a veterinary student who joins a traveling circus",
+        "target": "what <entity type=\"Year\">2011</entity> movie features <entity type=\"Actor\">robert pattinson</entity> as <entity type=\"Plot\">a veterinary student who joins a traveling circus</entity>",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "robert pattinson",
+                "Actor"
+            ],
+            [
+                "a veterinary student who joins a traveling circus",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1752
+    },
+    {
+        "text": "what is the 1960 movie featuring yul brynner and steve mcqueen who are two of the seven gunfighters hired by a mexican village as protection",
+        "target": "what is the <entity type=\"Year\">1960</entity> movie featuring <entity type=\"Actor\">yul brynner</entity> and <entity type=\"Actor\">steve mcqueen</entity> who are <entity type=\"Plot\">two of the seven gunfighters hired by a mexican village as protection</entity>",
+        "entities": [
+            [
+                "1960",
+                "Year"
+            ],
+            [
+                "yul brynner",
+                "Actor"
+            ],
+            [
+                "steve mcqueen",
+                "Actor"
+            ],
+            [
+                "two of the seven gunfighters hired by a mexican village as protection",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1043
+    },
+    {
+        "text": "what is the movie with the guy that wears the long robe and has the big white chin and the sad face",
+        "target": "what is the movie with the <entity type=\"Plot\">guy that wears the long robe and has the big white chin and the sad face</entity>",
+        "entities": [
+            [
+                "guy that wears the long robe and has the big white chin and the sad face",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1852
+    },
+    {
+        "text": "remember the movie where the man built a giant ship to transport animals through a storm",
+        "target": "remember the movie where <entity type=\"Plot\">the man built a giant ship to transport animals through a storm</entity>",
+        "entities": [
+            [
+                "the man built a giant ship to transport animals through a storm",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1568
+    },
+    {
+        "text": "what is the name of the movie about a world war ii business man who purchased people so they could provide him with cheap labor",
+        "target": "what is the name of the movie about <entity type=\"Plot\">a world war ii business man who purchased people so they could provide him with cheap labor</entity>",
+        "entities": [
+            [
+                "a world war ii business man who purchased people so they could provide him with cheap labor",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1211
+    },
+    {
+        "text": "what is the romantic comedy about a guy who has a guy help him find another woman because his wife divorced him",
+        "target": "what is the <entity type=\"Genre\">romantic comedy</entity> about a <entity type=\"Plot\">guy who has a guy help him find another woman because his wife divorced him</entity>",
+        "entities": [
+            [
+                "romantic comedy",
+                "Genre"
+            ],
+            [
+                "guy who has a guy help him find another woman because his wife divorced him",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1878
+    },
+    {
+        "text": "in this movie a young man played by jack lemmon allows executives to use his bachelor pad for their extramarital affairs",
+        "target": "in this movie a young man played by <entity type=\"Actor\">jack lemmon</entity> <entity type=\"Plot\">allows executives to use his bachelor pad for their extramarital affairs</entity>",
+        "entities": [
+            [
+                "jack lemmon",
+                "Actor"
+            ],
+            [
+                "allows executives to use his bachelor pad for their extramarital affairs",
+                "Plot"
+            ]
+        ],
+        "sent_id": 650
+    },
+    {
+        "text": "a robot is sent from the future to kill the mother of the man who would lead the human resistance",
+        "target": "<entity type=\"Plot\">a robot is sent from the future to kill the mother of the man who would lead the human resistance</entity>",
+        "entities": [
+            [
+                "a robot is sent from the future to kill the mother of the man who would lead the human resistance",
+                "Plot"
+            ]
+        ],
+        "sent_id": 502
+    },
+    {
+        "text": "which feature length disney film contains a series of vignettes of animation set to classical music",
+        "target": "which feature length <entity type=\"Genre\">disney</entity> film contains <entity type=\"Plot\">a series of vignettes of animation set to classical music</entity>",
+        "entities": [
+            [
+                "disney",
+                "Genre"
+            ],
+            [
+                "a series of vignettes of animation set to classical music",
+                "Plot"
+            ]
+        ],
+        "sent_id": 217
+    },
+    {
+        "text": "a movie about a particular investigation that is a number greater than the number thirty eight",
+        "target": "a movie about <entity type=\"Plot\">a particular investigation that is a number greater than the number thirty eight</entity>",
+        "entities": [
+            [
+                "a particular investigation that is a number greater than the number thirty eight",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1387
+    },
+    {
+        "text": "a 1986 science fiction film directed by james cameron a sequel and stars sigourney weaver",
+        "target": "a <entity type=\"Year\">1986</entity> <entity type=\"Genre\">science fiction</entity> film directed by <entity type=\"Director\">james cameron</entity> a <entity type=\"Relationship\">sequel</entity> and stars <entity type=\"Actor\">sigourney weaver</entity>",
+        "entities": [
+            [
+                "1986",
+                "Year"
+            ],
+            [
+                "science fiction",
+                "Genre"
+            ],
+            [
+                "james cameron",
+                "Director"
+            ],
+            [
+                "sequel",
+                "Relationship"
+            ],
+            [
+                "sigourney weaver",
+                "Actor"
+            ]
+        ],
+        "sent_id": 482
+    },
+    {
+        "text": "what 1983 movie features sam shepard scott glenn and ed harris as us mercury 7 astronauts",
+        "target": "what <entity type=\"Year\">1983</entity> movie features <entity type=\"Actor\">sam shepard scott glenn</entity> and <entity type=\"Actor\">ed harris</entity> as <entity type=\"Plot\">us mercury 7 astronauts</entity>",
+        "entities": [
+            [
+                "1983",
+                "Year"
+            ],
+            [
+                "sam shepard scott glenn",
+                "Actor"
+            ],
+            [
+                "ed harris",
+                "Actor"
+            ],
+            [
+                "us mercury 7 astronauts",
+                "Plot"
+            ]
+        ],
+        "sent_id": 925
+    },
+    {
+        "text": "this movie is definately a chick flick and starred ali mcgraw and ryan o neal back in the 70 s",
+        "target": "this movie is definately a <entity type=\"Genre\">chick flick</entity> and starred <entity type=\"Actor\">ali mcgraw</entity> and <entity type=\"Actor\">ryan o neal</entity> back in the <entity type=\"Year\">70 s</entity>",
+        "entities": [
+            [
+                "chick flick",
+                "Genre"
+            ],
+            [
+                "ali mcgraw",
+                "Actor"
+            ],
+            [
+                "ryan o neal",
+                "Actor"
+            ],
+            [
+                "70 s",
+                "Year"
+            ]
+        ],
+        "sent_id": 1649
+    },
+    {
+        "text": "what is the name of the horror movie about a curse enacted upon anybody who says a certain man s nickname three times while looking into the mirror",
+        "target": "what is the name of the <entity type=\"Genre\">horror</entity> movie about a <entity type=\"Plot\">curse enacted upon anybody who says a certain man s nickname three times while looking into the mirror</entity>",
+        "entities": [
+            [
+                "horror",
+                "Genre"
+            ],
+            [
+                "curse enacted upon anybody who says a certain man s nickname three times while looking into the mirror",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1203
+    },
+    {
+        "text": "name the computer animated film starring mike meyers and cameron diaz as two ogres that fall in love",
+        "target": "name the <entity type=\"Genre\">computer animated film</entity> starring <entity type=\"Actor\">mike meyers</entity> and <entity type=\"Actor\">cameron diaz</entity> as <entity type=\"Plot\">two ogres that fall in love</entity>",
+        "entities": [
+            [
+                "computer animated film",
+                "Genre"
+            ],
+            [
+                "mike meyers",
+                "Actor"
+            ],
+            [
+                "cameron diaz",
+                "Actor"
+            ],
+            [
+                "two ogres that fall in love",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1543
+    },
+    {
+        "text": "a boy left by his parents by himself runs into trouble with thieves who try to get into his house and has to use traps to ward them off",
+        "target": "<entity type=\"Plot\">a boy left by his parents by himself runs into trouble with thieves who try to get into his house and has to use traps to ward them off</entity>",
+        "entities": [
+            [
+                "a boy left by his parents by himself runs into trouble with thieves who try to get into his house and has to use traps to ward them off",
+                "Plot"
+            ]
+        ],
+        "sent_id": 488
+    },
+    {
+        "text": "which meg ryan and tom hanks film told the story of two lonely hearts who found each other on the observation deck of the empire state building",
+        "target": "which <entity type=\"Actor\">meg ryan</entity> and <entity type=\"Actor\">tom hanks</entity> film <entity type=\"Plot\">told the story of two lonely hearts who found each other on the observation deck of the empire state building</entity>",
+        "entities": [
+            [
+                "meg ryan",
+                "Actor"
+            ],
+            [
+                "tom hanks",
+                "Actor"
+            ],
+            [
+                "told the story of two lonely hearts who found each other on the observation deck of the empire state building",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1938
+    },
+    {
+        "text": "this movie is the final installment in a trilogy where will smith plays a character involved in a government organization that specializes in protecting the human race from aliens",
+        "target": "this movie is the <entity type=\"Relationship\">final installment</entity> in a <entity type=\"Relationship\">trilogy</entity> where <entity type=\"Actor\">will smith</entity> plays <entity type=\"Plot\">a character involved in a government organization that specializes in protecting the human race from aliens</entity>",
+        "entities": [
+            [
+                "final installment",
+                "Relationship"
+            ],
+            [
+                "trilogy",
+                "Relationship"
+            ],
+            [
+                "will smith",
+                "Actor"
+            ],
+            [
+                "a character involved in a government organization that specializes in protecting the human race from aliens",
+                "Plot"
+            ]
+        ],
+        "sent_id": 849
+    },
+    {
+        "text": "please name the movie in which matt damon stars as a modern military platoon leader in the middle east",
+        "target": "please name the movie in which <entity type=\"Actor\">matt damon</entity> stars as a <entity type=\"Plot\">modern military platoon leader in the middle east</entity>",
+        "entities": [
+            [
+                "matt damon",
+                "Actor"
+            ],
+            [
+                "modern military platoon leader in the middle east",
+                "Plot"
+            ]
+        ],
+        "sent_id": 748
+    },
+    {
+        "text": "what 2010 david o russell biopic starred mark wahlberg christian bale amy adams and melissa leo",
+        "target": "what <entity type=\"Year\">2010</entity> <entity type=\"Director\">david o russell</entity> <entity type=\"Genre\">biopic</entity> starred <entity type=\"Actor\">mark wahlberg christian bale amy adams</entity> and <entity type=\"Actor\">melissa leo</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "david o russell",
+                "Director"
+            ],
+            [
+                "biopic",
+                "Genre"
+            ],
+            [
+                "mark wahlberg christian bale amy adams",
+                "Actor"
+            ],
+            [
+                "melissa leo",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1735
+    },
+    {
+        "text": "the classic romeo and juliet adaption told in song and dance starring natalie wood in this 1961 retelling",
+        "target": "the classic <entity type=\"Origin\">romeo and juliet adaption</entity> told in <entity type=\"Genre\">song and dance</entity> starring <entity type=\"Actor\">natalie wood</entity> in this <entity type=\"Year\">1961</entity> <entity type=\"Relationship\">retelling</entity>",
+        "entities": [
+            [
+                "romeo and juliet adaption",
+                "Origin"
+            ],
+            [
+                "song and dance",
+                "Genre"
+            ],
+            [
+                "natalie wood",
+                "Actor"
+            ],
+            [
+                "1961",
+                "Year"
+            ],
+            [
+                "retelling",
+                "Relationship"
+            ]
+        ],
+        "sent_id": 769
+    },
+    {
+        "text": "what is the movie about these guys who go after a spiritual being that came out in the 80 s",
+        "target": "what is the movie about these <entity type=\"Plot\">guys who go after a spiritual being</entity> that came out in the <entity type=\"Year\">80 s</entity>",
+        "entities": [
+            [
+                "guys who go after a spiritual being",
+                "Plot"
+            ],
+            [
+                "80 s",
+                "Year"
+            ]
+        ],
+        "sent_id": 1836
+    },
+    {
+        "text": "what is a 1983 american crime film directed by brian de palma written by oliver stone produced by martin bregman and starring al pacino as tony montana",
+        "target": "what is a <entity type=\"Year\">1983</entity> <entity type=\"Genre\">american crime film</entity> directed by <entity type=\"Director\">brian de palma</entity> written by oliver stone produced by martin bregman and starring <entity type=\"Actor\">al pacino</entity> as <entity type=\"Character_Name\">tony montana</entity>",
+        "entities": [
+            [
+                "1983",
+                "Year"
+            ],
+            [
+                "american crime film",
+                "Genre"
+            ],
+            [
+                "brian de palma",
+                "Director"
+            ],
+            [
+                "al pacino",
+                "Actor"
+            ],
+            [
+                "tony montana",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1006
+    },
+    {
+        "text": "name the 1934 movie in which claudette colbert played a spoiled heiress runaway that is helped by clark gable playing a reporter looking for a story",
+        "target": "name the <entity type=\"Year\">1934</entity> movie in which <entity type=\"Actor\">claudette colbert</entity> played a <entity type=\"Plot\">spoiled heiress runaway that is helped by</entity> <entity type=\"Actor\">clark gable</entity> playing <entity type=\"Plot\">a reporter looking for a story</entity>",
+        "entities": [
+            [
+                "1934",
+                "Year"
+            ],
+            [
+                "claudette colbert",
+                "Actor"
+            ],
+            [
+                "spoiled heiress runaway that is helped by",
+                "Plot"
+            ],
+            [
+                "clark gable",
+                "Actor"
+            ],
+            [
+                "a reporter looking for a story",
+                "Plot"
+            ]
+        ],
+        "sent_id": 726
+    },
+    {
+        "text": "what is a movie starring jack nicholson as a wintertime hotel caretaker who slowly goes mad",
+        "target": "what is a movie starring <entity type=\"Actor\">jack nicholson</entity> as <entity type=\"Plot\">a wintertime hotel caretaker who slowly goes mad</entity>",
+        "entities": [
+            [
+                "jack nicholson",
+                "Actor"
+            ],
+            [
+                "a wintertime hotel caretaker who slowly goes mad",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1014
+    },
+    {
+        "text": "this is a martin scorsese film starring robert deniro who plays a gambler and does n t pay the people he owes also his friend is secretly dating deniro s cousin because his family does n t like her because she has seizures",
+        "target": "this is a <entity type=\"Director\">martin scorsese</entity> film starring <entity type=\"Actor\">robert deniro</entity> who plays <entity type=\"Plot\">a gambler and does n t pay the people he owes also his friend is secretly dating</entity> <entity type=\"Actor\">deniro s</entity> <entity type=\"Plot\">cousin because his family does n t like her because she has seizures</entity>",
+        "entities": [
+            [
+                "martin scorsese",
+                "Director"
+            ],
+            [
+                "robert deniro",
+                "Actor"
+            ],
+            [
+                "a gambler and does n t pay the people he owes also his friend is secretly dating",
+                "Plot"
+            ],
+            [
+                "deniro s",
+                "Actor"
+            ],
+            [
+                "cousin because his family does n t like her because she has seizures",
+                "Plot"
+            ]
+        ],
+        "sent_id": 825
+    },
+    {
+        "text": "will a group of toys be able to work together to gain back the love of their former owner",
+        "target": "<entity type=\"Plot\">will a group of toys be able to work together to gain back the love of their former owner</entity>",
+        "entities": [
+            [
+                "will a group of toys be able to work together to gain back the love of their former owner",
+                "Plot"
+            ]
+        ],
+        "sent_id": 313
+    },
+    {
+        "text": "could you help me remember the name of a conspiracy thriller that tom cruise was in 10 yrs ago or so",
+        "target": "could you help me remember the name of a <entity type=\"Genre\">conspiracy thriller</entity> that <entity type=\"Actor\">tom cruise</entity> was in 10 yrs ago or so",
+        "entities": [
+            [
+                "conspiracy thriller",
+                "Genre"
+            ],
+            [
+                "tom cruise",
+                "Actor"
+            ]
+        ],
+        "sent_id": 533
+    },
+    {
+        "text": "what 2011 comedy starring jim carrey is loosely based on a children s book of the same name",
+        "target": "what <entity type=\"Year\">2011</entity> <entity type=\"Genre\">comedy</entity> starring <entity type=\"Actor\">jim carrey</entity> is loosely based on a <entity type=\"Origin\">children s book</entity> of the same name",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "comedy",
+                "Genre"
+            ],
+            [
+                "jim carrey",
+                "Actor"
+            ],
+            [
+                "children s book",
+                "Origin"
+            ]
+        ],
+        "sent_id": 942
+    },
+    {
+        "text": "what film starring channing tatum and jonah hill is an update of an 80 s show",
+        "target": "what film starring <entity type=\"Actor\">channing tatum</entity> and <entity type=\"Actor\">jonah hill</entity> is an <entity type=\"Relationship\">update of an 80 s show</entity>",
+        "entities": [
+            [
+                "channing tatum",
+                "Actor"
+            ],
+            [
+                "jonah hill",
+                "Actor"
+            ],
+            [
+                "update of an 80 s show",
+                "Relationship"
+            ]
+        ],
+        "sent_id": 988
+    },
+    {
+        "text": "this young women goes to tibet to teach all the ruler s children some school stuff",
+        "target": "<entity type=\"Plot\">this young women goes to tibet to teach all the ruler s children some school stuff</entity>",
+        "entities": [
+            [
+                "this young women goes to tibet to teach all the ruler s children some school stuff",
+                "Plot"
+            ]
+        ],
+        "sent_id": 866
+    },
+    {
+        "text": "in what movie did kirk douglas and burt lancaster play rum runners who were separated by a prison term",
+        "target": "in what movie did <entity type=\"Actor\">kirk douglas</entity> and <entity type=\"Actor\">burt lancaster</entity> play <entity type=\"Plot\">rum runners who were separated by a prison term</entity>",
+        "entities": [
+            [
+                "kirk douglas",
+                "Actor"
+            ],
+            [
+                "burt lancaster",
+                "Actor"
+            ],
+            [
+                "rum runners who were separated by a prison term",
+                "Plot"
+            ]
+        ],
+        "sent_id": 682
+    },
+    {
+        "text": "mikhail kaufman is a photographer who travels around the city documenting urban life in this 1929 documentary",
+        "target": "<entity type=\"Character_Name\">mikhail kaufman</entity> <entity type=\"Plot\">is a photographer who travels around the city documenting urban life</entity> in this <entity type=\"Year\">1929</entity> <entity type=\"Genre\">documentary</entity>",
+        "entities": [
+            [
+                "mikhail kaufman",
+                "Character_Name"
+            ],
+            [
+                "is a photographer who travels around the city documenting urban life",
+                "Plot"
+            ],
+            [
+                "1929",
+                "Year"
+            ],
+            [
+                "documentary",
+                "Genre"
+            ]
+        ],
+        "sent_id": 1533
+    },
+    {
+        "text": "what is the animated movie in which an elderly man and a young boy experience adventure when a house is carried off by balloons",
+        "target": "what is the <entity type=\"Genre\">animated</entity> movie in which an <entity type=\"Plot\">elderly man and a young boy experience adventure when a house is carried off by balloons</entity>",
+        "entities": [
+            [
+                "animated",
+                "Genre"
+            ],
+            [
+                "elderly man and a young boy experience adventure when a house is carried off by balloons",
+                "Plot"
+            ]
+        ],
+        "sent_id": 64
+    },
+    {
+        "text": "1985 movie where a teen is accidentally sent 30 years into the past in a time traveling machine",
+        "target": "<entity type=\"Year\">1985</entity> movie where <entity type=\"Plot\">a teen is accidentally sent 30 years into the past in a time traveling machine</entity>",
+        "entities": [
+            [
+                "1985",
+                "Year"
+            ],
+            [
+                "a teen is accidentally sent 30 years into the past in a time traveling machine",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1371
+    },
+    {
+        "text": "rosalind russell played mama rose in this 1962 musical based on the broadway show and co stars natalie wood",
+        "target": "<entity type=\"Actor\">rosalind russell</entity> played <entity type=\"Character_Name\">mama rose</entity> in this <entity type=\"Year\">1962</entity> <entity type=\"Genre\">musical</entity> <entity type=\"Origin\">based on the broadway show</entity> and co stars <entity type=\"Actor\">natalie wood</entity>",
+        "entities": [
+            [
+                "rosalind russell",
+                "Actor"
+            ],
+            [
+                "mama rose",
+                "Character_Name"
+            ],
+            [
+                "1962",
+                "Year"
+            ],
+            [
+                "musical",
+                "Genre"
+            ],
+            [
+                "based on the broadway show",
+                "Origin"
+            ],
+            [
+                "natalie wood",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1574
+    },
+    {
+        "text": "this 2006 film directed by alfonso cuaron and starring clive owen was based on a novel by p d james",
+        "target": "this <entity type=\"Year\">2006</entity> film directed by <entity type=\"Director\">alfonso cuaron</entity> and starring <entity type=\"Actor\">clive owen</entity> was <entity type=\"Origin\">based on a novel by p d james</entity>",
+        "entities": [
+            [
+                "2006",
+                "Year"
+            ],
+            [
+                "alfonso cuaron",
+                "Director"
+            ],
+            [
+                "clive owen",
+                "Actor"
+            ],
+            [
+                "based on a novel by p d james",
+                "Origin"
+            ]
+        ],
+        "sent_id": 798
+    },
+    {
+        "text": "i am thinking of the fourth installment in a spy film series about a black ops agent who suffers memory loss the titular character does not appear in this particular film",
+        "target": "i am thinking of the <entity type=\"Relationship\">fourth installment</entity> in a <entity type=\"Relationship\">spy film series</entity> about a <entity type=\"Plot\">black ops agent who suffers memory loss</entity> the titular character does not appear in this particular film",
+        "entities": [
+            [
+                "fourth installment",
+                "Relationship"
+            ],
+            [
+                "spy film series",
+                "Relationship"
+            ],
+            [
+                "black ops agent who suffers memory loss",
+                "Plot"
+            ]
+        ],
+        "sent_id": 75
+    },
+    {
+        "text": "the story of perseus the mortal son of zeus god of thunder and the trials he faces against the forces of evil",
+        "target": "the story of <entity type=\"Character_Name\">perseus</entity> <entity type=\"Plot\">the mortal son</entity> of <entity type=\"Character_Name\">zeus</entity> <entity type=\"Plot\">god of thunder</entity> and <entity type=\"Plot\">the trials he faces against the forces of evil</entity>",
+        "entities": [
+            [
+                "perseus",
+                "Character_Name"
+            ],
+            [
+                "the mortal son",
+                "Plot"
+            ],
+            [
+                "zeus",
+                "Character_Name"
+            ],
+            [
+                "god of thunder",
+                "Plot"
+            ],
+            [
+                "the trials he faces against the forces of evil",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1594
+    },
+    {
+        "text": "what is the name of the teen comedy starring emma stone that is a retelling re imagining of the scarlet letter",
+        "target": "what is the name of the <entity type=\"Genre\">teen comedy</entity> starring <entity type=\"Actor\">emma stone</entity> that is <entity type=\"Relationship\">a retelling re imagining of the scarlet letter</entity>",
+        "entities": [
+            [
+                "teen comedy",
+                "Genre"
+            ],
+            [
+                "emma stone",
+                "Actor"
+            ],
+            [
+                "a retelling re imagining of the scarlet letter",
+                "Relationship"
+            ]
+        ],
+        "sent_id": 1232
+    },
+    {
+        "text": "this stephen king novel later made into a movie stars tom hanks and michael clarke duncan",
+        "target": "this <entity type=\"Origin\">stephen king novel</entity> later made into a movie stars <entity type=\"Actor\">tom hanks</entity> and <entity type=\"Actor\">michael clarke duncan</entity>",
+        "entities": [
+            [
+                "stephen king novel",
+                "Origin"
+            ],
+            [
+                "tom hanks",
+                "Actor"
+            ],
+            [
+                "michael clarke duncan",
+                "Actor"
+            ]
+        ],
+        "sent_id": 863
+    },
+    {
+        "text": "in this 2011 film directed by john madden helen mirren and jessica chastain played the part of old and young mossad agent rachel singer",
+        "target": "in this <entity type=\"Year\">2011</entity> film directed by <entity type=\"Director\">john madden</entity> <entity type=\"Actor\">helen mirren</entity> and <entity type=\"Actor\">jessica chastain</entity> played the part of <entity type=\"Plot\">old and young mossad agent</entity> <entity type=\"Character_Name\">rachel singer</entity>",
+        "entities": [
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "john madden",
+                "Director"
+            ],
+            [
+                "helen mirren",
+                "Actor"
+            ],
+            [
+                "jessica chastain",
+                "Actor"
+            ],
+            [
+                "old and young mossad agent",
+                "Plot"
+            ],
+            [
+                "rachel singer",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 642
+    },
+    {
+        "text": "reese witherspoon took home the oscar for best female lead at the 2006 academy awards for her role as june carter cash",
+        "target": "<entity type=\"Actor\">reese witherspoon</entity> <entity type=\"Award\">took home the oscar for best female lead</entity> at the <entity type=\"Award\">2006 academy awards</entity> for her role as <entity type=\"Character_Name\">june carter cash</entity>",
+        "entities": [
+            [
+                "reese witherspoon",
+                "Actor"
+            ],
+            [
+                "took home the oscar for best female lead",
+                "Award"
+            ],
+            [
+                "2006 academy awards",
+                "Award"
+            ],
+            [
+                "june carter cash",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1564
+    },
+    {
+        "text": "this is the third installment and is about very strange and scary activities that are not normal",
+        "target": "this is the <entity type=\"Relationship\">third installment</entity> and <entity type=\"Plot\">is about very strange and scary activities that are not normal</entity>",
+        "entities": [
+            [
+                "third installment",
+                "Relationship"
+            ],
+            [
+                "is about very strange and scary activities that are not normal",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1643
+    },
+    {
+        "text": "what is that 2010 sports drama movie about the life of a racehorse and starring john malkovich and diane lane",
+        "target": "what is that <entity type=\"Year\">2010</entity> <entity type=\"Genre\">sports drama</entity> movie about <entity type=\"Plot\">the life of a racehorse</entity> and starring <entity type=\"Actor\">john malkovich</entity> and <entity type=\"Actor\">diane lane</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "sports drama",
+                "Genre"
+            ],
+            [
+                "the life of a racehorse",
+                "Plot"
+            ],
+            [
+                "john malkovich",
+                "Actor"
+            ],
+            [
+                "diane lane",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1021
+    },
+    {
+        "text": "which movie features the main characters of tyler durden and never named narrator who team to cause all sorts of mayhem",
+        "target": "which movie features the main characters of <entity type=\"Character_Name\">tyler durden</entity> and never named narrator <entity type=\"Plot\">who team to cause all sorts of mayhem</entity>",
+        "entities": [
+            [
+                "tyler durden",
+                "Character_Name"
+            ],
+            [
+                "who team to cause all sorts of mayhem",
+                "Plot"
+            ]
+        ],
+        "sent_id": 145
+    },
+    {
+        "text": "tom hanks is a prison guard in this fantasy suspense movie based on a novel by stephen king",
+        "target": "<entity type=\"Actor\">tom hanks</entity> is a <entity type=\"Plot\">prison guard</entity> in this <entity type=\"Genre\">fantasy suspense</entity> movie <entity type=\"Origin\">based on a novel by stephen king</entity>",
+        "entities": [
+            [
+                "tom hanks",
+                "Actor"
+            ],
+            [
+                "prison guard",
+                "Plot"
+            ],
+            [
+                "fantasy suspense",
+                "Genre"
+            ],
+            [
+                "based on a novel by stephen king",
+                "Origin"
+            ]
+        ],
+        "sent_id": 1659
+    },
+    {
+        "text": "a movie named after the first ever james bond picture except the name of the city is the capitol of france",
+        "target": "a movie named after the first ever <entity type=\"Character_Name\">james bond</entity> picture except the name of the city is the capitol of france",
+        "entities": [
+            [
+                "james bond",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1389
+    },
+    {
+        "text": "what 1939 oscar winning movie for best picture starred vivien leigh clark gable and thomas mitchell",
+        "target": "what <entity type=\"Year\">1939</entity> <entity type=\"Award\">oscar winning</entity> movie for <entity type=\"Award\">best picture</entity> starred <entity type=\"Actor\">vivien leigh clark gable</entity> and <entity type=\"Actor\">thomas mitchell</entity>",
+        "entities": [
+            [
+                "1939",
+                "Year"
+            ],
+            [
+                "oscar winning",
+                "Award"
+            ],
+            [
+                "best picture",
+                "Award"
+            ],
+            [
+                "vivien leigh clark gable",
+                "Actor"
+            ],
+            [
+                "thomas mitchell",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1683
+    },
+    {
+        "text": "what is the comedy movie about dave and mitch and how they swapped their bodies",
+        "target": "what is the <entity type=\"Genre\">comedy movie</entity> about <entity type=\"Character_Name\">dave and mitch</entity> <entity type=\"Plot\">and how they swapped their bodies</entity>",
+        "entities": [
+            [
+                "comedy movie",
+                "Genre"
+            ],
+            [
+                "dave and mitch",
+                "Character_Name"
+            ],
+            [
+                "and how they swapped their bodies",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1098
+    },
+    {
+        "text": "what is the movie where a little girl creates a fantasy world during the spanish revolution with fantasm characters",
+        "target": "what is the movie where <entity type=\"Plot\">a little girl creates a fantasy world during the spanish revolution with fantasm characters</entity>",
+        "entities": [
+            [
+                "a little girl creates a fantasy world during the spanish revolution with fantasm characters",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1165
+    },
+    {
+        "text": "what is the name of the movie about a lonely robot on a post armageddon earth who learns to love",
+        "target": "what is the name of the movie about a <entity type=\"Plot\">lonely robot on a post armageddon earth who learns to love</entity>",
+        "entities": [
+            [
+                "lonely robot on a post armageddon earth who learns to love",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1208
+    },
+    {
+        "text": "i m thinking of the movie with roy scheider and richard dreyfuss about a shark and has the line i think you re going to need a bigger boat",
+        "target": "i m thinking of the movie with <entity type=\"Actor\">roy scheider</entity> and <entity type=\"Actor\">richard dreyfuss</entity> <entity type=\"Plot\">about a shark</entity> and has the line <entity type=\"Quote\">i think you re going to need a bigger boat</entity>",
+        "entities": [
+            [
+                "roy scheider",
+                "Actor"
+            ],
+            [
+                "richard dreyfuss",
+                "Actor"
+            ],
+            [
+                "about a shark",
+                "Plot"
+            ],
+            [
+                "i think you re going to need a bigger boat",
+                "Quote"
+            ]
+        ],
+        "sent_id": 593
+    },
+    {
+        "text": "based on a true story located in england a man realizes he must rise to the occasion and take his brother s place",
+        "target": "based on a true story located in england <entity type=\"Plot\">a man realizes he must rise to the occasion and take his brother s place</entity>",
+        "entities": [
+            [
+                "a man realizes he must rise to the occasion and take his brother s place",
+                "Plot"
+            ]
+        ],
+        "sent_id": 517
+    },
+    {
+        "text": "in this 2010 american science fiction comedy middle aged men take an unlikely trip back through time",
+        "target": "in this <entity type=\"Year\">2010</entity> <entity type=\"Genre\">american science fiction comedy</entity> <entity type=\"Plot\">middle aged men take an unlikely trip back through time</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "american science fiction comedy",
+                "Genre"
+            ],
+            [
+                "middle aged men take an unlikely trip back through time",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1488
+    },
+    {
+        "text": "help me find a movie where a bunch of women dare to be the best at a man s game even though their coach does n t believe in them",
+        "target": "help me find a movie where a <entity type=\"Plot\">bunch of women dare to be the best at a man s game even though their coach does n t believe in them</entity>",
+        "entities": [
+            [
+                "bunch of women dare to be the best at a man s game even though their coach does n t believe in them",
+                "Plot"
+            ]
+        ],
+        "sent_id": 557
+    },
+    {
+        "text": "in what mockumentary does rob reiner follow the traveling tour of a heavy metal band",
+        "target": "in what <entity type=\"Genre\">mockumentary</entity> does <entity type=\"Actor\">rob reiner</entity> follow the <entity type=\"Plot\">traveling tour of a heavy metal band</entity>",
+        "entities": [
+            [
+                "mockumentary",
+                "Genre"
+            ],
+            [
+                "rob reiner",
+                "Actor"
+            ],
+            [
+                "traveling tour of a heavy metal band",
+                "Plot"
+            ]
+        ],
+        "sent_id": 676
+    },
+    {
+        "text": "what is the sequel to the movie that turns good natured nursery rhyme characters into not so nice villains",
+        "target": "what is the <entity type=\"Relationship\">sequel</entity> to the movie that <entity type=\"Plot\">turns good natured nursery rhyme characters into not so nice villains</entity>",
+        "entities": [
+            [
+                "sequel",
+                "Relationship"
+            ],
+            [
+                "turns good natured nursery rhyme characters into not so nice villains",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1249
+    },
+    {
+        "text": "what is the name of that movie with eddie murphy and he could understand what animals said",
+        "target": "what is the name of that movie with <entity type=\"Actor\">eddie murphy</entity> and he <entity type=\"Plot\">could understand what animals said</entity>",
+        "entities": [
+            [
+                "eddie murphy",
+                "Actor"
+            ],
+            [
+                "could understand what animals said",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1186
+    },
+    {
+        "text": "i m thinking of a suspense action movie where the girl has to battle other people to become victorious at the end",
+        "target": "i m thinking of a <entity type=\"Genre\">suspense action</entity> movie where <entity type=\"Plot\">the girl has to battle other people to become victorious at the end</entity>",
+        "entities": [
+            [
+                "suspense action",
+                "Genre"
+            ],
+            [
+                "the girl has to battle other people to become victorious at the end",
+                "Plot"
+            ]
+        ],
+        "sent_id": 587
+    },
+    {
+        "text": "meatloaf rides a motorcycle through a wall as eddie the ex delivery boy in this cult favorite",
+        "target": "<entity type=\"Actor\">meatloaf</entity> <entity type=\"Plot\">rides a motorcycle through a wall</entity> as <entity type=\"Character_Name\">eddie</entity> the ex delivery boy in this <entity type=\"Genre\">cult</entity> <entity type=\"Opinion\">favorite</entity>",
+        "entities": [
+            [
+                "meatloaf",
+                "Actor"
+            ],
+            [
+                "rides a motorcycle through a wall",
+                "Plot"
+            ],
+            [
+                "eddie",
+                "Character_Name"
+            ],
+            [
+                "cult",
+                "Genre"
+            ],
+            [
+                "favorite",
+                "Opinion"
+            ]
+        ],
+        "sent_id": 1529
+    },
+    {
+        "text": "what 2012 movie depicted an ailing baseball scout who takes his daughter on one last recruiting trip",
+        "target": "what <entity type=\"Year\">2012</entity> movie <entity type=\"Plot\">depicted an ailing baseball scout who takes his daughter on one last recruiting trip</entity>",
+        "entities": [
+            [
+                "2012",
+                "Year"
+            ],
+            [
+                "depicted an ailing baseball scout who takes his daughter on one last recruiting trip",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1764
+    },
+    {
+        "text": "what is the name of the naked movie about the kiss",
+        "target": "what is the name of the <entity type=\"Plot\">naked movie about the kiss</entity>",
+        "entities": [
+            [
+                "naked movie about the kiss",
+                "Plot"
+            ]
+        ],
+        "sent_id": 443
+    },
+    {
+        "text": "what s the movie with martin sheen and marlon brando made in the 70 s about the vietnam colonel that went rogue",
+        "target": "what s the movie with <entity type=\"Actor\">martin sheen</entity> and <entity type=\"Actor\">marlon brando</entity> made in the <entity type=\"Year\">70 s</entity> <entity type=\"Plot\">about the vietnam colonel that went rogue</entity>",
+        "entities": [
+            [
+                "martin sheen",
+                "Actor"
+            ],
+            [
+                "marlon brando",
+                "Actor"
+            ],
+            [
+                "70 s",
+                "Year"
+            ],
+            [
+                "about the vietnam colonel that went rogue",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1675
+    },
+    {
+        "text": "what is the movie that popularized phrases like life is like a box of chocolates",
+        "target": "what is the movie that popularized phrases like <entity type=\"Quote\">life is like a box of chocolates</entity>",
+        "entities": [
+            [
+                "life is like a box of chocolates",
+                "Quote"
+            ]
+        ],
+        "sent_id": 1160
+    },
+    {
+        "text": "in what recent remake of a 1985 horror movie does colin farrell play a vampire",
+        "target": "in what recent <entity type=\"Relationship\">remake</entity> of a <entity type=\"Year\">1985</entity> <entity type=\"Genre\">horror</entity> movie does <entity type=\"Actor\">colin farrell</entity> <entity type=\"Plot\">play a vampire</entity>",
+        "entities": [
+            [
+                "remake",
+                "Relationship"
+            ],
+            [
+                "1985",
+                "Year"
+            ],
+            [
+                "horror",
+                "Genre"
+            ],
+            [
+                "colin farrell",
+                "Actor"
+            ],
+            [
+                "play a vampire",
+                "Plot"
+            ]
+        ],
+        "sent_id": 689
+    },
+    {
+        "text": "what is the 1997 japanese animated epic fantasy historical film written and directed by hayao miyazaki",
+        "target": "what is the <entity type=\"Year\">1997</entity> <entity type=\"Genre\">japanese animated</entity> epic <entity type=\"Genre\">fantasy historical</entity> film written and directed by <entity type=\"Director\">hayao miyazaki</entity>",
+        "entities": [
+            [
+                "1997",
+                "Year"
+            ],
+            [
+                "japanese animated",
+                "Genre"
+            ],
+            [
+                "fantasy historical",
+                "Genre"
+            ],
+            [
+                "hayao miyazaki",
+                "Director"
+            ]
+        ],
+        "sent_id": 1059
+    },
+    {
+        "text": "this film may feature a farm equipment chicken duel but it s better known for the music and dancing forbidden by the town s minister",
+        "target": "this film may feature <entity type=\"Plot\">a farm equipment chicken duel but it s better known for the music and dancing forbidden by the town s minister</entity>",
+        "entities": [
+            [
+                "a farm equipment chicken duel but it s better known for the music and dancing forbidden by the town s minister",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1631
+    },
+    {
+        "text": "the movie i am thinking of came out in 2010 and involves a woman who is diagnosed with parkinson s disease who becomes friends with a drug rep",
+        "target": "the movie i am thinking of came out in <entity type=\"Year\">2010</entity> and involves <entity type=\"Plot\">a woman who is diagnosed with parkinson s disease who becomes friends with a drug rep</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "a woman who is diagnosed with parkinson s disease who becomes friends with a drug rep",
+                "Plot"
+            ]
+        ],
+        "sent_id": 775
+    },
+    {
+        "text": "what 2006 movie depicts a 2027 world in which the human race is dying out since humans can no longer procreate",
+        "target": "what <entity type=\"Year\">2006</entity> movie <entity type=\"Plot\">depicts a 2027 world in which the human race is dying out since humans can no longer procreate</entity>",
+        "entities": [
+            [
+                "2006",
+                "Year"
+            ],
+            [
+                "depicts a 2027 world in which the human race is dying out since humans can no longer procreate",
+                "Plot"
+            ]
+        ],
+        "sent_id": 936
+    },
+    {
+        "text": "what is the 1988 movie directed by ron howard and val kilmer about a reluctant dwarf that must protect a human baby from an evil queen",
+        "target": "what is the <entity type=\"Year\">1988</entity> movie directed by <entity type=\"Director\">ron howard</entity> and <entity type=\"Actor\">val kilmer</entity> about a <entity type=\"Plot\">reluctant dwarf that must protect a human baby from an evil queen</entity>",
+        "entities": [
+            [
+                "1988",
+                "Year"
+            ],
+            [
+                "ron howard",
+                "Director"
+            ],
+            [
+                "val kilmer",
+                "Actor"
+            ],
+            [
+                "reluctant dwarf that must protect a human baby from an evil queen",
+                "Plot"
+            ]
+        ],
+        "sent_id": 184
+    },
+    {
+        "text": "director rob reiner left the set during billy crystal s scenes because he would laugh so hard he d become nauseated in this 1987 comedy",
+        "target": "director <entity type=\"Director\">rob reiner</entity> left the set during <entity type=\"Actor\">billy crystal</entity> s scenes because he would laugh so hard he d become nauseated in this <entity type=\"Year\">1987</entity> <entity type=\"Genre\">comedy</entity>",
+        "entities": [
+            [
+                "rob reiner",
+                "Director"
+            ],
+            [
+                "billy crystal",
+                "Actor"
+            ],
+            [
+                "1987",
+                "Year"
+            ],
+            [
+                "comedy",
+                "Genre"
+            ]
+        ],
+        "sent_id": 183
+    },
+    {
+        "text": "which sequel introduced the characters boba fett and lando calrissean into the trilogy of a rebellion against the galactic empire",
+        "target": "which <entity type=\"Relationship\">sequel</entity> introduced the characters <entity type=\"Character_Name\">boba fett</entity> and <entity type=\"Character_Name\">lando calrissean</entity> into <entity type=\"Plot\">the</entity> <entity type=\"Relationship\">trilogy</entity> <entity type=\"Plot\">of a rebellion against the galactic empire</entity>",
+        "entities": [
+            [
+                "sequel",
+                "Relationship"
+            ],
+            [
+                "boba fett",
+                "Character_Name"
+            ],
+            [
+                "lando calrissean",
+                "Character_Name"
+            ],
+            [
+                "the",
+                "Plot"
+            ],
+            [
+                "trilogy",
+                "Relationship"
+            ],
+            [
+                "of a rebellion against the galactic empire",
+                "Plot"
+            ]
+        ],
+        "sent_id": 428
+    },
+    {
+        "text": "what is the 2010 movie about dream invasion starring leonardo dicaprio and joseph gordon levitt",
+        "target": "what is the <entity type=\"Year\">2010</entity> movie about <entity type=\"Plot\">dream invasion</entity> starring <entity type=\"Actor\">leonardo dicaprio</entity> and <entity type=\"Actor\">joseph gordon levitt</entity>",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "dream invasion",
+                "Plot"
+            ],
+            [
+                "leonardo dicaprio",
+                "Actor"
+            ],
+            [
+                "joseph gordon levitt",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1071
+    },
+    {
+        "text": "what is the movie where perseus son of zeus has to save his dad who is captured by hades",
+        "target": "what is the movie where <entity type=\"Character_Name\">perseus son of zeus</entity> <entity type=\"Plot\">has</entity> to <entity type=\"Plot\">save his dad who is captured by</entity> <entity type=\"Character_Name\">hades</entity>",
+        "entities": [
+            [
+                "perseus son of zeus",
+                "Character_Name"
+            ],
+            [
+                "has",
+                "Plot"
+            ],
+            [
+                "save his dad who is captured by",
+                "Plot"
+            ],
+            [
+                "hades",
+                "Character_Name"
+            ]
+        ],
+        "sent_id": 1169
+    },
+    {
+        "text": "what is the 1935 american comedy film starring groucho marx and was the first film the marx brothers made for mgm",
+        "target": "what is the <entity type=\"Year\">1935</entity> <entity type=\"Genre\">american comedy</entity> film starring <entity type=\"Actor\">groucho marx</entity> and was the first film the marx brothers made for mgm",
+        "entities": [
+            [
+                "1935",
+                "Year"
+            ],
+            [
+                "american comedy",
+                "Genre"
+            ],
+            [
+                "groucho marx",
+                "Actor"
+            ]
+        ],
+        "sent_id": 1032
+    },
+    {
+        "text": "this fun animated film features the inner workings of our closets and what they might hold and why those door creak",
+        "target": "this <entity type=\"Opinion\">fun</entity> <entity type=\"Genre\">animated</entity> film features <entity type=\"Plot\">the inner workings of our closets and what they might hold and why those door creak</entity>",
+        "entities": [
+            [
+                "fun",
+                "Opinion"
+            ],
+            [
+                "animated",
+                "Genre"
+            ],
+            [
+                "the inner workings of our closets and what they might hold and why those door creak",
+                "Plot"
+            ]
+        ],
+        "sent_id": 374
+    },
+    {
+        "text": "an alien ring grants an unlikely hero otherworldy super powers as well as membership into an intergalactic squadron which is tasked with keeping peace within the universe",
+        "target": "<entity type=\"Plot\">an alien ring grants an unlikely hero otherworldy super powers as well as membership into an intergalactic squadron which is tasked with keeping peace within the universe</entity>",
+        "entities": [
+            [
+                "an alien ring grants an unlikely hero otherworldy super powers as well as membership into an intergalactic squadron which is tasked with keeping peace within the universe",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1408
+    },
+    {
+        "text": "the guy from avatar is now a greek demi god that has to save a princess",
+        "target": "the guy from avatar is now <entity type=\"Plot\">a greek demi god that has to save a princess</entity>",
+        "entities": [
+            [
+                "a greek demi god that has to save a princess",
+                "Plot"
+            ]
+        ],
+        "sent_id": 771
+    },
+    {
+        "text": "what is the name of the movie based on the 1980 s cartoon involving little blue and white characters led by a papa",
+        "target": "what is the name of the movie <entity type=\"Origin\">based on the 1980 s cartoon</entity> involving little blue and white characters led by a papa",
+        "entities": [
+            [
+                "based on the 1980 s cartoon",
+                "Origin"
+            ]
+        ],
+        "sent_id": 372
+    },
+    {
+        "text": "i m thinking of a movie in which a girl wants to find out who she is and explore the world so she goes on an adventure with a man that she ll eventually fall in love with",
+        "target": "i m thinking of a movie in which <entity type=\"Plot\">a girl wants to find out who she is and explore the world so she goes on an adventure with a man that she ll eventually fall in love with</entity>",
+        "entities": [
+            [
+                "a girl wants to find out who she is and explore the world so she goes on an adventure with a man that she ll eventually fall in love with",
+                "Plot"
+            ]
+        ],
+        "sent_id": 580
+    },
+    {
+        "text": "what was the movie mel gibson directed in 2004 that was about the crucifixion of jesus",
+        "target": "what was the movie <entity type=\"Director\">mel gibson</entity> directed in <entity type=\"Year\">2004</entity> that was <entity type=\"Plot\">about the crucifixion of jesus</entity>",
+        "entities": [
+            [
+                "mel gibson",
+                "Director"
+            ],
+            [
+                "2004",
+                "Year"
+            ],
+            [
+                "about the crucifixion of jesus",
+                "Plot"
+            ]
+        ],
+        "sent_id": 240
+    },
+    {
+        "text": "what 1971 alan pakula film featured donald sutherland as a detective and jane fonda as a prostitute",
+        "target": "what <entity type=\"Year\">1971</entity> <entity type=\"Director\">alan pakula</entity> film featured <entity type=\"Actor\">donald sutherland</entity> as <entity type=\"Plot\">a detective</entity> and <entity type=\"Actor\">jane fonda</entity> as a <entity type=\"Plot\">prostitute</entity>",
+        "entities": [
+            [
+                "1971",
+                "Year"
+            ],
+            [
+                "alan pakula",
+                "Director"
+            ],
+            [
+                "donald sutherland",
+                "Actor"
+            ],
+            [
+                "a detective",
+                "Plot"
+            ],
+            [
+                "jane fonda",
+                "Actor"
+            ],
+            [
+                "prostitute",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1694
+    },
+    {
+        "text": "i m thinking of a superhero movie starring natalie portman chris hemsworth and tom hiddleston that is a prequel to the avengers movie",
+        "target": "i m thinking of a <entity type=\"Genre\">superhero movie</entity> starring <entity type=\"Actor\">natalie portman chris hemsworth</entity> and <entity type=\"Actor\">tom hiddleston</entity> that is a <entity type=\"Relationship\">prequel to the avengers movie</entity>",
+        "entities": [
+            [
+                "superhero movie",
+                "Genre"
+            ],
+            [
+                "natalie portman chris hemsworth",
+                "Actor"
+            ],
+            [
+                "tom hiddleston",
+                "Actor"
+            ],
+            [
+                "prequel to the avengers movie",
+                "Relationship"
+            ]
+        ],
+        "sent_id": 322
+    },
+    {
+        "text": "colin first won a best actor oscar for portraying this british monarch in what best picture oscar winner",
+        "target": "<entity type=\"Actor\">colin</entity> first won a <entity type=\"Award\">best actor oscar</entity> for portraying this british monarch in what <entity type=\"Award\">best picture oscar winner</entity>",
+        "entities": [
+            [
+                "colin",
+                "Actor"
+            ],
+            [
+                "best actor oscar",
+                "Award"
+            ],
+            [
+                "best picture oscar winner",
+                "Award"
+            ]
+        ],
+        "sent_id": 531
+    },
+    {
+        "text": "this alfred hitchcock masterpiece featured anthony perkins as norman bates and was released in 1960",
+        "target": "this <entity type=\"Director\">alfred hitchcock</entity> <entity type=\"Opinion\">masterpiece</entity> featured <entity type=\"Actor\">anthony perkins</entity> as <entity type=\"Character_Name\">norman bates</entity> and was released in <entity type=\"Year\">1960</entity>",
+        "entities": [
+            [
+                "alfred hitchcock",
+                "Director"
+            ],
+            [
+                "masterpiece",
+                "Opinion"
+            ],
+            [
+                "anthony perkins",
+                "Actor"
+            ],
+            [
+                "norman bates",
+                "Character_Name"
+            ],
+            [
+                "1960",
+                "Year"
+            ]
+        ],
+        "sent_id": 257
+    },
+    {
+        "text": "what is the last movie in the series that started with johnny depp orlando bloom and kierra knightly where they sail around on the black pearl",
+        "target": "what is the <entity type=\"Relationship\">last movie in the series</entity> that started with <entity type=\"Actor\">johnny depp orlando bloom</entity> and <entity type=\"Actor\">kierra knightly</entity> where <entity type=\"Plot\">they sail around on the black pearl</entity>",
+        "entities": [
+            [
+                "last movie in the series",
+                "Relationship"
+            ],
+            [
+                "johnny depp orlando bloom",
+                "Actor"
+            ],
+            [
+                "kierra knightly",
+                "Actor"
+            ],
+            [
+                "they sail around on the black pearl",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1829
+    },
+    {
+        "text": "what famous cartoon movie has a lot of hi ho s in it",
+        "target": "what famous <entity type=\"Genre\">cartoon</entity> movie has a lot of hi ho s in it",
+        "entities": [
+            [
+                "cartoon",
+                "Genre"
+            ]
+        ],
+        "sent_id": 979
+    },
+    {
+        "text": "i am thinking of the blockbuster 80 s film about a boy and the lovable alien he finds near his home",
+        "target": "i am thinking of the blockbuster <entity type=\"Year\">80 s</entity> film about a <entity type=\"Plot\">boy and the lovable alien he finds near his home</entity>",
+        "entities": [
+            [
+                "80 s",
+                "Year"
+            ],
+            [
+                "boy and the lovable alien he finds near his home",
+                "Plot"
+            ]
+        ],
+        "sent_id": 612
+    },
+    {
+        "text": "what 1953 western depicts a weary gunfighter attempting to settle down with a homestead family",
+        "target": "what <entity type=\"Year\">1953</entity> <entity type=\"Genre\">western</entity> <entity type=\"Plot\">depicts a weary gunfighter attempting to settle down with a homestead family</entity>",
+        "entities": [
+            [
+                "1953",
+                "Year"
+            ],
+            [
+                "western",
+                "Genre"
+            ],
+            [
+                "depicts a weary gunfighter attempting to settle down with a homestead family",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1686
+    },
+    {
+        "text": "what 2001 movie depicts a troubled teenage plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes",
+        "target": "what <entity type=\"Year\">2001</entity> movie depicts <entity type=\"Plot\">a troubled teenage plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes</entity>",
+        "entities": [
+            [
+                "2001",
+                "Year"
+            ],
+            [
+                "a troubled teenage plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1726
+    },
+    {
+        "text": "which movie was a mix of live action and animation and centers around a cartoon character framed for murder seeking help from a detective who hates cartoons",
+        "target": "which movie was a mix of <entity type=\"Genre\">live action</entity> and <entity type=\"Genre\">animation</entity> and centers around <entity type=\"Plot\">a cartoon character framed for murder seeking help from a detective who hates cartoons</entity>",
+        "entities": [
+            [
+                "live action",
+                "Genre"
+            ],
+            [
+                "animation",
+                "Genre"
+            ],
+            [
+                "a cartoon character framed for murder seeking help from a detective who hates cartoons",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1359
+    },
+    {
+        "text": "amber heard was rumored to play mystique before jennifer lawrence was cast in this 2011 super hero movie",
+        "target": "<entity type=\"Actor\">amber heard</entity> was rumored to play <entity type=\"Character_Name\">mystique</entity> before <entity type=\"Actor\">jennifer lawrence</entity> was cast in this <entity type=\"Year\">2011</entity> <entity type=\"Genre\">super hero</entity> movie",
+        "entities": [
+            [
+                "amber heard",
+                "Actor"
+            ],
+            [
+                "mystique",
+                "Character_Name"
+            ],
+            [
+                "jennifer lawrence",
+                "Actor"
+            ],
+            [
+                "2011",
+                "Year"
+            ],
+            [
+                "super hero",
+                "Genre"
+            ]
+        ],
+        "sent_id": 512
+    },
+    {
+        "text": "what s the movie about a british boy and his dog that are detectives traveling the world",
+        "target": "what s the movie about <entity type=\"Plot\">a british boy and his dog that are detectives traveling the world</entity>",
+        "entities": [
+            [
+                "a british boy and his dog that are detectives traveling the world",
+                "Plot"
+            ]
+        ],
+        "sent_id": 886
+    },
+    {
+        "text": "what is the movie that explains the start rise and issues that the creator of facebook had to deal with",
+        "target": "what is the movie that explains <entity type=\"Plot\">the start rise and issues that the creator of facebook had to deal with</entity>",
+        "entities": [
+            [
+                "the start rise and issues that the creator of facebook had to deal with",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1157
+    },
+    {
+        "text": "what is the romantic comedy movie starring amanda seyfried and channing tatum where tatum plays a soldier",
+        "target": "what is the <entity type=\"Genre\">romantic comedy</entity> movie starring <entity type=\"Actor\">amanda seyfried</entity> and <entity type=\"Actor\">channing tatum</entity> where <entity type=\"Actor\">tatum</entity> <entity type=\"Plot\">plays a soldier</entity>",
+        "entities": [
+            [
+                "romantic comedy",
+                "Genre"
+            ],
+            [
+                "amanda seyfried",
+                "Actor"
+            ],
+            [
+                "channing tatum",
+                "Actor"
+            ],
+            [
+                "tatum",
+                "Actor"
+            ],
+            [
+                "plays a soldier",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1241
+    },
+    {
+        "text": "what movie has anna farris going through all her old boyfriends to find out if she already met and dated the one",
+        "target": "what movie has <entity type=\"Actor\">anna farris</entity> <entity type=\"Plot\">going through all her old boyfriends to find out if she already met and dated the one</entity>",
+        "entities": [
+            [
+                "anna farris",
+                "Actor"
+            ],
+            [
+                "going through all her old boyfriends to find out if she already met and dated the one",
+                "Plot"
+            ]
+        ],
+        "sent_id": 44
+    },
+    {
+        "text": "i m thinking of a movie where a scientist creates an island full of dinasaurs",
+        "target": "i m thinking of a movie where a <entity type=\"Plot\">scientist creates an island full of dinasaurs</entity>",
+        "entities": [
+            [
+                "scientist creates an island full of dinasaurs",
+                "Plot"
+            ]
+        ],
+        "sent_id": 228
+    },
+    {
+        "text": "what movie is the first of the three part prequel to the original three star wars movies",
+        "target": "what movie is the <entity type=\"Relationship\">first of the three part prequel to the original three star wars movies</entity>",
+        "entities": [
+            [
+                "first of the three part prequel to the original three star wars movies",
+                "Relationship"
+            ]
+        ],
+        "sent_id": 1278
+    },
+    {
+        "text": "in this movie a bunch of hobbits an elf a dwarf a wizard and a man by the name of strider start a long voyage",
+        "target": "in this movie <entity type=\"Plot\">a bunch of hobbits an elf a dwarf a wizard and a man by the name of strider start a long voyage</entity>",
+        "entities": [
+            [
+                "a bunch of hobbits an elf a dwarf a wizard and a man by the name of strider start a long voyage",
+                "Plot"
+            ]
+        ],
+        "sent_id": 649
+    },
+    {
+        "text": "what is the disney animated classic about a wooden boy that wants to be a real boy",
+        "target": "what is the <entity type=\"Genre\">disney animated classic</entity> about <entity type=\"Plot\">a wooden boy that wants to be a real boy</entity>",
+        "entities": [
+            [
+                "disney animated classic",
+                "Genre"
+            ],
+            [
+                "a wooden boy that wants to be a real boy",
+                "Plot"
+            ]
+        ],
+        "sent_id": 1101
+    },
+    {
+        "text": "what is the 2010 american crime drama film starring ben affleck and also directed by him set in the boston neighborhood of charlestown",
+        "target": "what is the <entity type=\"Year\">2010</entity> <entity type=\"Genre\">american crime drama</entity> film starring <entity type=\"Actor\">ben</entity> <entity type=\"Director\">affleck</entity> and also directed by him set in the boston neighborhood of charlestown",
+        "entities": [
+            [
+                "2010",
+                "Year"
+            ],
+            [
+                "american crime drama",
+                "Genre"
+            ],
+            [
+                "ben",
+                "Actor"
+            ],
+            [
+                "affleck",
+                "Director"
+            ]
+        ],
+        "sent_id": 1808
+    },
+    {
+        "text": "vivien leigh won the best actress academy award for her performance as scarlet o hara in this legendary 1939 film",
+        "target": "<entity type=\"Actor\">vivien leigh</entity> won the <entity type=\"Award\">best actress academy award</entity> for her performance as <entity type=\"Character_Name\">scarlet o hara</entity> in this <entity type=\"Opinion\">legendary</entity> <entity type=\"Year\">1939</entity> film",
+        "entities": [
+            [
+                "vivien leigh",
+                "Actor"
+            ],
+            [
+                "best actress academy award",
+                "Award"
+            ],
+            [
+                "scarlet o hara",
+                "Character_Name"
+            ],
+            [
+                "legendary",
+                "Opinion"
+            ],
+            [
+                "1939",
+                "Year"
+            ]
+        ],
+        "sent_id": 872
+    }
+]

@@ -1,0 +1,29 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks in the music domain. 
+Your job is to identify and tag entities in the input text by wrapping them with <entity type="[TYPE]">...</entity> tags. 
+Replace [TYPE] with the correct entity category. Leave all non-entity text unchanged.
+
+You must follow these rules:
+- Tag all valid entities in the text, even if the same entity appears multiple times.
+- Use only the defined entity types listed below.
+- Do not annotate spans that are not clearly defined entities based on the context and definitions.
+
+
+# Entity Type Definitions
+
+The defined entity types are: ['album', 'award', 'band', 'country', 'location', 'event', 'musical artist', 'musical instrument', 'music genre', 'organization', 'person', 'song', 'miscellaneous'].
+
+- 'album': The album entity.
+- 'award': The award entity.
+- 'band': The band entity. If an organization belongs to a band, you should label it as a band entity instead of an organization entity.
+- 'country': The country entity.
+- 'location': The location entity, including place, bridge, city, county and etc.
+- 'event': The event entity, which includes festival, war, summit, Campaign, and etc.
+- 'musical artist': The musical artist entity. It a person is working on the music area (e.g., he/she is a singer, composer, or songwriter), you should label it as a musical artist entity instead of a person entity.
+- 'musical instrument': The musical instrument entity, such as piano.
+- 'music genre': The music genre entity, such as country music, folk music and jazz.
+- 'organization': The organization entity.
+- 'person': The name of a person should be annotated as a person entity.
+- 'song': The song entity.
+- 'miscellaneous': An entity needs to be classified as the miscellaneous type if it does not belong to any other category.

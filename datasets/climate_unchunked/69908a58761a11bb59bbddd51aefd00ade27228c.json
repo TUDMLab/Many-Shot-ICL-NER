@@ -1,0 +1,1742 @@
+{
+    "entities": {
+        "52301": {
+            "begin": 142,
+            "end": 155,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52307": {
+            "begin": 305,
+            "end": 353,
+            "label": "model",
+            "substring": "Coupled Model Intercomparison Project, version 5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "52313": {
+            "begin": 355,
+            "end": 360,
+            "label": "model",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "52319": {
+            "begin": 380,
+            "end": 404,
+            "label": "location",
+            "substring": "Mediterranean Sea region",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "52325": {
+            "begin": 446,
+            "end": 463,
+            "label": "location",
+            "substring": "western Indonesia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "52331": {
+            "begin": 601,
+            "end": 614,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52337": {
+            "begin": 684,
+            "end": 697,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52343": {
+            "begin": 806,
+            "end": 819,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52349": {
+            "begin": 879,
+            "end": 892,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52355": {
+            "begin": 960,
+            "end": 980,
+            "label": "location",
+            "substring": "Mediterranean Europe",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "52361": {
+            "begin": 1100,
+            "end": 1113,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52367": {
+            "begin": 1550,
+            "end": 1563,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52373": {
+            "begin": 1606,
+            "end": 1611,
+            "label": "model",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "52379": {
+            "begin": 1635,
+            "end": 1648,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52385": {
+            "begin": 1726,
+            "end": 1739,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52391": {
+            "begin": 1873,
+            "end": 1886,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52397": {
+            "begin": 1922,
+            "end": 1935,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52403": {
+            "begin": 2024,
+            "end": 2032,
+            "label": "location",
+            "substring": "tropical",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "52409": {
+            "begin": 2291,
+            "end": 2306,
+            "label": "variable",
+            "substring": "water resources",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3dd9fd35-f1dd-4d25-b849-eeb7b64ab767"
+        },
+        "52415": {
+            "begin": 2472,
+            "end": 2485,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52421": {
+            "begin": 2877,
+            "end": 2890,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52427": {
+            "begin": 2948,
+            "end": 2961,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52433": {
+            "begin": 3059,
+            "end": 3072,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52439": {
+            "begin": 3213,
+            "end": 3226,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52445": {
+            "begin": 3501,
+            "end": 3534,
+            "label": "variable",
+            "substring": "cyclone/ anticyclone trajectories",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0720043d-4d31-45ae-a37c-9ba5959bf97d"
+        },
+        "52451": {
+            "begin": 3840,
+            "end": 3853,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52457": {
+            "begin": 4126,
+            "end": 4148,
+            "label": "location",
+            "substring": "Mediterranean climates",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "52463": {
+            "begin": 4224,
+            "end": 4237,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52469": {
+            "begin": 4269,
+            "end": 4289,
+            "label": "natural hazard",
+            "substring": "midlatitude cyclones",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0720043d-4d31-45ae-a37c-9ba5959bf97d"
+        },
+        "52475": {
+            "begin": 4386,
+            "end": 4399,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52481": {
+            "begin": 4583,
+            "end": 4593,
+            "label": "location",
+            "substring": "California",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc4f2acd-ace7-452b-a540-4162f9e9ddb0"
+        },
+        "52487": {
+            "begin": 4811,
+            "end": 4824,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52493": {
+            "begin": 5142,
+            "end": 5155,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52499": {
+            "begin": 5229,
+            "end": 5242,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52505": {
+            "begin": 5300,
+            "end": 5307,
+            "label": "natural hazard",
+            "substring": "drought",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+        },
+        "52511": {
+            "begin": 5488,
+            "end": 5501,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52517": {
+            "begin": 5645,
+            "end": 5658,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52523": {
+            "begin": 5907,
+            "end": 5920,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52529": {
+            "begin": 6274,
+            "end": 6289,
+            "label": "variable",
+            "substring": "solar radiation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a0f3474e-9a54-4a82-97c4-43864b48df4c"
+        },
+        "52535": {
+            "begin": 6401,
+            "end": 6437,
+            "label": "experiment",
+            "substring": "Representative Concentration Pathway",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "52541": {
+            "begin": 6443,
+            "end": 6450,
+            "label": "experiment",
+            "substring": "RCP 8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "52547": {
+            "begin": 6847,
+            "end": 6860,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52553": {
+            "begin": 6950,
+            "end": 6963,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52559": {
+            "begin": 8181,
+            "end": 8192,
+            "label": "location",
+            "substring": "Afghanistan",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa3c995d-58d6-4f06-9fb0-ec04e0456d7b"
+        },
+        "52565": {
+            "begin": 8202,
+            "end": 8217,
+            "label": "location",
+            "substring": "northwest India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "52571": {
+            "begin": 8219,
+            "end": 8227,
+            "label": "location",
+            "substring": "Pakistan",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+        },
+        "52577": {
+            "begin": 8233,
+            "end": 8246,
+            "label": "location",
+            "substring": "Southwest USA",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+        },
+        "52583": {
+            "begin": 8257,
+            "end": 8261,
+            "label": "location",
+            "substring": "Peru",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4366972c-aa2d-41cb-b9c3-4d6f57546f65"
+        },
+        "52589": {
+            "begin": 8263,
+            "end": 8268,
+            "label": "location",
+            "substring": "Chile",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/da26d486-1ee6-4689-abe9-5a59b2d572b1"
+        },
+        "52595": {
+            "begin": 8270,
+            "end": 8282,
+            "label": "location",
+            "substring": "South Africa",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb6d9fe3-10b5-4a75-be97-521d4058a4a9"
+        },
+        "52601": {
+            "begin": 8284,
+            "end": 8293,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "52607": {
+            "begin": 8792,
+            "end": 8809,
+            "label": "location",
+            "substring": "western Indonesia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "52613": {
+            "begin": 8823,
+            "end": 8831,
+            "label": "location",
+            "substring": "tropical",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "52619": {
+            "begin": 8993,
+            "end": 9006,
+            "label": "location",
+            "substring": "Mediterranean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "52625": {
+            "begin": 9027,
+            "end": 9042,
+            "label": "location",
+            "substring": "Central America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f2b153dd-1c30-42e4-8abf-677111e76c9a"
+        },
+        "52631": {
+            "begin": 9044,
+            "end": 9050,
+            "label": "location",
+            "substring": "Mexico",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70d89073-6697-4eb6-b01b-989c623a5649"
+        },
+        "52637": {
+            "begin": 9052,
+            "end": 9057,
+            "label": "location",
+            "substring": "Chile",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/da26d486-1ee6-4689-abe9-5a59b2d572b1"
+        },
+        "52643": {
+            "begin": 9063,
+            "end": 9080,
+            "label": "location",
+            "substring": "western Indonesia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "52649": {
+            "begin": 9144,
+            "end": 9150,
+            "label": "location",
+            "substring": "Mexico",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70d89073-6697-4eb6-b01b-989c623a5649"
+        },
+        "52655": {
+            "begin": 9164,
+            "end": 9177,
+            "label": "location",
+            "substring": "South Pacific",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+        },
+        "52661": {
+            "begin": 9182,
+            "end": 9196,
+            "label": "location",
+            "substring": "North Atlantic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+        },
+        "52667": {
+            "begin": 9215,
+            "end": 9224,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "52673": {
+            "begin": 9824,
+            "end": 9835,
+            "label": "location",
+            "substring": "Caspian Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/109670ea-5fc7-4726-b772-f315fa0fa603"
+        },
+        "52679": {
+            "begin": 10028,
+            "end": 10040,
+            "label": "location",
+            "substring": "South Africa",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb6d9fe3-10b5-4a75-be97-521d4058a4a9"
+        },
+        "52685": {
+            "begin": 10042,
+            "end": 10048,
+            "label": "location",
+            "substring": "Mexico",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70d89073-6697-4eb6-b01b-989c623a5649"
+        },
+        "52691": {
+            "begin": 10114,
+            "end": 10127,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52697": {
+            "begin": 10219,
+            "end": 10239,
+            "label": "location",
+            "substring": "midlatitude cyclones",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0720043d-4d31-45ae-a37c-9ba5959bf97d"
+        },
+        "52703": {
+            "begin": 10413,
+            "end": 10426,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52709": {
+            "begin": 10534,
+            "end": 10547,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52715": {
+            "begin": 10836,
+            "end": 10847,
+            "label": "location",
+            "substring": "Afghanistan",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa3c995d-58d6-4f06-9fb0-ec04e0456d7b"
+        },
+        "52721": {
+            "begin": 11074,
+            "end": 11087,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52727": {
+            "begin": 11136,
+            "end": 11149,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52733": {
+            "begin": 11243,
+            "end": 11253,
+            "label": "variable",
+            "substring": "ecosystems",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+        },
+        "52739": {
+            "begin": 11297,
+            "end": 11310,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52745": {
+            "begin": 11583,
+            "end": 11596,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52751": {
+            "begin": 11870,
+            "end": 11883,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52757": {
+            "begin": 11907,
+            "end": 11920,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52763": {
+            "begin": 11938,
+            "end": 11951,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52769": {
+            "begin": 12167,
+            "end": 12180,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52775": {
+            "begin": 12278,
+            "end": 12291,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52781": {
+            "begin": 12584,
+            "end": 12597,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52787": {
+            "begin": 12612,
+            "end": 12636,
+            "label": "location",
+            "substring": "Mediterranean Sea region",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "52793": {
+            "begin": 12804,
+            "end": 12817,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52799": {
+            "begin": 12925,
+            "end": 12938,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52805": {
+            "begin": 13053,
+            "end": 13060,
+            "label": "location",
+            "substring": "tropics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "52811": {
+            "begin": 13206,
+            "end": 13219,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52817": {
+            "begin": 13407,
+            "end": 13420,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52823": {
+            "begin": 13452,
+            "end": 13470,
+            "label": "location",
+            "substring": "Indonesian regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "52829": {
+            "begin": 13823,
+            "end": 13841,
+            "label": "location",
+            "substring": "Indonesian regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "52835": {
+            "begin": 13869,
+            "end": 13889,
+            "label": "teleconnection",
+            "substring": "ENSO teleconnections",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "52841": {
+            "begin": 14027,
+            "end": 14040,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52847": {
+            "begin": 14208,
+            "end": 14221,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52853": {
+            "begin": 14298,
+            "end": 14311,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52859": {
+            "begin": 14534,
+            "end": 14547,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52865": {
+            "begin": 14825,
+            "end": 14838,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52871": {
+            "begin": 15499,
+            "end": 15512,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52877": {
+            "begin": 15654,
+            "end": 15667,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52883": {
+            "begin": 15727,
+            "end": 15740,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52889": {
+            "begin": 15834,
+            "end": 15847,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52895": {
+            "begin": 16086,
+            "end": 16099,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52901": {
+            "begin": 16172,
+            "end": 16184,
+            "label": "location",
+            "substring": "deep tropics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "52907": {
+            "begin": 16302,
+            "end": 16315,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52913": {
+            "begin": 16377,
+            "end": 16390,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52919": {
+            "begin": 16568,
+            "end": 16581,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52925": {
+            "begin": 16761,
+            "end": 16774,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52931": {
+            "begin": 16817,
+            "end": 16830,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52937": {
+            "begin": 16893,
+            "end": 16900,
+            "label": "experiment",
+            "substring": "RCP 8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "52943": {
+            "begin": 16996,
+            "end": 17009,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52949": {
+            "begin": 17289,
+            "end": 17295,
+            "label": "location",
+            "substring": "Mexico",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70d89073-6697-4eb6-b01b-989c623a5649"
+        },
+        "52955": {
+            "begin": 17315,
+            "end": 17320,
+            "label": "location",
+            "substring": "Chile",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/da26d486-1ee6-4689-abe9-5a59b2d572b1"
+        },
+        "52961": {
+            "begin": 17334,
+            "end": 17343,
+            "label": "location",
+            "substring": "Indonesia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "52967": {
+            "begin": 17404,
+            "end": 17417,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52973": {
+            "begin": 17524,
+            "end": 17537,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52979": {
+            "begin": 17747,
+            "end": 17760,
+            "label": "location",
+            "substring": "Mediterranean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "52985": {
+            "begin": 17795,
+            "end": 17808,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "52991": {
+            "begin": 18011,
+            "end": 18025,
+            "label": "location",
+            "substring": "U.S. Southwest",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+        },
+        "52997": {
+            "begin": 18122,
+            "end": 18135,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53003": {
+            "begin": 18217,
+            "end": 18230,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53009": {
+            "begin": 18297,
+            "end": 18310,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53015": {
+            "begin": 18363,
+            "end": 18370,
+            "label": "natural hazard",
+            "substring": "drought",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+        },
+        "53021": {
+            "begin": 18692,
+            "end": 18705,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53027": {
+            "begin": 18786,
+            "end": 18799,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53033": {
+            "begin": 18835,
+            "end": 18861,
+            "label": "model",
+            "substring": "general circulation models",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "53039": {
+            "begin": 19099,
+            "end": 19106,
+            "label": "model",
+            "substring": "RCP 8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "53045": {
+            "begin": 19266,
+            "end": 19281,
+            "label": "variable",
+            "substring": "solar radiation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a0f3474e-9a54-4a82-97c4-43864b48df4c"
+        },
+        "53051": {
+            "begin": 19345,
+            "end": 19352,
+            "label": "experiment",
+            "substring": "RCP 8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "53057": {
+            "begin": 19472,
+            "end": 19485,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53063": {
+            "begin": 19650,
+            "end": 19682,
+            "label": "provider",
+            "substring": "NASA Goddard Space Flight Center",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/caf10913-e092-4008-a6cb-f7efe8037047"
+        },
+        "53069": {
+            "begin": 19821,
+            "end": 19834,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53075": {
+            "begin": 19999,
+            "end": 20012,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53081": {
+            "begin": 20158,
+            "end": 20171,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53087": {
+            "begin": 20859,
+            "end": 20872,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53093": {
+            "begin": 20926,
+            "end": 20939,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53099": {
+            "begin": 21008,
+            "end": 21021,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53105": {
+            "begin": 21121,
+            "end": 21134,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53111": {
+            "begin": 21250,
+            "end": 21263,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53117": {
+            "begin": 21296,
+            "end": 21309,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53123": {
+            "begin": 21366,
+            "end": 21379,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "53129": {
+            "begin": 274,
+            "end": 295,
+            "label": "model",
+            "substring": "global climate models",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "53135": {
+            "begin": 427,
+            "end": 440,
+            "label": "location",
+            "substring": "South America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+        },
+        "53141": {
+            "begin": 730,
+            "end": 740,
+            "label": "location",
+            "substring": "subtropics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53147": {
+            "begin": 1207,
+            "end": 1217,
+            "label": "variable",
+            "substring": "ecosystems",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+        },
+        "53153": {
+            "begin": 921,
+            "end": 951,
+            "label": "location",
+            "substring": "subtropical subsidence regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53159": {
+            "begin": 1396,
+            "end": 1406,
+            "label": "variable",
+            "substring": "ecosystems",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+        },
+        "53165": {
+            "begin": 1980,
+            "end": 1983,
+            "label": "variable",
+            "substring": "GHG",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+        },
+        "53171": {
+            "begin": 1964,
+            "end": 1978,
+            "label": "variable",
+            "substring": "greenhouse gas",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+        },
+        "53177": {
+            "begin": 2034,
+            "end": 2045,
+            "label": "location",
+            "substring": "subtropical",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53183": {
+            "begin": 2050,
+            "end": 2071,
+            "label": "location",
+            "substring": "high latitude regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+        },
+        "53189": {
+            "begin": 2169,
+            "end": 2183,
+            "label": "location",
+            "substring": "high latitudes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+        },
+        "53195": {
+            "begin": 2550,
+            "end": 2584,
+            "label": "location",
+            "substring": "Mediterranean-type climate regimes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb996422-74b7-44fa-89f5-63fd58be9102"
+        },
+        "53201": {
+            "begin": 2530,
+            "end": 2534,
+            "label": "location",
+            "substring": "arid",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+        },
+        "53207": {
+            "begin": 2541,
+            "end": 2545,
+            "label": "location",
+            "substring": "arid",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+        },
+        "53213": {
+            "begin": 3343,
+            "end": 3380,
+            "label": "variable",
+            "substring": "atmospheric water vapor concentration",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/15029eb0-6342-4066-8ac9-c50f7dbfb392"
+        },
+        "53219": {
+            "begin": 3476,
+            "end": 3488,
+            "label": "variable",
+            "substring": "storm tracks",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8b85871f-7851-4320-9eec-6aa26b9310f7"
+        },
+        "53225": {
+            "begin": 3558,
+            "end": 3562,
+            "label": "variable",
+            "substring": "jets",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b8e4067-db4e-42d4-b4a5-7de5e683125d"
+        },
+        "53231": {
+            "begin": 3647,
+            "end": 3669,
+            "label": "location",
+            "substring": "midlatitude westerlies",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+        },
+        "53237": {
+            "begin": 3690,
+            "end": 3697,
+            "label": "location",
+            "substring": "equator",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/44941da4-aae8-4776-8db0-f2c3eb5eb5e6"
+        },
+        "53243": {
+            "begin": 3900,
+            "end": 3925,
+            "label": "variable",
+            "substring": "midlatitude precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+        },
+        "53249": {
+            "begin": 4103,
+            "end": 4124,
+            "label": "weather event",
+            "substring": "precipitation changes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+        },
+        "53255": {
+            "begin": 4435,
+            "end": 4453,
+            "label": "location",
+            "substring": "atmospheric rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "53261": {
+            "begin": 4527,
+            "end": 4538,
+            "label": "location",
+            "substring": "subtropical",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53267": {
+            "begin": 4978,
+            "end": 4990,
+            "label": "weather event",
+            "substring": "wet extremes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+        },
+        "53273": {
+            "begin": 6048,
+            "end": 6053,
+            "label": "model",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "53279": {
+            "begin": 6249,
+            "end": 6265,
+            "label": "variable",
+            "substring": "greenhouse gases",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+        },
+        "53285": {
+            "begin": 6267,
+            "end": 6271,
+            "label": "variable",
+            "substring": "GHGs",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+        },
+        "53291": {
+            "begin": 6614,
+            "end": 6618,
+            "label": "project",
+            "substring": "GPCP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/502ea6bd-45e9-45af-9092-a4cbe6ba2e7e"
+        },
+        "53297": {
+            "begin": 6563,
+            "end": 6603,
+            "label": "project",
+            "substring": "Global Precipitation Climatology Project",
+            "identifier": null
+        },
+        "53303": {
+            "begin": 6676,
+            "end": 6680,
+            "label": "project",
+            "substring": "GPCP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/502ea6bd-45e9-45af-9092-a4cbe6ba2e7e"
+        },
+        "53309": {
+            "begin": 6792,
+            "end": 6813,
+            "label": "model",
+            "substring": "global climate models",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c5b13fa4-0069-40ce-85cb-bfbab34c2058"
+        },
+        "53315": {
+            "begin": 7191,
+            "end": 7195,
+            "label": "project",
+            "substring": "GPCP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/502ea6bd-45e9-45af-9092-a4cbe6ba2e7e"
+        },
+        "53321": {
+            "begin": 7421,
+            "end": 7434,
+            "label": "location",
+            "substring": "polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fedcf7c-7b0c-4b51-abd2-2c54de713061"
+        },
+        "53327": {
+            "begin": 7485,
+            "end": 7501,
+            "label": "location",
+            "substring": "subpolar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fedcf7c-7b0c-4b51-abd2-2c54de713061"
+        },
+        "53333": {
+            "begin": 7376,
+            "end": 7409,
+            "label": "location",
+            "substring": "subtropical high-pressure regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f900066-a11f-43d3-9ef9-8d2b153c788e"
+        },
+        "53339": {
+            "begin": 7454,
+            "end": 7480,
+            "label": "location",
+            "substring": "tropical convergence zones",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b59e188c-49b8-41b3-94c4-0bc1dbb554fe"
+        },
+        "53345": {
+            "begin": 6295,
+            "end": 6312,
+            "label": "variable",
+            "substring": "volcanic aerosols",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e5a401b-1507-4f57-82b8-36557c13b154"
+        },
+        "53351": {
+            "begin": 7622,
+            "end": 7652,
+            "label": "location",
+            "substring": "subtropical subsidence regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53357": {
+            "begin": 7885,
+            "end": 7910,
+            "label": "location",
+            "substring": "subtropical South America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+        },
+        "53363": {
+            "begin": 7864,
+            "end": 7879,
+            "label": "location",
+            "substring": "Tibetan plateau",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0baf564f-f942-4aeb-9b75-30b838f28f3f"
+        },
+        "53369": {
+            "begin": 7843,
+            "end": 7858,
+            "label": "location",
+            "substring": "tropical Africa",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53375": {
+            "begin": 8166,
+            "end": 8179,
+            "label": "location",
+            "substring": "Sahara Desert",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5d5426f6-e7ce-41c1-a3d3-b93adf748f0f"
+        },
+        "53381": {
+            "begin": 8128,
+            "end": 8132,
+            "label": "location",
+            "substring": "arid",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+        },
+        "53387": {
+            "begin": 8133,
+            "end": 8152,
+            "label": "location",
+            "substring": "subtropical regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53393": {
+            "begin": 8303,
+            "end": 8316,
+            "label": "location",
+            "substring": "polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "53399": {
+            "begin": 8631,
+            "end": 8652,
+            "label": "variable",
+            "substring": "anthropogenic forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+        },
+        "53405": {
+            "begin": 8775,
+            "end": 8787,
+            "label": "location",
+            "substring": "Amazon basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb293e12-6ffe-48e2-96e5-8f5ae9c137c2"
+        },
+        "53411": {
+            "begin": 9120,
+            "end": 9135,
+            "label": "location",
+            "substring": "oceanic regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+        },
+        "53417": {
+            "begin": 9420,
+            "end": 9450,
+            "label": "location",
+            "substring": "intertropical convergence zone",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+        },
+        "53423": {
+            "begin": 9455,
+            "end": 9468,
+            "label": "location",
+            "substring": "polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "53429": {
+            "begin": 9787,
+            "end": 9804,
+            "label": "location",
+            "substring": "Mediterranean Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb996422-74b7-44fa-89f5-63fd58be9102"
+        },
+        "53435": {
+            "begin": 9928,
+            "end": 9945,
+            "label": "location",
+            "substring": "Iberian Peninsula",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a62ae820-58c5-47ff-bb72-2680962b26f4"
+        },
+        "53441": {
+            "begin": 10054,
+            "end": 10071,
+            "label": "location",
+            "substring": "western Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "53447": {
+            "begin": 10144,
+            "end": 10173,
+            "label": "location",
+            "substring": "Mediterranean climate regimes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb996422-74b7-44fa-89f5-63fd58be9102"
+        },
+        "53453": {
+            "begin": 10322,
+            "end": 10344,
+            "label": "location",
+            "substring": "midlatitude stormtrack",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8b85871f-7851-4320-9eec-6aa26b9310f7"
+        },
+        "53459": {
+            "begin": 10583,
+            "end": 10605,
+            "label": "location",
+            "substring": "Northern polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "53465": {
+            "begin": 10703,
+            "end": 10724,
+            "label": "location",
+            "substring": "Southern polar region",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "53471": {
+            "begin": 10794,
+            "end": 10813,
+            "label": "location",
+            "substring": "subtropical regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53477": {
+            "begin": 10821,
+            "end": 10834,
+            "label": "location",
+            "substring": "Sahara Desert",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5d5426f6-e7ce-41c1-a3d3-b93adf748f0f"
+        },
+        "53483": {
+            "begin": 10853,
+            "end": 10871,
+            "label": "location",
+            "substring": "northwestern India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/649d1472-6662-49b8-8975-19b2e90637cb"
+        },
+        "53489": {
+            "begin": 10998,
+            "end": 11010,
+            "label": "variable",
+            "substring": "storm tracks",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8b85871f-7851-4320-9eec-6aa26b9310f7"
+        },
+        "53495": {
+            "begin": 10951,
+            "end": 10974,
+            "label": "location",
+            "substring": "subtropical dry regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53501": {
+            "begin": 11415,
+            "end": 11420,
+            "label": "model",
+            "substring": "CMIP3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a04c8fb-53aa-465d-803d-d0aaad32be12"
+        },
+        "53507": {
+            "begin": 11425,
+            "end": 11430,
+            "label": "model",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "53513": {
+            "begin": 12046,
+            "end": 12069,
+            "label": "variable",
+            "substring": "precipitation intensity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+        },
+        "53519": {
+            "begin": 12134,
+            "end": 12158,
+            "label": "location",
+            "substring": "Mediterranean Sea region",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb996422-74b7-44fa-89f5-63fd58be9102"
+        },
+        "53525": {
+            "begin": 13578,
+            "end": 13599,
+            "label": "weather event",
+            "substring": "precipitation changes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ea213be5-fe37-4179-9a9b-030c2bf42cf5"
+        },
+        "53531": {
+            "begin": 13065,
+            "end": 13081,
+            "label": "location",
+            "substring": "higher latitudes",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b44"
+        },
+        "53537": {
+            "begin": 12944,
+            "end": 12963,
+            "label": "location",
+            "substring": "subtropical regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53543": {
+            "begin": 13291,
+            "end": 13310,
+            "label": "location",
+            "substring": "subtropical regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53549": {
+            "begin": 13441,
+            "end": 13447,
+            "label": "location",
+            "substring": "Amazon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb293e12-6ffe-48e2-96e5-8f5ae9c137c2"
+        },
+        "53555": {
+            "begin": 13812,
+            "end": 13818,
+            "label": "location",
+            "substring": "Amazon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb293e12-6ffe-48e2-96e5-8f5ae9c137c2"
+        },
+        "53561": {
+            "begin": 14087,
+            "end": 14124,
+            "label": "variable",
+            "substring": "interannual precipitation variability",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+        },
+        "53567": {
+            "begin": 14433,
+            "end": 14470,
+            "label": "variable",
+            "substring": "interannual precipitation variability",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+        },
+        "53573": {
+            "begin": 14682,
+            "end": 14695,
+            "label": "location",
+            "substring": "polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "53579": {
+            "begin": 15058,
+            "end": 15084,
+            "label": "variable",
+            "substring": "total annual precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+        },
+        "53585": {
+            "begin": 15256,
+            "end": 15289,
+            "label": "location",
+            "substring": "Mediterraneantype climate regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb996422-74b7-44fa-89f5-63fd58be9102"
+        },
+        "53591": {
+            "begin": 15296,
+            "end": 15304,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "53597": {
+            "begin": 16154,
+            "end": 16167,
+            "label": "location",
+            "substring": "polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "53603": {
+            "begin": 16459,
+            "end": 16500,
+            "label": "location",
+            "substring": "oceanic subtropical high pressure regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53609": {
+            "begin": 16851,
+            "end": 16856,
+            "label": "project",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "53615": {
+            "begin": 16857,
+            "end": 16878,
+            "label": "model",
+            "substring": "global climate models",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c5b13fa4-0069-40ce-85cb-bfbab34c2058"
+        },
+        "53621": {
+            "begin": 17090,
+            "end": 17101,
+            "label": "location",
+            "substring": "subtropical",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53627": {
+            "begin": 17102,
+            "end": 17119,
+            "label": "location",
+            "substring": "semi-arid regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+        },
+        "53633": {
+            "begin": 17250,
+            "end": 17267,
+            "label": "location",
+            "substring": "Mediterranean Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c322d007-8d19-451b-ba46-daa216782248"
+        },
+        "53639": {
+            "begin": 17301,
+            "end": 17313,
+            "label": "location",
+            "substring": "Amazon basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "53645": {
+            "begin": 17269,
+            "end": 17284,
+            "label": "location",
+            "substring": "Central America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0980d595-3dbe-4247-82f2-40b5e8df603f"
+        },
+        "53651": {
+            "begin": 16537,
+            "end": 16549,
+            "label": "location",
+            "substring": "deep tropics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53657": {
+            "begin": 16515,
+            "end": 16528,
+            "label": "location",
+            "substring": "polar regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fedcf7c-7b0c-4b51-abd2-2c54de713061"
+        },
+        "53663": {
+            "begin": 18382,
+            "end": 18387,
+            "label": "natural hazard",
+            "substring": "flood",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fd03d204-4391-4e98-8142-8b8efa235231"
+        },
+        "53669": {
+            "begin": 18653,
+            "end": 18673,
+            "label": "natural hazard",
+            "substring": "dry and wet extremes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+        },
+        "53675": {
+            "begin": 18883,
+            "end": 18888,
+            "label": "project",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "53681": {
+            "begin": 19057,
+            "end": 19093,
+            "label": "model",
+            "substring": "Representative Concentration Pathway",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "53687": {
+            "begin": 19241,
+            "end": 19257,
+            "label": "variable",
+            "substring": "greenhouse gases",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b37"
+        },
+        "53693": {
+            "begin": 19287,
+            "end": 19304,
+            "label": "variable",
+            "substring": "volcanic aerosols",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e5a401b-1507-4f57-82b8-36557c13b154"
+        },
+        "53699": {
+            "begin": 19259,
+            "end": 19263,
+            "label": "variable",
+            "substring": "GHGs",
+            "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b37"
+        },
+        "53705": {
+            "begin": 19430,
+            "end": 19433,
+            "label": "variable",
+            "substring": "CO2",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1651dd4f-d5f9-4d1e-841e-5c805a0809dd"
+        },
+        "53711": {
+            "begin": 19507,
+            "end": 19511,
+            "label": "project",
+            "substring": "GPCP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/502ea6bd-45e9-45af-9092-a4cbe6ba2e7e"
+        },
+        "53717": {
+            "begin": 19615,
+            "end": 19619,
+            "label": "variable",
+            "substring": "GPCP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/502ea6bd-45e9-45af-9092-a4cbe6ba2e7e"
+        },
+        "53723": {
+            "begin": 20055,
+            "end": 20059,
+            "label": "model",
+            "substring": "GCMs",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "53729": {
+            "begin": 20218,
+            "end": 20256,
+            "label": "provider",
+            "substring": "NOAA's co-operative observing stations",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c9003d36-020d-4e86-995a-498945576c23"
+        },
+        "53735": {
+            "begin": 21797,
+            "end": 21802,
+            "label": "project",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "53741": {
+            "begin": 21699,
+            "end": 21703,
+            "label": "provider",
+            "substring": "NCAR",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d9fbd2ea-803e-48b7-a1f2-774e6845cc1f"
+        },
+        "53747": {
+            "begin": 21577,
+            "end": 21596,
+            "label": "location",
+            "substring": "subtropical regions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "53748": {
+            "begin": 2203,
+            "end": 2220,
+            "label": "location",
+            "substring": "semi-arid regions",
+            "identifier": null
+        },
+        "53749": {
+            "begin": 2152,
+            "end": 2164,
+            "label": "location",
+            "substring": "deep tropics",
+            "identifier": null
+        },
+        "53750": {
+            "begin": 13136,
+            "end": 13148,
+            "label": "variable",
+            "substring": "storm tracks",
+            "identifier": null
+        },
+        "53751": {
+            "begin": 3602,
+            "end": 3613,
+            "label": "location",
+            "substring": "subtropical",
+            "identifier": null
+        },
+        "53752": {
+            "begin": 3877,
+            "end": 3888,
+            "label": "location",
+            "substring": "subtropical",
+            "identifier": null
+        },
+        "53753": {
+            "begin": 2228,
+            "end": 2238,
+            "label": "location",
+            "substring": "subtropics",
+            "identifier": null
+        }
+    },
+    "relations": {},
+    "text": "<heading>ABSTRACT</heading>\nFuture changes in the number of dry days per year can either reinforce or counteract projected increases in daily precipitation intensity as the climate warms. We analyze climate model projected changes in the number of dry days using 28 coupled global climate models from the Coupled Model Intercomparison Project, version 5 (CMIP5). We find that the Mediterranean Sea region, parts of Central and South America, and western Indonesia could experience up to 30 more dry days per year by the end of this century. We illustrate how changes in the number of dry days and the precipitation intensity on precipitating days combine to produce changes in annual precipitation, and show that over much of the subtropics the change in number of dry days dominates the annual changes in precipitation and accounts for a large part of the change in interannual precipitation variability.uture drying in subtropical subsidence regions such as Mediterranean Europe is a recognized consequence in projections of anthropogenically forced climate change, but previous analyses of future precipitation have focused primarily on changes at annual or monthly time scales 1-3 . However, people and ecosystems experience weather at the daily time scale so it is important to also anticipate changes in daily weather. Additionally, the frequency of dry days affects regional hydrology and ecosystems and potentially influences tourism, agriculture, and transportation. Previously it has not been possible to examine projected daily changes in precipitation in a large number of models 1,3 , but the CMIP5 archive contains daily precipitation fields from nearly 30 models, making such an analysis possible. By analyzing precipitation regimes at the daily scale we can now show the key role that trends in the occurrence of dry days play in regional changes in annual precipitation. Global projections of annual mean precipitation include robust responses to greenhouse gas (GHG) forcing in many areas, especially over tropical, subtropical and high latitude regions [3][4][5] . This response includes increases over historically wet areas of the deep tropics and high latitudes and decreases over semi-arid regions in the subtropics. The latter is a particular concern for society, as water resources are often scarce in these areas already [6][7][8] . Moreover, fewer precipitating days in dry areas should lead to increased interannual variability in annual total precipitation, exacerbating the erratic hydro-climates of arid, semi-arid and Mediterranean-type climate regimes. Our goals in this work are to answer such questions as how model simulations of the occurrence of dry days compare to observations and what the model-projected changes in dry day occurrence by the end of the century are. We demonstrate how changing numbers of days that are dry and changing precipitation intensity on days that are wet together determine annual precipitation changes, and show the effects of increasing numbers of dry days in some areas has on interannual precipitation variability. It is useful to place the current work on dry days in the context of previous work examining the physical mechanisms of future precipitation change. Thermodynamical mechanisms include the consequences of the Clausius-Clapeyron equation-governed increase in atmospheric water vapor concentration and transport in a warmer climate 4,9 . Dynamical mechanisms are related to poleward shifts of storm tracks and related cyclone/ anticyclone trajectories, baroclinic zones, and jets as descending Hadley cell branches and subtropical dry zones expand poleward and as midlatitude westerlies adjust to a reduced equator-to-pole temperature gradient 8,10-12 . In some regions, only one of these mechanisms dominates; for example, Ref. 13 indicates that projected precipitation declines found between subtropical minima and midlatitude precipitation maxima arise from the poleward expansion of dry zones rather than from thermodynamical mechanisms. In other areas, the mechanisms compound or compete to yield projected overall precipitation changes. Mediterranean climates, for example, receive\n<heading></heading>\nthe majority of their infrequent precipitation from the equatorward margin of midlatitude cyclones. Even a slight poleward shift in the storm-track can strongly decrease the probability of daily precipitation. At the same time, well-positioned atmospheric rivers are projected to tap into and episodically deliver more moisture to some subtropical locales in a warmer climate, for example in California 14 . This work does not focus on these shifting mechanisms per se, but rather on the net effect climate change has on the occurrence of dry day and on its consequences for regional hydro-climates.\nFuture increases in precipitation intensity are likely to be an important aspect of climate change, since warming will tend to accelerate the overall hydrological cycle, intensifying the wet extremes 5,15,16 in addition to the dry extremes in some areas. Several studies have quantified the impact of climate change on the wet tails of high frequency precipitation distributions 15,[17][18][19] , but studies of the dry tails of regional precipitation distributions have up to now mostly focused on long-term drought, dry spells, or dry months 3,[20][21][22] , although ref. 23 found the length of dry spells have increased over the conterminous US concurrently with observed increasing trends in precipitation intensity.\nShowing how a warming climate will affect dry-day frequency will help elucidate the processes involved in overall changes in annual precipitation and allow societies to better adapt to and mitigate the impacts of local hydrological changes.\n<heading>Results</heading>\nChanges in dry-day frequency. This study focuses on projected changes in dry-day frequency in a warming climate. We use daily precipitation from 28 climate models (all those with the required data that were available at the time of analysis) that participated in the CMIP5 project 24 . We take 1960-1989 as our base historical climatology period, and assess changes projected for the future (2060-2089). The historical simulations were forced with observed long-lived greenhouse gases (GHGs), solar radiation, and volcanic aerosols appropriate to the twentieth century, while the future simulations were forced with the Representative Concentration Pathway 8.5 (RCP 8.5) scenario. We also compare model climatology over the base period to observations from the daily version of the Global Precipitation Climatology Project data set [GPCP Daily;Ref. 25] during the restricted 1997-2012 period of GPCP Daily data availability. See the Methods section for further details.\nPartly due to coarse spatial resolution, global climate models produce too many days with small precipitation totals 26 , sometimes known as the ''drizzle problem''. Accordingly, we define days with precipitation ,1 mm as dry days for both models and observations (see Methods for further details).\nFig. 1 shows the multi-model ensemble mean climatological (1960-89) yearly frequency of dry days in the historical simulations (panel a) and GPCP observations (panel b). The multi-model ensemble mean pattern is in good agreement with observations on broad spatial scales (spatial correlation of 0.91), capturing the maxima in subtropical high-pressure regions and in the polar regions, and minima in the tropical convergence zones and subpolar regions. However, regional differences between the models and observations remain. For example, high numbers of dry days in the subtropical subsidence regions systematically extend farther west in the observations than in the ensemble mean. Over most land areas, model dryday frequencies are within 1 to 10 days of the observed pattern, except over tropical Africa, the Tibetan plateau, and subtropical South America. Over most ocean areas, the ensemble mean tends to underestimate the number of dry days, with errors in some locations reaching ,80 days/year. High frequencies (.300 days/yr) of dry days are observed over most of the arid subtropical regions, such as the Sahara Desert, Afghanistan, part of northwest India, Pakistan, the Southwest USA, parts of Peru, Chile, South Africa, Australia, and the polar regions. Models underestimate the dry-day frequency over these regions by 1-5 days. Recomputing Fig. 1 over the common period of the models and observations, 1997-2005, makes almost no difference (online supplementary material Fig. S1).\nThe ensemble-mean dry-day frequency changes (future minus historical) in response to anthropogenic forcing are shown in Fig. 2. Increases in dry days are nearly all located in the extratropical regions between 50uN and 50uS; the Amazon basin and western Indonesia are the only tropical regions that experience significantly increased numbers of dry days per year. A strong increase in dry-day frequencies is projected over land regions around the Mediterranean and Caribbean Seas, Central America, Mexico, Chile, and western Indonesia. Increases are also projected over the oceanic regions west of Mexico, the eastern South Pacific and North Atlantic, and southwest of Australia. Some of these regions are projected, in ensemble mean, to experience an additional 30 dry days per year by the second half of the 21 st Century. Reduced numbers of dry days are projected in the intertropical convergence zone and polar regions. The majority of models agree on the sign of dry-day frequency changes over the regions with strongest projected increases or decreases (see stippled regions in Fig. 2), however, individual models diverge considerably in the magnitude of change.\nThe projected increases in numbers of dry days in the region around the Mediterranean Sea extend east to the Caspian Sea, and represent at least a 10% increase in dry-day frequency, reaching 30% over the northern Iberian Peninsula. An additional 15-20 dry days per year (5-8% increases) are projected to occur in South Africa, Mexico, and western Australia. The most frequent (not the most intense) precipitation events in these Mediterranean climate regimes are associated with the equatorward flank of midlatitude cyclones; these are the events that will become less frequent with a poleward shift in the midlatitude stormtrack 10 . On the other hand, the events associated with the most intense precipitation usually follow more equatorward tracks; these extremes will still occasionally occur and should yield more precipitation in a warmer world 14,15 . Over the Northern polar regions the number of dry days declines by about 40 days per year (12%), with a smaller decline over the Southern polar region of ,10 days per year (5%). On the other hand, over the currently dry subtropical regions of the Sahara Desert, Afghanistan, and northwestern India the models show little change, which is consistent with poleward expansions of subtropical dry regions and poleward shifts of storm tracks and jet streams 10,11,13 .\nContributions of dry days to annual precipitation changes. Future increases or declines in annual precipitation are an aspect of climate change that will have a particularly strong effect on societies and ecosystems. The multi-model ensemble change in annual precipitation projected by the models used here is shown in Fig. 3a, and is consistent with previous results based on CMIP3 and CMIP5 models 3,5 .\nThe question we ask is what fraction of the annual change can be attributed to changes in the number of dry days, as opposed to changes in precipitation intensity on wet days? Local impacts could be rather different depending on which mechanism dominates. We estimate this partitioning with the linearized approach of ref. 27 (see Methods for details); results are shown in Fig. 4. For comparison, Fig. 3b shows the change in precipitation intensity on days when precipitation occurs.   Annual precipitation changes are determined by the interplay between changing frequencies of dry days (Fig. 2) and precipitation intensity on wet days (Fig. 3b). An example helps make this clear. In the Mediterranean Sea region, annual precipitation is projected to drop by 20% (Fig. 3a). Why does this happen? Fig. 3b shows that the intensity of precipitation on wet days is projected to decrease in this area, but only by about 5% and not consistently across models. By contrast the number of dry days is projected to increase more than 20 days/year, a result the models agree on (Fig. 2). The net result is that more than 80% of the projected annual precipitation change in the Mediterranean Sea region can be ascribed to increases in occurrence of dry days (Fig. 4).\nIncreases and decreases in dry-day frequency account for more than half of the change in total-annual precipitation in regions lying between 40uN and 40uS (Fig. 4). In particular, Figs. 3 and 4 show that declines in annual precipitation over subtropical regions are caused primarily by increases in dry-day frequencies. By contrast, moistening of the tropics and higher latitudes, and drying of the equatorward flank of extratropical storm tracks, are driven by changes in both frequency of dry days and precipitation intensity. In other words, model projections of increased aridity over subtropical regions are mostly due to increased numbers of dry days and are much less a result of declining average precipitation intensities. In the Amazon and Indonesian regions, the large increases in dry days projected to occur (Fig. 2) are the dominant factor accounting for annual precipitation changes (Fig. 4); however the magnitude of the projected annual changes (Fig. 3a) is small, because the climatological numbers of dry days are low in those regions (Fig. 1). These increases in dry day frequency over the Amazon and Indonesian regions could be due to changes in ENSO teleconnections in a warmer climate 28 .  \n<heading>www.nature.com/scientificreports</heading>\nIn addition to their importance to changes in mean annual precipitation, the changes in dry day frequency also affect interannual precipitation variability. In essence this happens through changes in sample size: more dry days means fewer precipitation events contributing to the annual total. Smaller annual sample of days with precipitation then leads to more variability about the annual mean. This is illustrated in Fig. 5, where the model-projected change in interannual precipitation variability (Fig. 5a, calculated as the standard deviation of annual total precipitation normalized by the historical mean) is compared to the change in the frequency of precipitating days (Fig. 5b). The patterns differ in polar regions, yet globally, the spatial correlation between the two is 20.79, reflecting the close link between anthropogenic trends in daily precipitation frequency and interannual variance. As a sensitivity test, we additionally calculated the interannual variability as the difference between the 95 th and 5 th , 90 th and 10 th , or 75 th and 25 th percentile values of total annual precipitation instead of it's standard deviation and found the same result. The association between increasing numbers of dry days and greater interannual variability is strongest over Mediterraneantype climate regions where rainfall is infrequent, strongly seasonal, and already highly variable. In such regions an anthropogenicallydriven increase in the numbers of dry days will increase the already large natural interannual precipitation variability.\nThe changes in dry-day frequencies reported here are part of broader shifts within frequency distributions of days with a given precipitation rate [cf. Ref. 3, who examined annual mean accumulation in precipitation categories]. Fig. 6 shows the multi-model ensemble mean change in the frequency of days with precipitation in the 5-25 th , 50-75 th , and .99th percentiles (calculated with respect to the historical period). Importantly, there is a projected broad scale tendency over many global regions towards a decline in the number of days/year with daily precipitation below the 75 th percentile threshold (Fig. 6a,b). The polar regions and deep tropics are exceptions, where there is an increase in the frequency of days with light to moderate (5 th -75 th percentiles) precipitation. By contrast, frequencies of days that experience very heavy precipitation (.99 th percentile) increase over most of the world, excepting most oceanic subtropical high pressure regions (Fig. 6c). In polar regions and the deep tropics, frequency of all precipitation categories increases. In sum, over much of the globe the numbers of dry days increase, and the intensity of extremely wet days increases, both at the expense of light to moderate precipitation days.\n<heading>Discussion</heading>\nDaily precipitation projections from 28 CMIP5 global climate models forced by the RCP 8.5 emissions scenario are used to evaluate changes in dry day frequency and its effects on annual precipitation mean and variability during the period 2060-2089 relative to 1960-1989. In most subtropical semi-arid regions the number of dry days is projected to increase markedly (10-15%). These dry-day increases are particularly pronounced around the Mediterranean Sea, Central America and Mexico, the Amazon basin, Chile, and western Indonesia. A linearized analysis indicates that projected annual mean precipitation changes in those regions are dominated by an increase in the number of dry days rather than by changes in precipitation intensity. This anthropogenically-forced drying will have important hydrological, ecological and societal effects. The greater dryness will be aggravated by increased year-to-year variability, particularly in Mediterranean-type climate regimes where annual precipitation is already highly variable, since more dry days means that fewer wet days will contribute samples to the annual mean, resulting in greater interannual sampling variability.\nIn some regions, such as the U.S. Southwest, the projected increase in dry days is more robust and consistent across models than the annual precipitation trend, since the latter reflects a competition between more dry days and greater precipitation intensity on wet days 27 . Such anthropogenic trends in the daily precipitation regime suggest increasing regional probabilities of drought as well as flood, but are obscured by temporal aggregation to multi-year averages. A better mechanistic understanding of dry-day occurrences and their geographic shifts will require regionally focused investigation, given the complex, spatially varied interplay of the influence of dry and wet extremes in shaping annual precipitation volumes and their variability.\n<heading>Methods</heading>\nData. The daily model precipitation data were obtained from 28 coupled general circulation models that participated in CMIP5 experiment 24 , available at http:// pcmdi9.llnl.gov/. A list of the models used can be found in the online supporting material. We used historical (20 th century) and Representative Concentration Pathway 8.5 (RCP 8.5) scenarios to represent present and future climatology, respectively. The historical simulations were forced with observed long-lived greenhouse gases (GHGs), solar radiation, and volcanic aerosols for the observational period, while the RCP 8.5 simulations were forced with an increase of the atmospheric concentration of CO2 to 950 ppm by year 2100.\nThe observed precipitation data set used is the GPCP Daily version 2 (Ref. 25), which covers the period 1997 to 2012 with a 1u 3 1u spatial resolution. The GPCP Daily data is provided by the NASA Goddard Space Flight Center, Mesoscale Atmospheric Processes Laboratory, from their website at http://precip.gsfc.nasa.gov. For consistency, all modeled and observed precipitation was remapped to a common 2u 3 2u latitude-longitude grid by bilinear interpolation before analysis.\nDefinition of dry day. Typically, the number of days with small precipitation accumulation is over-simulated in current GCMs, which have only relatively coarse spatial resolution 26,29 . Observations also do not report the precipitation value below a certain threshold; for example, NOAA's co-operative observing stations typically do not report values smaller than 0.1 mm/day. For consistency between models and observations we select a threshold of 1 mm/day, below which both models and observations re-gridded to the same grid are considered to have a dry day. The 1 mm/ day threshold is primarily dictated by the coarse resolution of the global models used, and is found to be the best overall choice after considering other possible values, including fixed thresholds of 0.1 mm/day and 0.5 mm/day as well as locationdependent thresholds consisting of the 5 th , 10 th , 15 th , 25 th , or 35 th percentile of the local precipitation on wet days.\nEffect of changes in dry days on annual precipitation. Following Ref. 27, a linear estimate of the effect on total annual precipitation of an additional dry day in a given month in the future is calculated by subtracting the amount of precipitation experienced on an average precipitating day in the same month in the historical period. The change in total annual precipitation that is due to changes in daily precipitation intensity on wet days is then taken as the total annual precipitation change minus the change that is due to dry day frequency. Although projected changes in intensity are not included directly in this approach, the largest projected contributions to drying are over subtropical regions where the smallest changes in intensity are projected. Graphic software. All maps were produced using NCAR Command Language (NCL).\n<heading>Acknowledgments</heading>\nWe thank Mary Tyree for archiving CMIP5 data sets and making them available locally. \n<heading>Author contributions</heading>\n\n<heading>Additional information</heading>\nSupplementary information accompanies this paper at http://www.nature.com/ scientificreports Competing financial interests: The authors declare no competing financial interests. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported license. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/3.0\n"
+}

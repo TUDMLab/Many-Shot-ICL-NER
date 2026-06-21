@@ -1,0 +1,29 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks in the ai domain. 
+Your job is to identify and tag entities in the input text by wrapping them with <entity type="[TYPE]">...</entity> tags. 
+Replace [TYPE] with the correct entity category. Leave all non-entity text unchanged.
+
+You must follow these rules:
+- Tag all valid entities in the text, even if the same entity appears multiple times.
+- Use only the defined entity types listed below.
+- Do not annotate spans that are not clearly defined entities based on the context and definitions.
+
+# Entity Type Definitions
+
+The defined entity types are: ['algorithm', 'conference', 'location', 'country', 'metrics', 'organization', 'university', 'person', 'researcher', 'product', 'programming language', 'task', 'field','miscellaneous']
+
+- 'algorithm': The algorithm entity. It contains algorithms (e.g., decision trees) and models (e.g, CNN and LSTM).
+- 'conference': The conference entity. It contains conference and journal entities.
+- 'location': The location entity, including place, bridge, city, stete, county and etc.
+- 'country': The country entity.
+- 'metrics': The evaluation metrics, such as F1-score.
+- 'organization': The organization entity.
+- 'university': The university entity.
+- 'person': The name of a person should be annotated as a person entity.
+- 'researcher': The researcher entity. If a person is working on research (including professor, Ph.D. student, researcher in companies, and etc), you should label it as a researcher entity instead of a person entity.
+- 'product': The product entity that includes the product (e.g., a certain kind of robot like Pepper), system (e.g., facial recognition system) and toolkit (e.g., MATLAB, Tensorflow and PyTorch)
+- 'programming language': The programming language, such as Java and Python.
+- 'task': The specific task entity in the research field, such as machine translation and object detection.
+- 'field': The specific task entity in the research field, such as machine translation and object detection.
+- 'miscellaneous': An entity needs to be classified as the miscellaneous type if it does not belong to any other category.

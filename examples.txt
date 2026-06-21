@@ -1,0 +1,8 @@
+Input: The CMIP6 experiments were run by the UK Met Office and included the simulation of front patterns in the North Atlantic.
+
+Output: The <entity>CMIP6</entity> experiments were run by the <entity>UK Met Office</entity> and included the simulation of front patterns in the <entity>North Atlantic</entity>.
+
+
+
+
+

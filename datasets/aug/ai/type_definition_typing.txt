@@ -1,0 +1,179 @@
+The defined entity types are: ['algorithm', 'conference', 'location', 'country', 'metrics', 'organization', 'university', 'person', 'researcher', 'product', 'programming language', 'task', 'field','miscellaneous']
+
+- "algorithm": 
+  A defined computational method, procedure, or strategy designed to solve a specific problem, perform a function, or optimize an objective. Algorithms consist of a finite sequence of instructions or rules that systematically transform input into output.
+
+  Use "algorithm" for:
+  - Named computational procedures or formal techniques (e.g., Support Vector Machine, Maximum Likelihood Estimation, Hierarchical Clustering, Random Forest, Principal Component Analysis).
+  - Methods or strategies that define a structured solving process (e.g., multivariate regression, hierarchical cluster analysis, empirical risk minimization).
+  - Frameworks or models describing a process of computation, optimization, problem solving, or reasoning (e.g., decision tree learning, graphical model).
+
+  Do NOT classify as "algorithm":
+  - Evaluation metrics, cost functions, or performance measures (e.g., "F1 score", "Precision") → these are "metrics".
+  - Broad research fields or subfields → classify as "field".
+  - Application-oriented problem goals (e.g., "named entity recognition", "sentiment analysis") → classify as "task".
+  - Software packages or platforms when the focus is on the tool itself → classify as "product".
+
+
+- "conference": 
+  Named academic or professional events, symposia, workshops, journals or competitions where research is formally presented and published. Conferences are organized occurrences usually held periodically and associated with the dissemination of scientific work.
+
+  Use "conference" for:
+  - Formal academic events or venues (e.g., ACL, EMNLP, NeurIPS, KDD, LREC).
+  - Named sub-events, tracks, or competitions linked to larger conferences (e.g., RoboCup, IJCAI AI Challenge).
+  - Journals such as ACM Transactions on Information Systems, IEEE Transactions on Speech and Audio Processing, ...
+  - Conference editions or organized conference activities by societies.
+
+  Do NOT classify as "conference":
+  - Organizations or societies that host conferences → classify as "organization".
+  - Algorithms, models, or methods cited with conference names → classify based on the entity itself.
+  - Research fields or disciplines → classify as "field".
+
+
+- "country":
+  Sovereign nations or geopolitical entities (e.g., United States, China, Germany).
+
+  Use "country" for:
+  - Officially recognized sovereign countries and nation-states.
+
+  Do NOT classify as "country":
+  - Cities, regions, or geographical areas within countries → classify as "location".
+  - Nationalities or adjectives → classify as "miscellaneous" if necessary.
+
+
+- "field": 
+  A broad academic discipline, research area, or technical domain related to AI, computer science, or related fields. Fields represent overarching domains of study that typically encompass multiple tasks, problems, algorithms, and methods.
+
+  Use "field" for:
+  - Academic disciplines (e.g., computer vision, natural language processing, cognitive science).
+  - Technical areas or domains (e.g., speech processing, data mining, pattern recognition).
+
+  Do NOT classify as "field":
+  - Specific problem-solving tasks or goals (emotion detection, sentiment analysis) → these are "task".
+
+
+- "location": 
+  Named geographical areas that are not sovereign countries, including cities, regions, landmarks, and places (e.g., San Francisco, Silicon Valley, Bavaria).
+
+  Use "location" for:
+  - Cities, towns, provinces, states, regions, landmarks, museums, and cultural/historical sites.
+
+  Do NOT classify as "location":
+  - Countries → classify as "country".
+  - Universities or organizations, even if named after places → classify based on institution type ("university" or "organization").
+
+
+- "metrics":
+  Quantitative measures or evaluation scores used to assess model, algorithm, or system performance (e.g., F1 score, precision, recall, accuracy, ROC).
+
+  Use "metrics" for:
+  - Evaluation scores, performance criteria, statistical measures, and reliability coefficients.
+
+  Do NOT classify as "metrics":
+  - Algorithms or optimization methods (e.g., "MAP estimation") → classify as "algorithm".
+  - Research tasks or application goals → classify as "task".
+  - Organizations or evaluation institutions → classify as "organization".
+
+
+- "miscellaneous": 
+  Technical concepts, standards, protocols, components, specialized terms, knowledge artifacts, initiatives, awards, competitions, or informal terms that do not clearly fit into any of the defined specific categories (e.g., "product", "task", "field", etc.).
+
+  Use "miscellaneous" for:
+  - General technology categories (e.g., "generalized audit software", "spreadsheets", "databases").
+  - Named standards, protocols, and formats (e.g., "MICR", "RDF", "Compact Disc").
+  - Titles of books, knowledge projects, research artifacts (e.g., "Probabilistic Robotics", "Music Genome Project", "Perceptrons").
+  - Informal or umbrella initiatives (e.g., "GATEway Project", "Loebner Prize Competition", "RoboMaster Technical Challenge").
+  - Awards, recognitions, or competitions not being conferences (e.g., "AAAI Classic Paper award", "IJCAI Award for Research Excellence").
+  - Individual terms referring to nationalities or attributes (e.g., "American", "German", "Israeli"), **NOT** the country itself.
+  - Concepts associated with systems but not being standalone software/hardware (e.g., "DAP", "rule engine", "NeuralExpert").
+
+  Only label an entity as "miscellaneous" if:
+  - It is not a standalone, deployable product.
+  - It is not a recognized academic task, field, conference, country, organization, location, or metric.
+  - It is not a clearly defined algorithm.
+
+
+- "organization": 
+  Formal companies, associations, research labs, consortia, institutes, societies, and non-university institutions (e.g., Google, IBM, NIST, Audio Engineering Society).
+
+  Use "organization" for:
+  - Companies, corporations, associations, government agencies, research labs, consortia, and societies.
+
+  Do NOT classify as "organization":
+  - Universities → classify as "university".
+  - Specific conferences or events organized by institutions → classify as "conference".
+  - Individuals → classify as "person" or "researcher".
+
+
+- "person": 
+  Names of individual people not explicitly recognized as researchers or academics.
+  
+  Use "person" for:
+  - Actors, writers, athletes, entrepreneurs, or any individuals without clear research/academic affiliation.
+  
+  Do NOT classify as "person":
+  - Researchers and academics → classify as "researcher".
+  - Institutions, companies, or organizations → classify as "organization".
+
+
+- "product": 
+  Named software tools, systems, platforms, devices, services, frameworks, or games intended for direct use, deployment, or interaction by individuals, organizations, or automated systems. Products are concrete artifacts that embody functionality and can be operated, applied, or experienced.
+
+  Use "product" for:
+  - Software environments or platforms (e.g., "Matlab", "Weka", "Google Translate").
+  - AI-based applications, systems, or services (e.g., "facial recognition system").
+  - Robots, embedded systems, or hardware platforms (e.g., "Stewart platform", "rotary actuator").
+  - Named games and interaction systems (e.g., "chess", "go", "ALE").
+
+  Do NOT classify as "product":
+  - Algorithms or methods without direct embodiment as software/hardware tools (e.g., "Support Vector Machine", "Hierarchical Clustering") → classify as "algorithm".
+  - Research fields or scientific domains (e.g., "Information Systems") → classify as "field".
+  - Companies, organizations, or institutions (e.g., "Google" when referring to the company itself) → classify as "organization".
+  - Programming languages or APIs (e.g., "Python", "Java", "Tcl/Tk" as language) → classify as "programming language".
+  - Broad or vague technological terms without clear deployable form (→ "miscellaneous" if necessary).
+
+
+- "programming language": 
+  Formal programming languages used to write software, develop AI models, or perform data analysis (e.g., Python, C++, Java, R).
+
+  Use "programming language" for:
+  - Named languages or dialects used for computational development.
+  
+  Do NOT classify as "programming language":
+  - Software tools or applications built with the language (e.g., Scilab if viewed as a product).
+  - APIs, libraries, or frameworks built on top of a language → usually classify as "product" or "miscellaneous".
+
+
+- "researcher":
+  Individuals recognized primarily for their scientific, engineering, or academic research contributions.
+  
+  Use "researcher" for:
+  - Scientists, engineers, professors, or research contributors typically known for publications or innovations.
+  
+  Do NOT classify as "researcher":
+  - General individuals not primarily associated with research → classify as "person".
+  - Organizations or groups → classify as "organization".
+
+
+- "task": 
+  A specific, goal-oriented problem or application area that a system, model, or algorithm is designed to solve. Tasks focus on accomplishing a particular end objective (e.g., object detection, machine translation, speech recognition).
+
+  Use "task" for:
+  - Application goals or challenges (e.g., speech synthesis, knowledge representation, commonsense reasoning).
+  - Problem definitions in AI or related research (e.g., unsupervised classification, hierarchical cluster analysis, natural language understanding).
+
+  Do NOT classify as "task":
+  - General research fields (e.g., computer vision, data science) → classify as "field".
+  - Named algorithms, methods, or computational procedures (e.g., "Transformer", "PCA", "HCA") → classify as "algorithm".
+  - Generic activities or informal descriptions unless clearly framed as an AI task.
+
+
+- "university": 
+  Higher education institutions offering undergraduate, graduate, or doctoral programs (e.g., Massachusetts Institute of Technology, Stanford University, MIT).
+
+  Use "university" for:
+  - Full names or acronyms of universities, colleges, and higher education institutions.
+
+  Do NOT classify as "university":
+  - Research labs, departments, or projects within a university unless the entity clearly refers to the whole institution.
+  - General organizations or companies → classify as "organization".

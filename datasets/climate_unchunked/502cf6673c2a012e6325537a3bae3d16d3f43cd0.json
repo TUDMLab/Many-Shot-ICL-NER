@@ -1,0 +1,3296 @@
+{
+    "entities": {
+        "78819": {
+            "begin": 43,
+            "end": 49,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "78825": {
+            "begin": 275,
+            "end": 288,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78831": {
+            "begin": 334,
+            "end": 347,
+            "label": "variable",
+            "substring": "Water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78837": {
+            "begin": 618,
+            "end": 620,
+            "label": "variable",
+            "substring": "pH",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/14625f2a-4186-4377-a0d9-88998bb6b775"
+        },
+        "78843": {
+            "begin": 622,
+            "end": 632,
+            "label": "variable",
+            "substring": "alkalinity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4eab7956-e59e-4615-8d5c-39a16faa1f27"
+        },
+        "78849": {
+            "begin": 634,
+            "end": 642,
+            "label": "variable",
+            "substring": "hardness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/26ea8426-2996-4b93-aff2-f3b9cd2f8a7a"
+        },
+        "78855": {
+            "begin": 644,
+            "end": 656,
+            "label": "variable",
+            "substring": "conductivity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d14389d9-54f5-41a0-b8e8-dc9d8f87e4e2"
+        },
+        "78861": {
+            "begin": 658,
+            "end": 661,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "78867": {
+            "begin": 666,
+            "end": 669,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "78873": {
+            "begin": 675,
+            "end": 680,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "78879": {
+            "begin": 783,
+            "end": 786,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "78885": {
+            "begin": 869,
+            "end": 882,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78891": {
+            "begin": 890,
+            "end": 895,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "78897": {
+            "begin": 947,
+            "end": 949,
+            "label": "variable",
+            "substring": "pH",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/14625f2a-4186-4377-a0d9-88998bb6b775"
+        },
+        "78903": {
+            "begin": 961,
+            "end": 971,
+            "label": "variable",
+            "substring": "alkalinity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4eab7956-e59e-4615-8d5c-39a16faa1f27"
+        },
+        "78909": {
+            "begin": 992,
+            "end": 1000,
+            "label": "variable",
+            "substring": "hardness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/26ea8426-2996-4b93-aff2-f3b9cd2f8a7a"
+        },
+        "78915": {
+            "begin": 1022,
+            "end": 1034,
+            "label": "variable",
+            "substring": "conductivity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d14389d9-54f5-41a0-b8e8-dc9d8f87e4e2"
+        },
+        "78921": {
+            "begin": 1065,
+            "end": 1078,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78927": {
+            "begin": 1146,
+            "end": 1149,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "78933": {
+            "begin": 1154,
+            "end": 1157,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "78939": {
+            "begin": 1617,
+            "end": 1622,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "78945": {
+            "begin": 1730,
+            "end": 1743,
+            "label": "variable",
+            "substring": "Water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78951": {
+            "begin": 1931,
+            "end": 1937,
+            "label": "variable",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "78957": {
+            "begin": 1950,
+            "end": 1963,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78963": {
+            "begin": 2030,
+            "end": 2036,
+            "label": "location",
+            "substring": "Rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "78969": {
+            "begin": 2186,
+            "end": 2191,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "78975": {
+            "begin": 2395,
+            "end": 2401,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "78981": {
+            "begin": 2444,
+            "end": 2457,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "78987": {
+            "begin": 2610,
+            "end": 2625,
+            "label": "variable",
+            "substring": "Water resources",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3dd9fd35-f1dd-4d25-b849-eeb7b64ab767"
+        },
+        "78993": {
+            "begin": 2640,
+            "end": 2646,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "78999": {
+            "begin": 2775,
+            "end": 2781,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79005": {
+            "begin": 3133,
+            "end": 3146,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79011": {
+            "begin": 3514,
+            "end": 3527,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79017": {
+            "begin": 3579,
+            "end": 3592,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79023": {
+            "begin": 3711,
+            "end": 3717,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79029": {
+            "begin": 3841,
+            "end": 3847,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79035": {
+            "begin": 4175,
+            "end": 4180,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79041": {
+            "begin": 4218,
+            "end": 4223,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79047": {
+            "begin": 4541,
+            "end": 4546,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79053": {
+            "begin": 5077,
+            "end": 5082,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79059": {
+            "begin": 5309,
+            "end": 5312,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79065": {
+            "begin": 5493,
+            "end": 5499,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79071": {
+            "begin": 5867,
+            "end": 5877,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79077": {
+            "begin": 5879,
+            "end": 5894,
+            "label": "variable",
+            "substring": "sewage disposal",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/835c5ec2-50e3-4bef-b380-9f74b143dac6"
+        },
+        "79083": {
+            "begin": 6127,
+            "end": 6132,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79089": {
+            "begin": 6172,
+            "end": 6177,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79095": {
+            "begin": 6293,
+            "end": 6298,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79101": {
+            "begin": 6560,
+            "end": 6565,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79107": {
+            "begin": 7045,
+            "end": 7050,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79113": {
+            "begin": 7369,
+            "end": 7382,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79119": {
+            "begin": 7829,
+            "end": 7835,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79125": {
+            "begin": 8095,
+            "end": 8101,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79131": {
+            "begin": 8247,
+            "end": 8258,
+            "label": "variable",
+            "substring": "air quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/49c8e881-7100-42cf-9c2e-48f2012e5671"
+        },
+        "79137": {
+            "begin": 8349,
+            "end": 8360,
+            "label": "variable",
+            "substring": "air quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/49c8e881-7100-42cf-9c2e-48f2012e5671"
+        },
+        "79143": {
+            "begin": 8617,
+            "end": 8620,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79149": {
+            "begin": 8622,
+            "end": 8629,
+            "label": "variable",
+            "substring": "Nitrate",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fde380a-38c5-4d46-bc80-4f2515a43983"
+        },
+        "79155": {
+            "begin": 8631,
+            "end": 8634,
+            "label": "variable",
+            "substring": "NO3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85d20fe6-1c50-4b5b-b920-54102f9fcafd"
+        },
+        "79161": {
+            "begin": 8731,
+            "end": 8744,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79167": {
+            "begin": 8793,
+            "end": 8796,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79173": {
+            "begin": 8798,
+            "end": 8801,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79179": {
+            "begin": 8932,
+            "end": 8937,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79185": {
+            "begin": 9076,
+            "end": 9089,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79191": {
+            "begin": 9120,
+            "end": 9125,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79197": {
+            "begin": 9218,
+            "end": 9224,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79203": {
+            "begin": 9635,
+            "end": 9640,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79209": {
+            "begin": 9642,
+            "end": 9655,
+            "label": "variable",
+            "substring": "Water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79215": {
+            "begin": 10213,
+            "end": 10218,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79221": {
+            "begin": 10306,
+            "end": 10311,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79227": {
+            "begin": 10403,
+            "end": 10408,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79233": {
+            "begin": 10628,
+            "end": 10636,
+            "label": "location",
+            "substring": "Pakistan",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+        },
+        "79239": {
+            "begin": 10796,
+            "end": 10801,
+            "label": "location",
+            "substring": "India",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "79245": {
+            "begin": 10818,
+            "end": 10826,
+            "label": "location",
+            "substring": "Pakistan",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+        },
+        "79251": {
+            "begin": 10852,
+            "end": 10857,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79257": {
+            "begin": 11092,
+            "end": 11100,
+            "label": "location",
+            "substring": "Pakistan",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+        },
+        "79263": {
+            "begin": 11148,
+            "end": 11153,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79269": {
+            "begin": 11154,
+            "end": 11167,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79275": {
+            "begin": 11965,
+            "end": 11978,
+            "label": "variable",
+            "substring": "Water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79281": {
+            "begin": 12371,
+            "end": 12384,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79287": {
+            "begin": 12714,
+            "end": 12716,
+            "label": "variable",
+            "substring": "pH",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/14625f2a-4186-4377-a0d9-88998bb6b775"
+        },
+        "79293": {
+            "begin": 12718,
+            "end": 12728,
+            "label": "variable",
+            "substring": "alkalinity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4eab7956-e59e-4615-8d5c-39a16faa1f27"
+        },
+        "79299": {
+            "begin": 12730,
+            "end": 12738,
+            "label": "variable",
+            "substring": "hardness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/26ea8426-2996-4b93-aff2-f3b9cd2f8a7a"
+        },
+        "79305": {
+            "begin": 12740,
+            "end": 12752,
+            "label": "variable",
+            "substring": "conductivity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d14389d9-54f5-41a0-b8e8-dc9d8f87e4e2"
+        },
+        "79311": {
+            "begin": 12754,
+            "end": 12757,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79317": {
+            "begin": 12762,
+            "end": 12765,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79323": {
+            "begin": 13037,
+            "end": 13050,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79329": {
+            "begin": 13287,
+            "end": 13292,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79335": {
+            "begin": 13327,
+            "end": 13332,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79341": {
+            "begin": 13678,
+            "end": 13683,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79347": {
+            "begin": 14260,
+            "end": 14265,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79353": {
+            "begin": 14362,
+            "end": 14367,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79359": {
+            "begin": 14582,
+            "end": 14587,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79365": {
+            "begin": 14688,
+            "end": 14693,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79371": {
+            "begin": 14917,
+            "end": 14922,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79377": {
+            "begin": 15000,
+            "end": 15005,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79383": {
+            "begin": 15047,
+            "end": 15055,
+            "label": "natural hazard",
+            "substring": "flooding",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb5c09ec-c924-4deb-8294-8a27697a4550"
+        },
+        "79389": {
+            "begin": 15117,
+            "end": 15122,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79395": {
+            "begin": 15440,
+            "end": 15445,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79401": {
+            "begin": 15664,
+            "end": 15669,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79407": {
+            "begin": 15903,
+            "end": 15908,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79413": {
+            "begin": 16056,
+            "end": 16061,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79419": {
+            "begin": 16103,
+            "end": 16108,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79425": {
+            "begin": 16735,
+            "end": 16740,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79431": {
+            "begin": 16921,
+            "end": 16926,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79437": {
+            "begin": 17029,
+            "end": 17034,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79443": {
+            "begin": 17184,
+            "end": 17196,
+            "label": "variable",
+            "substring": "heavy metals",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/49ee4fcc-a0ad-4638-aec9-90b4946d8922"
+        },
+        "79449": {
+            "begin": 17240,
+            "end": 17254,
+            "label": "variable",
+            "substring": "organic matter",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/215f69b9-259a-4b82-9f8f-f96d4f5aaad2"
+        },
+        "79455": {
+            "begin": 17564,
+            "end": 17570,
+            "label": "location",
+            "substring": "Rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79461": {
+            "begin": 17749,
+            "end": 17754,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79467": {
+            "begin": 17826,
+            "end": 17831,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79473": {
+            "begin": 18046,
+            "end": 18051,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79479": {
+            "begin": 18193,
+            "end": 18198,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79485": {
+            "begin": 18222,
+            "end": 18236,
+            "label": "variable",
+            "substring": "organic matter",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/215f69b9-259a-4b82-9f8f-f96d4f5aaad2"
+        },
+        "79491": {
+            "begin": 18238,
+            "end": 18247,
+            "label": "variable",
+            "substring": "nutrients",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9bcb805c-718e-42c3-913d-174bdf06d4c1"
+        },
+        "79497": {
+            "begin": 18746,
+            "end": 18751,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79503": {
+            "begin": 18806,
+            "end": 18811,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79509": {
+            "begin": 19086,
+            "end": 19091,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79515": {
+            "begin": 19092,
+            "end": 19096,
+            "label": "location",
+            "substring": "Tawi",
+            "identifier": null
+        },
+        "79521": {
+            "begin": 19387,
+            "end": 19399,
+            "label": "variable",
+            "substring": "hydrocarbons",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6d8eb011-ffb5-4e18-ac59-2d8f84353734"
+        },
+        "79527": {
+            "begin": 19550,
+            "end": 19555,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79533": {
+            "begin": 19646,
+            "end": 19660,
+            "label": "variable",
+            "substring": "organic matter",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/215f69b9-259a-4b82-9f8f-f96d4f5aaad2"
+        },
+        "79539": {
+            "begin": 19662,
+            "end": 19671,
+            "label": "variable",
+            "substring": "nutrients",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9bcb805c-718e-42c3-913d-174bdf06d4c1"
+        },
+        "79545": {
+            "begin": 19901,
+            "end": 19906,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79551": {
+            "begin": 19923,
+            "end": 19928,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+        },
+        "79557": {
+            "begin": 19970,
+            "end": 19980,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79563": {
+            "begin": 20006,
+            "end": 20016,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79569": {
+            "begin": 20053,
+            "end": 20063,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79575": {
+            "begin": 20518,
+            "end": 20523,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79581": {
+            "begin": 20675,
+            "end": 20680,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79587": {
+            "begin": 20897,
+            "end": 20916,
+            "label": "location",
+            "substring": "Bhagwati Nagar area",
+            "identifier": null
+        },
+        "79593": {
+            "begin": 21476,
+            "end": 21481,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79599": {
+            "begin": 21521,
+            "end": 21527,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79605": {
+            "begin": 21876,
+            "end": 21886,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79611": {
+            "begin": 21899,
+            "end": 21905,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79617": {
+            "begin": 21975,
+            "end": 21980,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79623": {
+            "begin": 22027,
+            "end": 22037,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79629": {
+            "begin": 22065,
+            "end": 22073,
+            "label": "variable",
+            "substring": "baseflow",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/609f7831-5145-4a5c-bd58-d0b426058740"
+        },
+        "79635": {
+            "begin": 22077,
+            "end": 22083,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79641": {
+            "begin": 22121,
+            "end": 22127,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "79647": {
+            "begin": 22213,
+            "end": 22221,
+            "label": "variable",
+            "substring": "baseflow",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/609f7831-5145-4a5c-bd58-d0b426058740"
+        },
+        "79653": {
+            "begin": 22271,
+            "end": 22276,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79659": {
+            "begin": 22393,
+            "end": 22403,
+            "label": "variable",
+            "substring": "irrigation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+        },
+        "79665": {
+            "begin": 22592,
+            "end": 22602,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": null
+        },
+        "79671": {
+            "begin": 22717,
+            "end": 22722,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79677": {
+            "begin": 23035,
+            "end": 23040,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79683": {
+            "begin": 23154,
+            "end": 23159,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79689": {
+            "begin": 23379,
+            "end": 23392,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79695": {
+            "begin": 24333,
+            "end": 24336,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79701": {
+            "begin": 24399,
+            "end": 24402,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79707": {
+            "begin": 24503,
+            "end": 24506,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79713": {
+            "begin": 24821,
+            "end": 24826,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79719": {
+            "begin": 24883,
+            "end": 24886,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79725": {
+            "begin": 25017,
+            "end": 25030,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79731": {
+            "begin": 25143,
+            "end": 25146,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79737": {
+            "begin": 25151,
+            "end": 25154,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79743": {
+            "begin": 25165,
+            "end": 25176,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": null
+        },
+        "79749": {
+            "begin": 25181,
+            "end": 25189,
+            "label": "location",
+            "substring": "Surajpur",
+            "identifier": null
+        },
+        "79755": {
+            "begin": 25207,
+            "end": 25218,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": null
+        },
+        "79761": {
+            "begin": 25229,
+            "end": 25232,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79767": {
+            "begin": 25237,
+            "end": 25240,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79773": {
+            "begin": 25258,
+            "end": 25269,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": null
+        },
+        "79779": {
+            "begin": 25365,
+            "end": 25368,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79785": {
+            "begin": 25398,
+            "end": 25401,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79791": {
+            "begin": 25493,
+            "end": 25506,
+            "label": "variable",
+            "substring": "disinfectants",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4690d6a8-78cd-48bc-82f5-36fb16d4c52e"
+        },
+        "79797": {
+            "begin": 25669,
+            "end": 25682,
+            "label": "variable",
+            "substring": "disinfectants",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4690d6a8-78cd-48bc-82f5-36fb16d4c52e"
+        },
+        "79803": {
+            "begin": 25804,
+            "end": 25807,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79809": {
+            "begin": 26120,
+            "end": 26125,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79815": {
+            "begin": 26139,
+            "end": 26142,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79821": {
+            "begin": 26184,
+            "end": 26187,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79827": {
+            "begin": 26209,
+            "end": 26222,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79833": {
+            "begin": 26233,
+            "end": 26236,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79839": {
+            "begin": 26263,
+            "end": 26276,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79845": {
+            "begin": 26534,
+            "end": 26537,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79851": {
+            "begin": 26685,
+            "end": 26688,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79857": {
+            "begin": 26767,
+            "end": 26770,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79863": {
+            "begin": 26847,
+            "end": 26854,
+            "label": "variable",
+            "substring": "ammonia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a745a5e-829c-43f5-8d5a-6fb549e7b81b"
+        },
+        "79869": {
+            "begin": 26962,
+            "end": 26975,
+            "label": "variable",
+            "substring": "disinfectants",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4690d6a8-78cd-48bc-82f5-36fb16d4c52e"
+        },
+        "79875": {
+            "begin": 27059,
+            "end": 27061,
+            "label": "variable",
+            "substring": "pH",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/14625f2a-4186-4377-a0d9-88998bb6b775"
+        },
+        "79881": {
+            "begin": 27063,
+            "end": 27073,
+            "label": "variable",
+            "substring": "alkalinity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4eab7956-e59e-4615-8d5c-39a16faa1f27"
+        },
+        "79887": {
+            "begin": 27075,
+            "end": 27083,
+            "label": "variable",
+            "substring": "hardness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/26ea8426-2996-4b93-aff2-f3b9cd2f8a7a"
+        },
+        "79893": {
+            "begin": 27085,
+            "end": 27097,
+            "label": "variable",
+            "substring": "conductivity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d14389d9-54f5-41a0-b8e8-dc9d8f87e4e2"
+        },
+        "79899": {
+            "begin": 27099,
+            "end": 27102,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79905": {
+            "begin": 27107,
+            "end": 27110,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79911": {
+            "begin": 27364,
+            "end": 27369,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79917": {
+            "begin": 27427,
+            "end": 27430,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79923": {
+            "begin": 27904,
+            "end": 27907,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79929": {
+            "begin": 27912,
+            "end": 27915,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79935": {
+            "begin": 28038,
+            "end": 28051,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79941": {
+            "begin": 28151,
+            "end": 28154,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79947": {
+            "begin": 28248,
+            "end": 28262,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": null
+        },
+        "79953": {
+            "begin": 28289,
+            "end": 28292,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79959": {
+            "begin": 28329,
+            "end": 28339,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": null
+        },
+        "79965": {
+            "begin": 28469,
+            "end": 28482,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "79971": {
+            "begin": 28611,
+            "end": 28616,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79977": {
+            "begin": 28828,
+            "end": 28831,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "79983": {
+            "begin": 28836,
+            "end": 28839,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "79989": {
+            "begin": 28886,
+            "end": 28891,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "79995": {
+            "begin": 28995,
+            "end": 29000,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80001": {
+            "begin": 29355,
+            "end": 29357,
+            "label": "model",
+            "substring": "CA",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ca9aabd-bc50-4dd6-b81b-fe70cb50ea1b"
+        },
+        "80007": {
+            "begin": 29547,
+            "end": 29549,
+            "label": "model",
+            "substring": "CA",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ca9aabd-bc50-4dd6-b81b-fe70cb50ea1b"
+        },
+        "80013": {
+            "begin": 29929,
+            "end": 29931,
+            "label": "model",
+            "substring": "CA",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ca9aabd-bc50-4dd6-b81b-fe70cb50ea1b"
+        },
+        "80019": {
+            "begin": 30623,
+            "end": 30636,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "80025": {
+            "begin": 30753,
+            "end": 30756,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "80031": {
+            "begin": 30761,
+            "end": 30764,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "80037": {
+            "begin": 30853,
+            "end": 30858,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80043": {
+            "begin": 30859,
+            "end": 30872,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "80049": {
+            "begin": 30920,
+            "end": 30925,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80055": {
+            "begin": 30983,
+            "end": 30996,
+            "label": "variable",
+            "substring": "water quality",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "80061": {
+            "begin": 31225,
+            "end": 31228,
+            "label": "variable",
+            "substring": "BOD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ef34dc5-4d29-4820-963c-f830f46c0347"
+        },
+        "80067": {
+            "begin": 31233,
+            "end": 31236,
+            "label": "variable",
+            "substring": "COD",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5b52d7e3-6020-4ce6-9339-0080911e16f3"
+        },
+        "80073": {
+            "begin": 31689,
+            "end": 31694,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80079": {
+            "begin": 31766,
+            "end": 31772,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "80085": {
+            "begin": 31804,
+            "end": 31813,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "80091": {
+            "begin": 31889,
+            "end": 31894,
+            "label": "location",
+            "substring": "river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80097": {
+            "begin": 32003,
+            "end": 32009,
+            "label": "location",
+            "substring": "rivers",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3c573f-a787-4afa-80a4-047c2c5d83f2"
+        },
+        "80103": {
+            "begin": 105,
+            "end": 115,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80109": {
+            "begin": 250,
+            "end": 258,
+            "label": "natural hazard",
+            "substring": "COVID-19",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "80115": {
+            "begin": 136,
+            "end": 146,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/649d1472-6662-49b8-8975-19b2e90637cb"
+        },
+        "80121": {
+            "begin": 306,
+            "end": 311,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80127": {
+            "begin": 313,
+            "end": 332,
+            "label": "location",
+            "substring": "J&K Union Territory",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80133": {
+            "begin": 292,
+            "end": 302,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80139": {
+            "begin": 421,
+            "end": 432,
+            "label": "location",
+            "substring": "Tawi Bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80145": {
+            "begin": 434,
+            "end": 448,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80151": {
+            "begin": 450,
+            "end": 461,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80157": {
+            "begin": 466,
+            "end": 474,
+            "label": "location",
+            "substring": "Surajpur",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80163": {
+            "begin": 516,
+            "end": 557,
+            "label": "provider",
+            "substring": "Jammu and Kashmir Pollution Control Board",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/649d1472-6662-49b8-8975-19b2e90637cb"
+        },
+        "80169": {
+            "begin": 751,
+            "end": 765,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80175": {
+            "begin": 1211,
+            "end": 1235,
+            "label": "variable",
+            "substring": "anthropogenic activities",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+        },
+        "80181": {
+            "begin": 1294,
+            "end": 1305,
+            "label": "variable",
+            "substring": "river water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80187": {
+            "begin": 1376,
+            "end": 1392,
+            "label": "model",
+            "substring": "cluster analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "80193": {
+            "begin": 1654,
+            "end": 1665,
+            "label": "location",
+            "substring": "river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b3715333-62d3-40cd-95d6-a8c2d9edc3e4"
+        },
+        "80199": {
+            "begin": 1687,
+            "end": 1703,
+            "label": "location",
+            "substring": "Tawi river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80205": {
+            "begin": 1746,
+            "end": 1754,
+            "label": "natural hazard",
+            "substring": "COVID-19",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9b01ff92-8e7f-4852-9ad1-bb91d6528ffd"
+        },
+        "80211": {
+            "begin": 1764,
+            "end": 1795,
+            "label": "project",
+            "substring": "Kashmir Pollution Control Board",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80217": {
+            "begin": 2412,
+            "end": 2424,
+            "label": "location",
+            "substring": "water bodies",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80223": {
+            "begin": 2538,
+            "end": 2553,
+            "label": "variable",
+            "substring": "aquatic ecology",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6bef0291-a9ca-4832-bbb4-80459dc1493f"
+        },
+        "80229": {
+            "begin": 2660,
+            "end": 2684,
+            "label": "experiment",
+            "substring": "anthropogenic activities",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+        },
+        "80235": {
+            "begin": 2815,
+            "end": 2826,
+            "label": "variable",
+            "substring": "river water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80241": {
+            "begin": 3053,
+            "end": 3064,
+            "label": "location",
+            "substring": "river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80247": {
+            "begin": 3172,
+            "end": 3189,
+            "label": "location",
+            "substring": "aquatic ecosystem",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+        },
+        "80253": {
+            "begin": 3255,
+            "end": 3266,
+            "label": "location",
+            "substring": "river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80259": {
+            "begin": 3282,
+            "end": 3299,
+            "label": "location",
+            "substring": "aquatic ecosystem",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+        },
+        "80265": {
+            "begin": 3418,
+            "end": 3429,
+            "label": "location",
+            "substring": "water basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80271": {
+            "begin": 3853,
+            "end": 3858,
+            "label": "location",
+            "substring": "Ganga",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80277": {
+            "begin": 3863,
+            "end": 3869,
+            "label": "location",
+            "substring": "Yamuna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80283": {
+            "begin": 4224,
+            "end": 4229,
+            "label": "location",
+            "substring": "Ganga",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80289": {
+            "begin": 4362,
+            "end": 4369,
+            "label": "location",
+            "substring": "Lucknow",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80295": {
+            "begin": 4181,
+            "end": 4186,
+            "label": "location",
+            "substring": "Gomti",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80301": {
+            "begin": 4534,
+            "end": 4540,
+            "label": "location",
+            "substring": "Hindon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80307": {
+            "begin": 4548,
+            "end": 4557,
+            "label": "location",
+            "substring": "Ghaziabad",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80313": {
+            "begin": 4512,
+            "end": 4526,
+            "label": "location",
+            "substring": "aquatic system",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c6455081-132d-4661-bb5f-22edf2f90800"
+        },
+        "80319": {
+            "begin": 4849,
+            "end": 4861,
+            "label": "location",
+            "substring": "Hindon river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80325": {
+            "begin": 4863,
+            "end": 4872,
+            "label": "location",
+            "substring": "Ghaziabad",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80331": {
+            "begin": 5027,
+            "end": 5058,
+            "label": "project",
+            "substring": "Central Pollution Control Board",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "80337": {
+            "begin": 5113,
+            "end": 5117,
+            "label": "project",
+            "substring": "CPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80343": {
+            "begin": 4993,
+            "end": 5016,
+            "label": "project",
+            "substring": "National Green Tribunal",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80349": {
+            "begin": 5124,
+            "end": 5157,
+            "label": "project",
+            "substring": "National Water Monitoring Program",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80355": {
+            "begin": 5060,
+            "end": 5064,
+            "label": "project",
+            "substring": "CPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80361": {
+            "begin": 5192,
+            "end": 5206,
+            "label": "location",
+            "substring": "polluted river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80367": {
+            "begin": 5159,
+            "end": 5163,
+            "label": "project",
+            "substring": "NWMP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80373": {
+            "begin": 5260,
+            "end": 5264,
+            "label": "project",
+            "substring": "CPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80379": {
+            "begin": 4955,
+            "end": 4967,
+            "label": "variable",
+            "substring": "water bodies",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80385": {
+            "begin": 5530,
+            "end": 5547,
+            "label": "location",
+            "substring": "Jammu and Kashmir",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+        },
+        "80391": {
+            "begin": 5608,
+            "end": 5618,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80397": {
+            "begin": 5666,
+            "end": 5676,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80403": {
+            "begin": 5699,
+            "end": 5709,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80409": {
+            "begin": 5798,
+            "end": 5808,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80415": {
+            "begin": 5941,
+            "end": 5951,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80421": {
+            "begin": 5739,
+            "end": 5749,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80427": {
+            "begin": 6432,
+            "end": 6442,
+            "label": "location",
+            "substring": "Tawi water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80433": {
+            "begin": 6539,
+            "end": 6556,
+            "label": "natural hazard",
+            "substring": "COVID-19 pandemic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "80439": {
+            "begin": 7108,
+            "end": 7125,
+            "label": "natural hazard",
+            "substring": "COVID-19 pandemic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "80445": {
+            "begin": 7390,
+            "end": 7400,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80451": {
+            "begin": 7480,
+            "end": 7484,
+            "label": "location",
+            "substring": "Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80457": {
+            "begin": 7687,
+            "end": 7697,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80463": {
+            "begin": 8035,
+            "end": 8045,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80469": {
+            "begin": 8105,
+            "end": 8122,
+            "label": "location",
+            "substring": "Jammu and Kashmir",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80475": {
+            "begin": 8431,
+            "end": 8448,
+            "label": "variable",
+            "substring": "air quality index",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/49c8e881-7100-42cf-9c2e-48f2012e5671"
+        },
+        "80481": {
+            "begin": 8537,
+            "end": 8548,
+            "label": "location",
+            "substring": "Ganga river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80487": {
+            "begin": 8722,
+            "end": 8728,
+            "label": "location",
+            "substring": "Yamuna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80493": {
+            "begin": 8900,
+            "end": 8910,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80499": {
+            "begin": 8914,
+            "end": 8919,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80505": {
+            "begin": 9051,
+            "end": 9068,
+            "label": "natural hazard",
+            "substring": "COVID-19 pandemic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "80511": {
+            "begin": 8921,
+            "end": 8927,
+            "label": "location",
+            "substring": "J&K UT",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80517": {
+            "begin": 9097,
+            "end": 9113,
+            "label": "location",
+            "substring": "Tawi river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80523": {
+            "begin": 9551,
+            "end": 9559,
+            "label": "natural hazard",
+            "substring": "COVID-19",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "80529": {
+            "begin": 9621,
+            "end": 9626,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80535": {
+            "begin": 9630,
+            "end": 9633,
+            "label": "location",
+            "substring": "J&K",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80541": {
+            "begin": 9610,
+            "end": 9617,
+            "label": "location",
+            "substring": "streams",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+        },
+        "80547": {
+            "begin": 9766,
+            "end": 9807,
+            "label": "provider",
+            "substring": "Jammu and Kashmir Pollution Control Board",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80553": {
+            "begin": 9809,
+            "end": 9814,
+            "label": "provider",
+            "substring": "JKPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80559": {
+            "begin": 10181,
+            "end": 10191,
+            "label": "location",
+            "substring": "River Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80565": {
+            "begin": 10256,
+            "end": 10261,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80571": {
+            "begin": 10385,
+            "end": 10397,
+            "label": "location",
+            "substring": "river Chenab",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80577": {
+            "begin": 10458,
+            "end": 10476,
+            "label": "location",
+            "substring": "Kali Kundi glacier",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4a426aab-4a95-4bf4-8449-19a72a251541"
+        },
+        "80583": {
+            "begin": 10559,
+            "end": 10576,
+            "label": "location",
+            "substring": "Jammu and Kashmir",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80589": {
+            "begin": 10516,
+            "end": 10538,
+            "label": "location",
+            "substring": "southwest of Bhaderwah",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80595": {
+            "begin": 10542,
+            "end": 10555,
+            "label": "location",
+            "substring": "Doda district",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80601": {
+            "begin": 10617,
+            "end": 10624,
+            "label": "location",
+            "substring": "Sialkot",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+        },
+        "80607": {
+            "begin": 10601,
+            "end": 10613,
+            "label": "location",
+            "substring": "river Chenab",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80613": {
+            "begin": 10747,
+            "end": 10758,
+            "label": "location",
+            "substring": "river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "80619": {
+            "begin": 10333,
+            "end": 10344,
+            "label": "location",
+            "substring": "Surya Putri",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80625": {
+            "begin": 10772,
+            "end": 10789,
+            "label": "location",
+            "substring": "Jammu and Kashmir",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80631": {
+            "begin": 10958,
+            "end": 10963,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80637": {
+            "begin": 10997,
+            "end": 11006,
+            "label": "location",
+            "substring": "Wadi Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80643": {
+            "begin": 11011,
+            "end": 11021,
+            "label": "location",
+            "substring": "Nicki Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80649": {
+            "begin": 11027,
+            "end": 11041,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80655": {
+            "begin": 11043,
+            "end": 11048,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80661": {
+            "begin": 11081,
+            "end": 11088,
+            "label": "location",
+            "substring": "Sailkot",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+        },
+        "80667": {
+            "begin": 10970,
+            "end": 10980,
+            "label": "location",
+            "substring": "River Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80673": {
+            "begin": 11130,
+            "end": 11142,
+            "label": "location",
+            "substring": "Chenab river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80679": {
+            "begin": 11211,
+            "end": 11225,
+            "label": "location",
+            "substring": "Jammu district",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80685": {
+            "begin": 11315,
+            "end": 11325,
+            "label": "location",
+            "substring": "River Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80691": {
+            "begin": 11383,
+            "end": 11388,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80697": {
+            "begin": 11496,
+            "end": 11510,
+            "label": "location",
+            "substring": "Jammu district",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80703": {
+            "begin": 11545,
+            "end": 11556,
+            "label": "location",
+            "substring": "river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80709": {
+            "begin": 11593,
+            "end": 11603,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80715": {
+            "begin": 11806,
+            "end": 11810,
+            "label": "provider",
+            "substring": "CPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80721": {
+            "begin": 11879,
+            "end": 11890,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80727": {
+            "begin": 11818,
+            "end": 11822,
+            "label": "project",
+            "substring": "NWMP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80733": {
+            "begin": 11908,
+            "end": 11919,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80739": {
+            "begin": 11924,
+            "end": 11932,
+            "label": "location",
+            "substring": "Surajpur",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80745": {
+            "begin": 11892,
+            "end": 11906,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80751": {
+            "begin": 12132,
+            "end": 12137,
+            "label": "provider",
+            "substring": "JKPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80757": {
+            "begin": 12089,
+            "end": 12130,
+            "label": "provider",
+            "substring": "Jammu and Kashmir Pollution Control Board",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80763": {
+            "begin": 12584,
+            "end": 12598,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80769": {
+            "begin": 12508,
+            "end": 12522,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80775": {
+            "begin": 12899,
+            "end": 12915,
+            "label": "model",
+            "substring": "Cluster analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "80781": {
+            "begin": 13170,
+            "end": 13189,
+            "label": "location",
+            "substring": "Tawi river</heading",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80787": {
+            "begin": 13198,
+            "end": 13206,
+            "label": "natural hazard",
+            "substring": "COVID-19",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "80793": {
+            "begin": 13377,
+            "end": 13392,
+            "label": "natural hazard",
+            "substring": "land-use change",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5815f58-8232-4c7f-b50d-ea71d73891a9"
+        },
+        "80799": {
+            "begin": 13352,
+            "end": 13371,
+            "label": "location",
+            "substring": "Tawi river</heading",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80805": {
+            "begin": 13432,
+            "end": 13442,
+            "label": "variable",
+            "substring": "freshwater",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "80811": {
+            "begin": 13727,
+            "end": 13757,
+            "label": "natural hazard",
+            "substring": "eco-hydrological deficit state",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75442d9d-e3e4-4241-941d-c4899c6a41a8"
+        },
+        "80817": {
+            "begin": 13940,
+            "end": 13952,
+            "label": "variable",
+            "substring": "fish species",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ea855d4c-f132-44f9-b31c-447e1101684d"
+        },
+        "80823": {
+            "begin": 13801,
+            "end": 13819,
+            "label": "location",
+            "substring": "riverine ecosystem",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+        },
+        "80829": {
+            "begin": 13888,
+            "end": 13923,
+            "label": "variable",
+            "substring": "aquatic environment characteristics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c6455081-132d-4661-bb5f-22edf2f90800"
+        },
+        "80835": {
+            "begin": 14060,
+            "end": 14067,
+            "label": "variable",
+            "substring": "aquatic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c6455081-132d-4661-bb5f-22edf2f90800"
+        },
+        "80841": {
+            "begin": 14527,
+            "end": 14538,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80847": {
+            "begin": 14551,
+            "end": 14566,
+            "label": "location",
+            "substring": "artificial lake",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/57a3a5a7-66b9-4a4a-82da-7b09d82c684a"
+        },
+        "80853": {
+            "begin": 14486,
+            "end": 14496,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80859": {
+            "begin": 14502,
+            "end": 14516,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80865": {
+            "begin": 14804,
+            "end": 14808,
+            "label": "provider",
+            "substring": "CPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80871": {
+            "begin": 14813,
+            "end": 14818,
+            "label": "provider",
+            "substring": "JKPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80877": {
+            "begin": 14825,
+            "end": 14829,
+            "label": "project",
+            "substring": "NWMP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80883": {
+            "begin": 15523,
+            "end": 15538,
+            "label": "location",
+            "substring": "artificial lake",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/57a3a5a7-66b9-4a4a-82da-7b09d82c684a"
+        },
+        "80889": {
+            "begin": 15723,
+            "end": 15756,
+            "label": "provider",
+            "substring": "Western Himalayan Regional Centre",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80895": {
+            "begin": 15717,
+            "end": 15721,
+            "label": "provider",
+            "substring": "WHRC",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80901": {
+            "begin": 15540,
+            "end": 15550,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80907": {
+            "begin": 15825,
+            "end": 15829,
+            "label": "location",
+            "substring": "Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80913": {
+            "begin": 15758,
+            "end": 15789,
+            "label": "provider",
+            "substring": "National Institute of Hydrology",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80919": {
+            "begin": 15792,
+            "end": 15797,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80925": {
+            "begin": 16147,
+            "end": 16176,
+            "label": "natural hazard",
+            "substring": "ecohydrological deficit state",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75442d9d-e3e4-4241-941d-c4899c6a41a8"
+        },
+        "80931": {
+            "begin": 16212,
+            "end": 16227,
+            "label": "variable",
+            "substring": "domestic sewage",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/835c5ec2-50e3-4bef-b380-9f74b143dac6"
+        },
+        "80937": {
+            "begin": 16183,
+            "end": 16193,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80943": {
+            "begin": 16404,
+            "end": 16414,
+            "label": "location",
+            "substring": "Tawi water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80949": {
+            "begin": 16327,
+            "end": 16337,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80955": {
+            "begin": 16575,
+            "end": 16580,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80961": {
+            "begin": 16846,
+            "end": 16858,
+            "label": "variable",
+            "substring": "sewage water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/835c5ec2-50e3-4bef-b380-9f74b143dac6"
+        },
+        "80967": {
+            "begin": 17059,
+            "end": 17066,
+            "label": "variable",
+            "substring": "aquatic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c6455081-132d-4661-bb5f-22edf2f90800"
+        },
+        "80973": {
+            "begin": 17396,
+            "end": 17406,
+            "label": "location",
+            "substring": "Tawi water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80979": {
+            "begin": 17890,
+            "end": 17894,
+            "label": "location",
+            "substring": "Tawi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80985": {
+            "begin": 17902,
+            "end": 17907,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "80991": {
+            "begin": 17710,
+            "end": 17720,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "80997": {
+            "begin": 18943,
+            "end": 18948,
+            "label": "location",
+            "substring": "Burma",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/71953a36-817f-4b70-83df-f056364ce65d"
+        },
+        "81003": {
+            "begin": 18968,
+            "end": 18978,
+            "label": "location",
+            "substring": "Tawi River",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81009": {
+            "begin": 19067,
+            "end": 19082,
+            "label": "variable",
+            "substring": "water pollution",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81015": {
+            "begin": 19217,
+            "end": 19228,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81021": {
+            "begin": 19250,
+            "end": 19260,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81027": {
+            "begin": 19337,
+            "end": 19348,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81033": {
+            "begin": 19179,
+            "end": 19190,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81039": {
+            "begin": 19419,
+            "end": 19432,
+            "label": "variable",
+            "substring": "water surface",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81045": {
+            "begin": 19710,
+            "end": 19722,
+            "label": "variable",
+            "substring": "water bodies",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81051": {
+            "begin": 19811,
+            "end": 19822,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81057": {
+            "begin": 20018,
+            "end": 20029,
+            "label": "variable",
+            "substring": "river water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81063": {
+            "begin": 20107,
+            "end": 20117,
+            "label": "variable",
+            "substring": "water flow",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81069": {
+            "begin": 20130,
+            "end": 20142,
+            "label": "variable",
+            "substring": "water bodies",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81075": {
+            "begin": 20213,
+            "end": 20218,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81081": {
+            "begin": 20343,
+            "end": 20353,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81087": {
+            "begin": 20382,
+            "end": 20396,
+            "label": "location",
+            "substring": "Jammu district",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81093": {
+            "begin": 20564,
+            "end": 20569,
+            "label": "variable",
+            "substring": "water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/649d1472-6662-49b8-8975-19b2e90637cb"
+        },
+        "81099": {
+            "begin": 20829,
+            "end": 20846,
+            "label": "location",
+            "substring": "Jammu and Kashmir",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81105": {
+            "begin": 21091,
+            "end": 21101,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81111": {
+            "begin": 21018,
+            "end": 21045,
+            "label": "provider",
+            "substring": "Jammu Municipal Corporation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81117": {
+            "begin": 21910,
+            "end": 21917,
+            "label": "location",
+            "substring": "streams",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+        },
+        "81123": {
+            "begin": 21957,
+            "end": 21967,
+            "label": "variable",
+            "substring": "water flow",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81129": {
+            "begin": 22011,
+            "end": 22022,
+            "label": "variable",
+            "substring": "groundwater",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/734f8f27-6976-4b67-8794-c7fc79d6161e"
+        },
+        "81135": {
+            "begin": 22106,
+            "end": 22117,
+            "label": "variable",
+            "substring": "groundwater",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/734f8f27-6976-4b67-8794-c7fc79d6161e"
+        },
+        "81141": {
+            "begin": 22163,
+            "end": 22174,
+            "label": "variable",
+            "substring": "groundwater",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/734f8f27-6976-4b67-8794-c7fc79d6161e"
+        },
+        "81147": {
+            "begin": 22454,
+            "end": 22465,
+            "label": "variable",
+            "substring": "river water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81153": {
+            "begin": 22352,
+            "end": 22362,
+            "label": "location",
+            "substring": "Tawi basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "81159": {
+            "begin": 22495,
+            "end": 22503,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "81165": {
+            "begin": 22524,
+            "end": 22534,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81171": {
+            "begin": 22625,
+            "end": 22633,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "81177": {
+            "begin": 22763,
+            "end": 22771,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "81183": {
+            "begin": 22850,
+            "end": 22860,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81189": {
+            "begin": 22735,
+            "end": 22746,
+            "label": "location",
+            "substring": "river basin",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+        },
+        "81195": {
+            "begin": 22804,
+            "end": 22818,
+            "label": "location",
+            "substring": "Jammu district",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81201": {
+            "begin": 22883,
+            "end": 22891,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "81207": {
+            "begin": 22967,
+            "end": 22975,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "81213": {
+            "begin": 23241,
+            "end": 23260,
+            "label": "location",
+            "substring": "Tawi river</heading",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81219": {
+            "begin": 23323,
+            "end": 23333,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81225": {
+            "begin": 23431,
+            "end": 23451,
+            "label": "variable",
+            "substring": "organic contaminants",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/215f69b9-259a-4b82-9f8f-f96d4f5aaad2"
+        },
+        "81231": {
+            "begin": 23314,
+            "end": 23322,
+            "label": "project",
+            "substring": "J&K SPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/649d1472-6662-49b8-8975-19b2e90637cb"
+        },
+        "81237": {
+            "begin": 23456,
+            "end": 23467,
+            "label": "variable",
+            "substring": "solid waste",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fad79bec-0672-4c71-8910-174c8985a1b9"
+        },
+        "81243": {
+            "begin": 23805,
+            "end": 23823,
+            "label": "variable",
+            "substring": "domestic sewerages",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/835c5ec2-50e3-4bef-b380-9f74b143dac6"
+        },
+        "81249": {
+            "begin": 24113,
+            "end": 24124,
+            "label": "variable",
+            "substring": "solid waste",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fad79bec-0672-4c71-8910-174c8985a1b9"
+        },
+        "81255": {
+            "begin": 24222,
+            "end": 24232,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81261": {
+            "begin": 24460,
+            "end": 24470,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81267": {
+            "begin": 24644,
+            "end": 24675,
+            "label": "provider",
+            "substring": "government of Jammu and Kashmir",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/649d1472-6662-49b8-8975-19b2e90637cb"
+        },
+        "81273": {
+            "begin": 24945,
+            "end": 24953,
+            "label": "location",
+            "substring": "Surajpur",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81279": {
+            "begin": 24929,
+            "end": 24940,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81285": {
+            "begin": 25606,
+            "end": 25623,
+            "label": "natural hazard",
+            "substring": "COVID-19 pandemic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "81291": {
+            "begin": 25746,
+            "end": 25761,
+            "label": "variable",
+            "substring": "domestic sewage",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/835c5ec2-50e3-4bef-b380-9f74b143dac6"
+        },
+        "81297": {
+            "begin": 25774,
+            "end": 25785,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81303": {
+            "begin": 25935,
+            "end": 25956,
+            "label": "variable",
+            "substring": "water characteristics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81309": {
+            "begin": 26092,
+            "end": 26103,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81315": {
+            "begin": 26168,
+            "end": 26173,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81321": {
+            "begin": 27029,
+            "end": 27037,
+            "label": "natural hazard",
+            "substring": "COVID-19",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+        },
+        "81327": {
+            "begin": 28683,
+            "end": 28693,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81333": {
+            "begin": 28417,
+            "end": 28431,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81339": {
+            "begin": 28515,
+            "end": 28531,
+            "label": "model",
+            "substring": "cluster analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "81345": {
+            "begin": 27144,
+            "end": 27158,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81351": {
+            "begin": 27160,
+            "end": 27171,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81357": {
+            "begin": 27176,
+            "end": 27184,
+            "label": "location",
+            "substring": "Surajpur",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81363": {
+            "begin": 27131,
+            "end": 27142,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81369": {
+            "begin": 27588,
+            "end": 27616,
+            "label": "location",
+            "substring": "municipal waste dumping site",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cbf64c32-99fa-4312-91a0-4fc85a6890bb"
+        },
+        "81375": {
+            "begin": 27560,
+            "end": 27574,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81381": {
+            "begin": 27550,
+            "end": 27554,
+            "label": "project",
+            "substring": "CPCB",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81387": {
+            "begin": 27623,
+            "end": 27651,
+            "label": "instrument",
+            "substring": "Sewage Treatment Plant (STP)",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/835c5ec2-50e3-4bef-b380-9f74b143dac6"
+        },
+        "81393": {
+            "begin": 27440,
+            "end": 27454,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81399": {
+            "begin": 29099,
+            "end": 29129,
+            "label": "model",
+            "substring": "Cluster analysis (CA)</heading",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "81405": {
+            "begin": 29337,
+            "end": 29353,
+            "label": "model",
+            "substring": "cluster analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "81411": {
+            "begin": 29551,
+            "end": 29579,
+            "label": "model",
+            "substring": "Bray-Curtis cluster analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "81417": {
+            "begin": 30020,
+            "end": 30044,
+            "label": "variable",
+            "substring": "water quality parameters",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a583e74-34e9-4eb5-af7a-03418d702af6"
+        },
+        "81423": {
+            "begin": 30324,
+            "end": 30332,
+            "label": "location",
+            "substring": "Surajpur",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81429": {
+            "begin": 30293,
+            "end": 30304,
+            "label": "location",
+            "substring": "Belicharana",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81435": {
+            "begin": 30349,
+            "end": 30366,
+            "label": "location",
+            "substring": "Below Tawi Bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81441": {
+            "begin": 30644,
+            "end": 30654,
+            "label": "location",
+            "substring": "Tawi river",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+        },
+        "81447": {
+            "begin": 30697,
+            "end": 30707,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81453": {
+            "begin": 30794,
+            "end": 30818,
+            "label": "variable",
+            "substring": "anthropogenic activities",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+        },
+        "81459": {
+            "begin": 31028,
+            "end": 31052,
+            "label": "variable",
+            "substring": "anthropogenic activities",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+        },
+        "81465": {
+            "begin": 31414,
+            "end": 31430,
+            "label": "model",
+            "substring": "Cluster analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "81471": {
+            "begin": 31591,
+            "end": 31602,
+            "label": "variable",
+            "substring": "river water",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+        },
+        "81477": {
+            "begin": 32083,
+            "end": 32088,
+            "label": "location",
+            "substring": "Jammu",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+        },
+        "81483": {
+            "begin": 31379,
+            "end": 31412,
+            "label": "model",
+            "substring": "multivariate statistical analysis",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/436570eb-cb83-48d3-81d7-a6b6c6a777b4"
+        },
+        "81484": {
+            "begin": 812,
+            "end": 827,
+            "label": "variable",
+            "substring": "domestic sewage",
+            "identifier": null
+        },
+        "81485": {
+            "begin": 3969,
+            "end": 3984,
+            "label": "variable",
+            "substring": "domestic sewage",
+            "identifier": null
+        },
+        "81486": {
+            "begin": 23968,
+            "end": 23983,
+            "label": "variable",
+            "substring": "domestic sewage",
+            "identifier": null
+        },
+        "81487": {
+            "begin": 30461,
+            "end": 30475,
+            "label": "location",
+            "substring": "Bhagwati Nagar",
+            "identifier": null
+        },
+        "81488": {
+            "begin": 17456,
+            "end": 17467,
+            "label": "location",
+            "substring": "Tawi bridge",
+            "identifier": null
+        },
+        "81489": {
+            "begin": 1717,
+            "end": 1727,
+            "label": "location",
+            "substring": "Jammu city",
+            "identifier": null
+        },
+        "81490": {
+            "begin": 163,
+            "end": 172,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81491": {
+            "begin": 3684,
+            "end": 3693,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81492": {
+            "begin": 4602,
+            "end": 4611,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81493": {
+            "begin": 4754,
+            "end": 4763,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81494": {
+            "begin": 4830,
+            "end": 4839,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81495": {
+            "begin": 5287,
+            "end": 5296,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81496": {
+            "begin": 6415,
+            "end": 6424,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81497": {
+            "begin": 13157,
+            "end": 13166,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81498": {
+            "begin": 13443,
+            "end": 13452,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81499": {
+            "begin": 14345,
+            "end": 14354,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81500": {
+            "begin": 15234,
+            "end": 15243,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81501": {
+            "begin": 18778,
+            "end": 18787,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81502": {
+            "begin": 19556,
+            "end": 19565,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81503": {
+            "begin": 20200,
+            "end": 20209,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81504": {
+            "begin": 30898,
+            "end": 30907,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81505": {
+            "begin": 31628,
+            "end": 31637,
+            "label": "natural hazard",
+            "substring": "pollution",
+            "identifier": null
+        },
+        "81506": {
+            "begin": 6335,
+            "end": 6338,
+            "label": "location",
+            "substring": "J&K",
+            "identifier": null
+        },
+        "81507": {
+            "begin": 9115,
+            "end": 9118,
+            "label": "location",
+            "substring": "J&K",
+            "identifier": null
+        },
+        "81508": {
+            "begin": 20953,
+            "end": 20956,
+            "label": "location",
+            "substring": "J&K",
+            "identifier": null
+        }
+    },
+    "relations": {},
+    "text": "<heading>ABSTRACT</heading>\nPollution-free rivers give indication of a healthy ecosystem. The stretch of Tawi river particularly in the Jammu city is experiencing pollution load and the quality is degraded. The present study highlights the impact of COVID-19 lockdown on the water quality of Tawi river in Jammu, J&K Union Territory. Water quality data based upon the real-time water monitoring for four locations (Below Tawi Bridge, Bhagwati Nagar, Belicharana and Surajpur) have been obtained from the web link of Jammu and Kashmir Pollution Control Board. The important parameters used in the present study include pH, alkalinity, hardness, conductivity, BOD and COD. The river was designated fit for bathing in all the monitoring locations except Bhagwati Nagar which recorded a BOD value [5 mg/L because of domestic sewage and municipal waste dumping. The overall water quality in the river during lockdown was good and falls in Class B with pH (7.0-8.5), alkalinity (23.25-185.0 mg/L), hardness (84.25-177.5 mg/ L), conductivity (117-268 ms/cm). The improved water quality obtained during lockdown is never long-lasting as evident from the BOD and COD values observed during Unlock 1.0 due to accelerated anthropogenic activities in response to overcoming the economic loss, bringing the river water quality back to the degraded state. The statistical analysis known as cluster analysis has also been performed to evaluate the homogeneity of various monitoring sites based on the physicochemical variables. The need of the hour is to address the gaps of rejuvenation strategies and work over them for effective river resiliency and for sustainable river basin management. Keywords Tawi river basin \u00c1 Lockdown \u00c1 Jammu city \u00c1 Water quality \u00c1 COVID-19 pandemic Kashmir Pollution Control Board for providing data. The authors greatly acknowledge the support and guidance received from the\n<heading>Introduction</heading>\nHealthy rivers in terms of water quality are considered as the backbone of the development of any country. Rivers are the treasures of a nation and are looked upon as the assets for the economic development of a country particularly the developing countries like India (Prasad et al. 2016). However, this natural resource has been exploited to a great extent, making it sick in terms of degraded quality. Tonnes of domestic, industrial, and municipal waste is dumped into rivers and other water bodies, deteriorating the water quality, making it unsuitable for drinking, washing and bathing purposes, affecting the aquatic ecology (Gao et al. 2015;Igwe et al. 2017;Dwivedi et al. 2018). Water resources, particularly rivers, suffer from anthropogenic activities as the majority of agricultural areas and industrial units are located in the vicinity of rivers thereby causing contamination of river water (Hasan et al. 2016;Utete and Fregene 2020). Nutrient enrichment is also one of the causes of environmental aquatic stress (Tavakoly et al. 2019). Land-use change activities also affect the quality and quantity of water in the river basin (Yilmaz et al. 2019;Aredehey et al. 2020). Therefore, monitoring of water quality and health status of the aquatic ecosystem and risk assessment of the threatening factors are important for river basin management and aquatic ecosystem resiliency (de Medeiros et al. 2017;Gachlou et al. 2019;Mokarram et al. 2020). Sediment dynamics is also an important water basin management issue (Sinha et al. 2019). Various multivariate statistical analyses and water quality assessments are being carried out to determine the water quality, hydrogeology and to determine the most influential polluting agents (Li et al. 2017).\nThe pollution status of Indian rivers having the same anthropogenic sources and geo-environmental settings have been presented by many researchers. Major Indian rivers like Ganga and Yamuna receive various pollutants through direct and indirect means from both point and nonpoint sources (domestic sewage, agricultural runoffs, untreated pesticides, wastewater from industrial effluents) with the majority of pollutants from the domestic origin (Jaiswal et al. 2019;Trombadore et al. 2020). The river Gomti, one of the tributaries of the river Ganga, also receives pollutant discharge from drains and sewer system draining most abundant metals (Zn, Cu and Mn) while flowing through Lucknow city (Gupta et al. 2014) which bioaccumulate and can affect humans particularly children consuming contaminated fish (Gupta et al. 2015). The aquatic system of the Hindon river, Ghaziabad city also showed high levels of heavy metal pollution in both water and sediments as depicted by the enrichment factor and geo-accumulation index (Suthar et al. 2009). The results showed moderate pollution of Cu, Cr, Fe, unpolluted to moderate (Mn and Zn) and very strong pollution of Cd in Hindon river, Ghaziabad. Therefore, many projects and action plans for the monitoring and rejuvenation of water bodies have been put forward by National Green Tribunal (NGT) and Central Pollution Control Board (CPCB) throughout India. As per the data submitted to CPCB under National Water Monitoring Program (NWMP), 2016-2017, a total of 351 polluted river stretches across the country have been identified by CPCB in 2018, and based on pollution load as per BOD levels assessed, designated them into the range of Priority I (exceeding 30 mg/L) to priority V (3-6 mg/L) (NGT, O.A No. 673/2018). A total of nine polluted stretches in different rivers across the union territory of Jammu and Kashmir have been identified. One such polluted stretch lies in the Tawi river. The polluted stretch occurs downstream of the Tawi river basin particularly in Jammu city and the adjoining areas. The Tawi river is considered as the lifeline of inhabitants of Jammu city as it is the primary drinking water source, also used for irrigation, sewage disposal and fishing activities. The downstream of the Tawi river is under rapid geomorphological modifications as a result of encroachment of catchment areas for residential settlements and frequent dredging of the bottom and shores of the river for extraction of sand and stones. The river is also drained by untreated sewage from the city through different nallahs and drains along both the banks of the river (Action Plan on River Rejuvenation, J&K Pollution Control Board 2019). Factories or industries do not contribute to pollution of the Tawi water as there are no such industrial units along both banks.\nIn order to control the outbreak of the COVID-19 pandemic in India, the nation witnessed a series of nationwide complete lockdowns from 25-03-2020 to 14-04-2020 (Lockdown 1.0), 15-04-2020-03-05-2020 (Lockdown 2.0), 04-05-2020-17-05-2020 (Lockdown 3.0). The lockdown was further extended till 31-05-2020 (Lockdown 4.0). These lockdowns were further accompanied by unlock 1.0 which started on the 1st of June and extended till the 30th of June with restrictions in containment zones only. As a result of the lockdown announced by the Government of India, taken as a preventive measure against the spread of the COVID-19 pandemic, about 13 billion people were directed to stay indoors, with the closure of outdoor activities including commercial and private establishments because of lockdown restrictions (Dutta et al. 2020;Somani et al. 2020). This has also affected the water quality of the Tawi river as various news reports indicated that 'Lockdown to be remembered for cleaning Tawi' (Daily Excelsior 2020). The reports say that despite affecting the economy, the lockdown has resulted in environmental benefits as it can be seen through the level of clearness and transparency in the Tawi river water when compared to the pre-lockdown period. Lockdown has proved to be a blessing with smoke-free air and crystalclear water in rivers just with pollutants not getting straightway discharged into due to lockdown restrictions (Patel et al. 2020). This 68 days long nationwide lockdown resulted in visual improvements in the quality of Tawi river water; considered as one among the most polluted rivers of Jammu and Kashmir, an otherwise difficult condition to achieve.\nTo date, the environmental impacts of lockdown have been studied on water and air quality in different parts of the country (Selvam et al. 2020;Somani et al. 2020). Improvement in air quality during the lockdown period was illustrated using satellite images and air quality index (AQI) (Lokhandwala and Gautam 2020). Significant improvements in many parameters in the Ganga river during lockdown were seen with increasing DO; a decreasing trend of BOD, Nitrate (NO3-), Fecal Coliform, Total Coliform) (Dutta et al. 2020). Similar results were found for Yamuna's water quality parameters during lockdown (decreasing trend of BOD, COD, and Fecal Coliform) (Patel et al. 2020). But, no such kind of study has been carried out for the Tawi river of Jammu (J&K UT) in India. Therefore, this paper encompasses a detailed investigation of the impact of lockdown imposed in response to the COVID-19 pandemic on the water quality of the Tawi river basin, J&K, India. The baseline information provided in this paper presents the possibility to understand how rivers react to a sharp reduction in any type of polluting activities and show environmental resiliency. The paper will serve as a baseline for the policymakers in the postlockdown strategy.\n<heading>Materials and methods</heading>\nThis section of the article is focused on the selection of study area not yet studied on the part of COVID-19 as per our observations. This is one of the major streams of Jammu in J&K, India. Water quality data based upon the real-time water monitoring for four locations have been obtained from the web link of the Jammu and Kashmir Pollution Control Board (JKPCB) (http://jkspcb.nic.in/ Content/MonitoringatPollutedRiverStretchesinJandK.aspx?id= 454). The time period taken into consideration is from January to June, 2020. Arc GIS-10.4 has been employed for the formation of the study area map. For statistical analysis, PAST software version 4.03 was used and bar graphs were made using MS Excel.\n<heading>Study area</heading>\nRiver Tawi is considered a holy river and the Dogra people (Inhabitants of Jammu) take a holy dip in the water of the sacred river. It is also known as Surya Putri and is the major left-bank tributary of river Chenab. The river is glacial in its origin and originates from the Kali Kundi glacier and the adjoining areas located on the southwest of Bhaderwah in Doda district of Jammu and Kashmir UT and confluences with river Chenab in Sialkot in Pakistan. The catchment is delineated by latitude 32\u00b035 0 -33\u00b05 0 N and longitude 74\u00b034 0 -75\u00b040 0 E. About 95% of the river basin falls in the Jammu and Kashmir UT of India and about 5% in Pakistan (Verma et al. 2012). The river passes through rugged mountainous ranges in Bhaderwah and Udhampur and finally enters the plains of Jammu city. River Tawi bifurcates into Wadi Tawi and Nicki Tawi near Bhagwati Nagar, Jammu which merges into one stream at Sailkot in Pakistan and finally confluences with Chenab river. The river water quality gets degraded when it enters the plains of Jammu district because of thick human settlements along its bank throughout its course in the district. River Tawi is considered very close to the hearts of inhabitants of Jammu because of ritualistic beliefs (Wazza et al. 2018). The peak of anthropogenic influence can be seen in the Jammu district which marks the downstream of the river basin. The polluted stretch which lies in Jammu city and the adjoining areas are marked by the introduction of untreated sewage from the city, waste from minor/major establishments, agricultural practices (Table 1). The monitoring locations identified by CPCB as per NWMP in the polluted stretch, shown in Fig. 1, include Below Tawi bridge, Bhagwati Nagar, Belicharana and Surajpur.\n<heading>Methodology</heading>\nWater quality data based upon the real-time water monitoring for four locations have been obtained from the web link of the Jammu and Kashmir Pollution Control Board (JKPCB) from January to June, 2020. For detailed analysis, data acquired for the month of January and February indicate the pre-lockdown period, March-May represent the lockdown period and June as unlock 1.0. For comparison in the observed water quality, the historical data (2018-2019) have also been considered. It is to be noted that due to the non-availability of data for Bhagwati Nagar location for the year 2018-2019, three location sites except Bhagwati Nagar were considered for comparison with the previous years. The important parameters used in the present study include pH, alkalinity, hardness, conductivity, BOD and COD. Due to data limitations, the biological parameters have not been taken into account in this study. A statistical approach, known as Cluster analysis, has also been taken into consideration to evaluate the homogenous nature of various physicochemical variables among the water quality samples at various locations.\n<heading>Results and discussion</heading>\n\n<heading>Contributing factors of pollution in Tawi river</heading>\nbefore COVID-19: impacts and aspects\n<heading>Flow interruption due to barrage construction and water extraction activities: effects on water characteristics of Tawi river</heading>\nThe land-use change also marks a prominent role in causing freshwater pollution as construction and installation of barrages or embankments to retain the flowing water can provide several services at the same time cause considerable changes in the physical, chemical and biological characteristics of the river (Sharma and Dutta 2020), turning them into eco-hydrological deficit state (Pal and Sarda 2020). Fragmentation of the riverine ecosystem because of artificial obstruction like barrages or dams affects the aquatic environment characteristics, as well as the fish species composition (Jo et al. 2019). The effect of degraded quality can be seen in the form of deformities in the aquatic dwellers, with fish in particular (Bhagat and Kumar 2014;Dutta and Sheikh 2017). These deformities are due to developmental errors, injuries or diseases and these diseases are due to polluted water. Also, reduced flow downstream reduces the dilution of pollutants resulting in pollution of the river channel flowing downstream of the barrage.\nAn auto-mechanically operated gated barrage (AMOGB) was constructed on the Tawi river near Bhagwati Nagar area (4th Tawi bridge) to make an artificial lake and to provide water to the inhabitants of the city throughout the year (including dry periods when the flow rate in the river decreases). The construction is still underway. The barrage lies within the polluted stretch as identified by CPCB and JKPCB under NWMP. The preliminary morphological report, 2018 showed that the barrage had restricted the river flow and aggravated the problem of siltation resulting in instability of the river channel making the stretch vulnerable to flooding, which has significantly contributed to the already stressed river (Sharma et al. 2017). As reported by a study (Sharma et al. 2016), such construction has resulted in increased pollution load as is depicted by the presence of dominance of pollutant tolerant generas of macrobenthic invertebrates in the construction site clearly indicating the deteriorating trophic structure of the river due to the newly constructed barrage originally meant for the creation of an artificial lake.\nTawi river forms the main supply of drinking water with 26 mgd (million gallons per day) of water being abstracted from the river (Sharma et al. 2017;Wazza et al. 2018). As per WHRC (Western Himalayan Regional Centre (National Institute of Hydrology), Jammu reports, discharge flux in Tawi is declining at the rate of 23 MCM (Million Cubic Meter) per year. Also, water demand in the catchment is on the rise due to rapid urbanization and high population growth (20% per decade). The presence of a barrage across the river also contributed to the already stressed river, bringing the downstream area into an ecohydrological deficit state.  The Tawi river receives loads of domestic sewage and municipal waste from the thick human settlements along both the banks in the entire stretch of Jammu city ''The City of Temples.'' In the upper reaches, the quality of the Tawi water is good, free from pollutants except for sediment load as it passes through the hilly terrain with little human interventions, but when it enters the plains of Jammu, it loses its self-purification ability because the pollutant input surpasses its natural healing capacity. The degradation level is so elevated that the river is not suitable for bathing at various locations.\n<heading>Untreated Sewage</heading>\nVast quantities of sewage water from hotels, restaurants, domestic activities drains into the river directly without prior treatment. Such intrusion results in deleterious effects on the quality of the river, as well as affects the aquatic life (Wen et al. 2017). Domestic sewage is characterized by the presence of high pathogen load, toxic materials like heavy metals, chemical substances like pesticides, high organic matter, nutrient load, dissolved minerals (Dwivedi et al. 2018;Qadri and Faiz 2020).\nThere  (Uqab et al. 2017). There is a huge organic load in the Tawi water and one can notice black kites hovering near the Tawi bridge marking the most polluted site due to sewage intrusion.\n<heading>Religious activities</heading>\nRivers have a direct connection with religious activities as they are considered ideal for carrying ritualistic activities (Dwivedi et al. 2018). Tawi river is considered as the sacred river and people take a holy dip in various ghats located on the bank of the river. Most of the religious ghats are situated at points where Tawi enters Jammu (Wazza et al. 2018). Ritualistic activities like mundan ceremonies, mass ritualistic bathing, idol immersion are generally carried in the river. During navratras, large amounts of materials like flowers, sweets, earthen lamps and pots, leaves, seedlings, coins, etc., are added to the river thereby increasing the organic matter, nutrients and other materials accounting for organic pollutant load. Idols made of plaster of paris or clays poison the water as the paint or colors coated on them are sources of As, Cd, Cr, Hg and Pb. These are designated potential carcinogens (WHO 2008). Idols made of plaster of paris increase the acidity and heavy metal content as they are the source of gypsum, magnesium, sulfur and phosphorus (Das et al. 2012;Bhattacharya et al. 2014). Bones and ashes after cremation are also immersed in the sacred river adding up to the existing pollution load, choking the river.\n<heading>Washing and bathing activities</heading>\nThere are many nomadic people (Gujjar and Bakerwaals), Rohingyas (migrants from Burma) settled along the Tawi River. Bathing and washing activities by the nomads and the natives of the city further cause water pollution in river Tawi. This practice is widely prevalent in the main religious Ghats located before the Tawi bridge and the downstream of 4th Tawi bridge. People also use the Tawi river for bathing their cattle. The washing of vehicles is also observed near the Tawi bridge area making oil and grease particles (hydrocarbons) to float over the water surface.\n<heading>Agricultural activities</heading>\nAgricultural activities are considered as one of the principal causes of water pollution globally. Agriculture is being responsible for the discharge of huge amounts of organic matter, nutrients, agrochemicals, sediments, etc., into water bodies thereby degrading its quality (Sharpley et al. 2015;Wen et al. 2017). The downstream of Belicharana is mainly an agricultural area with agricultural fields in close proximity of river channel and the water requirement which is mainly fulfilled by irrigation. For providing water for irrigation, river water is directed into small irrigation channels which results in the reduction in water flow in the main water bodies reducing their dissolution efficiency, further intensify pollution in water (Bonsch et al. 2015;Chen and Olden 2017). Thus, agricultural activities to a great extent are responsible for polluting the Tawi river in the lower stretch in the Jammu district.\n<heading>Disposal of construction and demolition</heading>\nwaste Disposal of construction and demolition waste into the river has affected the physical properties of water. This type of activity is prevalent throughout the stretch but more specifically on the left bank of the river near the barrage construction site and the impact of such waste disposal is visible (Sharma et al. 2016). To tackle this problem, the government of Jammu and Kashmir has proposed a dumping site for such waste in the Bhagwati Nagar area (Action Plan on River Rejuvenation, J&K Pollution Control Board 2019), and the work is undertaken by Jammu Municipal Corporation (JMC).\n<heading>Indirect positive impacts on Tawi river water</heading>\nquality during the period of closure: improvement with visibility\n<heading>Complete restriction on tourism, religious gatherings</heading>\nThe nationwide lockdown prevented people from stepping out of the houses, public gatherings were prohibited. Tourism and religious activities were restrained. Ritualistic activities were not allowed at the banks of the river, thus reducing the organic load in the rivers. As tourism was prohibited thus brought a reduction in the amount of wastewater discharge from hotels and restaurants. Automobile washing was also not practiced during this period, thus reducing the amount of waste coming from these activities.\n<heading>Lockdown period coincided with harvesting period</heading>\nTo meet the water requirements for irrigation, water from rivers and streams is diverted causing a reduction in the water flow in the river. Also, over-extraction of the groundwater for irrigation in dry seasons reduces the baseflow in rivers as the discharge from groundwater to rivers decreases due to rapidly declining groundwater (Sharma and Dutta 2020). Reduction in baseflow potentially causes distress to the health of the river. The 68 days period of closure coincided with the harvesting period in the Tawi basin. There was no requirement for irrigation by the agricultural sector and hence a decline in river water diversion.\n<heading>Elevated rainfall event in the entire Tawi river basin</heading>\nDuring the period of closure, the entire Tawi river basin received excess rainfall brought by the increased amount of western disturbances, improving the flow in the river. The entire river basin received excess rainfall with 20-59% above normal in the Jammu district and 60% in the upstream of the Tawi river basin (Udhampur). The rainfall data have been taken from a published work (Dutta et al. 2020). The excess rainfall over the entire basin increased the water discharge in the river, which may be considered as one of the contributing factors for bringing about the dilution of pollutants in the river as suggested by others researchers also.\n<heading>Lockdown impacts on quality of Tawi river</heading>\nwater as per the data obtained from the web link of J&K SPCB Tawi river experienced notable positive progress in its water quality owing to a reduction in the amount of organic contaminants and solid waste that lasted for a duration of 68 days. Because of lockdown restrictions and guidelines, movement and outdoor activities were not allowed. Even none was allowed to step out of the house. The only activities permitted were essential services. However, during this lockdown period, there has not been a complete reduction in discharge from domestic sewerages with not much improvement in organic load but the discharge from minor and major establishments has nearly ended. There has been a reduction in domestic sewage contribution from hotels and restaurants. All religious places were closed resulting in the reduction in organic waste and other solid waste from these religious facilities. Because of control on these activities during the lockdown, the Tawi river had become comparatively cleaner.\n<heading>Historical data versus present year's data</heading>\nThe BOD (mg/L) values obtained for 3 years showed decreasing trend in BOD values (Fig. 2). Earlier in 2018, the stretch around the Tawi river was not even fit for bathing as BOD was above 5 mg/l (Priority V). But now, almost all the values lie below 3 mg/L. This decreasing trend is due to the actions taken by the government of Jammu and Kashmir, efforts of NGO's in the form of awareness programs, cleanliness drives taken by the university, college and schools for the rejuvenation of the river. The lockdown has also contributed to lowering the 0.00 BOD values bringing it to less than 1 mg/L at Belicharana and Surajpur in 2020.\n<heading>Comparison of observed half-yearly (Jan-Jun) water quality data 2019 and 2020</heading>\nComparison of half-yearly data (Jan-June 2019 and 2020) showed a sharp decrease in BOD and COD values at Belicharana and Surajpur except for below Tawi bridge location. BOD and COD values for below Tawi bridge location showed a slight rise in average value from 2.15 mg/L in 2019 to 2.18 mg/L in 2020 for BOD and from 9.40 to 11.33 mg/L (COD) in 2020 (Fig. 3). The reason for such an increase may be due to an increase in the use of disinfectants and an increase in wastewater generated by laundry activities (Herlina et al. 2019) because of the COVID-19 pandemic as proper sanitation, cleanliness and use of disinfectants is highly acknowledged. As the majority of drains draining the domestic sewage drains near Tawi bridge, thus increase in COD value.\n<heading>3.3.3</heading>\nPre-lockdown (May-June, 2019) versus lockdown (May-June, 2020)\nA noticeable improvement in the water characteristics was detected during the lockdown period (May-June, 2020) at various locations throughout the stretch (Fig. 4), especially in the Below Tawi bridge location as the river observed low BOD throughout its course in Jammu. This low BOD value indicates good water quality. This low BOD value indicating improved water quality could be attributed to the suspension of the pollutant release, particularly organic waste and dumping of rubbish and garbage, needless washing of vehicles, reduction in ritualistic activities along the banks due to the prevalence of lockdown restrictions. COD also showed the same decreasing trend from March to May, 2020 as compared to the previous year (March-May, 2019) except for one location where the COD value increased from 9.07 mg/L in 2019 to 9.67 mg/L in 2020. This increase in COD value during the lockdown period may be attributed to the rise of chlorine, ammonia, etc., in wastewater released in the process of disinfection as frequent cleaning of all the surfaces with disinfectants and detergents was highly recommended to prevent the COVID-19. Various parameters (pH, alkalinity, hardness, conductivity, BOD and COD) were studied Below Tawi bridge, Bhagwati Nagar, Belicharana and Surajpur for a period of six months (January-June) in 2020, and the concentration of all the studied parameters is summarized in Table 2. All the parameters were within the limits and the river was considered fit for outdoor bathing (Class B) but the BOD level at Bhagwati Nagar exceeded 5 mg/L bringing the stretch in the Priority V (not fit for bathing) as recommended by CPCB. The Bhagwati Nagar area holds a municipal waste dumping site and a Sewage Treatment Plant (STP) in non-working conditions.\n<heading>Comparative assessment of data observed</heading>\nduring Pre-lockdown, lockdown and unlock 1.0\nWhen considering the breakup of the year 2020, into prelockdown, lockdown and the unlock 1.0, it has been seen that both BOD and COD values at all the monitoring stations showed a significant decrease in the values (Fig. 5) indicating improvements in the water quality during the lockdown as a result of the reduction in the release of pollutants because of lockdown. BOD values during the lockdown period recorded at all the locations were below 3 mg/L except for Bhagwati Nagar which recorded an average BOD value of 4.5 mg/L. The water of the Tawi river during the lockdown period was designated fit for outdoor bathing except for Bhagwati Nagar. But during the Impact assessment on water quality in the polluted stretch using a cluster analysis during pre-and\u2026   3.3.5 Trends in the observed data along the entire stream of river's study area\nThe impact of Lockdown restrictions on the health of Tawi river water in the polluted stretch recognized by the government authorities is shown in Fig. 6. It was evident from the declining trend of BOD and COD values, indicating overall good health of the river during the lockdown period. The other parameters for the entire stretch are summarized in Table 3. The river falls in class B of Designated Best Use (DBU) and is considered fit for outdoor bathing.\n<heading>Cluster analysis (CA)</heading>\nA multivariate statistical method that allows for the grouping of variables into clusters based on similarities or dissimilarities so that each cluster indicates an explicit process in a system is known as cluster analysis. CA classifies objects or variables so that each object or variable is similar to the others in the cluster with respect to a predetermined selection criterion. Among the various approaches of CA, Bray-Curtis cluster analysis is the most widespread approach as it provides similarity relationships between anyone sample and the entire dataset and is typically elucidated by a dendrogram (Bhat et al. 2014). The dendrogram provides a visual summary of the clustering processes, presenting a picture of the groups and their proximity.\nA dendrogram was generated as a result of CA, grouping the sampling sites based on the percentage of similarity and dissimilarity of water quality parameters as depicted in Fig. 7. The analysis of similarity of study sites (73-100%) was carried out to indicate relationship intensity between sites as a cluster. The Bray-Curtis similarity analysis confirmed that there is a similarity of 99% between sites Belicharana (shown as BEL) and Surajpur (shown as SP).  Below Tawi Bridge (represented as BTB) is somewhat similar to BEL and SP with a similarity of more than 95% and Bhagwati Nagar (BN) with more than 73% similarity.\n<heading>Conclusion</heading>\nA lockdown period of 68 days resulted in significant visible improvements in the water quality of the Tawi river in the polluted stretch which lies in the Jammu city and the nearby areas. Significant decline in BOD and COD values was seen ascertaining anthropogenic activities as the main culprits for degraded river water quality as, during lockdown, the pollution load to the river declined. But this does not ascertain sustained improved water quality for long as after lockdown the anthropogenic activities from the establishment, hotels, dhabas, restaurants resumed to their fullest to overcome the economic loss caused by the lockdown. This saying sounds true as the values of BOD and COD during unlock 1.0 increased when some of the restrictions were uplifted and continued to rise with the subsequent unlocks. The application of multivariate statistical analysis (Cluster analysis) has been used to establish the extent of similarity between the physicochemical variables, allowing the grouping of water samples based on the similarities in river water indicating the source of pollution to be almost the same in the entire stretch of the river. This study provides an opportunity to understand how the environment (rivers) reacts to sharp reductions in pollution-causing activities and can help the policymakers to rethink on the gaps in river resiliency efforts. Also, there is a need for speedy completion of the projects meant for the resiliency of rivers.\n<heading></heading>\nAcknowledgements The authors are highly thankful to Jammu and\n"
+}

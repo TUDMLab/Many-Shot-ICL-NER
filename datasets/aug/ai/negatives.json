@@ -1,0 +1,829 @@
+[
+    {
+        "text": "GATE includes an information extraction system called ANNIE ( A Nearly-New Information Extraction System ) which is a set of modules comprising a tokenizer , a gazetteer , a sentence splitter , a Part-of-speech tagging , a Named entity recognition transducer and a coreference tagger .",
+        "target": "<entity type=\"product\">GATE</entity> includes an <entity type=\"task\">information extraction</entity> system called <entity type=\"product\">ANNIE</entity> ( <entity type=\"product\">A Nearly-New Information Extraction System</entity> ) which is a set of modules comprising a <entity type=\"miscellaneous\">tokenizer</entity> , a <entity type=\"miscellaneous\">gazetteer</entity> , a <entity type=\"miscellaneous\">sentence splitter</entity> , a <entity type=\"task\">Part-of-speech tagging</entity> , a <entity type=\"product\">Named entity recognition transducer</entity> and a <entity type=\"product\">coreference tagger</entity> .",
+        "entities": [
+            [
+                "GATE",
+                "product"
+            ],
+            [
+                "information extraction",
+                "task"
+            ],
+            [
+                "ANNIE",
+                "product"
+            ],
+            [
+                "A Nearly-New Information Extraction System",
+                "product"
+            ],
+            [
+                "tokenizer",
+                "miscellaneous"
+            ],
+            [
+                "gazetteer",
+                "miscellaneous"
+            ],
+            [
+                "sentence splitter",
+                "miscellaneous"
+            ],
+            [
+                "Part-of-speech tagging",
+                "task"
+            ],
+            [
+                "Named entity recognition transducer",
+                "product"
+            ],
+            [
+                "coreference tagger",
+                "product"
+            ]
+        ],
+        "response": "<entity type=\"product\">GATE</entity> includes an <entity type=\"task\">information extraction</entity> system called <entity type=\"product\">ANNIE</entity> ( <entity type=\"product\">A Nearly-New Information Extraction System</entity> ) which is a set of modules comprising a <entity type=\"algorithm\">tokenizer</entity> , a <entity type=\"algorithm\">gazetteer</entity> , a <entity type=\"algorithm\">sentence splitter</entity> , a <entity type=\"task\">Part-of-speech tagging</entity> , a <entity type=\"task\">Named entity recognition</entity> transducer and a <entity type=\"algorithm\">coreference tagger</entity> ."
+    },
+    {
+        "text": "Other ways anomalous propagation is recorded is by troposcatter s causing irregularities in the troposphere , scattering due to meteor s , refraction in the ionized regions and layers of the ionosphere , and reflection from the ionosphere .",
+        "target": "Other ways <entity type=\"miscellaneous\">anomalous propagation</entity> is recorded is by <entity type=\"miscellaneous\">troposcatter</entity> s causing irregularities in the <entity type=\"miscellaneous\">troposphere</entity> , scattering due to meteor s , refraction in the <entity type=\"miscellaneous\">ionized regions</entity> and layers of the <entity type=\"miscellaneous\">ionosphere</entity> , and reflection from the <entity type=\"miscellaneous\">ionosphere</entity> .",
+        "entities": [
+            [
+                "anomalous propagation",
+                "miscellaneous"
+            ],
+            [
+                "troposcatter",
+                "miscellaneous"
+            ],
+            [
+                "troposphere",
+                "miscellaneous"
+            ],
+            [
+                "ionized regions",
+                "miscellaneous"
+            ],
+            [
+                "ionosphere",
+                "miscellaneous"
+            ],
+            [
+                "ionosphere",
+                "miscellaneous"
+            ]
+        ],
+        "response": "Other ways <entity type=\"task\">anomalous propagation</entity> is recorded is by <entity type=\"miscellaneous\">troposcatter</entity> s causing irregularities in the <entity type=\"miscellaneous\">troposphere</entity> , scattering due to <entity type=\"miscellaneous\">meteor</entity> s , refraction in the ionized regions and layers of the <entity type=\"miscellaneous\">ionosphere</entity> , and reflection from the <entity type=\"miscellaneous\">ionosphere</entity> ."
+    },
+    {
+        "text": "Headquartered in Rochester Hills , Michigan , the company had 10 regional locations in the U.S. , Canada , Mexico and Brazil .",
+        "target": "Headquartered in <entity type=\"location\">Rochester Hills</entity> , <entity type=\"location\">Michigan</entity> , the company had 10 regional locations in <entity type=\"country\">the U.S.</entity> , <entity type=\"country\">Canada</entity> , <entity type=\"country\">Mexico</entity> and <entity type=\"country\">Brazil</entity> .",
+        "entities": [
+            [
+                "Rochester Hills",
+                "location"
+            ],
+            [
+                "Michigan",
+                "location"
+            ],
+            [
+                "the U.S.",
+                "country"
+            ],
+            [
+                "Canada",
+                "country"
+            ],
+            [
+                "Mexico",
+                "country"
+            ],
+            [
+                "Brazil",
+                "country"
+            ]
+        ],
+        "response": "Headquartered in <entity type=\"location\">Rochester Hills</entity> , <entity type=\"country\">Michigan</entity> , the company had 10 regional locations in the <entity type=\"country\">U.S.</entity> , <entity type=\"country\">Canada</entity> , <entity type=\"country\">Mexico</entity> and <entity type=\"country\">Brazil</entity> ."
+    },
+    {
+        "text": "These systems , such as Siri of the iOS operating system , operate on a similar pattern-recognizing technique as that of text-based systems , but with the former , the user input is conducted through speech recognition .",
+        "target": "These systems , such as <entity type=\"product\">Siri</entity> of the <entity type=\"product\">iOS operating system</entity> , operate on a similar pattern-recognizing technique as that of text-based systems , but with the former , the user input is conducted through <entity type=\"task\">speech recognition</entity> .",
+        "entities": [
+            [
+                "Siri",
+                "product"
+            ],
+            [
+                "iOS operating system",
+                "product"
+            ],
+            [
+                "speech recognition",
+                "task"
+            ]
+        ],
+        "response": "These systems , such as <entity type=\"product\">Siri</entity> of the <entity type=\"product\">iOS operating system</entity> , operate on a similar <entity type=\"algorithm\">pattern-recognizing technique</entity> as that of <entity type=\"miscellaneous\">text-based systems</entity> , but with the former , the user input is conducted through <entity type=\"task\">speech recognition</entity> ."
+    },
+    {
+        "text": "The Arduino integrated development environment ( IDE ) is a cross-platform application ( for Windows , macOS , and Linux ) that is written in the programming language Java .",
+        "target": "The <entity type=\"product\">Arduino</entity> <entity type=\"miscellaneous\">integrated development environment</entity> ( <entity type=\"miscellaneous\">IDE</entity> ) is a <entity type=\"miscellaneous\">cross-platform application</entity> ( for <entity type=\"product\">Windows</entity> , <entity type=\"product\">macOS</entity> , and <entity type=\"product\">Linux</entity> ) that is written in the programming language <entity type=\"programming language\">Java</entity> .",
+        "entities": [
+            [
+                "Arduino",
+                "product"
+            ],
+            [
+                "integrated development environment",
+                "miscellaneous"
+            ],
+            [
+                "IDE",
+                "miscellaneous"
+            ],
+            [
+                "cross-platform application",
+                "miscellaneous"
+            ],
+            [
+                "Windows",
+                "product"
+            ],
+            [
+                "macOS",
+                "product"
+            ],
+            [
+                "Linux",
+                "product"
+            ],
+            [
+                "Java",
+                "programming language"
+            ]
+        ],
+        "response": "The <entity type=\"product\">Arduino integrated development environment</entity> ( <entity type=\"product\">IDE</entity> ) is a cross-platform application ( for <entity type=\"product\">Windows</entity> , <entity type=\"product\">macOS</entity> , and <entity type=\"product\">Linux</entity> ) that is written in the <entity type=\"programming language\">programming language Java</entity> ."
+    },
+    {
+        "text": "Logo was created in 1967 at Bolt , Beranek and Newman ( BBN ) , a Cambridge , Massachusetts research firm , by Wally Feurzeig , Cynthia Solomon , and Seymour Papert .",
+        "target": "<entity type=\"programming language\">Logo</entity> was created in 1967 at <entity type=\"organization\">Bolt , Beranek and Newman</entity> ( <entity type=\"organization\">BBN</entity> ) , a <entity type=\"university\">Cambridge</entity> , <entity type=\"university\">Massachusetts</entity> research firm , by <entity type=\"researcher\">Wally Feurzeig</entity> , <entity type=\"researcher\">Cynthia Solomon</entity> , and <entity type=\"researcher\">Seymour Papert</entity> .",
+        "entities": [
+            [
+                "Logo",
+                "programming language"
+            ],
+            [
+                "Bolt , Beranek and Newman",
+                "organization"
+            ],
+            [
+                "BBN",
+                "organization"
+            ],
+            [
+                "Cambridge",
+                "university"
+            ],
+            [
+                "Massachusetts",
+                "university"
+            ],
+            [
+                "Wally Feurzeig",
+                "researcher"
+            ],
+            [
+                "Cynthia Solomon",
+                "researcher"
+            ],
+            [
+                "Seymour Papert",
+                "researcher"
+            ]
+        ],
+        "response": "<entity type=\"product\">Logo</entity> was created in 1967 at <entity type=\"organization\">Bolt , Beranek and Newman</entity> ( <entity type=\"organization\">BBN</entity> ) , a <entity type=\"location\">Cambridge , Massachusetts</entity> research firm , by <entity type=\"researcher\">Wally Feurzeig</entity> , <entity type=\"researcher\">Cynthia Solomon</entity> , and <entity type=\"researcher\">Seymour Papert</entity> ."
+    },
+    {
+        "text": "He received a PhD in Radio Physics and Electronics from the Rajabazar Science College campus of University of Calcutta in 1979 as a student of Indian Statistical Institute , and another PhD in Electrical Engineering along with Diploma of the Imperial College from Imperial College , University of London , in 1982 .",
+        "target": "He received a <entity type=\"miscellaneous\">PhD</entity> in <entity type=\"field\">Radio Physics</entity> and <entity type=\"field\">Electronics</entity> from the <entity type=\"university\">Rajabazar Science College</entity> campus of <entity type=\"university\">University of Calcutta</entity> in 1979 as a student of <entity type=\"university\">Indian Statistical Institute</entity> , and another <entity type=\"miscellaneous\">PhD</entity> in <entity type=\"field\">Electrical Engineering</entity> along with <entity type=\"miscellaneous\">Diploma of the Imperial College</entity> from <entity type=\"university\">Imperial College</entity> , <entity type=\"university\">University of London</entity> , in 1982 .",
+        "entities": [
+            [
+                "PhD",
+                "miscellaneous"
+            ],
+            [
+                "Radio Physics",
+                "field"
+            ],
+            [
+                "Electronics",
+                "field"
+            ],
+            [
+                "Rajabazar Science College",
+                "university"
+            ],
+            [
+                "University of Calcutta",
+                "university"
+            ],
+            [
+                "Indian Statistical Institute",
+                "university"
+            ],
+            [
+                "PhD",
+                "miscellaneous"
+            ],
+            [
+                "Electrical Engineering",
+                "field"
+            ],
+            [
+                "Diploma of the Imperial College",
+                "miscellaneous"
+            ],
+            [
+                "Imperial College",
+                "university"
+            ],
+            [
+                "University of London",
+                "university"
+            ]
+        ],
+        "response": "He received a <entity type=\"miscellaneous\">PhD</entity> in <entity type=\"field\">Radio Physics</entity> and <entity type=\"field\">Electronics</entity> from the <entity type=\"university\">Rajabazar Science College campus of University of Calcutta</entity> in 1979 as a student of <entity type=\"organization\">Indian Statistical Institute</entity> , and another <entity type=\"miscellaneous\">PhD</entity> in <entity type=\"field\">Electrical Engineering</entity> along with <entity type=\"miscellaneous\">Diploma of the Imperial College</entity> from <entity type=\"university\">Imperial College</entity> , <entity type=\"university\">University of London</entity> , in 1982 ."
+    },
+    {
+        "text": "It also created flexible intelligent AGV applications , designing the Motivity control system used by RMT Robotics to develop its ADAM iAGV ( Self-Guided Vehicle ) , used for complex pick and place operations , in conjunction with gantry systems and industrial robot arms , used in first-tier auto supply factories to move products from process to process in non-linear layouts .",
+        "target": "It also created flexible intelligent <entity type=\"product\">AGV</entity> applications , designing the <entity type=\"product\">Motivity control system</entity> used by <entity type=\"organization\">RMT Robotics</entity> to develop its <entity type=\"product\">ADAM iAGV</entity> ( Self-Guided Vehicle ) , used for complex pick and place operations , in conjunction with <entity type=\"product\">gantry systems</entity> and <entity type=\"product\">industrial robot arms</entity> , used in first-tier auto supply factories to move products from process to process in <entity type=\"miscellaneous\">non-linear layouts</entity> .",
+        "entities": [
+            [
+                "AGV",
+                "product"
+            ],
+            [
+                "Motivity control system",
+                "product"
+            ],
+            [
+                "RMT Robotics",
+                "organization"
+            ],
+            [
+                "ADAM iAGV",
+                "product"
+            ],
+            [
+                "gantry systems",
+                "product"
+            ],
+            [
+                "industrial robot arms",
+                "product"
+            ],
+            [
+                "non-linear layouts",
+                "miscellaneous"
+            ]
+        ],
+        "response": "It also created flexible intelligent <entity type=\"product\">AGV</entity> applications , designing the <entity type=\"product\">Motivity control system</entity> used by <entity type=\"organization\">RMT Robotics</entity> to develop its <entity type=\"product\">ADAM iAGV</entity> ( <entity type=\"product\">Self-Guided Vehicle</entity> ) , used for complex <entity type=\"task\">pick and place operations</entity> , in conjunction with <entity type=\"product\">gantry systems</entity> and <entity type=\"product\">industrial robot arms</entity> , used in first-tier auto supply factories to move products from process to process in non-linear layouts ."
+    },
+    {
+        "text": "The National Science Foundation was an umbrella for the National Aeronautics and Space Administration ( NASA ) , the US Department of Energy , the US Department of Commerce NIST , the US Department of Defense , Defense Advanced Research Projects Agency ( DARPA ) , and the Office of Naval Research coordinated studies to inform strategic planners in their deliberations .",
+        "target": "The <entity type=\"organization\">National Science Foundation</entity> was an umbrella for the <entity type=\"organization\">National Aeronautics and Space Administration</entity> ( <entity type=\"organization\">NASA</entity> ) , the <entity type=\"organization\">US Department of Energy</entity> , the <entity type=\"organization\">US Department of Commerce NIST</entity> , the <entity type=\"organization\">US Department of Defense</entity> , <entity type=\"organization\">Defense Advanced Research Projects Agency</entity> ( <entity type=\"organization\">DARPA</entity> ) , and the <entity type=\"organization\">Office of Naval Research</entity> coordinated studies to inform strategic planners in their deliberations .",
+        "entities": [
+            [
+                "National Science Foundation",
+                "organization"
+            ],
+            [
+                "National Aeronautics and Space Administration",
+                "organization"
+            ],
+            [
+                "NASA",
+                "organization"
+            ],
+            [
+                "US Department of Energy",
+                "organization"
+            ],
+            [
+                "US Department of Commerce NIST",
+                "organization"
+            ],
+            [
+                "US Department of Defense",
+                "organization"
+            ],
+            [
+                "Defense Advanced Research Projects Agency",
+                "organization"
+            ],
+            [
+                "DARPA",
+                "organization"
+            ],
+            [
+                "Office of Naval Research",
+                "organization"
+            ]
+        ],
+        "response": "The <entity type=\"organization\">National Science Foundation</entity> was an umbrella for the <entity type=\"organization\">National Aeronautics and Space Administration</entity> ( <entity type=\"organization\">NASA</entity> ) , the <entity type=\"organization\">US Department of Energy</entity> , the <entity type=\"organization\">US Department of Commerce</entity> <entity type=\"organization\">NIST</entity> , the <entity type=\"organization\">US Department of Defense</entity> , <entity type=\"organization\">Defense Advanced Research Projects Agency</entity> ( <entity type=\"organization\">DARPA</entity> ) , and the <entity type=\"organization\">Office of Naval Research</entity> coordinated studies to inform strategic planners in their deliberations ."
+    },
+    {
+        "text": "This is done by modeling the received signal then using a statistical estimation method such as maximum likelihood ( ML ) , majority voting ( MV ) or maximum a posteriori ( MAP ) to make a decision about which target in the library best fits the model built using the received signal .",
+        "target": "This is done by modeling the received signal then using a statistical estimation method such as <entity type=\"algorithm\">maximum likelihood</entity> ( <entity type=\"algorithm\">ML</entity> ) , <entity type=\"algorithm\">majority voting</entity> ( <entity type=\"algorithm\">MV</entity> ) or <entity type=\"algorithm\">maximum a posteriori</entity> ( <entity type=\"algorithm\">MAP</entity> ) to make a decision about which target in the library best fits the model built using the received signal .",
+        "entities": [
+            [
+                "maximum likelihood",
+                "algorithm"
+            ],
+            [
+                "ML",
+                "algorithm"
+            ],
+            [
+                "majority voting",
+                "algorithm"
+            ],
+            [
+                "MV",
+                "algorithm"
+            ],
+            [
+                "maximum a posteriori",
+                "algorithm"
+            ],
+            [
+                "MAP",
+                "algorithm"
+            ]
+        ],
+        "response": "This is done by modeling the received signal then using a statistical estimation method such as <entity type=\"metrics\">maximum likelihood</entity> ( <entity type=\"metrics\">ML</entity> ) , <entity type=\"metrics\">majority voting</entity> ( <entity type=\"metrics\">MV</entity> ) or <entity type=\"metrics\">maximum a posteriori</entity> ( <entity type=\"metrics\">MAP</entity> ) to make a decision about which target in the library best fits the model built using the received signal ."
+    },
+    {
+        "text": "It is based on the Bilingual evaluation understudy metric , but with some alterations .",
+        "target": "It is based on the <entity type=\"metrics\">Bilingual evaluation understudy metric</entity> , but with some alterations .",
+        "entities": [
+            [
+                "Bilingual evaluation understudy metric",
+                "metrics"
+            ]
+        ],
+        "response": "It is based on the <entity type=\"metrics\">Bilingual evaluation understudy</entity> metric , but with some alterations ."
+    },
+    {
+        "text": "An implementation of several whitening procedures in R , including ZCA-whitening and PCA whitening but also CCA whitening , is available in the whitening R package published on CRAN .",
+        "target": "An implementation of several <entity type=\"miscellaneous\">whitening</entity> procedures in <entity type=\"programming language\">R</entity> , including <entity type=\"algorithm\">ZCA-whitening</entity> and <entity type=\"algorithm\">PCA whitening</entity> but also <entity type=\"algorithm\">CCA whitening</entity> , is available in the <entity type=\"product\">whitening R package</entity> published on <entity type=\"product\">CRAN</entity> .",
+        "entities": [
+            [
+                "whitening",
+                "miscellaneous"
+            ],
+            [
+                "R",
+                "programming language"
+            ],
+            [
+                "ZCA-whitening",
+                "algorithm"
+            ],
+            [
+                "PCA whitening",
+                "algorithm"
+            ],
+            [
+                "CCA whitening",
+                "algorithm"
+            ],
+            [
+                "whitening R package",
+                "product"
+            ],
+            [
+                "CRAN",
+                "product"
+            ]
+        ],
+        "response": "An implementation of several <entity type=\"algorithm\">whitening procedures</entity> in <entity type=\"programming language\">R</entity> , including <entity type=\"algorithm\">ZCA-whitening</entity> and <entity type=\"algorithm\">PCA whitening</entity> but also <entity type=\"algorithm\">CCA whitening</entity> , is available in the <entity type=\"product\">whitening R package</entity> published on <entity type=\"organization\">CRAN</entity> ."
+    },
+    {
+        "text": "An empirical whitening transform is obtained by estimating the covariance ( e.g. by maximum likelihood ) and subsequently constructing a corresponding estimated whitening matrix ( e.g. by Cholesky decomposition ) .",
+        "target": "An empirical <entity type=\"miscellaneous\">whitening transform</entity> is obtained by estimating the <entity type=\"miscellaneous\">covariance</entity> ( e.g. by <entity type=\"algorithm\">maximum likelihood</entity> ) and subsequently constructing a corresponding estimated <entity type=\"miscellaneous\">whitening matrix</entity> ( e.g. by <entity type=\"algorithm\">Cholesky decomposition</entity> ) .",
+        "entities": [
+            [
+                "whitening transform",
+                "miscellaneous"
+            ],
+            [
+                "covariance",
+                "miscellaneous"
+            ],
+            [
+                "maximum likelihood",
+                "algorithm"
+            ],
+            [
+                "whitening matrix",
+                "miscellaneous"
+            ],
+            [
+                "Cholesky decomposition",
+                "algorithm"
+            ]
+        ],
+        "response": "An empirical <entity type=\"algorithm\">whitening transform</entity> is obtained by estimating the <entity type=\"metrics\">covariance</entity> ( e.g. by <entity type=\"metrics\">maximum likelihood</entity> ) and subsequently constructing a corresponding estimated <entity type=\"algorithm\">whitening matrix</entity> ( e.g. by <entity type=\"algorithm\">Cholesky decomposition</entity> ) ."
+    },
+    {
+        "text": "Their ' parallel ' distinction , as opposed to a serial manipulator , is that the end effector ( or ' hand ' ) of this linkage ( or ' arm ' ) is directly connected to its base by a number of ( usually three or six ) separate and independent linkages working simultaneously .",
+        "target": "Their ' parallel ' distinction , as opposed to a <entity type=\"product\">serial manipulator</entity> , is that the <entity type=\"miscellaneous\">end effector</entity> ( or ' hand ' ) of this linkage ( or ' arm ' ) is directly connected to its base by a number of ( usually three or six ) separate and independent linkages working simultaneously .",
+        "entities": [
+            [
+                "serial manipulator",
+                "product"
+            ],
+            [
+                "end effector",
+                "miscellaneous"
+            ]
+        ],
+        "response": "Their ' parallel ' distinction , as opposed to a <entity type=\"product\">serial manipulator</entity> , is that the <entity type=\"product\">end effector</entity> ( or ' hand ' ) of this <entity type=\"product\">linkage</entity> ( or ' arm ' ) is directly connected to its base by a number of ( usually three or six ) separate and independent <entity type=\"product\">linkages</entity> working simultaneously ."
+    },
+    {
+        "text": "If we use least squares to fit a function in the form of a hyperplane \u0177 = a + \u03b2 supT / sup x to the data ( x sub i / sub , y sub i / sub ) sub 1 \u2264 i \u2264 n / sub , we could then assess the fit using the mean squared error ( MSE ) .",
+        "target": "If we use <entity type=\"algorithm\">least squares</entity> to fit a function in the form of a hyperplane \u0177 = a + \u03b2 supT / sup x to the data ( x sub i / sub , y sub i / sub ) sub 1 \u2264 i \u2264 n / sub , we could then assess the fit using the <entity type=\"metrics\">mean squared error</entity> ( <entity type=\"metrics\">MSE</entity> ) .",
+        "entities": [
+            [
+                "least squares",
+                "algorithm"
+            ],
+            [
+                "mean squared error",
+                "metrics"
+            ],
+            [
+                "MSE",
+                "metrics"
+            ]
+        ],
+        "response": "If we use <entity type=\"algorithm\">least squares</entity> to fit a function in the form of a <entity type=\"algorithm\">hyperplane</entity> \u0177 = a + \u03b2 supT / sup x to the data ( x sub i / sub , y sub i / sub ) sub 1 \u2264 i \u2264 n / sub , we could then assess the fit using the <entity type=\"metrics\">mean squared error</entity> ( <entity type=\"metrics\">MSE</entity> ) ."
+    },
+    {
+        "text": "OCR is a field of research in pattern recognition , artificial intelligence and computer vision .",
+        "target": "<entity type=\"task\">OCR</entity> is a field of research in <entity type=\"field\">pattern recognition</entity> , <entity type=\"field\">artificial intelligence</entity> and <entity type=\"field\">computer vision</entity> .",
+        "entities": [
+            [
+                "OCR",
+                "task"
+            ],
+            [
+                "pattern recognition",
+                "field"
+            ],
+            [
+                "artificial intelligence",
+                "field"
+            ],
+            [
+                "computer vision",
+                "field"
+            ]
+        ],
+        "response": "<entity type=\"field\">OCR</entity> is a field of research in <entity type=\"field\">pattern recognition</entity> , <entity type=\"field\">artificial intelligence</entity> and <entity type=\"field\">computer vision</entity> ."
+    },
+    {
+        "text": "On 7 June 2014 , in a Turing test competition at the Royal Society , organised by Kevin Warwick of the University of Reading to mark the 60th anniversary of Turing 's death , Goostman won after 33 % of the judges were convinced that the bot was human .",
+        "target": "On 7 June 2014 , in a <entity type=\"miscellaneous\">Turing test</entity> competition at the <entity type=\"organization\">Royal Society</entity> , organised by <entity type=\"researcher\">Kevin Warwick</entity> of the <entity type=\"university\">University of Reading</entity> to mark the <entity type=\"miscellaneous\">60th anniversary of Turing 's death</entity> , <entity type=\"researcher\">Goostman</entity> won after 33 % of the judges were convinced that the bot was human .",
+        "entities": [
+            [
+                "Turing test",
+                "miscellaneous"
+            ],
+            [
+                "Royal Society",
+                "organization"
+            ],
+            [
+                "Kevin Warwick",
+                "researcher"
+            ],
+            [
+                "University of Reading",
+                "university"
+            ],
+            [
+                "60th anniversary of Turing 's death",
+                "miscellaneous"
+            ],
+            [
+                "Goostman",
+                "researcher"
+            ]
+        ],
+        "response": "On 7 June 2014 , in a <entity type=\"miscellaneous\">Turing test</entity> competition at the <entity type=\"organization\">Royal Society</entity> , organised by <entity type=\"researcher\">Kevin Warwick</entity> of the <entity type=\"university\">University of Reading</entity> to mark the 60th anniversary of <entity type=\"researcher\">Turing</entity> 's death , <entity type=\"product\">Goostman</entity> won after 33 % of the judges were convinced that the bot was human ."
+    },
+    {
+        "text": "In computer science , computational learning theory ( or just learning theory ) is a subfield of artificial intelligence devoted to studying the design and analysis of machine learning algorithms .",
+        "target": "In <entity type=\"field\">computer science</entity> , <entity type=\"field\">computational learning theory</entity> ( or just <entity type=\"field\">learning theory</entity> ) is a subfield of <entity type=\"field\">artificial intelligence</entity> devoted to studying the design and analysis of <entity type=\"field\">machine learning</entity> algorithms .",
+        "entities": [
+            [
+                "computer science",
+                "field"
+            ],
+            [
+                "computational learning theory",
+                "field"
+            ],
+            [
+                "learning theory",
+                "field"
+            ],
+            [
+                "artificial intelligence",
+                "field"
+            ],
+            [
+                "machine learning",
+                "field"
+            ]
+        ],
+        "response": "In <entity type=\"field\">computer science</entity> , <entity type=\"field\">computational learning theory</entity> ( or just <entity type=\"field\">learning theory</entity> ) is a subfield of <entity type=\"field\">artificial intelligence</entity> devoted to studying the design and analysis of <entity type=\"algorithm\">machine learning algorithms</entity> ."
+    },
+    {
+        "text": "The parameters \u03b2 are typically estimated by maximum likelihood .",
+        "target": "The parameters \u03b2 are typically estimated by <entity type=\"metrics\">maximum likelihood</entity> .",
+        "entities": [
+            [
+                "maximum likelihood",
+                "metrics"
+            ]
+        ],
+        "response": "The parameters <entity type=\"metrics\">\u03b2</entity> are typically estimated by <entity type=\"metrics\">maximum likelihood</entity> ."
+    },
+    {
+        "text": "Two of the main methods used in unsupervised learning are principal component analysis and cluster analysis .",
+        "target": "Two of the main methods used in <entity type=\"field\">unsupervised learning</entity> are <entity type=\"algorithm\">principal component analysis</entity> and <entity type=\"task\">cluster analysis</entity> .",
+        "entities": [
+            [
+                "unsupervised learning",
+                "field"
+            ],
+            [
+                "principal component analysis",
+                "algorithm"
+            ],
+            [
+                "cluster analysis",
+                "task"
+            ]
+        ],
+        "response": "Two of the main methods used in <entity type=\"field\">unsupervised learning</entity> are <entity type=\"algorithm\">principal component analysis</entity> and <entity type=\"algorithm\">cluster analysis</entity> ."
+    },
+    {
+        "text": "An illustration of their capabilities is given by the ImageNet Large Scale Visual Recognition Challenge ; this is a benchmark in object classification and detection , with millions of images and hundreds of object classes .",
+        "target": "An illustration of their capabilities is given by the <entity type=\"conference\">ImageNet Large Scale Visual Recognition Challenge</entity> ; this is a benchmark in <entity type=\"task\">object classification and detection</entity> , with millions of images and hundreds of object classes .",
+        "entities": [
+            [
+                "ImageNet Large Scale Visual Recognition Challenge",
+                "conference"
+            ],
+            [
+                "object classification and detection",
+                "task"
+            ]
+        ],
+        "response": "An illustration of their capabilities is given by the <entity type=\"conference\">ImageNet Large Scale Visual Recognition Challenge</entity> ; this is a benchmark in <entity type=\"task\">object classification</entity> and <entity type=\"task\">detection</entity> , with millions of images and hundreds of object classes ."
+    },
+    {
+        "text": "Natural language processing ( NLP ) is a subfield of linguistics , computer science , information engineering , and artificial intelligence concerned with the interactions between computers and human ( natural ) languages , in particular how to program computers to process and analyze large amounts of natural language data .",
+        "target": "<entity type=\"field\">Natural language processing</entity> ( <entity type=\"field\">NLP</entity> ) is a subfield of <entity type=\"field\">linguistics</entity> , <entity type=\"field\">computer science</entity> , <entity type=\"field\">information engineering</entity> , and <entity type=\"field\">artificial intelligence</entity> concerned with the interactions between computers and human ( natural ) languages , in particular how to program computers to process and analyze large amounts of natural language data .",
+        "entities": [
+            [
+                "Natural language processing",
+                "field"
+            ],
+            [
+                "NLP",
+                "field"
+            ],
+            [
+                "linguistics",
+                "field"
+            ],
+            [
+                "computer science",
+                "field"
+            ],
+            [
+                "information engineering",
+                "field"
+            ],
+            [
+                "artificial intelligence",
+                "field"
+            ]
+        ],
+        "response": "<entity type=\"field\">Natural language processing</entity> ( <entity type=\"field\">NLP</entity> ) is a subfield of <entity type=\"field\">linguistics</entity> , <entity type=\"field\">computer science</entity> , <entity type=\"field\">information engineering</entity> , and <entity type=\"field\">artificial intelligence</entity> concerned with the interactions between computers and human ( natural ) languages , in particular how to program computers to process and analyze large amounts of <entity type=\"field\">natural language data</entity> ."
+    },
+    {
+        "text": "There are bindings in Python , Java and MATLAB / OCTAVE .",
+        "target": "There are bindings in <entity type=\"programming language\">Python</entity> , <entity type=\"programming language\">Java</entity> and <entity type=\"product\">MATLAB</entity> / <entity type=\"programming language\">OCTAVE</entity> .",
+        "entities": [
+            [
+                "Python",
+                "programming language"
+            ],
+            [
+                "Java",
+                "programming language"
+            ],
+            [
+                "MATLAB",
+                "product"
+            ],
+            [
+                "OCTAVE",
+                "programming language"
+            ]
+        ],
+        "response": "There are bindings in <entity type=\"programming language\">Python</entity> , <entity type=\"programming language\">Java</entity> and <entity type=\"product\">MATLAB</entity> / <entity type=\"product\">OCTAVE</entity> ."
+    },
+    {
+        "text": "Optimization techniques of operations research such as linear programming or dynamic programming are often impractical for large scale software engineering problems because of their computational complexity .",
+        "target": "<entity type=\"field\">Optimization</entity> techniques of <entity type=\"field\">operations research</entity> such as <entity type=\"algorithm\">linear programming</entity> or <entity type=\"algorithm\">dynamic programming</entity> are often impractical for large scale <entity type=\"field\">software engineering</entity> problems because of their <entity type=\"metrics\">computational complexity</entity> .",
+        "entities": [
+            [
+                "Optimization",
+                "field"
+            ],
+            [
+                "operations research",
+                "field"
+            ],
+            [
+                "linear programming",
+                "algorithm"
+            ],
+            [
+                "dynamic programming",
+                "algorithm"
+            ],
+            [
+                "software engineering",
+                "field"
+            ],
+            [
+                "computational complexity",
+                "metrics"
+            ]
+        ],
+        "response": "<entity type=\"algorithm\">Optimization techniques</entity> of <entity type=\"field\">operations research</entity> such as <entity type=\"algorithm\">linear programming</entity> or <entity type=\"algorithm\">dynamic programming</entity> are often impractical for large scale <entity type=\"field\">software engineering</entity> problems because of their <entity type=\"metrics\">computational complexity</entity> ."
+    },
+    {
+        "text": "Traditional phonetic-based ( i.e. , all Hidden Markov model -based model ) approaches required separate components and training for the pronunciation , acoustic and language model .",
+        "target": "Traditional phonetic-based ( i.e. , all <entity type=\"algorithm\">Hidden Markov model</entity> -based model ) approaches required separate components and training for the <entity type=\"miscellaneous\">pronunciation</entity> , <entity type=\"miscellaneous\">acoustic</entity> and <entity type=\"miscellaneous\">language model</entity> .",
+        "entities": [
+            [
+                "Hidden Markov model",
+                "algorithm"
+            ],
+            [
+                "pronunciation",
+                "miscellaneous"
+            ],
+            [
+                "acoustic",
+                "miscellaneous"
+            ],
+            [
+                "language model",
+                "miscellaneous"
+            ]
+        ],
+        "response": "Traditional <entity type=\"algorithm\">phonetic-based</entity> ( i.e. , all <entity type=\"algorithm\">Hidden Markov model</entity> -based model ) approaches required separate components and training for the <entity type=\"algorithm\">pronunciation</entity> , <entity type=\"algorithm\">acoustic</entity> and <entity type=\"algorithm\">language model</entity> ."
+    },
+    {
+        "text": "If a convex loss is utilized ( as in AdaBoost , LogitBoost , and all members of the AnyBoost family of algorithms ) then an example with higher margin will receive less ( or equal ) weight than an example with lower margin .",
+        "target": "If a convex loss is utilized ( as in <entity type=\"algorithm\">AdaBoost</entity> , <entity type=\"algorithm\">LogitBoost</entity> , and all members of the <entity type=\"miscellaneous\">AnyBoost family of algorithms</entity> ) then an example with higher margin will receive less ( or equal ) weight than an example with lower margin .",
+        "entities": [
+            [
+                "AdaBoost",
+                "algorithm"
+            ],
+            [
+                "LogitBoost",
+                "algorithm"
+            ],
+            [
+                "AnyBoost family of algorithms",
+                "miscellaneous"
+            ]
+        ],
+        "response": "If a <entity type=\"metrics\">convex loss</entity> is utilized ( as in <entity type=\"algorithm\">AdaBoost</entity> , <entity type=\"algorithm\">LogitBoost</entity> , and all members of the <entity type=\"algorithm\">AnyBoost</entity> family of algorithms ) then an example with higher <entity type=\"metrics\">margin</entity> will receive less ( or equal ) weight than an example with lower <entity type=\"metrics\">margin</entity> ."
+    },
+    {
+        "text": "To allow for multiple entities , a separate Hinge loss is computed for each capsule .",
+        "target": "To allow for multiple entities , a separate <entity type=\"metrics\">Hinge loss</entity> is computed for each capsule .",
+        "entities": [
+            [
+                "Hinge loss",
+                "metrics"
+            ]
+        ],
+        "response": "To allow for multiple entities , a separate <entity type=\"metrics\">Hinge loss</entity> is computed for each <entity type=\"miscellaneous\">capsule</entity> ."
+    },
+    {
+        "text": "Feature extraction and dimension reduction can be combined in one step using principal component analysis ( PCA ) , linear discriminant analysis ( LDA ) , canonical correlation analysis ( CCA ) , or non-negative matrix factorization ( NMF ) techniques as a pre-processing step followed by clustering by K-NN on feature vectors in reduced-dimension space .",
+        "target": "<entity type=\"task\">Feature extraction</entity> and <entity type=\"task\">dimension reduction</entity> can be combined in one step using <entity type=\"algorithm\">principal component analysis</entity> ( <entity type=\"algorithm\">PCA</entity> ) , <entity type=\"algorithm\">linear discriminant analysis</entity> ( <entity type=\"algorithm\">LDA</entity> ) , <entity type=\"algorithm\">canonical correlation analysis</entity> ( <entity type=\"algorithm\">CCA</entity> ) , or <entity type=\"algorithm\">non-negative matrix factorization</entity> ( <entity type=\"algorithm\">NMF</entity> ) techniques as a <entity type=\"miscellaneous\">pre-processing step</entity> followed by clustering by <entity type=\"algorithm\">K-NN</entity> on <entity type=\"miscellaneous\">feature vectors</entity> in reduced-dimension space .",
+        "entities": [
+            [
+                "Feature extraction",
+                "task"
+            ],
+            [
+                "dimension reduction",
+                "task"
+            ],
+            [
+                "principal component analysis",
+                "algorithm"
+            ],
+            [
+                "PCA",
+                "algorithm"
+            ],
+            [
+                "linear discriminant analysis",
+                "algorithm"
+            ],
+            [
+                "LDA",
+                "algorithm"
+            ],
+            [
+                "canonical correlation analysis",
+                "algorithm"
+            ],
+            [
+                "CCA",
+                "algorithm"
+            ],
+            [
+                "non-negative matrix factorization",
+                "algorithm"
+            ],
+            [
+                "NMF",
+                "algorithm"
+            ],
+            [
+                "pre-processing step",
+                "miscellaneous"
+            ],
+            [
+                "K-NN",
+                "algorithm"
+            ],
+            [
+                "feature vectors",
+                "miscellaneous"
+            ]
+        ],
+        "response": "<entity type=\"task\">Feature extraction</entity> and <entity type=\"task\">dimension reduction</entity> can be combined in one step using <entity type=\"algorithm\">principal component analysis</entity> ( <entity type=\"algorithm\">PCA</entity> ) , <entity type=\"algorithm\">linear discriminant analysis</entity> ( <entity type=\"algorithm\">LDA</entity> ) , <entity type=\"algorithm\">canonical correlation analysis</entity> ( <entity type=\"algorithm\">CCA</entity> ) , or <entity type=\"algorithm\">non-negative matrix factorization</entity> ( <entity type=\"algorithm\">NMF</entity> ) techniques as a pre-processing step followed by <entity type=\"algorithm\">clustering</entity> by <entity type=\"algorithm\">K-NN</entity> on feature vectors in reduced-dimension space ."
+    },
+    {
+        "text": "CycL in computer science and artificial intelligence is an ontology language used by Doug Lenat 's Cyc artificial project .",
+        "target": "<entity type=\"programming language\">CycL</entity> in <entity type=\"field\">computer science</entity> and <entity type=\"field\">artificial intelligence</entity> is an <entity type=\"miscellaneous\">ontology language</entity> used by <entity type=\"researcher\">Doug Lenat</entity> 's <entity type=\"miscellaneous\">Cyc artificial project</entity> .",
+        "entities": [
+            [
+                "CycL",
+                "programming language"
+            ],
+            [
+                "computer science",
+                "field"
+            ],
+            [
+                "artificial intelligence",
+                "field"
+            ],
+            [
+                "ontology language",
+                "miscellaneous"
+            ],
+            [
+                "Doug Lenat",
+                "researcher"
+            ],
+            [
+                "Cyc artificial project",
+                "miscellaneous"
+            ]
+        ],
+        "response": "<entity type=\"programming language\">CycL</entity> in <entity type=\"field\">computer science</entity> and <entity type=\"field\">artificial intelligence</entity> is an <entity type=\"algorithm\">ontology language</entity> used by <entity type=\"researcher\">Doug Lenat</entity> 's <entity type=\"product\">Cyc artificial project</entity> ."
+    }
+]

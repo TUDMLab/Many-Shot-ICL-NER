@@ -1,0 +1,1448 @@
+{
+    "entities": {
+        "71376": {
+            "begin": 145,
+            "end": 154,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71382": {
+            "begin": 642,
+            "end": 651,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71388": {
+            "begin": 857,
+            "end": 866,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71394": {
+            "begin": 1621,
+            "end": 1630,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71400": {
+            "begin": 2470,
+            "end": 2480,
+            "label": "variable",
+            "substring": "vegetation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+        },
+        "71406": {
+            "begin": 7701,
+            "end": 7722,
+            "label": "variable",
+            "substring": "temperature anomalies",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7ca345d4-8e15-49ae-98a7-1c387f61ea85"
+        },
+        "71412": {
+            "begin": 7889,
+            "end": 7900,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71418": {
+            "begin": 7905,
+            "end": 7918,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71424": {
+            "begin": 8594,
+            "end": 8605,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71430": {
+            "begin": 8617,
+            "end": 8627,
+            "label": "location",
+            "substring": "Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+        },
+        "71436": {
+            "begin": 8635,
+            "end": 8646,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71442": {
+            "begin": 8909,
+            "end": 8922,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71448": {
+            "begin": 9274,
+            "end": 9285,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71454": {
+            "begin": 9290,
+            "end": 9303,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71460": {
+            "begin": 9392,
+            "end": 9402,
+            "label": "location",
+            "substring": "Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+        },
+        "71466": {
+            "begin": 9519,
+            "end": 9532,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71472": {
+            "begin": 9611,
+            "end": 9624,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71478": {
+            "begin": 11901,
+            "end": 11908,
+            "label": "location",
+            "substring": "Eurasia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/350fb2da-c713-497e-9d7d-42dcad0df83f"
+        },
+        "71484": {
+            "begin": 11918,
+            "end": 11931,
+            "label": "location",
+            "substring": "South America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+        },
+        "71490": {
+            "begin": 13002,
+            "end": 13008,
+            "label": "variable",
+            "substring": "carbon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+        },
+        "71496": {
+            "begin": 14061,
+            "end": 14070,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71502": {
+            "begin": 14446,
+            "end": 14455,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71508": {
+            "begin": 18726,
+            "end": 18732,
+            "label": "variable",
+            "substring": "carbon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+        },
+        "71514": {
+            "begin": 18974,
+            "end": 18993,
+            "label": "location",
+            "substring": "Southern Hemisphere",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/417235ba-103a-443c-bb43-75a1a772a2e2"
+        },
+        "71520": {
+            "begin": 20082,
+            "end": 20086,
+            "label": "variable",
+            "substring": "wood",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/444e29dd-dbbc-4c85-a92d-71fd08a25088"
+        },
+        "71526": {
+            "begin": 20088,
+            "end": 20093,
+            "label": "variable",
+            "substring": "seeds",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e73ece5e-a85e-4afc-acfc-75ef3836ee62"
+        },
+        "71532": {
+            "begin": 20095,
+            "end": 20107,
+            "label": "variable",
+            "substring": "macrofossils",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d412deec-d4ef-4c97-ac1c-f92ddb6964c6"
+        },
+        "71538": {
+            "begin": 22398,
+            "end": 22409,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71544": {
+            "begin": 22426,
+            "end": 22436,
+            "label": "location",
+            "substring": "Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+        },
+        "71550": {
+            "begin": 23018,
+            "end": 23029,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71556": {
+            "begin": 23141,
+            "end": 23152,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71562": {
+            "begin": 23281,
+            "end": 23285,
+            "label": "teleconnection",
+            "substring": "ENSO",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "71568": {
+            "begin": 23354,
+            "end": 23358,
+            "label": "teleconnection",
+            "substring": "ENSO",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "71574": {
+            "begin": 23413,
+            "end": 23426,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71580": {
+            "begin": 23431,
+            "end": 23442,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71586": {
+            "begin": 23970,
+            "end": 23979,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71592": {
+            "begin": 23999,
+            "end": 24010,
+            "label": "location",
+            "substring": "Philippines",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f78dabd-0540-4724-b093-8c0fc05afd3f"
+        },
+        "71598": {
+            "begin": 24030,
+            "end": 24041,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71604": {
+            "begin": 24046,
+            "end": 24059,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71610": {
+            "begin": 24152,
+            "end": 24157,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": null
+        },
+        "71616": {
+            "begin": 24694,
+            "end": 24705,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71622": {
+            "begin": 24710,
+            "end": 24723,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71628": {
+            "begin": 24980,
+            "end": 24986,
+            "label": "model",
+            "substring": "HadCM3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/eb5e5d7d-2d63-4818-b6bc-80456f2e6ace"
+        },
+        "71634": {
+            "begin": 25088,
+            "end": 25099,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71640": {
+            "begin": 25121,
+            "end": 25134,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71646": {
+            "begin": 25303,
+            "end": 25314,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "71652": {
+            "begin": 25319,
+            "end": 25332,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "71658": {
+            "begin": 28515,
+            "end": 28537,
+            "label": "provider",
+            "substring": "University of Adelaide",
+            "identifier": null
+        },
+        "71664": {
+            "begin": 29071,
+            "end": 29080,
+            "label": "location",
+            "substring": "Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+        },
+        "71670": {
+            "begin": 44,
+            "end": 65,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71676": {
+            "begin": 409,
+            "end": 441,
+            "label": "location",
+            "substring": "Australian megafauna fossil ages",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71682": {
+            "begin": 527,
+            "end": 537,
+            "label": "variable",
+            "substring": "megafaunal",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71688": {
+            "begin": 615,
+            "end": 622,
+            "label": "location",
+            "substring": "aridity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+        },
+        "71694": {
+            "begin": 740,
+            "end": 761,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71700": {
+            "begin": 835,
+            "end": 844,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71706": {
+            "begin": 1031,
+            "end": 1042,
+            "label": "variable",
+            "substring": "fossil ages",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "71712": {
+            "begin": 1238,
+            "end": 1247,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71718": {
+            "begin": 1463,
+            "end": 1469,
+            "label": "variable",
+            "substring": "faunal",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71724": {
+            "begin": 1635,
+            "end": 1645,
+            "label": "location",
+            "substring": "New Guinea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71730": {
+            "begin": 1722,
+            "end": 1727,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71736": {
+            "begin": 1667,
+            "end": 1678,
+            "label": "location",
+            "substring": "land bridge",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+        },
+        "71742": {
+            "begin": 1983,
+            "end": 1992,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71748": {
+            "begin": 1996,
+            "end": 2001,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71754": {
+            "begin": 2041,
+            "end": 2051,
+            "label": "location",
+            "substring": "Australian",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71760": {
+            "begin": 2925,
+            "end": 2946,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71766": {
+            "begin": 3505,
+            "end": 3531,
+            "label": "project",
+            "substring": "Australian fossil data set",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "71772": {
+            "begin": 3315,
+            "end": 3321,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "71778": {
+            "begin": 3719,
+            "end": 3726,
+            "label": "variable",
+            "substring": "fossils",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "71784": {
+            "begin": 3887,
+            "end": 3907,
+            "label": "variable",
+            "substring": "megafauna extinction",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71790": {
+            "begin": 3962,
+            "end": 3971,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71796": {
+            "begin": 3829,
+            "end": 3834,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71802": {
+            "begin": 3911,
+            "end": 3916,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71808": {
+            "begin": 4163,
+            "end": 4172,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71814": {
+            "begin": 4286,
+            "end": 4307,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71820": {
+            "begin": 4390,
+            "end": 4411,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71826": {
+            "begin": 4589,
+            "end": 4610,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71832": {
+            "begin": 4732,
+            "end": 4746,
+            "label": "variable",
+            "substring": "humanmegafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71838": {
+            "begin": 5128,
+            "end": 5133,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71844": {
+            "begin": 5088,
+            "end": 5097,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71850": {
+            "begin": 5343,
+            "end": 5352,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71856": {
+            "begin": 5414,
+            "end": 5419,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71862": {
+            "begin": 5498,
+            "end": 5507,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71868": {
+            "begin": 5738,
+            "end": 5747,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71874": {
+            "begin": 6122,
+            "end": 6130,
+            "label": "variable",
+            "substring": "Congruus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71880": {
+            "begin": 5937,
+            "end": 5946,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71886": {
+            "begin": 6132,
+            "end": 6145,
+            "label": "variable",
+            "substring": "Megalibgwilia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71892": {
+            "begin": 6147,
+            "end": 6160,
+            "label": "variable",
+            "substring": "Metasthenurus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71898": {
+            "begin": 6179,
+            "end": 6188,
+            "label": "variable",
+            "substring": "Sthenurus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71904": {
+            "begin": 6272,
+            "end": 6282,
+            "label": "variable",
+            "substring": "Thylacinus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71910": {
+            "begin": 6415,
+            "end": 6420,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71916": {
+            "begin": 6688,
+            "end": 6697,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71922": {
+            "begin": 6759,
+            "end": 6768,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71928": {
+            "begin": 6823,
+            "end": 6829,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "71934": {
+            "begin": 6976,
+            "end": 6985,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71940": {
+            "begin": 6728,
+            "end": 6737,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71946": {
+            "begin": 7736,
+            "end": 7751,
+            "label": "location",
+            "substring": "East Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70fb5a3b-35b1-4048-a8be-56a0d865281c"
+        },
+        "71952": {
+            "begin": 7766,
+            "end": 7794,
+            "label": "teleconnection",
+            "substring": "El Ni\u00f1o/Southern Oscillation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "71958": {
+            "begin": 7924,
+            "end": 7929,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "71964": {
+            "begin": 7816,
+            "end": 7821,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "71970": {
+            "begin": 7303,
+            "end": 7312,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71976": {
+            "begin": 6162,
+            "end": 6174,
+            "label": "variable",
+            "substring": "Palorchestes",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71982": {
+            "begin": 8036,
+            "end": 8045,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "71988": {
+            "begin": 8406,
+            "end": 8418,
+            "label": "variable",
+            "substring": "temperatures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+        },
+        "71994": {
+            "begin": 8422,
+            "end": 8432,
+            "label": "location",
+            "substring": "Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+        },
+        "72000": {
+            "begin": 8486,
+            "end": 8495,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72006": {
+            "begin": 8737,
+            "end": 8742,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72012": {
+            "begin": 8721,
+            "end": 8733,
+            "label": "variable",
+            "substring": "Temperatures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6abc5393-cfe7-4e0b-b748-8f3a71602faf"
+        },
+        "72018": {
+            "begin": 9055,
+            "end": 9060,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72024": {
+            "begin": 9376,
+            "end": 9388,
+            "label": "variable",
+            "substring": "temperatures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+        },
+        "72030": {
+            "begin": 9536,
+            "end": 9541,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72036": {
+            "begin": 9502,
+            "end": 9514,
+            "label": "variable",
+            "substring": "temperatures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+        },
+        "72042": {
+            "begin": 9652,
+            "end": 9657,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72048": {
+            "begin": 9691,
+            "end": 9696,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72054": {
+            "begin": 9667,
+            "end": 9672,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72060": {
+            "begin": 9876,
+            "end": 9881,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72066": {
+            "begin": 11085,
+            "end": 11096,
+            "label": "variable",
+            "substring": "fossil ages",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72072": {
+            "begin": 9741,
+            "end": 9748,
+            "label": "variable",
+            "substring": "aridity",
+            "identifier": null
+        },
+        "72078": {
+            "begin": 11547,
+            "end": 11556,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72084": {
+            "begin": 11864,
+            "end": 11873,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72090": {
+            "begin": 12335,
+            "end": 12341,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72096": {
+            "begin": 12520,
+            "end": 12533,
+            "label": "variable",
+            "substring": "Borungaboodie",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72102": {
+            "begin": 12589,
+            "end": 12598,
+            "label": "variable",
+            "substring": "Zaglossus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72108": {
+            "begin": 12577,
+            "end": 12584,
+            "label": "variable",
+            "substring": "Wonambi",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72114": {
+            "begin": 12568,
+            "end": 12575,
+            "label": "variable",
+            "substring": "Varanus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72120": {
+            "begin": 12556,
+            "end": 12566,
+            "label": "variable",
+            "substring": "Troposodon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72126": {
+            "begin": 12544,
+            "end": 12554,
+            "label": "variable",
+            "substring": "Propleopus",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72132": {
+            "begin": 12535,
+            "end": 12542,
+            "label": "variable",
+            "substring": "Progura",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72138": {
+            "begin": 12683,
+            "end": 12692,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72144": {
+            "begin": 12918,
+            "end": 12928,
+            "label": "variable",
+            "substring": "shrublands",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e018b139-7e05-4155-8e2e-8d5603b5fe47"
+        },
+        "72150": {
+            "begin": 12930,
+            "end": 12940,
+            "label": "variable",
+            "substring": "grasslands",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/142ea0c1-b77f-44da-8c64-ac7ee13fd5f6"
+        },
+        "72156": {
+            "begin": 12870,
+            "end": 12892,
+            "label": "variable",
+            "substring": "vegetation composition",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2bf08c64-dabc-42ab-99ae-3cf3104cd596"
+        },
+        "72162": {
+            "begin": 12945,
+            "end": 12953,
+            "label": "variable",
+            "substring": "woodland",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+        },
+        "72168": {
+            "begin": 13178,
+            "end": 13193,
+            "label": "variable",
+            "substring": "water resources",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ee3e296f-fdc0-4695-95af-dbe63f43b679"
+        },
+        "72174": {
+            "begin": 13169,
+            "end": 13173,
+            "label": "variable",
+            "substring": "food",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+        },
+        "72180": {
+            "begin": 13436,
+            "end": 13445,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72186": {
+            "begin": 13571,
+            "end": 13580,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72192": {
+            "begin": 13619,
+            "end": 13624,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72198": {
+            "begin": 14171,
+            "end": 14189,
+            "label": "location",
+            "substring": "northern Australia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72204": {
+            "begin": 14341,
+            "end": 14346,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72210": {
+            "begin": 14398,
+            "end": 14406,
+            "label": "location",
+            "substring": "Tasmania",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72216": {
+            "begin": 14626,
+            "end": 14631,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72222": {
+            "begin": 14500,
+            "end": 14509,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72228": {
+            "begin": 14657,
+            "end": 14666,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72234": {
+            "begin": 14886,
+            "end": 14895,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72240": {
+            "begin": 15032,
+            "end": 15041,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72246": {
+            "begin": 15466,
+            "end": 15472,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72252": {
+            "begin": 15594,
+            "end": 15603,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72258": {
+            "begin": 15723,
+            "end": 15732,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72264": {
+            "begin": 15933,
+            "end": 15938,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72270": {
+            "begin": 15920,
+            "end": 15929,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72276": {
+            "begin": 16126,
+            "end": 16146,
+            "label": "variable",
+            "substring": "megafauna extinction",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72282": {
+            "begin": 16447,
+            "end": 16456,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72288": {
+            "begin": 16599,
+            "end": 16610,
+            "label": "variable",
+            "substring": "fossil ages",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72294": {
+            "begin": 16723,
+            "end": 16729,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72300": {
+            "begin": 16713,
+            "end": 16722,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72306": {
+            "begin": 16792,
+            "end": 16809,
+            "label": "project",
+            "substring": "FosSahul database",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72312": {
+            "begin": 17351,
+            "end": 17364,
+            "label": "variable",
+            "substring": "fauna species",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72318": {
+            "begin": 17387,
+            "end": 17393,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72324": {
+            "begin": 17750,
+            "end": 17758,
+            "label": "variable",
+            "substring": "fossil(s",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72330": {
+            "begin": 18113,
+            "end": 18123,
+            "label": "location",
+            "substring": "Lake Mungo",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/57a3a5a7-66b9-4a4a-82da-7b09d82c684a"
+        },
+        "72336": {
+            "begin": 18319,
+            "end": 18328,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72342": {
+            "begin": 18439,
+            "end": 18448,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72348": {
+            "begin": 18541,
+            "end": 18550,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72354": {
+            "begin": 19187,
+            "end": 19198,
+            "label": "variable",
+            "substring": "fossil ages",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72360": {
+            "begin": 19577,
+            "end": 19587,
+            "label": "variable",
+            "substring": "megafaunal",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72366": {
+            "begin": 19690,
+            "end": 19695,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72372": {
+            "begin": 20862,
+            "end": 20868,
+            "label": "variable",
+            "substring": "fossil",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72378": {
+            "begin": 21799,
+            "end": 21808,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72384": {
+            "begin": 21857,
+            "end": 21867,
+            "label": "variable",
+            "substring": "megafaunal",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72390": {
+            "begin": 21868,
+            "end": 21875,
+            "label": "variable",
+            "substring": "fossils",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72396": {
+            "begin": 22158,
+            "end": 22165,
+            "label": "variable",
+            "substring": "fossils",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/edfbff1e-b24b-40b9-be54-e1823b4d7f49"
+        },
+        "72402": {
+            "begin": 22523,
+            "end": 22528,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72408": {
+            "begin": 22498,
+            "end": 22507,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72414": {
+            "begin": 22579,
+            "end": 22582,
+            "label": "variable",
+            "substring": "ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/101904f4-75f6-4b76-9adf-a6a4c8009667"
+        },
+        "72420": {
+            "begin": 22685,
+            "end": 22700,
+            "label": "location",
+            "substring": "East Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+        },
+        "72426": {
+            "begin": 23248,
+            "end": 23253,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72432": {
+            "begin": 23375,
+            "end": 23380,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72438": {
+            "begin": 23494,
+            "end": 23499,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72444": {
+            "begin": 23558,
+            "end": 23563,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72450": {
+            "begin": 23709,
+            "end": 23732,
+            "label": "variable",
+            "substring": "sea surface temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+        },
+        "72456": {
+            "begin": 23687,
+            "end": 23692,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72462": {
+            "begin": 23833,
+            "end": 23847,
+            "label": "teleconnection",
+            "substring": "El Ni\u00f1o events",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72468": {
+            "begin": 23749,
+            "end": 23762,
+            "label": "location",
+            "substring": "Nino 3 region",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c58dc7fb-65d5-4309-8abe-160e8e845382"
+        },
+        "72474": {
+            "begin": 23907,
+            "end": 23922,
+            "label": "location",
+            "substring": "eastern Pacific",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+        },
+        "72480": {
+            "begin": 23870,
+            "end": 23878,
+            "label": "variable",
+            "substring": "rainfall",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+        },
+        "72486": {
+            "begin": 23981,
+            "end": 23990,
+            "label": "location",
+            "substring": "Indonesia",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+        },
+        "72492": {
+            "begin": 24202,
+            "end": 24207,
+            "label": "location",
+            "substring": "ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+        },
+        "72498": {
+            "begin": 24102,
+            "end": 24126,
+            "label": "model",
+            "substring": "global circulation model",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "72504": {
+            "begin": 24095,
+            "end": 24101,
+            "label": "model",
+            "substring": "HadCM3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9"
+        },
+        "72510": {
+            "begin": 24212,
+            "end": 24219,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/101904f4-75f6-4b76-9adf-a6a4c8009667"
+        },
+        "72516": {
+            "begin": 23620,
+            "end": 23625,
+            "label": "location",
+            "substring": "ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+        },
+        "72522": {
+            "begin": 23626,
+            "end": 23636,
+            "label": "location",
+            "substring": "atmosphere",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+        },
+        "72528": {
+            "begin": 24575,
+            "end": 24580,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72534": {
+            "begin": 24608,
+            "end": 24613,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72540": {
+            "begin": 24672,
+            "end": 24684,
+            "label": "model",
+            "substring": "HadCM3 model",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff0316d3-bbdd-463d-9a23-9f1eb69ca2a9"
+        },
+        "72546": {
+            "begin": 24783,
+            "end": 24788,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72552": {
+            "begin": 24873,
+            "end": 24878,
+            "label": "teleconnection",
+            "substring": "ENSOp",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+        },
+        "72558": {
+            "begin": 24927,
+            "end": 24932,
+            "label": "location",
+            "substring": "Sahul",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72564": {
+            "begin": 28302,
+            "end": 28324,
+            "label": "provider",
+            "substring": "University of Adelaide",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+        },
+        "72570": {
+            "begin": 28326,
+            "end": 28343,
+            "label": "variable",
+            "substring": "Sahul's megafauna",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72576": {
+            "begin": 29046,
+            "end": 29067,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cffe377f-d840-4bcf-9223-8379b72defe7"
+        },
+        "72577": {
+            "begin": 27311,
+            "end": 27332,
+            "label": "variable",
+            "substring": "megafauna extinctions",
+            "identifier": null
+        },
+        "72578": {
+            "begin": 1753,
+            "end": 1762,
+            "label": "variable",
+            "substring": "megafauna",
+            "identifier": null
+        },
+        "72579": {
+            "begin": 11650,
+            "end": 11657,
+            "label": "variable",
+            "substring": "aridity",
+            "identifier": null
+        },
+        "72580": {
+            "begin": 23463,
+            "end": 23470,
+            "label": "variable",
+            "substring": "aridity",
+            "identifier": null
+        },
+        "72581": {
+            "begin": 22642,
+            "end": 22645,
+            "label": "variable",
+            "substring": "ice",
+            "identifier": null
+        }
+    },
+    "relations": {},
+    "text": "<heading>ABSTRACT</heading>\nLate Quaternary megafauna extinctions impoverished mammalian diversity worldwide. The causes of these extinctions in Australia are most controversial but essential to resolve, because this continent-wide event presaged similar losses that occurred thousands of years later on other continents. Here we apply a rigorous metadata analysis and new ensemblehindcasting approach to 659 Australian megafauna fossil ages. When coupled with analysis of several high-resolution climate records, we show that megafaunal extinctions were broadly synchronous among genera and independent of climate aridity and variability in Australia over the last 120,000 years. Our results reject climate change as the primary driver of megafauna extinctions in the world's most controversial context, and instead estimate that the megafauna disappeared Australia-wide B13,500 years after human arrival, with shorter periods of coexistence in some regions. This is the first comprehensive approach to incorporate uncertainty in fossil ages, extinction timing and climatology, to quantify mechanisms of prehistorical extinctions.\n<heading></heading>\nT he late Quaternary was a period of rapid and widespread extinction of about 65% of 'megafauna' genera (that is, large vertebrates with mature individuals 440 kg) 1 . Although climatic shifts probably caused some of the largest mass extinctions earlier in Earth's history 2 , the role of climate in Quaternary faunal collapse is still hotly debated 1,[3][4][5] , because many of these extinctions coincided with human colonization 6 . The initial arrival of humans in Australia and New Guinea (then connected by a land bridge and hereafter referred to collectively as 'Sahul'), and extinction of the megafauna took place close to, or beyond, the limit of radiocarbon ( 14 C) dating (55-45 kyr ago, kyr \u00bc 10 3 years), leading to uncertainty whether humans had a specific and important role in driving continent-wide extinctions of megafauna in Sahul 1 . The 'climate-driven' hypothesis of Australian extinction states that changes in climate variability coupled with severe aridification from about the last 430 kyr caused the extinctions 7 , despite evidence that climate was relatively stable during the period of most disappearances 8,9 . Alternatively, the 'human-driven' hypothesis stipulates that hunting was the major cause of extinctions 8,10 , and/or that humans modified natural fire regimes enough to alter vegetation communities and disrupt trophic dynamics 10 . A third hypothesis emphasizes a possible human-climate synergy, in which human impacts delivered the coup de gr\u00e2ce to populations already compromised by climate-driven environmental changes 1,5 .\nLimits to 14 C dating have made it difficult to construct an accurate chronology of species losses relative to major climatic or archaeological transitions 3 . The primary data describing the timing of megafauna extinctions are from estimated ages of fossilized remains [11][12][13][14][15] , but the final time of extinction of any long-disappeared population inevitably diverges from the youngest records due to a bias introduced by incomplete sampling or taphonomy (the Signor-Lipps effect) 16 . Many inferential methods have been developed to estimate the time gap between the last dated fossil and the final extinction date, but their efficiency varies with the type of extinction and sampling density over time 17 . In addition to these taphonomic and statistical issues, the Australian fossil data set has traditionally been of questionable (that is, sparse and variable) quality 14,18,19 , until the recent development of a general tool for assessing the reliability of age estimates for fossils 20 .\nHere we use the largest, most diverse and rigorously qualitycontrolled data set in existence for Sahul, to investigate the role of variation in climate on megafauna extinction in Sahul and to estimate the window of coexistence of megafauna and humans, indicating the likelihood of a human-driven alternative (i.e., we hypothesize that the longer the overlap, the more time humans would have had to alter the environment and affect megafauna). We achieve this by (i) developing a robust chronological framework that reduces uncertainties in the timing of megafauna extinctions and first human occurrence; and (ii) testing the correlation of the chronology of megafauna extinctions (i.e., the number of genera that went extinct through time) against six high-resolution climate records and hindcasts. We show that (i) over the last 120 kyr, the chronology of megafauna extinctions is not correlated with changes in climate variability or more arid events at a continental scale; and (ii) the period of humanmegafauna coexistence lasted B13.5 kyr across the continent as a whole, but with shorter periods of overlap probably in any particular region. These findings imply that human pressure, rather than climate change, was most likely to be the main driver of these extinctions.\n<heading>Results</heading>\nTo estimate an accurate chronology for the extinct megafauna and earliest human arrival in Sahul, we developed an ensemble-hindcasting model framework. We applied a set of six frequentist statistical methods (see Supplementary Methods and Supplementary Table 1) to high-quality rated 20 time series for 16 megafauna genera and to the archaeology of first human colonization of Sahul (Fig. 1 and Table 1); these represent all of the available data (for both the megafauna and the archaeology time series) suitable for analysis (see details on the quality-rating approach in Methods). We developed a multi-model comparison (see Methods) to estimate the temporal window of coexistence between humans and megafauna. Our results show a peak in extinction events at 42.1 kyr (that is, median value of the distribution of estimated extinction dates in Fig. 1a) with a continent-wide confidence interval (CI megafauna ) ranging from 36.7 to 48.1 kyr (75th and 25th percentiles of the distribution of estimated extinction dates in Fig. 1a, respectively).\nThe earliest estimated extinctions for Congruus, Megalibgwilia, Metasthenurus, Palorchestes and Sthenurus were between 61 and 51 kyr, followed by 10 genera (all remaining genera, excluding Thylacinus) estimated to have been driven extinct between 44 and 35 kyr. We provide similar statistical support for the first human arrival in Sahul at 55.6 kyr (CI human \u00bc 55.4-55.7 kyr for the 75th and 25th percentiles, respectively), which is similar to other recent estimates 11,21 and indicates a median window of continent-wide coexistence of 13.5 kyr (CI \u00bc 7.3-19 kyr, calculated as lower CI human \u00c0 upper CI megafauna and upper CI human \u00c0 lower CI megafauna ) before the peak of megafauna extinction (Fig. 1b). Interpreting the youngest dated fossil records for each taxon as the actual time of extinction (ignoring the Signor-Lipps effect) would predict an older extinction peak at 50.8 kyr (CI megafauna \u00bc 45.9-57.1 kyr, Fig. 1c), whereas the oldest dated archaeological evidence for human arrival would be 55.5 kyr (CI human \u00bc 47.3-63.7 kyr; Table 1).\nTo explore the potential role of variation in climate conditions on this extinction chronology, we (i) tested whether climate conditions during the estimated period of megafauna extinction are unique compared with previous climatic conditions over the preceding 60 kyr (i.e., from 120 to 60 kyr ago); and (ii) correlated the number of extinct taxa with climatic conditions from 120 kyr ago until the end of the extinction peak (about 35 kyr; Fig. 1a). We expressed climate variation over the last 120 kyr using several proxies (see Methods), including reconstructed temperature anomalies from central East Antarctica 22 , modelled El Ni\u00f1o/Southern Oscillation variability 'power' (ENSOp) 23 , and anomalies and the velocity of changes in both hindcasted temperature and precipitation from Sahul (Fig. 1). Other climate proxies have previously been used to investigate the effects of climate shifts on megafauna extinctions 13,24,25 , but these potentially describe local climatic conditions rather than continent-wide trends.\nThe relatively arid conditions dominating marine isotope stage (MIS) 3 from 59 to 24 kyr 26 (Fig. 1) are not unique. There were periods before MIS3 when climate was considerably more arid and yet these genera persisted. For example, mean annual temperatures in Antarctica were up to 4\u00b0C warmer during the estimated period of megafauna extinctions than at the end of MIS4 (the interval from 72 to 59 kyr 26 ), representing a shift of temperature anomaly in Antarctica (i.e., temperature differences from the present day) from a mean of \u00c0 10 to \u00c0 6\u00b0C (Fig. 1d). Temperatures in Sahul indicate a similar trend, although MIS3 warming was o1\u00b0C higher than MIS4 conditions (a shift from a mean anomaly of \u00c0 2.5\u00b0C at MIS4 to \u00c0 1.5\u00b0C at MIS3; Fig. 1e) and precipitation anomaly decreased by o1 mm per day during the MIS4/3 transition (Fig. 1f). These temporal trends in climate are supported by higher ENSOp during MIS3  (Fig. 1g), which indicates more arid conditions. Climate velocity proxies indicate that genera would have had to shift their ranges by moving up to 10 and 150 m per year (Fig. 1h), to track shifts in temperature and precipitation, respectively, during MIS3. During MIS5 (123-72 kyr) 26 , however, mean temperatures in Antarctica were about 2\u00b0C warmer (T\u00b0C MIS5 anomaly \u00bc \u00c0 3\u00b0C versus T\u00b0C MIS3 anomaly \u00bc \u00c0 5\u00b0C; Fig. 1d) and both temperatures and precipitation in Sahul appear to have been higher than during MIS3 (up to 0.4 mm per day of precipitation and 41.5\u00b0C warmer). Higher ENSOp at MIS5 (ENSOp MIS5 \u00bc 300 versus ENSOp MIS3 \u00bc 200; Fig. 1g) indicates more extreme aridity between 100 and 80 kyr than during MIS3.\nTo test whether climate could have affected the number of genera that went extinct in Sahul, we used an informationtheoretic evidence-ratio approach (evidence ratio (ER) of Akaike's information criterion (AIC) model weights; ER4 43 would indicate strong evidence of a climate effect; see Methods and ref. 27). We fitted two regression models to the number of extinct genera every 2 kyr (Fig. 1a) against the value of each of the six climate proxies at the same date (Fig. 1d-h). The first model assumes a linear relationship between climatic variation and the number of extinct genera, whereas the second assumes no relationship (intercept-only 'null' model). The ER quantifies the extent of support for the linear model (that is, climate related to the number of extinct genera) relative to the 'null' model (no climate effect) 27 . We also accounted for possible temporal lags, as extinctions could be driven by earlier climatic variation 8,25 (see Methods). We detected no evidence of a correlation between the timing of extinction events and variation in climate based on any of the measures of climate used here. ERs were r1.2 for all climate indices whatever the temporal lag (Fig. 2), based on either the estimated model-agreement extinction outputs (Fig. 1a) or the distribution of last fossil ages for each taxon (Fig. 1c and Supplementary Fig. 4). This demonstrates no support for the climate-driven extinction hypothesis.\nThe lack of statistical support for a linear relationship between the number of extinct genera and any of the climate proxies (Fig. 2) indicates that the role of climate change was either negligible, secondary and/or synergistic with humans, or operated at spatial scales too restricted to be detected in the continent-wide megafauna data set. There are also physiological and ecological reasons to expect that any increase in aridity would have favoured large-bodied animals 15 . However, local environmental changes 13,24,25 could have led to local extirpation of genera and habitat fragmentation, possibly exacerbating human predation on megafauna, as has been suggested for Eurasia 5,28 and South America 29 . This continent-wide result is consistent with the fact that there are no unique extreme climate conditions during MIS3 that could plausibly lead to the inferred accumulation of extinction events during this period (Fig. 1a). Indeed, even more extreme conditions occurred during MIS5, when all the genera we tested were extant.  20 (see details in Methods). Genera with at least four reliably dated fossil records (the minimum number required to run ensemblehindcasting models 17 ) were used for extinction-window estimates (Fig. 1a -c); this resulted in the removal of seven genera (Borungaboodie, Progura, Propleopus, Troposodon, Varanus, Wonambi and Zaglossus) from our analyses. Furthermore, even under the fastest climate velocities in MIS3, megafauna taxa would have needed to migrate no more than 150 m per year (Fig. 1h), to track favourable climatic conditions. At such a low spatial velocity of climate change, variation in vegetation composition (i.e., expansion of open shrublands, grasslands and woodland) as observed in pollen records [30][31][32] and carbon isotope signatures 10,33 would have occurred slowly; thus, herbivore genera would have easily been able to migrate in response to shifts in the distribution of food and water resources 15 . In addition, climate velocity estimates are sensitive to the spatial resolution of the analysis (that is, velocity increases at coarser spatial resolutions) 34,35 ; hence, we are likely to have overestimated the real velocities that the megafauna experienced in situ, owing to the 1 \u00c2 1\u00b0resolution of our climate data set.\n<heading>Discussion</heading>\nBoth the timing of megafauna extinction and first human arrival in Sahul have long been controversial given the lack of reliable data and bias introduced by the Signor-Lipps effect. Having now accounted for these deficiencies, our results support the general conclusions of previous studies 11,21 , but they are much better constrained by more diverse and expanded data sets that have been rigorously scrutinized using the best-available analytical tools. It is generally accepted that humans were present in Australia by 48 kyr 11,36,37 . Our modelled age estimate of 55.6 kyr reflects the early human colonization of northern Australia 21,38 , but geographic gaps in high-quality data (see Supplementary Fig. 1) prevent a reliable interpretation of the pattern of human dispersal across Sahul. It is clear, however, that humans were present in Tasmania by 39 kyr 36 and in the arid centre of Australia by 35 kyr 39 .\nThe 13.5-kyr window of human-megafauna coexistence estimated is sufficiently long for groups of hunter-gatherers to disperse and become established across Sahul 40 and to extirpate many megafauna species without a wave of rapid, continent-wide overkill. These results do not dismiss the possibility of rapid human overkill at more local/regional scales, nor that the longer the period of coexistence, the more time megafauna would have had to adapt to human presence and become more immune to their impacts. However, we currently lack direct evidence for human-megafauna interactions, possibly because of taphonomic loss and sampling bias 41 . Nonetheless, quantitative models have demonstrated that even small groups of hunter-gatherers living across a vast continent and using stone-based technologies could feasibly exterminate species with low population growth rates, such as large-bodied mammals 42 . This conclusion could not be supported by results based only on a direct reading of the fossil record, because it would be biased by the uncorrected Signor-Lipps effect 16 (Fig. 1c). By including only reliably dated megafauna and archaeological records in our models, and explicitly correcting for the Signor-Lipps effect, the duration of human-megafauna coexistence can be estimated with much higher statistical confidence. Our approach allows us to discriminate between the various proposed extinction mechanisms 11 for the late Quaternary megafauna of Sahul and has revealed that climate change was not a continental driver of extinction of these genera. The same approach could similarly provide new insights into the causes of late Quaternary megafauna extinction events in other regions of the world.\n<heading>Methods</heading>\nMegafauna extinction and first human occurrence. We used six established frequentist methods (see full model descriptions in Supplementary Methods, Supplementary Table 1 and ref. 17) to infer the timing of extinction for 28 identified megafauna species (plus 8 indeterminate species identified only to genus) grouped into 16 genera (other genera do not present enough high-quality-rated fossil ages to compute the extinction window; Table 1) and first human occurrence. We applied these models to 659 megafauna fossil records and 438 archaeological records extracted from the new FosSahul database (see author information) by first aggregating species into genera and then computing the extinction window for each genus. Each method returns an extinction window (temporal confidence interval) for each taxon; thus, we calculated a window of cross-model agreement through time (that is, for every year from 120 to 0 kyr, we calculated how many models predicted extinction for a given taxon) under the assumption that higher cross-model agreement decreases uncertainties in extinction-window estimates 43 . From the 2,138 records of extinct fauna species in the database, each fossil was quality rated following an A* to C scale (from 'high quality' to 'unreliable') based on objective criteria 20 , including reliability in sample pretreatment and measurement (see details below). We used only A* and A quality-rated data and further excluded all data for which ages were obtained from materials in depositional context below or above the fossil(s) of interest. We used the same methodology to extract data from the 6,349 archaeological records. There are few human skeletal remains in the database; thus, human presence is largely restricted to artefacts related to human activities (for example, hearth charcoal, shell middens, stone tools and rock art). We excluded an age estimate of 62\u00b16 kyr from Lake Mungo, because it is highly contested 44,45 . Including this age would push back our first human appearance estimate to about 62 kyr (see Supplementary Fig. 3), but does not affect our conclusion that megafauna extinctions are not correlated with climate variation. Its inclusion would result in a longer period of human-megafauna coexistence (18.5 kyr), thus extending the timeframe by about 5 kyr for humans to extirpate megafauna species continent wide. Similarly, the youngest Genyornis ages should be treated with caution, because 14 C ages on carbonate materials are sensitive to exchange with younger carbon; such ages are potentially 'minimum' ages and the true ages could be older than the estimated peak of extinction, but this complication does not affect our conclusions. We calibrated all 14 C dates to calendar years before present using the Southern Hemisphere Calibration curve (ShCal13) and Marine Calibration curve (Marine13 for marine shells) from the OxCal radiocarbon calibration tool Version 4.2 (see https://c14.arch.ox.ac.uk).\nQuality rating of fossil ages. The quality-rating scheme is based on a two-stage set of objective criteria (see full method description and justification in ref. 20). An initial assessment is made of the reliability of an age, based on the dating procedure used, followed by an evaluation of the confidence in the stratigraphic relationship (referred to as 'association') of the dated material to the target megafaunal taxon or archaeological event.\nThe ages obtained using five commonly used geochronology techniques in Sahul were rated for their quality 20 , with reliable ages coded as m* or m.\nRadiocarbon dating. Reliable ages can be obtained by applying ultrafiltration, ninhydrin or XAD-2 protocols to individual amino acids or well-preserved bone and dentin collagen, and strong oxidation reagents (acid chlorate or dichromate) to charcoal. Reliable ages can also be obtained from cellulose isolated from wood, seeds, macrofossils and gut contents, and from the carbonate fractions of shells and corals with insignificant recrystallization, as assessed by X-ray diffraction.\nAmino acid racemization dating. Reliable ages can be obtained from eggshells and otoliths of the target species, provided they have acted as chemically closed systems (i.e., no exchange in amino acids following burial of remains). Multiple analyses should be reproducible with low uncertainties and age calibration requires the availability of independent (and reliable) age estimates.\nUranium-series dating. Reliable ages can be obtained from materials that behave as chemically closed systems or as open systems when combined with modelling of uranium-migration processes. Reliable ages can be obtained from fossil teeth using coupled uranium-series/electron-spin resonance dating.\nElectron-spin resonance dating. Reliable ages for tooth enamel can be obtained when combined with uranium-series modelling or if the internal dose rate due to uranium in dentine and enamel is o10% of the total dose rate.\nLuminescence dating. Reliable ages can be obtained using the optically stimulated luminescence signal from individual grains and multi-grain aliquots of quartz or feldspar if the sediments were well bleached by sunlight before deposition. Reliable single-grain ages can also be obtained for partially bleached sediments using appropriate models.\nThe second step of the quality-rating scheme attributes a final A*/A rating to each m*/m age ranked in the first step (that is, to ages that satisfy the high-quality criteria for sample pretreatment and dating), based on the strength of association of the dated material to the target species of megafauna or the archaeological remains. Direct dating of megafaunal fossils can give A* or A ages, provided they satisfy the above criteria, as association is assured. However, indirect ages require careful checking for the strength of association. Such ages can be reliable if samples are recovered from contexts with high stratigraphic integrity and where fossils or other dated materials show no evidence of reworking (for example, burial sediments containing the articulated skeleton of a target species).\nClimate variables. The EPICA 'Dome C' record provides an index of glacial/ interglacial temperature fluctuations in Antarctica and has been used previously to explore potential drivers of megafauna extinctions in Sahul 7 . The EPICA initiative has provided the longest ice-core climate record yet, by drilling through 3,270-m-thick ice at a site known as 'Dome C' in central East Antarctica 22 . As the time resolution of the core increases towards the present fluctuations on short time scales are more visible in recent parts of the record and can lead to misinterpretation of climate variability if the sampling bias is not corrected, we therefore resampled at an interval of 3 kyrs (to ensure at least 5 temperature values were available to calculate mean deviation per window) over 1,000 iterations and we calculated the mean temperature deviation for each interval and iteration.\nThe climate of a large part of eastern and northern Sahul is sensitive to changes in ENSO activity 46 ; thus, metrics describing variation in the strength of ENSO events (such as ENSOp) are a good proxy for shifts in precipitation and temperature, and for changes in aridity. We extracted modelled ENSOp variation directly from Tudhope et al. 23 , who estimated ENSOp variability from application of the Zebiak-Cane coupled ocean-atmosphere model forced only by changing orbital parameters. ENSOp is an extracted sea surface temperature signal from the Nino 3 region, for which the higher power inference means more important effects of El Ni\u00f1o events (that is, increase in rainfall across the east-central and eastern Pacific and drier-than-normal conditions over northern Australia, Indonesia and the Philippines).\nWe also included temperature and precipitation proxies based on a hindcast of the HadCM3 global circulation model focussed specifically on Sahul. This model consists of linked atmospheric, ocean and sea ice models at a spatial resolution of 2.5\u00b0latitude \u00c2 3.75\u00b0longitude resampled at a 1 \u00c2 1\u00b0resolution 47 . The temporal resolution of the raw data is 1 kyr slices back to 22 kyr, 2 kyr from 22 to 80 kyr and 4 kyr to 120 kyr; thus, we ran our analyses using a 4-kyr running mean (Fig. 1e, f and Supplementary Fig. 1). We tested whether both the EPICA record and ENSOp data are representative of Sahul's palaeoclimate by calculating the spatial correlation of HadCM3 model outputs (temperature and precipitation) over the last 120 kyr for each gridcell to both EPICA and ENSOp. The strong correlation between these variables justifies the use of both EPICA and ENSOp as appropriate measures of climate variation in Sahul (Supplementary Figs 5 and 6). We also used the HadCM3 palaeoclimate simulation data to calculate vectors of climate velocity (km per year) for mean annual temperature (\u00b0C) and mean annual precipitation (mm per day) following established methods 34 . Climate velocity describes the rate (and direction) that an organism would need to migrate to maintain an isocline of a temperature and precipitation variable 34 . This proxy is often considered synonymous with the rate of climate displacement for a species, such that the higher the velocity, the less probable a species will keep pace with its shifting climatic niche and thus survive. Climate velocity is considered to be more biologically relevant than the use of climate anomalies, because it accounts for regional changes in climate and the ability of topographic heterogeneity to buffer biota against these changes 34 . We divided the rate of climate change through time (\u00b0C per year) by the spatial gradient in climate at that location (\u00b0C km \u00c0 1 ).\nInformation-theoretic ER. We fitted two regression models to the estimated number of extinct genera as a function of climate variables (described by our six proxies; Fig. 1d-h) at the same date. The first model includes a slope parameter that assumes a linear relationship between the number of genera going extinct and the climate conditions at a time step of 1,000 years. The second model is a simpler, mean-field approach, with only an intercept that assumes no climate-extinction relationship (the 'null' model). The ER provides a way of explicitly evaluating the parameter bias-corrected likelihood of the null hypothesis (that is, no correlation between the number of extinct genera and climate variation) against the alternative (i.e., correlation between climate variation and the number of extinct genera). The ER is calculated as the sample size-adjusted AIC c weight of the slope model divided by AIC c weight of the competing model (in our case, the intercept-only model). Higher ERs (43, see the ER interpretation scale in ref. 27) provide stronger support for the alternative hypothesis (model with slope) versus the null hypothesis, meaning that more genera went extinct as climate variation increased; for example, a strongly correlated climate variable might yield an ER4150. We also accounted for a possible temporal lag between climate conditions and megafauna extinctions, and for uncertainties in climate variables. We calculated the temporal lag by regressing against climate from 0 to 20,000 years (at a 2 kyr time step \u00bc 11 temporal lag scenarios) for the period earlier than 35 kyr ago, which has the maximum number of extinct genera (Fig. 1a). For each of these scenarios, we generated 1,000 new sets of climate values resulting in 1,000 random resamples of the climate data within their confidence intervals (11 scenarios of 'temporal lag' \u00c2 1,000 random resamples of each climate-lag data set within their confidence intervals \u00bc 11,000 sets of climate values for each climate proxy). We refitted both linear models to the estimated number of genera going extinct as a function of these new sets of climate values and recalculated their ERs.\nData availability. Models and data used in analyses are available on request to F.S. (frederik.saltre@adelaide.edu.au) from the Global Ecology Laboratory, School of Biological Sciences at the University of Adelaide. Sahul's megafauna data set is also available online in the AEKOS data repository (DOI:10.4227/05/564E6209C4FE8).\n<heading>Acknowledgements</heading>\nWe thank the Environment Institute (The University of Adelaide) for financial support of the working group. \n<heading>Author contributions</heading>\n\n<heading>Additional information</heading>\nSupplementary Information accompanies this paper at http://www.nature.com/ naturecommunications Competing financial interests: The authors declare no competing financial interests.\nReprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/ How to cite this article: Saltr\u00e9, F. et al. Climate change not to blame for late Quaternary megafauna extinctions in Australia. Nat. Commun. 7:10511 doi: 10.1038/ncomms10511 (2016). This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/\n"
+}

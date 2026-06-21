@@ -1,0 +1,27 @@
+- **"algorithm"**: Named computational procedures or mathematical methods used to solve specific problems in Computer Science, AI and related fields. This includes both full names (e.g., *Support Vector Machine*) and their commonly used abbreviations or acronyms (e.g., *SVM*).
+
+- **"conference"**: Academic or professional events where research is presented and discussed. This includes both full names (e.g., *Conference on Neural Information Processing Systems*) and acronyms (e.g., *NeurIPS*, *ACL*).
+
+- **"country"**: Sovereign nations or geopolitical entities (e.g., *United States*, *China*, *Germany*). Do not include cities or regions—those belong to "location".
+
+- **"field"**: Academic disciplines, areas of study, or branches of knowledge within or related to AI/Computer Science. Avoid including overly general terms like “science” unless the context strongly supports it as a defined field. Exclude specific tasks or methods.
+
+- **"location"**: Named geographical locations that are not countries, including cities, regions, and non-sovereign areas (e.g., *San Francisco*, *Silicon Valley*, *Bavaria*). Do not include universities or organizations, even if they contain place names.
+
+- **"metrics"**: Quantitative measures used to evaluate models, tasks, algorithms or systems within or related to AI/Computer Science.
+
+- **"miscellaneous"**: Technical concepts, components, or specialized terms that do not clearly fall under other categories. Use cautiously and only when no other label clearly fits.
+
+- **"organization"**: Formal entities such as companies, institutes, labs, and non-university groups. **Do not tag universities here**; they belong to the “university” category even if they conduct research.
+
+- **"person"**: Names of individuals **not specifically known as researchers**. Use "researcher" for people who are clearly involved in AI research or academic publishing.
+
+- **"product"**: Named software tools, platforms, systems, or technological artifacts (e.g., *MATLAB*, *ChatGPT*, *AlphaGo*).
+
+- **"programming language"**: Formal programming languages used for software or AI development (e.g., *Python*, *C++*, *R*). 
+
+- **"researcher"**: Names of individuals who are known for their academic or scientific work. If unclear whether someone is a researcher or general person, prefer “person” to avoid false positives.
+
+- **"task"**: Specific problems, applications, or goals in AI/Computer Science research (e.g., *classification*, *sentiment analysis*, *named entity recognition*).
+
+- **"university"**: Higher education institutions, including both their full official names (e.g., *Massachusetts Institute of Technology*, *Stanford University*) and common abbreviations/acronyms (e.g., *MIT*, *CMU*, *UCLA*). If both appear together (e.g., *Massachusetts Institute of Technology (MIT)*), **tag them as two separate entities**.

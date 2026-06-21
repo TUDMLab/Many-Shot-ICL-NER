@@ -1,0 +1,546 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\n\n<heading>PERSPECTIVE</heading>\nRadically Rethinking Agriculture for the 21st Century N. V. Fedoroff, 1 * D. S. Battisti, 2 R. N. Beachy, 3 P. J. M. Cooper, 4 D. A. Fischhoff, 5 C. N. Hodges, 6 V. C. Knauf, 7 D. Lobell, 8 B. J. Mazur, 9 D. Molden, 10 M. P. Reynolds, 11 P. C. Ronald, 12 M. W. Rosegrant, 13 P. A. Sanchez, 14 A. Vonshak, 15 J.-K. Zhu 16 Population growth, arable land and fresh water limits, and climate change have profound implications for the ability of agriculture to meet this century's demands for food, feed, fiber, and fuel while reducing the environmental impact of their production. Success depends on the acceptance and use of contemporary molecular techniques, as well as the increasing development of farming systems that use saline water and integrate nutrient flows. P opulation experts anticipate the addition of another roughly 3 billion people to the planet's population by the mid-21st century. However, the amount of arable land has not changed appreciably in more than half a century. It is unlikely to increase much in the future because we are losing it to urbanization, salinization, and desertification as fast as or faster than we are adding it (1). Water scarcity is already a critical concern in parts of the world (2).\nClimate change also has important implications for agriculture. The European heat wave of 2003 killed some 30,000 to 50,000 people (3). The average temperature that summer was only about 3.5\u00b0C above the average for the last century.",
+        "entities": [
+            {
+                "begin": 400,
+                "end": 411,
+                "label": "location",
+                "substring": "arable land",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+            },
+            {
+                "begin": 416,
+                "end": 427,
+                "label": "variable",
+                "substring": "fresh water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 548,
+                "end": 552,
+                "label": "variable",
+                "substring": "food",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 783,
+                "end": 795,
+                "label": "variable",
+                "substring": "saline water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7e95b5fc-1d58-431a-af36-948b29fa870d"
+            },
+            {
+                "begin": 981,
+                "end": 992,
+                "label": "location",
+                "substring": "arable land",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+            },
+            {
+                "begin": 1124,
+                "end": 1136,
+                "label": "variable",
+                "substring": "urbanization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e759cacb-33f0-4564-b151-c7cfa5e85ed3"
+            },
+            {
+                "begin": 1156,
+                "end": 1171,
+                "label": "natural hazard",
+                "substring": "desertification",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dee57819-62c7-4f89-87e5-90a87a07820a"
+            },
+            {
+                "begin": 1220,
+                "end": 1225,
+                "label": "variable",
+                "substring": "Water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1360,
+                "end": 1378,
+                "label": "natural hazard",
+                "substring": "European heat wave",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ca820557-401e-4e5e-ac32-29fdbc0628b3"
+            },
+            {
+                "begin": 1440,
+                "end": 1451,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"arable land\", \"type\": \"other\"},\n    {\"entity\": \"fresh water\", \"type\": \"other\"},\n    {\"entity\": \"food\", \"type\": \"other\"},\n    {\"entity\": \"saline water\", \"type\": \"other\"},\n    {\"entity\": \"arable land\", \"type\": \"other\"},\n    {\"entity\": \"urbanization\", \"type\": \"other\"},\n    {\"entity\": \"desertification\", \"type\": \"other\"},\n    {\"entity\": \"Water\", \"type\": \"other\"},\n    {\"entity\": \"European heat wave\", \"type\": \"weather event\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "natural hazard",
+            "variable",
+            "natural hazard",
+            "variable"
+        ]
+    },
+    {
+        "text": "The 20 to 36% decrease in the yields of grains and fruits that summer drew little attention. But if the climate scientists are right, summers will be that hot on average by mid-century, and by 2090 much of the world will be experiencing summers hotter than the hottest summer now on record.\nThe yields of our most important food, feed, and fiber crops decline precipitously at temperatures much above 30\u00b0C (4). Among other reasons, this is because photosynthesis has a temperature optimum in the range of 20\u00b0to 25\u00b0C for our major temperate crops, and plants develop faster as temperature increases, leaving less time to accumulate the carbohydrates, fats, and proteins that constitute the bulk of fruits and grains (5). Widespread adoption of more effective and sustainable agronomic practices can help buffer crops against warmer and drier environments (6), but it will be increasingly difficult to maintain, much less increase, yields of our current major crops as temperatures rise and drylands expand (7).\nClimate change will further affect agriculture as the sea level rises, submerging low-lying cropland, and as glaciers melt, causing river systems to experience shorter and more intense seasonal flows, as well as more flooding (7).",
+        "entities": [
+            {
+                "begin": 324,
+                "end": 328,
+                "label": "variable",
+                "substring": "food",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 377,
+                "end": 389,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 448,
+                "end": 462,
+                "label": "variable",
+                "substring": "photosynthesis",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/07b53dde-6fea-4662-9d03-ccfd617ca710"
+            },
+            {
+                "begin": 469,
+                "end": 480,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 576,
+                "end": 587,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 967,
+                "end": 979,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6abc5393-cfe7-4e0b-b748-8f3a71602faf"
+            },
+            {
+                "begin": 989,
+                "end": 997,
+                "label": "location",
+                "substring": "drylands",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+            },
+            {
+                "begin": 1064,
+                "end": 1073,
+                "label": "variable",
+                "substring": "sea level",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0fde8353-9773-4948-b206-9c273c2100c8"
+            },
+            {
+                "begin": 1119,
+                "end": 1127,
+                "label": "location",
+                "substring": "glaciers",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/68eed887-8008-4352-b420-949457ab59ab"
+            },
+            {
+                "begin": 1142,
+                "end": 1155,
+                "label": "location",
+                "substring": "river systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/43d51c24-0523-4b65-919f-17618c7d72b4"
+            },
+            {
+                "begin": 1227,
+                "end": 1235,
+                "label": "natural hazard",
+                "substring": "flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb5c09ec-c924-4deb-8294-8a27697a4550"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"food\", \"type\": \"variable\"},\n    {\"entity\": \"temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"photosynthesis\", \"type\": \"other\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"drylands\", \"type\": \"location\"},\n    {\"entity\": \"sea level\", \"type\": \"other\"},\n    {\"entity\": \"glaciers\", \"type\": \"location\"},\n    {\"entity\": \"river systems\", \"type\": \"location\"},\n    {\"entity\": \"flooding\", \"type\": \"natural hazard\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "natural hazard"
+        ]
+    },
+    {
+        "text": "Recent reports on food security emphasize the gains that can be made by bringing existing agronomic and food science technology and knowhow to people who do not yet have it (8,9), as well as by exploring the genetic variability in our existing food crops and developing more ecologically sound farming practices (10). This requires building local educational, technical, and research capacity, food processing capability, storage capacity, and other aspects of agribusiness, as well as rural transportation and water and communications infrastructure. It also necessitates addressing the many trade, subsidy, intellectual property, and regulatory issues that interfere with trade and inhibit the use of technology.\nWhat people are talking about today, both in the private and public research sectors, is the use and improvement of conventional and molecular breeding, as well as molecular genetic modification (GM), to adapt our existing food crops to increasing temperatures, decreased water availability in some places and flooding in others, rising salinity (8,9), and changing pathogen and insect threats (11). Another important goal of such research is increasing crops' nitrogen uptake and use efficiency, because nitrogenous compounds in fertilizers are major contributors to waterway eutrophication and greenhouse gas emissions.\nThere is a critical need to get beyond popular biases against the use of agricultural biotechnology and develop forward-looking regulatory frameworks based on scientific evidence.",
+        "entities": [
+            {
+                "begin": 18,
+                "end": 31,
+                "label": "variable",
+                "substring": "food security",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85a73755-cb84-40cb-a23e-2ed3811138f8"
+            },
+            {
+                "begin": 104,
+                "end": 108,
+                "label": "variable",
+                "substring": "food",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 244,
+                "end": 254,
+                "label": "variable",
+                "substring": "food crops",
+                "identifier": null
+            },
+            {
+                "begin": 394,
+                "end": 398,
+                "label": "variable",
+                "substring": "food",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 511,
+                "end": 516,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 938,
+                "end": 948,
+                "label": "variable",
+                "substring": "food crops",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 963,
+                "end": 975,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 987,
+                "end": 992,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1025,
+                "end": 1033,
+                "label": "natural hazard",
+                "substring": "flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb5c09ec-c924-4deb-8294-8a27697a4550"
+            },
+            {
+                "begin": 1176,
+                "end": 1191,
+                "label": "variable",
+                "substring": "nitrogen uptake",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/db5357c9-cc9d-4693-86fe-6bb88555d434"
+            },
+            {
+                "begin": 1245,
+                "end": 1256,
+                "label": "variable",
+                "substring": "fertilizers",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/18a8197e-3a3f-408c-9c51-e9fe89dd6b45"
+            },
+            {
+                "begin": 1311,
+                "end": 1325,
+                "label": "variable",
+                "substring": "greenhouse gas",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"food security\", \"type\": \"other\"},\n    {\"entity\": \"food\", \"type\": \"other\"},\n    {\"entity\": \"food crops\", \"type\": \"other\"},\n    {\"entity\": \"food\", \"type\": \"other\"},\n    {\"entity\": \"water\", \"type\": \"other\"},\n    {\"entity\": \"food crops\", \"type\": \"other\"},\n    {\"entity\": \"temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"water\", \"type\": \"other\"},\n    {\"entity\": \"flooding\", \"type\": \"natural hazard\"},\n    {\"entity\": \"nitrogen uptake\", \"type\": \"variable\"},\n    {\"entity\": \"fertilizers\", \"type\": \"other\"},\n    {\"entity\": \"greenhouse gas\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "In 2008, the most recent year for which statistics are available, GM crops were grown on almost 300 million acres in 25 countries, of which 15 were developing countries (12). The world has consumed GM crops for 13 years without incident. The first few GM crops that have been grown very widely, including insect-resistant and herbicide-tolerant corn, cotton, canola, and soybeans, have increased agricultural productivity and farmers' incomes. They have also had environmental and health benefits, such as decreased use of pesticides and herbicides and increased use of no-till farming (13).\nDespite the excellent safety and efficacy record of GM crops, regulatory policies remain almost as restrictive as they were when GM crops were first introduced. In the United States, caseby-case review by at least two and sometimes three regulatory agencies (USDA, EPA, and FDA) is still commonly the rule rather than the exception. Perhaps the most detrimental effect of this complex, costly, and time-intensive regulatory apparatus is the virtual exclusion of public-sector researchers from the use of molecular methods to improve crops for farmers. As a result, there are still only a few GM crops, primarily those for which there is a large seed market (12), and the benefits of biotechnology have not been realized for the vast majority of food crops.\nWhat is needed is a serious reevaluation of the existing regulatory framework in the light of accumulated evidence and experience.",
+        "entities": [
+            {
+                "begin": 760,
+                "end": 773,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 851,
+                "end": 855,
+                "label": "provider",
+                "substring": "USDA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/763c6190-d4aa-418e-aea8-2de4c0afb147"
+            },
+            {
+                "begin": 857,
+                "end": 860,
+                "label": "provider",
+                "substring": "EPA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/92ecf265-7fed-466e-afbc-7305b6b9c91c"
+            },
+            {
+                "begin": 866,
+                "end": 869,
+                "label": "provider",
+                "substring": "FDA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/354050b4-7dab-44ea-b74d-9e981462faa5"
+            },
+            {
+                "begin": 1337,
+                "end": 1347,
+                "label": "variable",
+                "substring": "food crops",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"United States\", \"type\": \"location\"},\n    {\"entity\": \"USDA\", \"type\": \"provider\"},\n    {\"entity\": \"EPA\", \"type\": \"provider\"},\n    {\"entity\": \"FDA\", \"type\": \"provider\"},\n    {\"entity\": \"food crops\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "provider",
+            "provider",
+            "provider",
+            "variable"
+        ]
+    },
+    {
+        "text": "An authoritative assessment of existing data on GM crop safety is timely and should encompass protein safety, gene stability, acute toxicity, composition, nutritional value, allergenicity, gene flow, and effects on nontarget organisms. This would establish a foundation for reducing the complexity of the regulatory process without affecting the integrity of the safety assessment. Such an evolution of the regulatory process in the United States would be a welcome precedent globally.\nIt is also critically important to develop a public facility within the USDA with the mission of conducting the requisite safety testing of GM crops developed in the public sector. This would make it possible for university and other public-sector researchers to use contemporary molecular knowledge and techniques to improve local crops for farmers. However, it is not at all a foregone conclusion that our current crops can be pushed to perform as well as they do now at much higher temperatures and with much less water and other agricultural inputs. It will take new approaches, new methods, new technology-indeed, perhaps even new crops and new agricultural systems.\nAquaculture is part of the answer. A kilogram of fish can be produced in as little as 50 liters of water (14), although the total water requirements depend on the feed source. Feed is now commonly derived from wild-caught fish, increasing pressure on marine fisheries.",
+        "entities": [
+            {
+                "begin": 433,
+                "end": 446,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 558,
+                "end": 562,
+                "label": "provider",
+                "substring": "USDA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/763c6190-d4aa-418e-aea8-2de4c0afb147"
+            },
+            {
+                "begin": 971,
+                "end": 983,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1003,
+                "end": 1008,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1257,
+                "end": 1262,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1288,
+                "end": 1293,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1409,
+                "end": 1425,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8ef6f360-10d0-4dc5-8fcb-c532eb23fe5d"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"United States\", \"type\": \"location\"},\n    {\"entity\": \"USDA\", \"type\": \"provider\"},\n    {\"entity\": \"temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"water\", \"type\": \"variable\"},\n    {\"entity\": \"water\", \"type\": \"variable\"},\n    {\"entity\": \"water\", \"type\": \"variable\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "provider",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "As well, much of the growing aquaculture industry is a source of nutrient pollution of coastal waters, but selfcontained and isolated systems are increasingly used to buffer aquaculture from pathogens and minimize its impact on the environment (15).\nAnother part of the answer is in the scale-up of dryland and saline agriculture (Fig. 1) (16). Among the research leaders are several centers of the Consultative Group on International Agricultural Research, the International Center for Biosaline Agriculture, and the Jacob Blaustein Institutes for Desert Research of the Ben-Gurion University of the Negev.\nSystems that integrate agriculture and aquaculture are rapidly developing in scope and sophistica-tion. A 2001 United Nations Food and Agriculture Organization report (17) describes the development of such systems in many Asian countries. Today, such systems increasingly integrate organisms from multiple trophic levels (18). An approach particularly well suited for coastal deserts includes inland seawater ponds that support aquaculture, the nutrient efflux from which fertilizes the growth of halophytes, seaweed, salt-tolerant grasses, and mangroves useful for animal feed, human food, and biofuels, and as carbon sinks (19). Such integrated systems can eliminate today's flow of agricultural nutrients from land to sea. If done on a sufficient scale, inland seawater systems could also compensate for rising sea levels.",
+        "entities": [
+            {
+                "begin": 87,
+                "end": 101,
+                "label": "variable",
+                "substring": "coastal waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 299,
+                "end": 306,
+                "label": "location",
+                "substring": "dryland",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+            },
+            {
+                "begin": 399,
+                "end": 456,
+                "label": "provider",
+                "substring": "Consultative Group on International Agricultural Research",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/258f9e81-7b77-4007-a6fc-91b3aa4a0a45"
+            },
+            {
+                "begin": 462,
+                "end": 508,
+                "label": "provider",
+                "substring": "International Center for Biosaline Agriculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/258f9e81-7b77-4007-a6fc-91b3aa4a0a45"
+            },
+            {
+                "begin": 518,
+                "end": 564,
+                "label": "provider",
+                "substring": "Jacob Blaustein Institutes for Desert Research",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/258f9e81-7b77-4007-a6fc-91b3aa4a0a45"
+            },
+            {
+                "begin": 572,
+                "end": 606,
+                "label": "provider",
+                "substring": "Ben-Gurion University of the Negev",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/258f9e81-7b77-4007-a6fc-91b3aa4a0a45"
+            },
+            {
+                "begin": 719,
+                "end": 767,
+                "label": "provider",
+                "substring": "United Nations Food and Agriculture Organization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/258f9e81-7b77-4007-a6fc-91b3aa4a0a45"
+            },
+            {
+                "begin": 830,
+                "end": 845,
+                "label": "location",
+                "substring": "Asian countries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5366ab82-ff8b-46a4-85d1-672c8bb23480"
+            },
+            {
+                "begin": 976,
+                "end": 991,
+                "label": "location",
+                "substring": "coastal deserts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5d5426f6-e7ce-41c1-a3d3-b93adf748f0f"
+            },
+            {
+                "begin": 1001,
+                "end": 1022,
+                "label": "location",
+                "substring": "inland seawater ponds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5f292d99-b14a-4f18-bbe0-8025d04cae50"
+            },
+            {
+                "begin": 1140,
+                "end": 1147,
+                "label": "location",
+                "substring": "grasses",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/142ea0c1-b77f-44da-8c64-ac7ee13fd5f6"
+            },
+            {
+                "begin": 1153,
+                "end": 1162,
+                "label": "location",
+                "substring": "mangroves",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/04c4a85f-91ce-4d64-9e19-b3e0897ff187"
+            },
+            {
+                "begin": 1187,
+                "end": 1197,
+                "label": "variable",
+                "substring": "human food",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1220,
+                "end": 1232,
+                "label": "variable",
+                "substring": "carbon sinks",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"coastal waters\", \"type\": \"location\"},\n    {\"entity\": \"dryland\", \"type\": \"location\"},\n    {\"entity\": \"Consultative Group on International Agricultural Research\", \"type\": \"provider\"},\n    {\"entity\": \"International Center for Biosaline Agriculture\", \"type\": \"provider\"},\n    {\"entity\": \"Jacob Blaustein Institutes for Desert Research\", \"type\": \"provider\"},\n    {\"entity\": \"Ben-Gurion University of the Negev\", \"type\": \"provider\"},\n    {\"entity\": \"United Nations Food and Agriculture Organization\", \"type\": \"provider\"},\n    {\"entity\": \"Asian countries\", \"type\": \"location\"},\n    {\"entity\": \"coastal deserts\", \"type\": \"location\"},\n    {\"entity\": \"inland seawater ponds\", \"type\": \"location\"},\n    {\"entity\": \"grasses\", \"type\": \"other\"},\n    {\"entity\": \"mangroves\", \"type\": \"other\"},\n    {\"entity\": \"human food\", \"type\": \"other\"},\n    {\"entity\": \"carbon sinks\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "provider",
+            "provider",
+            "provider",
+            "provider",
+            "provider",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "The heart of new agricultural paradigms for a hotter and more populous world must be systems that close the loop of nutrient flows from microorganisms and plants to animals and back, powered and irrigated as much as possible by sunlight and seawater. This has the potential to decrease the land, energy, and freshwater demands of agriculture, while at the same time ameliorating the pollution currently associated with agricultural chemicals and animal waste. The design and largescale implementation of farms based on nontraditional species in arid places will undoubtedly pose new research, engineering, monitoring, and regulatory challenges, with respect to food safety and ecological impacts as well as control of pests and pathogens. But if we are to resume progress toward eliminating hunger, we must scale up and further build on the innovative approaches already under development, and we must do so immediately.",
+        "entities": [
+            {
+                "begin": 296,
+                "end": 302,
+                "label": "variable",
+                "substring": "energy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/356e018f-f15d-462f-8403-887b726a4372"
+            },
+            {
+                "begin": 308,
+                "end": 318,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ad73e951-fb5b-4a0b-b034-9469a8bfccaa"
+            }
+        ],
+        "response": "```json\n[]\n```",
+        "labels": [
+            "variable",
+            "variable"
+        ]
+    }
+]

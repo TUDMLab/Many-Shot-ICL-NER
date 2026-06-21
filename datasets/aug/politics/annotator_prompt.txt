@@ -1,0 +1,24 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks in the politics domain. 
+Your job is to identify and tag entities in the input text by wrapping them with <entity type="[TYPE]">...</entity> tags. 
+Replace [TYPE] with the correct entity category. Leave all non-entity text unchanged.
+
+You must follow these rules:
+- Tag all valid entities in the text, even if the same entity appears multiple times.
+- Use only the defined entity types listed below.
+- Do not annotate spans that are not clearly defined entities based on the context and definitions.
+
+# Entity Type Definitions
+
+The defined entity types are: ['country', 'election', 'event', 'location', 'organization', 'person', 'political party', 'politician', 'miscellaneous'].
+
+- 'country': The country entity.
+- 'election': The election entity. If an event entity is an election event, you should label it as an election entity instead of an event entity.
+- 'event': The event entity, which includes festival, war, summit, Campaign, and etc.
+- 'location': The location entity, including place, bridge, city, county and etc.
+- 'organization': The organization entity.
+- 'person': The name of a person should be annotated as a person entity.
+- 'political party': The political party entity. If an organization entity is a political party, you should label it as a political entity instead of an organization entity.
+- 'politician': The politician entity. If a person entity is a politician, you should label this person as a politician entity instead of a person entity.
+- 'miscellaneous': An entity needs to be classified as the miscellaneous type if it does not belong to any other category.

@@ -1,0 +1,2036 @@
+[
+    {
+        "text": "@ TripleUrusai + mind . Just don ' t tell him , ok ? \" A playful laugh left his mouth as he held a finger to it .",
+        "target": "@ TripleUrusai + mind . Just don ' t tell him , ok ? \" A playful laugh left his mouth as he held a finger to it .",
+        "entities": [],
+        "sent_id": 1203
+    },
+    {
+        "text": "RT @ elessar 42 : Psst . Trump saying that millions voted illegally is pretext to destroy voting rights . Don ' t treat it like some random quirk .",
+        "target": "RT @ elessar 42 : Psst . <entity type=\"person\">Trump</entity> saying that millions voted illegally is pretext to destroy voting rights . Don ' t treat it like some random quirk .",
+        "entities": [
+            [
+                "Trump",
+                "person"
+            ]
+        ],
+        "sent_id": 778
+    },
+    {
+        "text": "I see why its rope gang now \ud83d\ude02 big dick clique @ onsomeshit",
+        "target": "I see why its rope gang now \ud83d\ude02 big dick clique @ onsomeshit",
+        "entities": [],
+        "sent_id": 917
+    },
+    {
+        "text": "Just posted a photo @ Kembar Mas Utara - Buahbatu https://t.co/u7WQDGcSVW",
+        "target": "Just posted a photo @ <entity type=\"location\">Kembar Mas Utara</entity> - <entity type=\"location\">Buahbatu</entity> https://t.co/u7WQDGcSVW",
+        "entities": [
+            [
+                "Kembar Mas Utara",
+                "location"
+            ],
+            [
+                "Buahbatu",
+                "location"
+            ]
+        ],
+        "sent_id": 791
+    },
+    {
+        "text": "* * submission title * * : PSG tell Inter & amp ; Juve Verratti will cost \u20ac 100 M",
+        "target": "* * submission title * * : <entity type=\"group\">PSG</entity> tell <entity type=\"group\">Inter</entity> & amp ; <entity type=\"group\">Juve</entity> <entity type=\"person\">Verratti</entity> will cost \u20ac 100 M",
+        "entities": [
+            [
+                "PSG",
+                "group"
+            ],
+            [
+                "Inter",
+                "group"
+            ],
+            [
+                "Juve",
+                "group"
+            ],
+            [
+                "Verratti",
+                "person"
+            ]
+        ],
+        "sent_id": 99
+    },
+    {
+        "text": "See response from / u / imkatnotcat [ above ] ( https://www.reddit.com/r/newzealand/comments/5pl7f8/why_do_i_have_to_give_30_days_notice_to_move_isps/dcs13je/ ) .",
+        "target": "See response from / u / imkatnotcat [ above ] ( https://www.reddit.com/r/newzealand/comments/5pl7f8/why_do_i_have_to_give_30_days_notice_to_move_isps/dcs13je/ ) .",
+        "entities": [],
+        "sent_id": 225
+    },
+    {
+        "text": "& gt ; Are you hoping that someone in R / Calgary just happens to be a stock shelfer there or has an extremely intimate knowledge of all of their 1 million items ?",
+        "target": "& gt ; Are you hoping that someone in <entity type=\"group\">R /</entity> <entity type=\"group\">Calgary</entity> just happens to be a stock shelfer there or has an extremely intimate knowledge of all of their 1 million items ?",
+        "entities": [
+            [
+                "R /",
+                "group"
+            ],
+            [
+                "Calgary",
+                "group"
+            ]
+        ],
+        "sent_id": 315
+    },
+    {
+        "text": "@ katarina _ neko / / FANGIRLING SCREaaMS",
+        "target": "@ <entity type=\"person\">katarina _ neko</entity> / / FANGIRLING SCREaaMS",
+        "entities": [
+            [
+                "katarina _ neko",
+                "person"
+            ]
+        ],
+        "sent_id": 1016
+    },
+    {
+        "text": "RT @ paperbeatstweet : if your fetish is credited artwork youll probably never get off",
+        "target": "RT @ paperbeatstweet : if your fetish is credited artwork youll probably never get off",
+        "entities": [],
+        "sent_id": 1000
+    },
+    {
+        "text": "Exatamente .",
+        "target": "Exatamente .",
+        "entities": [],
+        "sent_id": 159
+    },
+    {
+        "text": "Be someone who makes time for a new goal even though the last 1 , 2 , and or 3 rd 1 fell through .",
+        "target": "Be someone who makes time for a new goal even though the last 1 , 2 , and or 3 rd 1 fell through .",
+        "entities": [],
+        "sent_id": 736
+    },
+    {
+        "text": "RT @ LlTFREESTYLES : Fan spits some bars for Lil Yachty https://t.co/Q9IhFEdq5X",
+        "target": "RT @ LlTFREESTYLES : Fan spits some bars for <entity type=\"person\">Lil Yachty</entity> https://t.co/Q9IhFEdq5X",
+        "entities": [
+            [
+                "Lil Yachty",
+                "person"
+            ]
+        ],
+        "sent_id": 1214
+    },
+    {
+        "text": "UG ! COMEDY SHOW ! at No Fun Bar Starts in 1 Hour-https : / / t . co / YpSUsaWrPF",
+        "target": "UG ! COMEDY SHOW ! at <entity type=\"location\">No Fun Bar</entity> Starts in 1 Hour-https : / / t . co / YpSUsaWrPF",
+        "entities": [
+            [
+                "No Fun Bar",
+                "location"
+            ]
+        ],
+        "sent_id": 936
+    },
+    {
+        "text": "< more prayers or religious speeches happened , and one of them was by a Rabbi . this goes to the point I made below - there are many different flavors of \" secular \" , just as there are many different flavors of \" atheist \" .",
+        "target": "< more prayers or religious speeches happened , and one of them was by a Rabbi . this goes to the point I made below - there are many different flavors of \" secular \" , just as there are many different flavors of \" atheist \" .",
+        "entities": [],
+        "sent_id": 501
+    },
+    {
+        "text": "https://t.co/59y6vduVlw",
+        "target": "https://t.co/59y6vduVlw",
+        "entities": [],
+        "sent_id": 715
+    },
+    {
+        "text": "Want to pretend you \u2019 re performing in front of 10 , 000 people ? Then decide # whatshouldplaynext on Power 95 . 3 https://t.co/ojpWdx1gIT",
+        "target": "Want to pretend you \u2019 re performing in front of 10 , 000 people ? Then decide # whatshouldplaynext on <entity type=\"product\">Power 95 . 3</entity> https://t.co/ojpWdx1gIT",
+        "entities": [
+            [
+                "Power 95 . 3",
+                "product"
+            ]
+        ],
+        "sent_id": 981
+    },
+    {
+        "text": "Does using Oauth behind firewall / closed ports requires proxy",
+        "target": "Does using <entity type=\"product\">Oauth</entity> behind firewall / closed ports requires proxy",
+        "entities": [
+            [
+                "Oauth",
+                "product"
+            ]
+        ],
+        "sent_id": 623
+    },
+    {
+        "text": "ATA .",
+        "target": "ATA .",
+        "entities": [],
+        "sent_id": 1094
+    },
+    {
+        "text": "Java Object encryption",
+        "target": "<entity type=\"product\">Java Object encryption</entity>",
+        "entities": [
+            [
+                "Java Object encryption",
+                "product"
+            ]
+        ],
+        "sent_id": 365
+    },
+    {
+        "text": "https://t.co/C9riDzsJuv # GanaConWhoolist # ConcursoWhoolist",
+        "target": "https://t.co/C9riDzsJuv # <entity type=\"person\">GanaConWhoolist</entity> # ConcursoWhoolist",
+        "entities": [
+            [
+                "GanaConWhoolist",
+                "person"
+            ]
+        ],
+        "sent_id": 1197
+    },
+    {
+        "text": "So the density of steam will naturally be less .",
+        "target": "So the density of steam will naturally be less .",
+        "entities": [],
+        "sent_id": 675
+    },
+    {
+        "text": "Chuck this a read https://www.reddit.com/r/newzealand/wiki/titles",
+        "target": "Chuck this a read https://www.reddit.com/r/newzealand/wiki/titles",
+        "entities": [],
+        "sent_id": 263
+    },
+    {
+        "text": "Which Sci- Fi work introduced the idea of \" Touchscreen used by fingers \" ?",
+        "target": "Which Sci- Fi work introduced the idea of \" <entity type=\"product\">Touchscreen</entity> used by fingers \" ?",
+        "entities": [
+            [
+                "Touchscreen",
+                "product"
+            ]
+        ],
+        "sent_id": 453
+    },
+    {
+        "text": "@ Gallifreyan , good question .",
+        "target": "@ Gallifreyan , good question .",
+        "entities": [],
+        "sent_id": 657
+    },
+    {
+        "text": "Searching . . . searching . . . Nope , not an argument in sight .",
+        "target": "Searching . . . searching . . . Nope , not an argument in sight .",
+        "entities": [],
+        "sent_id": 224
+    },
+    {
+        "text": "Will you criticize Trump when he makes mistakes or will you be silent",
+        "target": "Will you criticize <entity type=\"person\">Trump</entity> when he makes mistakes or will you be silent",
+        "entities": [
+            [
+                "Trump",
+                "person"
+            ]
+        ],
+        "sent_id": 197
+    },
+    {
+        "text": "@ cde should you want to defend your downvote , here http://meta.movies.stackexchange.com/questions/2666/are-spoilers-a-reason-to-get-downvotes",
+        "target": "@ cde should you want to defend your downvote , here http://meta.movies.stackexchange.com/questions/2666/are-spoilers-a-reason-to-get-downvotes",
+        "entities": [],
+        "sent_id": 571
+    },
+    {
+        "text": "Clean Sweep as cathedral links up with city charity https://t.co/5VEIBK228B https://t.co/DcwFj8k5XE",
+        "target": "Clean Sweep as cathedral links up with city charity https://t.co/5VEIBK228B https://t.co/DcwFj8k5XE",
+        "entities": [],
+        "sent_id": 853
+    },
+    {
+        "text": "I ca n ' t see any faces .",
+        "target": "I ca n ' t see any faces .",
+        "entities": [],
+        "sent_id": 684
+    },
+    {
+        "text": "Sat 18 th Mar 00 : 00 : The # Weather in # Glasgow is currently Partly cloudy and 9 C | Max : 11 C Min : 9 C - # MyWeather",
+        "target": "Sat 18 th Mar 00 : 00 : The # Weather in # <entity type=\"location\">Glasgow</entity> is currently Partly cloudy and 9 C | Max : 11 C Min : 9 C - # MyWeather",
+        "entities": [
+            [
+                "Glasgow",
+                "location"
+            ]
+        ],
+        "sent_id": 1035
+    },
+    {
+        "text": "[ Worldnews ] ( https://www.reddit.com/r/worldnews/search?q=Turkey+Nightclub&amp;restrict_sr=on&amp;sort=relevance&amp;t=all ) .",
+        "target": "[ Worldnews ] ( https://www.reddit.com/r/worldnews/search?q=Turkey+Nightclub&amp;restrict_sr=on&amp;sort=relevance&amp;t=all ) .",
+        "entities": [],
+        "sent_id": 241
+    },
+    {
+        "text": "RT @ FlirtyNotes : You never really stop loving someone . You just learn to live without them .",
+        "target": "RT @ <entity type=\"creative-work\">FlirtyNotes</entity> : You never really stop loving someone . You just learn to live without them .",
+        "entities": [
+            [
+                "FlirtyNotes",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 1225
+    },
+    {
+        "text": "RT @ TheBestOfGifs 1 : TWENTY-SIX YEARS AGO ! / / Beauty and the Beast https://t.co/qsy37dQgRa",
+        "target": "RT @ TheBestOfGifs 1 : TWENTY-SIX YEARS AGO ! / / <entity type=\"creative-work\">Beauty and the Beast</entity> https://t.co/qsy37dQgRa",
+        "entities": [
+            [
+                "Beauty and the Beast",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 1145
+    },
+    {
+        "text": "RT @ bangooan _ aek : https://t.co/hsoMy2Hamk",
+        "target": "RT @ bangooan _ aek : https://t.co/hsoMy2Hamk",
+        "entities": [],
+        "sent_id": 860
+    },
+    {
+        "text": "Hi .",
+        "target": "Hi .",
+        "entities": [],
+        "sent_id": 209
+    },
+    {
+        "text": "How did Mon- El know English ?",
+        "target": "How did <entity type=\"person\">Mon- El</entity> know English ?",
+        "entities": [
+            [
+                "Mon- El",
+                "person"
+            ]
+        ],
+        "sent_id": 592
+    },
+    {
+        "text": "# Positive # Punk # rock # music https://t.co/3U6eUauSOR @ BaszMM # sport # indiedev # gamedev # NowPlaying # guitar # punkrock https://t.co/BAEqu7olPJ",
+        "target": "# Positive # Punk # rock # music https://t.co/3U6eUauSOR @ <entity type=\"group\">BaszMM</entity> # sport # indiedev # gamedev # NowPlaying # guitar # punkrock https://t.co/BAEqu7olPJ",
+        "entities": [
+            [
+                "BaszMM",
+                "group"
+            ]
+        ],
+        "sent_id": 1105
+    },
+    {
+        "text": "Dzeko penalty miss will be [ r / soccer ] ( https://www.reddit.com/r/soccer/ ) top post .",
+        "target": "<entity type=\"person\">Dzeko</entity> penalty miss will be [ r / soccer ] ( https://www.reddit.com/r/soccer/ ) top post .",
+        "entities": [
+            [
+                "Dzeko",
+                "person"
+            ]
+        ],
+        "sent_id": 72
+    },
+    {
+        "text": "@ kookmin _ ph : 3 thanks hahaha",
+        "target": "@ kookmin _ ph : 3 thanks hahaha",
+        "entities": [],
+        "sent_id": 1010
+    },
+    {
+        "text": "Because light sabers glow in the dark . Search TV Tropes for \" Rule of Cool . \"",
+        "target": "Because light sabers glow in the dark . Search <entity type=\"creative-work\">TV Tropes</entity> for \" <entity type=\"creative-work\">Rule of Cool</entity> . \"",
+        "entities": [
+            [
+                "TV Tropes",
+                "creative-work"
+            ],
+            [
+                "Rule of Cool",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 474
+    },
+    {
+        "text": "& gt ; Cavani has the highest conversion rate in Europe",
+        "target": "& gt ; <entity type=\"person\">Cavani</entity> has the highest conversion rate in <entity type=\"location\">Europe</entity>",
+        "entities": [
+            [
+                "Cavani",
+                "person"
+            ],
+            [
+                "Europe",
+                "location"
+            ]
+        ],
+        "sent_id": 68
+    },
+    {
+        "text": "https://t.co/uRS5UPaj7J",
+        "target": "https://t.co/uRS5UPaj7J",
+        "entities": [],
+        "sent_id": 1019
+    },
+    {
+        "text": "Potential HTTP Host header attack from malicious IP , what does it mean in practical terms for me ? Should I be concerned ?",
+        "target": "Potential HTTP Host header attack from malicious IP , what does it mean in practical terms for me ? Should I be concerned ?",
+        "entities": [],
+        "sent_id": 692
+    },
+    {
+        "text": "Harry Potter Humour - Writers Write Creative Blog https://t.co/U7LqBNgv3z",
+        "target": "<entity type=\"person\">Harry Potter</entity> Humour - Writers Write Creative Blog https://t.co/U7LqBNgv3z",
+        "entities": [
+            [
+                "Harry Potter",
+                "person"
+            ]
+        ],
+        "sent_id": 1103
+    },
+    {
+        "text": "RT @ aprenderinglesz : Life is meant to be fun : A vida parece ser divertida .",
+        "target": "RT @ aprenderinglesz : Life is meant to be fun : A vida parece ser divertida .",
+        "entities": [],
+        "sent_id": 970
+    },
+    {
+        "text": "Guy sounds like a Grade A Douche",
+        "target": "Guy sounds like a Grade A Douche",
+        "entities": [],
+        "sent_id": 46
+    },
+    {
+        "text": "[ I just think Trump is better than Hillary ] ( https://www.reddit.com/r/worldnews/comments/5mimc4/canada_judge_suspended_for_wearing_trump_cap_in/dc4o8v0/?utm_content=permalink&amp;utm_medium=user&amp;utm_source=reddit&amp;utm_name=frontpage )",
+        "target": "[ I just think <entity type=\"person\">Trump</entity> is better than <entity type=\"person\">Hillary</entity> ] ( https://www.reddit.com/r/worldnews/comments/5mimc4/canada_judge_suspended_for_wearing_trump_cap_in/dc4o8v0/?utm_content=permalink&amp;utm_medium=user&amp;utm_source=reddit&amp;utm_name=frontpage )",
+        "entities": [
+            [
+                "Trump",
+                "person"
+            ],
+            [
+                "Hillary",
+                "person"
+            ]
+        ],
+        "sent_id": 216
+    },
+    {
+        "text": "Love Lynda .",
+        "target": "Love <entity type=\"person\">Lynda</entity> .",
+        "entities": [
+            [
+                "Lynda",
+                "person"
+            ]
+        ],
+        "sent_id": 74
+    },
+    {
+        "text": "RT @ GayPrideBelize : # MissUniverse # Belize Let ' s Go Belize . https://t.co/9suUngvG7T",
+        "target": "RT @ <entity type=\"creative-work\">GayPrideBelize</entity> : # <entity type=\"corporation\">MissUniverse</entity> # <entity type=\"location\">Belize</entity> Let ' s Go <entity type=\"location\">Belize</entity> . https://t.co/9suUngvG7T",
+        "entities": [
+            [
+                "GayPrideBelize",
+                "creative-work"
+            ],
+            [
+                "MissUniverse",
+                "corporation"
+            ],
+            [
+                "Belize",
+                "location"
+            ],
+            [
+                "Belize",
+                "location"
+            ]
+        ],
+        "sent_id": 963
+    },
+    {
+        "text": "RT @ DoctorZen : Geologists , physicists , chemists , anthropologists , geneticists - - every discipline better denounce any action against EPA . # \u2026",
+        "target": "RT @ DoctorZen : <entity type=\"group\">Geologists</entity> , <entity type=\"group\">physicists</entity> , <entity type=\"group\">chemists</entity> , <entity type=\"group\">anthropologists</entity> , <entity type=\"group\">geneticists</entity> - - every discipline better denounce any action against <entity type=\"group\">EPA</entity> . # \u2026",
+        "entities": [
+            [
+                "Geologists",
+                "group"
+            ],
+            [
+                "physicists",
+                "group"
+            ],
+            [
+                "chemists",
+                "group"
+            ],
+            [
+                "anthropologists",
+                "group"
+            ],
+            [
+                "geneticists",
+                "group"
+            ],
+            [
+                "EPA",
+                "group"
+            ]
+        ],
+        "sent_id": 972
+    },
+    {
+        "text": "DELL Inspiron 17 R 5721 Core i 5 - 3317 U 1 . 7 GHz 6 Gb 750 Gb DVDRW 17 . 3 \" Laptop https://t.co/SvPm1Qm5dg https://t.co/eG2GWQ5Jv7",
+        "target": "<entity type=\"product\">DELL Inspiron 17 R 5721 Core i 5 - 3317 U 1 . 7 GHz 6 Gb 750 Gb DVDRW 17 . 3 \" Laptop</entity> https://t.co/SvPm1Qm5dg https://t.co/eG2GWQ5Jv7",
+        "entities": [
+            [
+                "DELL Inspiron 17 R 5721 Core i 5 - 3317 U 1 . 7 GHz 6 Gb 750 Gb DVDRW 17 . 3 \" Laptop",
+                "product"
+            ]
+        ],
+        "sent_id": 923
+    },
+    {
+        "text": "# trapmusic # radio Instant Party ! - Horizons https://t.co/yjsUUapTjX",
+        "target": "# trapmusic # radio Instant Party ! - <entity type=\"corporation\">Horizons</entity> https://t.co/yjsUUapTjX",
+        "entities": [
+            [
+                "Horizons",
+                "corporation"
+            ]
+        ],
+        "sent_id": 1009
+    },
+    {
+        "text": "How does the President of the United States get a budget authorised ?",
+        "target": "How does the President of the <entity type=\"location\">United States</entity> get a budget authorised ?",
+        "entities": [
+            [
+                "United States",
+                "location"
+            ]
+        ],
+        "sent_id": 440
+    },
+    {
+        "text": "In the article linked by Lelouch in his answer below , there is a key point \" The result applies to isolated mechanical systems subject to some constraints , e . g . , all particles must be bound to a finite volume \" . We do not know if the Universe complies to such an assumption .",
+        "target": "In the article linked by <entity type=\"person\">Lelouch</entity> in his answer below , there is a key point \" The result applies to isolated mechanical systems subject to some constraints , e . g . , all particles must be bound to a finite volume \" . We do not know if the <entity type=\"location\">Universe</entity> complies to such an assumption .",
+        "entities": [
+            [
+                "Lelouch",
+                "person"
+            ],
+            [
+                "Universe",
+                "location"
+            ]
+        ],
+        "sent_id": 615
+    },
+    {
+        "text": "Me reading really sad manga . https://t.co/uBz9CmWSI0",
+        "target": "Me reading really sad manga . https://t.co/uBz9CmWSI0",
+        "entities": [],
+        "sent_id": 1204
+    },
+    {
+        "text": "I remember around a year ago there was a post about how Ronaldo had scored over 40 % of Madrid ' s goals since 2009 .",
+        "target": "I remember around a year ago there was a post about how <entity type=\"person\">Ronaldo</entity> had scored over 40 % of <entity type=\"group\">Madrid</entity> ' s goals since 2009 .",
+        "entities": [
+            [
+                "Ronaldo",
+                "person"
+            ],
+            [
+                "Madrid",
+                "group"
+            ]
+        ],
+        "sent_id": 165
+    },
+    {
+        "text": "RT @ klathelyricist : I ain ' t finna bullshit with you . . . Grow or go .",
+        "target": "RT @ <entity type=\"person\">klathelyricist</entity> : I ain ' t finna bullshit with you . . . Grow or go .",
+        "entities": [
+            [
+                "klathelyricist",
+                "person"
+            ]
+        ],
+        "sent_id": 1213
+    },
+    {
+        "text": "See also [ Will Ant\u00f3nio Guterres be the UN ' s best ever secretary general ?",
+        "target": "See also [ Will <entity type=\"person\">Ant\u00f3nio Guterres</entity> be the <entity type=\"group\">UN</entity> ' s best ever secretary general ?",
+        "entities": [
+            [
+                "Ant\u00f3nio Guterres",
+                "person"
+            ],
+            [
+                "UN",
+                "group"
+            ]
+        ],
+        "sent_id": 234
+    },
+    {
+        "text": "Just remember we should be warier of Trump opponents , who also ignore facts , and are [ bigger Nazis than Trump .",
+        "target": "Just remember we should be warier of <entity type=\"person\">Trump</entity> opponents , who also ignore facts , and are [ bigger <entity type=\"group\">Nazis</entity> than <entity type=\"person\">Trump</entity> .",
+        "entities": [
+            [
+                "Trump",
+                "person"
+            ],
+            [
+                "Nazis",
+                "group"
+            ],
+            [
+                "Trump",
+                "person"
+            ]
+        ],
+        "sent_id": 277
+    },
+    {
+        "text": "People Say I Sound Crazy When I Say This , But I Can Notttttt Hang With People Who Don ' t Smoke !",
+        "target": "People Say I Sound Crazy When I Say This , But I Can Notttttt Hang With People Who Don ' t Smoke !",
+        "entities": [],
+        "sent_id": 1211
+    },
+    {
+        "text": "Hey u / nicklovettnz - Stuff have [ nicked your picture .",
+        "target": "Hey <entity type=\"person\">u / nicklovettnz</entity> - Stuff have [ nicked your picture .",
+        "entities": [
+            [
+                "u / nicklovettnz",
+                "person"
+            ]
+        ],
+        "sent_id": 181
+    },
+    {
+        "text": "@ JacobRhines that or shit on them lol",
+        "target": "@ <entity type=\"person\">JacobRhines</entity> that or shit on them lol",
+        "entities": [
+            [
+                "JacobRhines",
+                "person"
+            ]
+        ],
+        "sent_id": 1159
+    },
+    {
+        "text": "@ realJosephEG https://t.co/v65QoA0Uyx",
+        "target": "@ realJosephEG https://t.co/v65QoA0Uyx",
+        "entities": [],
+        "sent_id": 1110
+    },
+    {
+        "text": "On god Darius plugs unreliable asf https://t.co/aTJdj52tNv",
+        "target": "On god <entity type=\"person\">Darius</entity> plugs unreliable asf https://t.co/aTJdj52tNv",
+        "entities": [
+            [
+                "Darius",
+                "person"
+            ]
+        ],
+        "sent_id": 838
+    },
+    {
+        "text": "Ireland ' s clinical trials capacity is advancing . We look at Ireland ' s progress in this article https://t.co/QZAkAxLB1d",
+        "target": "<entity type=\"location\">Ireland</entity> ' s clinical trials capacity is advancing . We look at <entity type=\"location\">Ireland</entity> ' s progress in this article https://t.co/QZAkAxLB1d",
+        "entities": [
+            [
+                "Ireland",
+                "location"
+            ],
+            [
+                "Ireland",
+                "location"
+            ]
+        ],
+        "sent_id": 1084
+    },
+    {
+        "text": "Could a President withdraw nominated Supreme Court judge before confirmation by the senate ?",
+        "target": "Could a President withdraw nominated <entity type=\"person\">Supreme Court judge</entity> before confirmation by the senate ?",
+        "entities": [
+            [
+                "Supreme Court judge",
+                "person"
+            ]
+        ],
+        "sent_id": 559
+    },
+    {
+        "text": "Book narrated by the devil",
+        "target": "Book narrated by the devil",
+        "entities": [],
+        "sent_id": 432
+    },
+    {
+        "text": "magnetic potential vs . solid angle",
+        "target": "magnetic potential vs . solid angle",
+        "entities": [],
+        "sent_id": 644
+    },
+    {
+        "text": "RT @ sslah 771 : She ' s Beautiful ! ( 842 ) # SwallaVideo https://t.co/ggbS2kIDpA",
+        "target": "RT @ sslah 771 : She ' s Beautiful ! ( 842 ) # <entity type=\"creative-work\">SwallaVideo</entity> https://t.co/ggbS2kIDpA",
+        "entities": [
+            [
+                "SwallaVideo",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 1050
+    },
+    {
+        "text": "Just posted a photo https://t.co/mi0kwHp0vl",
+        "target": "Just posted a photo https://t.co/mi0kwHp0vl",
+        "entities": [],
+        "sent_id": 724
+    },
+    {
+        "text": "https://t.co/3CqQHLw4J7",
+        "target": "https://t.co/3CqQHLw4J7",
+        "entities": [],
+        "sent_id": 727
+    },
+    {
+        "text": "How to protect an offline proprietary software from being stolen",
+        "target": "How to protect an offline proprietary software from being stolen",
+        "entities": [],
+        "sent_id": 466
+    },
+    {
+        "text": "In the RotS scene where Obi- Wan and Anakin are stupid enough to walk backwards into the elevator , the droids could have just shot them .",
+        "target": "In the <entity type=\"creative-work\">RotS</entity> scene where <entity type=\"person\">Obi- Wan</entity> and <entity type=\"person\">Anakin</entity> are stupid enough to walk backwards into the elevator , the <entity type=\"product\">droids</entity> could have just shot them .",
+        "entities": [
+            [
+                "RotS",
+                "creative-work"
+            ],
+            [
+                "Obi- Wan",
+                "person"
+            ],
+            [
+                "Anakin",
+                "person"
+            ],
+            [
+                "droids",
+                "product"
+            ]
+        ],
+        "sent_id": 561
+    },
+    {
+        "text": "RT @ DailySexSupply 7 : https://t.co/q8ASkhEIJl",
+        "target": "RT @ DailySexSupply 7 : https://t.co/q8ASkhEIJl",
+        "entities": [],
+        "sent_id": 1265
+    },
+    {
+        "text": "Who is driving Thomas Jane ' s hair and wardrobe on the Expanse ?",
+        "target": "Who is driving <entity type=\"person\">Thomas Jane</entity> ' s hair and wardrobe on <entity type=\"creative-work\">the Expanse</entity> ?",
+        "entities": [
+            [
+                "Thomas Jane",
+                "person"
+            ],
+            [
+                "the Expanse",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 578
+    },
+    {
+        "text": "] ( https://www.reddit.com/r/soccer/comments/13xmsv/we_all_know_the_neymars_the_g%C3%B6tzes_and_the_iscos/c785ffz/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=soccer )",
+        "target": "] ( https://www.reddit.com/r/soccer/comments/13xmsv/we_all_know_the_neymars_the_g%C3%B6tzes_and_the_iscos/c785ffz/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=soccer )",
+        "entities": [],
+        "sent_id": 60
+    },
+    {
+        "text": "Uroxatral 10 mg x 90 pills https://t.co/alNLM2jSst",
+        "target": "<entity type=\"product\">Uroxatral</entity> 10 mg x 90 pills https://t.co/alNLM2jSst",
+        "entities": [
+            [
+                "Uroxatral",
+                "product"
+            ]
+        ],
+        "sent_id": 1021
+    },
+    {
+        "text": "Resultat . dk",
+        "target": "Resultat . dk",
+        "entities": [],
+        "sent_id": 90
+    },
+    {
+        "text": "What Star Trek TOS characters have been confirmed to be appearing in Discovery ?",
+        "target": "What <entity type=\"creative-work\">Star Trek TOS</entity> characters have been confirmed to be appearing in <entity type=\"creative-work\">Discovery</entity> ?",
+        "entities": [
+            [
+                "Star Trek TOS",
+                "creative-work"
+            ],
+            [
+                "Discovery",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 641
+    },
+    {
+        "text": "She ' s been making me question my sexuality since The X-Files started .",
+        "target": "She ' s been making me question my sexuality since <entity type=\"creative-work\">The X-Files</entity> started .",
+        "entities": [
+            [
+                "The X-Files",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 98
+    },
+    {
+        "text": "No . It would be p equals some specified value at some z elevation . This has to correspond to some known pressure at some known elevation .",
+        "target": "No . It would be p equals some specified value at some z elevation . This has to correspond to some known pressure at some known elevation .",
+        "entities": [],
+        "sent_id": 325
+    },
+    {
+        "text": "I remember having parliament on the radio in my car and hearing Leyonhjelm [ give this speach ] ( https://np.reddit.com/r/australia/comments/307z4f/leyonhjelm_on_metadata/ ) which was impressive .",
+        "target": "I remember having parliament on the radio in my car and hearing <entity type=\"person\">Leyonhjelm</entity> [ give this speach ] ( https://np.reddit.com/r/australia/comments/307z4f/leyonhjelm_on_metadata/ ) which was impressive .",
+        "entities": [
+            [
+                "Leyonhjelm",
+                "person"
+            ]
+        ],
+        "sent_id": 63
+    },
+    {
+        "text": "RT @ DearYouFromWe : stop rushing your life . just live . just breathe . just be .",
+        "target": "RT @ DearYouFromWe : stop rushing your life . just live . just breathe . just be .",
+        "entities": [],
+        "sent_id": 1174
+    },
+    {
+        "text": "I have , a few hours ago , it only ollected 2 neg votes so far",
+        "target": "I have , a few hours ago , it only ollected 2 neg votes so far",
+        "entities": [],
+        "sent_id": 688
+    },
+    {
+        "text": "\" A rather larger body , varying at need , was employed to ' beat the bounds ' , and to see that Outsiders of any kind , great or small , did not make themselves a nuisance . \" Not sure exactly how that needs to be interpreted .",
+        "target": "\" A rather larger body , varying at need , was employed to ' beat the bounds ' , and to see that <entity type=\"group\">Outsiders</entity> of any kind , great or small , did not make themselves a nuisance . \" Not sure exactly how that needs to be interpreted .",
+        "entities": [
+            [
+                "Outsiders",
+                "group"
+            ]
+        ],
+        "sent_id": 371
+    },
+    {
+        "text": "omg this song makes me cry everytime https://t.co/Fm5RszmXHz",
+        "target": "omg this song makes me cry everytime https://t.co/Fm5RszmXHz",
+        "entities": [],
+        "sent_id": 845
+    },
+    {
+        "text": "@ alexwlchan - You ' re right . I ' ve added it to my answer below .",
+        "target": "@ alexwlchan - You ' re right . I ' ve added it to my answer below .",
+        "entities": [],
+        "sent_id": 338
+    },
+    {
+        "text": "RT @ faerieli : 11 : 11 cake ! !",
+        "target": "RT @ faerieli : 11 : 11 cake ! !",
+        "entities": [],
+        "sent_id": 841
+    },
+    {
+        "text": "10 hot toys that are getting couples into BDSM https://t.co/CmOupNGkuf",
+        "target": "10 hot toys that are getting couples into BDSM https://t.co/CmOupNGkuf",
+        "entities": [],
+        "sent_id": 992
+    },
+    {
+        "text": "* * redditor * * : Thorvirdh",
+        "target": "* * redditor * * : <entity type=\"person\">Thorvirdh</entity>",
+        "entities": [
+            [
+                "Thorvirdh",
+                "person"
+            ]
+        ],
+        "sent_id": 223
+    },
+    {
+        "text": "I hear audio in the first AA streamable link but not the one with full build up .",
+        "target": "I hear audio in the first <entity type=\"group\">AA</entity> streamable link but not the one with full build up .",
+        "entities": [
+            [
+                "AA",
+                "group"
+            ]
+        ],
+        "sent_id": 114
+    },
+    {
+        "text": "RT @ a _ mofia : Adulthood : https://t.co/c0arJl1bzM",
+        "target": "RT @ a _ mofia : Adulthood : https://t.co/c0arJl1bzM",
+        "entities": [],
+        "sent_id": 976
+    },
+    {
+        "text": "buddy do n ' t say xmen 3 as disaster I like original trilogy .",
+        "target": "buddy do n ' t say <entity type=\"creative-work\">xmen 3</entity> as disaster I like original trilogy .",
+        "entities": [
+            [
+                "xmen 3",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 424
+    },
+    {
+        "text": "What is the meaning if all IoT hacked by Mirai all over the world identify themselves on my server since 15 days in the rhythm of 180 unique IoT / h ?",
+        "target": "What is the meaning if all <entity type=\"product\">IoT</entity> hacked by <entity type=\"product\">Mirai</entity> all over the world identify themselves on my server since 15 days in the rhythm of 180 unique <entity type=\"product\">IoT</entity> / h ?",
+        "entities": [
+            [
+                "IoT",
+                "product"
+            ],
+            [
+                "Mirai",
+                "product"
+            ],
+            [
+                "IoT",
+                "product"
+            ]
+        ],
+        "sent_id": 496
+    },
+    {
+        "text": "@ JuniorCyclingMY N 9 Under 9 cat just started ! # crit @ khairykj https://t.co/XAsXGiPcfG",
+        "target": "@ <entity type=\"group\">JuniorCyclingMY</entity> N 9 Under 9 cat just started ! # crit @ khairykj https://t.co/XAsXGiPcfG",
+        "entities": [
+            [
+                "JuniorCyclingMY",
+                "group"
+            ]
+        ],
+        "sent_id": 1192
+    },
+    {
+        "text": "Old novel of a hunter on a man-eating island ; he has to escape from another hunter who would try to kill him",
+        "target": "Old novel of a hunter on a man-eating island ; he has to escape from another hunter who would try to kill him",
+        "entities": [],
+        "sent_id": 353
+    },
+    {
+        "text": "Difference between Executive Orders and Presidential Memoranda",
+        "target": "Difference between Executive Orders and Presidential Memoranda",
+        "entities": [],
+        "sent_id": 399
+    },
+    {
+        "text": "RT @ KleinISD : The @ KleinISD Daily is out ! https://t.co/KLCfYmZNcC Stories via @ KISD _ Multling",
+        "target": "RT @ <entity type=\"creative-work\">KleinISD</entity> : The @ <entity type=\"creative-work\">KleinISD Daily</entity> is out ! https://t.co/KLCfYmZNcC Stories via @ KISD _ Multling",
+        "entities": [
+            [
+                "KleinISD",
+                "creative-work"
+            ],
+            [
+                "KleinISD Daily",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 969
+    },
+    {
+        "text": "@ CNN He ' s an ass .",
+        "target": "@ <entity type=\"corporation\">CNN</entity> He ' s an ass .",
+        "entities": [
+            [
+                "CNN",
+                "corporation"
+            ]
+        ],
+        "sent_id": 1027
+    },
+    {
+        "text": "RT @ er 1 cmau : # Catalonia ' s foreign minister @ raulromeva : \" legally voting to chose one ' s future is rooted in European practice \"",
+        "target": "RT @ er 1 cmau : # <entity type=\"location\">Catalonia</entity> ' s foreign minister @ <entity type=\"person\">raulromeva</entity> : \" legally voting to chose one ' s future is rooted in European practice \"",
+        "entities": [
+            [
+                "Catalonia",
+                "location"
+            ],
+            [
+                "raulromeva",
+                "person"
+            ]
+        ],
+        "sent_id": 960
+    },
+    {
+        "text": "https://t.co/rfHnzqMp2x",
+        "target": "https://t.co/rfHnzqMp2x",
+        "entities": [],
+        "sent_id": 1241
+    },
+    {
+        "text": "I asked Bellerin v walker in a match thread a few months ago , the results might surprise you .",
+        "target": "I asked <entity type=\"person\">Bellerin</entity> v <entity type=\"person\">walker</entity> in a match thread a few months ago , the results might surprise you .",
+        "entities": [
+            [
+                "Bellerin",
+                "person"
+            ],
+            [
+                "walker",
+                "person"
+            ]
+        ],
+        "sent_id": 92
+    },
+    {
+        "text": "I like u / Womble _ Don ' s post about why Lahm is a good captain .",
+        "target": "I like u / <entity type=\"person\">Womble _ Don</entity> ' s post about why <entity type=\"person\">Lahm</entity> is a good captain .",
+        "entities": [
+            [
+                "Womble _ Don",
+                "person"
+            ],
+            [
+                "Lahm",
+                "person"
+            ]
+        ],
+        "sent_id": 262
+    },
+    {
+        "text": "The mods deleted [ this story about activists being beaten by Trump supporters ] ( https://m.reddit.com/r/politics/comments/5m3r1c/activists_brutally_attacked_by_donald_trump/ ) for being off topic .",
+        "target": "The <entity type=\"group\">mods</entity> deleted [ this story about activists being beaten by <entity type=\"person\">Trump</entity> supporters ] ( https://m.reddit.com/r/politics/comments/5m3r1c/activists_brutally_attacked_by_donald_trump/ ) for being off topic .",
+        "entities": [
+            [
+                "mods",
+                "group"
+            ],
+            [
+                "Trump",
+                "person"
+            ]
+        ],
+        "sent_id": 85
+    },
+    {
+        "text": "during ssh handshaking server introduce itself - does it improve security to change self presentation ?",
+        "target": "during ssh handshaking server introduce itself - does it improve security to change self presentation ?",
+        "entities": [],
+        "sent_id": 603
+    },
+    {
+        "text": "Just ask him about his [ trip to North Korea ] ( https://np.reddit.com/r/AMA/comments/5hywfx/i_have_just_got_back_from_a_trip_to_north_korea/ )",
+        "target": "Just ask him about his [ trip to <entity type=\"location\">North Korea</entity> ] ( https://np.reddit.com/r/AMA/comments/5hywfx/i_have_just_got_back_from_a_trip_to_north_korea/ )",
+        "entities": [
+            [
+                "North Korea",
+                "location"
+            ]
+        ],
+        "sent_id": 134
+    },
+    {
+        "text": "Heh , it did n ' t go down [ well ] ( https://np.reddit.com/r/southafrica/comments/5o7yr4/hey_guys_im_trying_to_collect_photos_of_people/ )",
+        "target": "Heh , it did n ' t go down [ well ] ( https://np.reddit.com/r/southafrica/comments/5o7yr4/hey_guys_im_trying_to_collect_photos_of_people/ )",
+        "entities": [],
+        "sent_id": 220
+    },
+    {
+        "text": "RT @ pipiixx : https://t.co/84tRvF1Qow",
+        "target": "RT @ pipiixx : https://t.co/84tRvF1Qow",
+        "entities": [],
+        "sent_id": 1119
+    },
+    {
+        "text": "Hopefully , Bex negotiated a deal with the Snickers company to supply our island with their delicious chocalate .",
+        "target": "Hopefully , <entity type=\"location\">Bex</entity> negotiated a deal with the <entity type=\"product\">Snickers</entity> company to supply our island with their delicious chocalate .",
+        "entities": [
+            [
+                "Bex",
+                "location"
+            ],
+            [
+                "Snickers",
+                "product"
+            ]
+        ],
+        "sent_id": 170
+    },
+    {
+        "text": "/ r / politics : \" blablabla political bullshit Hur dur \"",
+        "target": "/ r / politics : \" blablabla political bullshit Hur dur \"",
+        "entities": [],
+        "sent_id": 286
+    },
+    {
+        "text": "@ RevAaronMarquis Based off ELR , I assume you smoke ? If so , are you one of the few RT employees who do ?",
+        "target": "@ RevAaronMarquis Based off ELR , I assume you smoke ? If so , are you one of the few <entity type=\"corporation\">RT</entity> employees who do ?",
+        "entities": [
+            [
+                "RT",
+                "corporation"
+            ]
+        ],
+        "sent_id": 763
+    },
+    {
+        "text": "https://www.reddit.com/r/newzealand/comments/5p0edk/comment/dcnrf9t?st=IY5U4XSO&amp;sh=9fd7c3a9Ijustcouldn'tseetheedgeoftheNewplymouthradarcircleonOP'spic.",
+        "target": "https://www.reddit.com/r/newzealand/comments/5p0edk/comment/dcnrf9t?st=IY5U4XSO&amp;sh=9fd7c3a9Ijustcouldn'tseetheedgeoftheNewplymouthradarcircleonOP'spic.",
+        "entities": [],
+        "sent_id": 41
+    },
+    {
+        "text": "kina sex anal https://t.co/iD26UoP7tl",
+        "target": "kina sex anal https://t.co/iD26UoP7tl",
+        "entities": [],
+        "sent_id": 907
+    },
+    {
+        "text": "RT @ V _ of _ Europe : Europe ' s most horrible person is in the White House . The damage she ' s done to her country and our continent is unpr \u2026",
+        "target": "RT @ V _ of _ <entity type=\"location\">Europe</entity> : <entity type=\"location\">Europe</entity> ' s most horrible person is in the <entity type=\"location\">White</entity> <entity type=\"location\">House</entity> . The damage she ' s done to her country and our continent is unpr \u2026",
+        "entities": [
+            [
+                "Europe",
+                "location"
+            ],
+            [
+                "Europe",
+                "location"
+            ],
+            [
+                "White",
+                "location"
+            ],
+            [
+                "House",
+                "location"
+            ]
+        ],
+        "sent_id": 1258
+    },
+    {
+        "text": "It is not a problem for her to bend over spreading her ass and slowly finger her tight asshole . \u2026 https://t.co/8bWcg5oMOK",
+        "target": "It is not a problem for her to bend over spreading her ass and slowly finger her tight asshole . \u2026 https://t.co/8bWcg5oMOK",
+        "entities": [],
+        "sent_id": 925
+    },
+    {
+        "text": "RT @ MatsMats 94 : @ rolling _ 2 @ NatalieGBorden that is Bannon ' s goal . https://t.co/OomsNdQocf",
+        "target": "RT @ MatsMats 94 : @ rolling _ 2 @ <entity type=\"person\">NatalieGBorden</entity> that is <entity type=\"person\">Bannon</entity> ' s goal . https://t.co/OomsNdQocf",
+        "entities": [
+            [
+                "NatalieGBorden",
+                "person"
+            ],
+            [
+                "Bannon",
+                "person"
+            ]
+        ],
+        "sent_id": 914
+    },
+    {
+        "text": "Buffer overflow attack",
+        "target": "Buffer overflow attack",
+        "entities": [],
+        "sent_id": 544
+    },
+    {
+        "text": "This kids will love making this erupting volcano https://t.co/AThemYUuUf https://t.co/g3PR3PC0Ea",
+        "target": "This kids will love making this erupting volcano https://t.co/AThemYUuUf https://t.co/g3PR3PC0Ea",
+        "entities": [],
+        "sent_id": 749
+    },
+    {
+        "text": "* * redditor * * : JamesakaNoah",
+        "target": "* * redditor * * : <entity type=\"person\">JamesakaNoah</entity>",
+        "entities": [
+            [
+                "JamesakaNoah",
+                "person"
+            ]
+        ],
+        "sent_id": 162
+    },
+    {
+        "text": "Lowongan PT Citilink Indonesia - Recruitment ForFresh Graduate Management Trainee Citilink January 2017 . . . https://t.co/GIGQnl4qTY",
+        "target": "Lowongan <entity type=\"corporation\">PT Citilink Indonesia</entity> - Recruitment ForFresh Graduate Management Trainee <entity type=\"corporation\">Citilink</entity> January 2017 . . . https://t.co/GIGQnl4qTY",
+        "entities": [
+            [
+                "PT Citilink Indonesia",
+                "corporation"
+            ],
+            [
+                "Citilink",
+                "corporation"
+            ]
+        ],
+        "sent_id": 911
+    },
+    {
+        "text": "RT @ miyu _ mon : Beauty comes from within . https://t.co/YLE8Yl86YE",
+        "target": "RT @ miyu _ mon : Beauty comes from within . https://t.co/YLE8Yl86YE",
+        "entities": [],
+        "sent_id": 850
+    },
+    {
+        "text": "[ Alternative format ] ( https://www.reddit.com/r/soccer/comments/5n5fg7/oc_an_innovative_format_to_save_the_world_cup_and/ )",
+        "target": "[ Alternative format ] ( https://www.reddit.com/r/soccer/comments/5n5fg7/oc_an_innovative_format_to_save_the_world_cup_and/ )",
+        "entities": [],
+        "sent_id": 265
+    },
+    {
+        "text": "2017 , 03 , 18 06 : 30 : 05 jay dmb test 8 - 11 - 2016",
+        "target": "2017 , 03 , 18 06 : 30 : 05 jay dmb test 8 - 11 - 2016",
+        "entities": [],
+        "sent_id": 1087
+    },
+    {
+        "text": "# floral # kaleidoscope by # Kaye _ Menner # photography quality prints cards and more at : https://t.co/1gjXZd9Mg7",
+        "target": "# <entity type=\"creative-work\">floral</entity> # <entity type=\"creative-work\">kaleidoscope</entity> by # <entity type=\"person\">Kaye</entity> _ <entity type=\"person\">Menner</entity> # photography quality prints cards and more at : https://t.co/1gjXZd9Mg7",
+        "entities": [
+            [
+                "floral",
+                "creative-work"
+            ],
+            [
+                "kaleidoscope",
+                "creative-work"
+            ],
+            [
+                "Kaye",
+                "person"
+            ],
+            [
+                "Menner",
+                "person"
+            ]
+        ],
+        "sent_id": 1158
+    },
+    {
+        "text": "Dieting as demonstrated by fitness bloggers vs . dieting IRL # NHsmc https://t.co/2oz6u8aufr",
+        "target": "Dieting as demonstrated by fitness bloggers vs . dieting IRL # NHsmc https://t.co/2oz6u8aufr",
+        "entities": [],
+        "sent_id": 899
+    },
+    {
+        "text": "Straight a altered logistic tactic remedial of erratic militancy organizations : eagFcUa",
+        "target": "Straight a altered logistic tactic remedial of erratic militancy organizations : eagFcUa",
+        "entities": [],
+        "sent_id": 1006
+    },
+    {
+        "text": "Please provide as much information as possible . When and where you watched it , language , color or black & white etc",
+        "target": "Please provide as much information as possible . When and where you watched it , language , color or black & white etc",
+        "entities": [],
+        "sent_id": 519
+    },
+    {
+        "text": "I ' m afraid this is a deliberate stylistic choice . Also seen in Collide ( 2016 ) and others . Hopefully it ' s one that will go away .",
+        "target": "I ' m afraid this is a deliberate stylistic choice . Also seen in <entity type=\"creative-work\">Collide</entity> ( 2016 ) and others . Hopefully it ' s one that will go away .",
+        "entities": [
+            [
+                "Collide",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 579
+    },
+    {
+        "text": "* * submission title * * : British man dies working on Qatar 2022 World Cup stadium",
+        "target": "* * submission title * * : British man dies working on <entity type=\"location\">Qatar 2022 World Cup stadium</entity>",
+        "entities": [
+            [
+                "Qatar 2022 World Cup stadium",
+                "location"
+            ]
+        ],
+        "sent_id": 215
+    },
+    {
+        "text": "RT @ _ DYLpickle 13 : \" What were the women even marching for ? \" https://t.co/PIJssdNy86",
+        "target": "RT @ <entity type=\"person\">_ DYLpickle 13</entity> : \" What were the women even marching for ? \" https://t.co/PIJssdNy86",
+        "entities": [
+            [
+                "_ DYLpickle 13",
+                "person"
+            ]
+        ],
+        "sent_id": 993
+    },
+    {
+        "text": "RT @ nochillthalia : 1 . so lets start w this iconic vine https://t.co/GfaKNo5NDS",
+        "target": "RT @ nochillthalia : 1 . so lets start w this iconic vine https://t.co/GfaKNo5NDS",
+        "entities": [],
+        "sent_id": 878
+    },
+    {
+        "text": "RT @ Genius : DJs and producers can now get paid for their SoundCloud mixes \ud83d\ude4f https://t.co/ovR779rVVr https://t.co/ViWUQUYRCv",
+        "target": "RT @ Genius : <entity type=\"group\">DJs</entity> and producers can now get paid for their <entity type=\"product\">SoundCloud mixes</entity> \ud83d\ude4f https://t.co/ovR779rVVr https://t.co/ViWUQUYRCv",
+        "entities": [
+            [
+                "DJs",
+                "group"
+            ],
+            [
+                "SoundCloud mixes",
+                "product"
+            ]
+        ],
+        "sent_id": 1157
+    },
+    {
+        "text": "RT @ BsbLifestyle _ _ : Another young star gone way too soon \ud83d\ude22 \ud83d\ude22 \ud83d\ude22 https://t.co/HAz33bS8hn",
+        "target": "RT @ BsbLifestyle _ _ : Another young star gone way too soon \ud83d\ude22 \ud83d\ude22 \ud83d\ude22 https://t.co/HAz33bS8hn",
+        "entities": [],
+        "sent_id": 964
+    },
+    {
+        "text": "RT @ 5 HonTour : # WorkFromHome # BestMusicVideo # iHeartAwards https://t.co/GWdK7L7RtR",
+        "target": "RT @ 5 HonTour : # WorkFromHome # BestMusicVideo # iHeartAwards https://t.co/GWdK7L7RtR",
+        "entities": [],
+        "sent_id": 865
+    },
+    {
+        "text": "FYI about a month ago there was a post about general info on protection orders :",
+        "target": "FYI about a month ago there was a post about general info on protection orders :",
+        "entities": [],
+        "sent_id": 210
+    },
+    {
+        "text": "Narsingh to see here , [ r / soccer thread ] ( https://www.reddit.com/r/soccer/comments/5ne3ed/psv_right_winger_luciano_narsingh_set_to_move_to/ ) totally brutal",
+        "target": "<entity type=\"person\">Narsingh</entity> to see here , [ r / soccer thread ] ( https://www.reddit.com/r/soccer/comments/5ne3ed/psv_right_winger_luciano_narsingh_set_to_move_to/ ) totally brutal",
+        "entities": [
+            [
+                "Narsingh",
+                "person"
+            ]
+        ],
+        "sent_id": 160
+    },
+    {
+        "text": "@ Bebs That ' s possible too .",
+        "target": "@ <entity type=\"person\">Bebs</entity> That ' s possible too .",
+        "entities": [
+            [
+                "Bebs",
+                "person"
+            ]
+        ],
+        "sent_id": 567
+    },
+    {
+        "text": "[ OP of the previous threads could n ' t handle the Ronaldo criticism .",
+        "target": "[ OP of the previous threads could n ' t handle the <entity type=\"person\">Ronaldo</entity> criticism .",
+        "entities": [
+            [
+                "Ronaldo",
+                "person"
+            ]
+        ],
+        "sent_id": 76
+    },
+    {
+        "text": "Why were the Klingons no longer members of the Federation ?",
+        "target": "Why were the <entity type=\"group\">Klingons</entity> no longer members of the <entity type=\"group\">Federation</entity> ?",
+        "entities": [
+            [
+                "Klingons",
+                "group"
+            ],
+            [
+                "Federation",
+                "group"
+            ]
+        ],
+        "sent_id": 685
+    },
+    {
+        "text": "RT @ Konnan 5150 : Just dropped two new videos for https://t.co/uyJSzog8Kt members and later tonight a new 90 minute + Keepin it 100 + ep for $ 3 \u2026",
+        "target": "RT @ <entity type=\"person\">Konnan 5150</entity> : Just dropped two new videos for https://t.co/uyJSzog8Kt members and later tonight a new 90 minute + Keepin it 100 + ep for $ 3 \u2026",
+        "entities": [
+            [
+                "Konnan 5150",
+                "person"
+            ]
+        ],
+        "sent_id": 1060
+    },
+    {
+        "text": "RT @ NathanZed : he was the only black barber at the shop here . I ' m going to have to put my faith in a caucasian man . First the country , now \u2026",
+        "target": "RT @ <entity type=\"person\">NathanZed</entity> : he was the only black barber at the shop here . I ' m going to have to put my faith in a caucasian man . First the country , now \u2026",
+        "entities": [
+            [
+                "NathanZed",
+                "person"
+            ]
+        ],
+        "sent_id": 883
+    },
+    {
+        "text": "Also , check the FIFA XI thread where a lot of people were shitting on him when he actually had a fantastic 2016",
+        "target": "Also , check the <entity type=\"creative-work\">FIFA XI</entity> thread where a lot of people were shitting on him when he actually had a fantastic 2016",
+        "entities": [
+            [
+                "FIFA XI",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 196
+    },
+    {
+        "text": "They said \" Yea because catching the entire force of your body with your arms is always a great idea . \"",
+        "target": "They said \" Yea because catching the entire force of your body with your arms is always a great idea . \"",
+        "entities": [],
+        "sent_id": 264
+    },
+    {
+        "text": "Moving your work week along to the weekend with a little Margarita Madness and our fantastic Shrimp Feat . Join us . . . https://t.co/GHZa0nHAqp",
+        "target": "Moving your work week along to the weekend with a little <entity type=\"product\">Margarita Madness</entity> and our fantastic Shrimp Feat . Join us . . . https://t.co/GHZa0nHAqp",
+        "entities": [
+            [
+                "Margarita Madness",
+                "product"
+            ]
+        ],
+        "sent_id": 769
+    },
+    {
+        "text": "' ll certainly check it out . But superior ? As a native kiwi that will be my judgement to make : - P",
+        "target": "' ll certainly check it out . But superior ? As a native <entity type=\"group\">kiwi</entity> that will be my judgement to make : - P",
+        "entities": [
+            [
+                "kiwi",
+                "group"
+            ]
+        ],
+        "sent_id": 514
+    },
+    {
+        "text": "Your name suggests you may be Italian . If you can edit your question to include an Italian version , I will happily translate it if nobody else gets to it before I do . The current English version of the question is almost impossible to make sense of .",
+        "target": "Your name suggests you may be Italian . If you can edit your question to include an Italian version , I will happily translate it if nobody else gets to it before I do . The current English version of the question is almost impossible to make sense of .",
+        "entities": [],
+        "sent_id": 664
+    },
+    {
+        "text": "Free on eBook Blitz : The Eslites by CM Doporto https://t.co/lSmKwx0q4g # ebblitz https://t.co/H7qDz6E2Fv",
+        "target": "Free on <entity type=\"creative-work\">eBook Blitz : The Eslites</entity> by <entity type=\"person\">CM Doporto</entity> https://t.co/lSmKwx0q4g # <entity type=\"creative-work\">ebblitz</entity> https://t.co/H7qDz6E2Fv",
+        "entities": [
+            [
+                "eBook Blitz : The Eslites",
+                "creative-work"
+            ],
+            [
+                "CM Doporto",
+                "person"
+            ],
+            [
+                "ebblitz",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 1177
+    },
+    {
+        "text": "/ . Trump administration rolls back protections for people in default on student loans https://t.co/YPe2DRsjLe",
+        "target": "/ . <entity type=\"group\">Trump administration</entity> rolls back protections for people in default on student loans https://t.co/YPe2DRsjLe",
+        "entities": [
+            [
+                "Trump administration",
+                "group"
+            ]
+        ],
+        "sent_id": 1236
+    },
+    {
+        "text": "Doing play by play with my buddy @ jfradioshow for the Senate v house basketball game . Let ' s go Senate ! https://t.co/gf0q0vLBV1",
+        "target": "Doing play by play with my buddy @ <entity type=\"person\">jfradioshow</entity> for the <entity type=\"group\">Senate</entity> v <entity type=\"group\">house</entity> basketball game . Let ' s go <entity type=\"group\">Senate</entity> ! https://t.co/gf0q0vLBV1",
+        "entities": [
+            [
+                "jfradioshow",
+                "person"
+            ],
+            [
+                "Senate",
+                "group"
+            ],
+            [
+                "house",
+                "group"
+            ],
+            [
+                "Senate",
+                "group"
+            ]
+        ],
+        "sent_id": 807
+    },
+    {
+        "text": "In \" The Six Thatchers \" , why does Watson blame Sherlock rather than himself ?",
+        "target": "In \" <entity type=\"creative-work\">The Six Thatchers</entity> \" , why does <entity type=\"person\">Watson</entity> blame <entity type=\"person\">Sherlock</entity> rather than himself ?",
+        "entities": [
+            [
+                "The Six Thatchers",
+                "creative-work"
+            ],
+            [
+                "Watson",
+                "person"
+            ],
+            [
+                "Sherlock",
+                "person"
+            ]
+        ],
+        "sent_id": 417
+    },
+    {
+        "text": "RT @ MartinBelam : As long as you live you ' ll never see a photograph of 7 women signing legislation about what men can do with their r \u2026",
+        "target": "RT @ <entity type=\"person\">MartinBelam</entity> : As long as you live you ' ll never see a photograph of 7 women signing legislation about what men can do with their r \u2026",
+        "entities": [
+            [
+                "MartinBelam",
+                "person"
+            ]
+        ],
+        "sent_id": 887
+    },
+    {
+        "text": "LRT why is nobody talking about Prompto ' s official Roen belt ? https://t.co/mUsYf1AVR3",
+        "target": "LRT why is nobody talking about <entity type=\"corporation\">Prompto</entity> ' s official <entity type=\"product\">Roen belt</entity> ? https://t.co/mUsYf1AVR3",
+        "entities": [
+            [
+                "Prompto",
+                "corporation"
+            ],
+            [
+                "Roen belt",
+                "product"
+            ]
+        ],
+        "sent_id": 740
+    },
+    {
+        "text": "RT @ PauDybala _ JR : # dybalamask could be / podr\u00eca ser / potrebbe essere . . . . https://t.co/Vr8n6CLJGY",
+        "target": "RT @ <entity type=\"person\">PauDybala</entity> _ JR : # dybalamask could be / podr\u00eca ser / potrebbe essere . . . . https://t.co/Vr8n6CLJGY",
+        "entities": [
+            [
+                "PauDybala",
+                "person"
+            ]
+        ],
+        "sent_id": 1117
+    },
+    {
+        "text": "# sex slave sites girl uses urinal porn https://t.co/hroXOjtyem",
+        "target": "# sex slave sites girl uses urinal porn https://t.co/hroXOjtyem",
+        "entities": [],
+        "sent_id": 708
+    },
+    {
+        "text": "@ SQB I meant to say it ' s NP hard if we solve the general problem : a sequence of n numbers and a number M that some subsets of the numbers will meet or exceed . However , I believe I may ' ve found a recursive approach that takes only linear time . . . maybe .",
+        "target": "@ SQB I meant to say it ' s NP hard if we solve the general problem : a sequence of n numbers and a number M that some subsets of the numbers will meet or exceed . However , I believe I may ' ve found a recursive approach that takes only linear time . . . maybe .",
+        "entities": [],
+        "sent_id": 696
+    },
+    {
+        "text": "# Fake news trend gathering momentum- a little common sense is all you need to spot # fake # news https://t.co/xIomaTeVGX",
+        "target": "# Fake news trend gathering momentum- a little common sense is all you need to spot # fake # news https://t.co/xIomaTeVGX",
+        "entities": [],
+        "sent_id": 1256
+    },
+    {
+        "text": "[ Yo .",
+        "target": "[ Yo .",
+        "entities": [],
+        "sent_id": 80
+    },
+    {
+        "text": "Velvet has such a thin skin he actually deleted and resubmitted an article because someone disagreed with him :",
+        "target": "<entity type=\"person\">Velvet</entity> has such a thin skin he actually deleted and resubmitted an article because someone disagreed with him :",
+        "entities": [
+            [
+                "Velvet",
+                "person"
+            ]
+        ],
+        "sent_id": 157
+    },
+    {
+        "text": "@ pela Ok Thanku . Will search for it . Learn it when it calls . Thanku",
+        "target": "@ pela Ok Thanku . Will search for it . Learn it when it calls . Thanku",
+        "entities": [],
+        "sent_id": 345
+    },
+    {
+        "text": "Are the TIE Fighter pilots clones ?",
+        "target": "Are the <entity type=\"group\">TIE Fighter pilots</entity> clones ?",
+        "entities": [
+            [
+                "TIE Fighter pilots",
+                "group"
+            ]
+        ],
+        "sent_id": 420
+    },
+    {
+        "text": "& gt ; * The soldier was killed when another avalanche hit an army barracks in the northern area of Sonmarg , said a military spokesman .",
+        "target": "& gt ; * The soldier was killed when another avalanche hit an army barracks in the northern area of <entity type=\"location\">Sonmarg</entity> , said a military spokesman .",
+        "entities": [
+            [
+                "Sonmarg",
+                "location"
+            ]
+        ],
+        "sent_id": 0
+    },
+    {
+        "text": "Is redirecting in htaccess providing enough security for sensitive pages ?",
+        "target": "Is redirecting in <entity type=\"product\">htaccess</entity> providing enough security for sensitive pages ?",
+        "entities": [
+            [
+                "htaccess",
+                "product"
+            ]
+        ],
+        "sent_id": 397
+    },
+    {
+        "text": "There is pleasure in the pathless woods # Kalupey",
+        "target": "There is pleasure in the pathless <entity type=\"location\">woods</entity> # <entity type=\"person\">Kalupey</entity>",
+        "entities": [
+            [
+                "woods",
+                "location"
+            ],
+            [
+                "Kalupey",
+                "person"
+            ]
+        ],
+        "sent_id": 707
+    },
+    {
+        "text": "RT @ CrapTaxidermy : \" I told you it was fucking hunting season Doreen but Nooooo , we had to visit your sisters new place by the lake ! \" https:\u2026",
+        "target": "RT @ <entity type=\"person\">CrapTaxidermy</entity> : \" I told you it was fucking hunting season <entity type=\"person\">Doreen</entity> but Nooooo , we had to visit your sisters new place by the lake ! \" https:\u2026",
+        "entities": [
+            [
+                "CrapTaxidermy",
+                "person"
+            ],
+            [
+                "Doreen",
+                "person"
+            ]
+        ],
+        "sent_id": 1092
+    },
+    {
+        "text": "@ MaryKayCabot @ TheKennyRoda @ clevelanddotcom https://t.co/zSacM2iqb7",
+        "target": "@ <entity type=\"person\">MaryKayCabot</entity> @ <entity type=\"person\">TheKennyRoda</entity> @ <entity type=\"corporation\">clevelanddotcom</entity> https://t.co/zSacM2iqb7",
+        "entities": [
+            [
+                "MaryKayCabot",
+                "person"
+            ],
+            [
+                "TheKennyRoda",
+                "person"
+            ],
+            [
+                "clevelanddotcom",
+                "corporation"
+            ]
+        ],
+        "sent_id": 889
+    },
+    {
+        "text": "Perhaps this paper instead actually suggests that students born in July are underdiagnosed ?",
+        "target": "Perhaps this paper instead actually suggests that students born in July are underdiagnosed ?",
+        "entities": [],
+        "sent_id": 102
+    },
+    {
+        "text": "Auto DJ Show is starting now ! Listen live here : https://t.co/qBE5T6alql",
+        "target": "<entity type=\"creative-work\">Auto DJ Show</entity> is starting now ! Listen live here : https://t.co/qBE5T6alql",
+        "entities": [
+            [
+                "Auto DJ Show",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 1055
+    },
+    {
+        "text": "I want anyteam to win it except PSG .",
+        "target": "I want anyteam to win it except <entity type=\"group\">PSG</entity> .",
+        "entities": [
+            [
+                "PSG",
+                "group"
+            ]
+        ],
+        "sent_id": 233
+    },
+    {
+        "text": "Cartoon in which Donald Duck tries to stop another duck from committing suicide",
+        "target": "Cartoon in which <entity type=\"person\">Donald Duck</entity> tries to stop another duck from committing suicide",
+        "entities": [
+            [
+                "Donald Duck",
+                "person"
+            ]
+        ],
+        "sent_id": 503
+    },
+    {
+        "text": "RT @ curscurs : your standards began to be ignored when u let mfs get comfortable in knowing that another chance will always exist",
+        "target": "RT @ curscurs : your standards began to be ignored when u let mfs get comfortable in knowing that another chance will always exist",
+        "entities": [],
+        "sent_id": 1133
+    },
+    {
+        "text": "Lel",
+        "target": "Lel",
+        "entities": [],
+        "sent_id": 305
+    },
+    {
+        "text": "RT @ coppolanat : Sana tu \u2764 Reconecta con el Amor . The Angels are Listening : Snatam Kaur sings Su\u1e49i-ai with Ajeet Kaur at . . . https://t.co/\u2026",
+        "target": "RT @ coppolanat : Sana tu \u2764 Reconecta con el Amor . <entity type=\"creative-work\">The Angels are Listening</entity> : <entity type=\"person\">Snatam Kaur</entity> sings <entity type=\"creative-work\">Su\u1e49i-ai</entity> with <entity type=\"person\">Ajeet Kaur</entity> at . . . https://t.co/\u2026",
+        "entities": [
+            [
+                "The Angels are Listening",
+                "creative-work"
+            ],
+            [
+                "Snatam Kaur",
+                "person"
+            ],
+            [
+                "Su\u1e49i-ai",
+                "creative-work"
+            ],
+            [
+                "Ajeet Kaur",
+                "person"
+            ]
+        ],
+        "sent_id": 869
+    },
+    {
+        "text": "Retweeting for @ BadlandsNPS . # ClimateChange is real ! # TheResistance # DefyTrump # TrumpLeaks # DworkinReport \u2026 https://t.co/1b7qIhtqwH",
+        "target": "Retweeting for @ BadlandsNPS . # ClimateChange is real ! # <entity type=\"group\">TheResistance</entity> # DefyTrump # TrumpLeaks # DworkinReport \u2026 https://t.co/1b7qIhtqwH",
+        "entities": [
+            [
+                "TheResistance",
+                "group"
+            ]
+        ],
+        "sent_id": 843
+    },
+    {
+        "text": "Don ' t get kettled . Made up charges will follow . https://t.co/b8lsMKIHda",
+        "target": "Don ' t get kettled . Made up charges will follow . https://t.co/b8lsMKIHda",
+        "entities": [],
+        "sent_id": 958
+    },
+    {
+        "text": "Who \u2019 s the villain in the Powerless trailer ?",
+        "target": "Who \u2019 s the villain in the <entity type=\"creative-work\">Powerless</entity> trailer ?",
+        "entities": [
+            [
+                "Powerless",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 697
+    },
+    {
+        "text": "As soon as I saw your answer I jumped out of bed to look for this movie . I could n ' t possibly thank you enough , you have no idea of the service you have done me , I ' ve been looking for this movie ever since it came out , and you gave me the answer in less than 2 hours . Best of luck to you , glad to be a member of this community .",
+        "target": "As soon as I saw your answer I jumped out of bed to look for this movie . I could n ' t possibly thank you enough , you have no idea of the service you have done me , I ' ve been looking for this movie ever since it came out , and you gave me the answer in less than 2 hours . Best of luck to you , glad to be a member of this community .",
+        "entities": [],
+        "sent_id": 510
+    },
+    {
+        "text": "RT @ 2000 sHits : 50 Cent - 21 Questions ft . Nate Dogg https://t.co/vlZiyvWUxG",
+        "target": "RT @ 2000 sHits : <entity type=\"person\">50 Cent</entity> - <entity type=\"creative-work\">21 Questions</entity> ft . <entity type=\"person\">Nate Dogg</entity> https://t.co/vlZiyvWUxG",
+        "entities": [
+            [
+                "50 Cent",
+                "person"
+            ],
+            [
+                "21 Questions",
+                "creative-work"
+            ],
+            [
+                "Nate Dogg",
+                "person"
+            ]
+        ],
+        "sent_id": 1044
+    },
+    {
+        "text": "RT @ Marsupilami _ XXI : https://t.co/UkJrPlaq9t",
+        "target": "RT @ Marsupilami _ XXI : https://t.co/UkJrPlaq9t",
+        "entities": [],
+        "sent_id": 1172
+    },
+    {
+        "text": "school girls abortion https://t.co/jPlmROK39M",
+        "target": "school girls abortion https://t.co/jPlmROK39M",
+        "entities": [],
+        "sent_id": 1132
+    },
+    {
+        "text": "RT @ LanaDelRey : Music To Watch Boys To http://t.co/FLdvkmkwjH",
+        "target": "RT @ <entity type=\"person\">LanaDelRey</entity> : <entity type=\"creative-work\">Music To Watch Boys To</entity> http://t.co/FLdvkmkwjH",
+        "entities": [
+            [
+                "LanaDelRey",
+                "person"
+            ],
+            [
+                "Music To Watch Boys To",
+                "creative-work"
+            ]
+        ],
+        "sent_id": 1113
+    },
+    {
+        "text": "Bingo .",
+        "target": "Bingo .",
+        "entities": [],
+        "sent_id": 261
+    },
+    {
+        "text": "It happens on United related posts .",
+        "target": "It happens on <entity type=\"corporation\">United</entity> related posts .",
+        "entities": [
+            [
+                "United",
+                "corporation"
+            ]
+        ],
+        "sent_id": 307
+    },
+    {
+        "text": "RT @ soompi : ICYMI- Lee Joon Gi \u2019 s Agency Responds To Rumors Of The Actor Dating IU https://t.co/cy7Cir3rhq https://t.co/6jGVOyQAte",
+        "target": "RT @ <entity type=\"person\">soompi</entity> : ICYMI- <entity type=\"person\">Lee Joon Gi</entity> \u2019 s Agency Responds To Rumors Of The Actor Dating <entity type=\"person\">IU</entity> https://t.co/cy7Cir3rhq https://t.co/6jGVOyQAte",
+        "entities": [
+            [
+                "soompi",
+                "person"
+            ],
+            [
+                "Lee Joon Gi",
+                "person"
+            ],
+            [
+                "IU",
+                "person"
+            ]
+        ],
+        "sent_id": 942
+    },
+    {
+        "text": "@ BeatrizDjee MAAX QUE BOM",
+        "target": "@ BeatrizDjee MAAX QUE BOM",
+        "entities": [],
+        "sent_id": 895
+    },
+    {
+        "text": "Hector was holding back I assume playing it safe with injuries / fitness .",
+        "target": "<entity type=\"person\">Hector</entity> was holding back I assume playing it safe with injuries / fitness .",
+        "entities": [
+            [
+                "Hector",
+                "person"
+            ]
+        ],
+        "sent_id": 158
+    },
+    {
+        "text": "The waters of doubt can corrode even the strongest of iron wil . . . More for Aries https://t.co/VHrNkvQZiU",
+        "target": "The waters of doubt can corrode even the strongest of iron wil . . . More for Aries https://t.co/VHrNkvQZiU",
+        "entities": [],
+        "sent_id": 1149
+    },
+    {
+        "text": "In the Travel Ban Executive order - What is the \" Biometric Entry- Exit Tracking System ? \"",
+        "target": "In the Travel Ban Executive order - What is the \" Biometric Entry- Exit Tracking System ? \"",
+        "entities": [],
+        "sent_id": 348
+    },
+    {
+        "text": "What are the state-of-the art techniques for crowd size estimations ?",
+        "target": "What are the state-of-the art techniques for crowd size estimations ?",
+        "entities": [],
+        "sent_id": 583
+    },
+    {
+        "text": "Emilia Clarke trying her best https://t.co/at3jP6prAz",
+        "target": "<entity type=\"person\">Emilia Clarke</entity> trying her best https://t.co/at3jP6prAz",
+        "entities": [
+            [
+                "Emilia Clarke",
+                "person"
+            ]
+        ],
+        "sent_id": 1072
+    },
+    {
+        "text": "@ akinghes siiim tipo , eu to kkkk",
+        "target": "@ akinghes siiim tipo , eu to kkkk",
+        "entities": [],
+        "sent_id": 961
+    },
+    {
+        "text": "Your friends and associates might not be there to support you . . . More for Aquarius https://t.co/6R6L36dVnM",
+        "target": "Your friends and associates might not be there to support you . . . More for Aquarius https://t.co/6R6L36dVnM",
+        "entities": [],
+        "sent_id": 817
+    },
+    {
+        "text": "' Many wounded ' in Istanbul nightclub attack",
+        "target": "' Many wounded ' in <entity type=\"location\">Istanbul</entity> nightclub attack",
+        "entities": [
+            [
+                "Istanbul",
+                "location"
+            ]
+        ],
+        "sent_id": 268
+    },
+    {
+        "text": "Standardized Data Formats for specifying bandstructure and Fermi surfaces",
+        "target": "Standardized Data Formats for specifying bandstructure and Fermi surfaces",
+        "entities": [],
+        "sent_id": 504
+    },
+    {
+        "text": "What did Tarzan say to Cheeta when Cheeta did a good job ?",
+        "target": "What did <entity type=\"person\">Tarzan</entity> say to <entity type=\"person\">Cheeta</entity> when <entity type=\"person\">Cheeta</entity> did a good job ?",
+        "entities": [
+            [
+                "Tarzan",
+                "person"
+            ],
+            [
+                "Cheeta",
+                "person"
+            ],
+            [
+                "Cheeta",
+                "person"
+            ]
+        ],
+        "sent_id": 438
+    },
+    {
+        "text": "BuzzFeed took the bait .",
+        "target": "<entity type=\"corporation\">BuzzFeed</entity> took the bait .",
+        "entities": [
+            [
+                "BuzzFeed",
+                "corporation"
+            ]
+        ],
+        "sent_id": 152
+    },
+    {
+        "text": "And what is not useful with this answer ? Downvotes with no explanation are not useful to anyone .",
+        "target": "And what is not useful with this answer ? Downvotes with no explanation are not useful to anyone .",
+        "entities": [],
+        "sent_id": 527
+    },
+    {
+        "text": "RT @ DumpTrump 22 : # SpicerFacts https://t.co/QgTMuKN7mT",
+        "target": "RT @ DumpTrump 22 : # SpicerFacts https://t.co/QgTMuKN7mT",
+        "entities": [],
+        "sent_id": 805
+    },
+    {
+        "text": "That ' s not . p 12 format . Just . PEM format with the ( wrong ) . p 12 file name extension . Do you really , really need p 12 format ? ( If what you did works , then you don ' t , since it never was P 12 . )",
+        "target": "That ' s not . <entity type=\"product\">p 12 format</entity> . Just . <entity type=\"product\">PEM format</entity> with the ( wrong ) . <entity type=\"product\">p 12</entity> file name extension . Do you really , really need <entity type=\"product\">p 12 format</entity> ? ( If what you did works , then you don ' t , since it never was <entity type=\"product\">P 12</entity> . )",
+        "entities": [
+            [
+                "p 12 format",
+                "product"
+            ],
+            [
+                "PEM format",
+                "product"
+            ],
+            [
+                "p 12",
+                "product"
+            ],
+            [
+                "p 12 format",
+                "product"
+            ],
+            [
+                "P 12",
+                "product"
+            ]
+        ],
+        "sent_id": 435
+    },
+    {
+        "text": "Visuals of the avalanche site in Gurez sector .",
+        "target": "Visuals of the avalanche site in <entity type=\"location\">Gurez sector</entity> .",
+        "entities": [
+            [
+                "Gurez sector",
+                "location"
+            ]
+        ],
+        "sent_id": 6
+    },
+    {
+        "text": "[ New MatchThread here .",
+        "target": "[ New MatchThread here .",
+        "entities": [],
+        "sent_id": 52
+    }
+]

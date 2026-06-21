@@ -1,0 +1,3602 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nAquatic foods from marine and freshwater systems are critical to the nutrition, health, livelihoods, economies and cultures of billions of people worldwide, but climate-related hazards may compromise their ability to provide these benefits. Here, we estimate national-level aquatic food system climate risk using an integrative food systems approach that connects climate hazards impacting marine and freshwater capture fisheries and aquaculture to their contributions to sustainable food system outcomes. We show that without mitigation, climate hazards pose high risks to nutritional, social, economic and environmental outcomes worldwide-especially for wild-capture fisheries in Africa, South and Southeast Asia, and Small Island Developing States. For countries projected to experience compound climate risks, reducing societal vulnerabilities can lower climate risk by margins similar to meeting Paris Agreement mitigation targets. System-level interventions addressing dimensions such as governance, gender equity and poverty are needed to enhance aquatic and terrestrial food system resilience and provide investments with large co-benefits towards meeting the Sustainable Development Goals.\n<heading>C</heading>\nlimate change threatens all aspects of aquatic food systems, from production to consumption [1][2][3][4] , endangering the cultures, livelihoods, economies, health and nutrition of billions of people around the world [5][6][7][8][9] .",
+        "entities": [
+            {
+                "begin": 58,
+                "end": 68,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 205,
+                "end": 212,
+                "label": "natural hazard",
+                "substring": "hazards",
+                "identifier": null
+            },
+            {
+                "begin": 322,
+                "end": 334,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 392,
+                "end": 407,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 429,
+                "end": 439,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 448,
+                "end": 457,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 462,
+                "end": 473,
+                "label": "location",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 512,
+                "end": 532,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 567,
+                "end": 582,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 615,
+                "end": 621,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 623,
+                "end": 631,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 697,
+                "end": 706,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 710,
+                "end": 716,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 728,
+                "end": 742,
+                "label": "location",
+                "substring": "Southeast Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9e29690c-079c-4429-afed-ef061ab0c41e"
+            },
+            {
+                "begin": 748,
+                "end": 778,
+                "label": "location",
+                "substring": "Small Island Developing States",
+                "identifier": null
+            },
+            {
+                "begin": 827,
+                "end": 840,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 886,
+                "end": 898,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 929,
+                "end": 944,
+                "label": "project",
+                "substring": "Paris Agreement",
+                "identifier": null
+            },
+            {
+                "begin": 1287,
+                "end": 1307,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"freshwater\", \"type\": \"other\"},\n    {\"entity\": \"hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"freshwater\", \"type\": \"other\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"Southeast Asia\", \"type\": \"location\"},\n    {\"entity\": \"Small Island Developing States\", \"type\": \"location\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"Paris Agreement\", \"type\": \"project\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "natural hazard",
+            "variable",
+            "natural hazard",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "project",
+            "variable"
+        ]
+    },
+    {
+        "text": "To date, studies of climate change impacts on aquatic foods (that is, fish, invertebrates and algae captured or cultured in freshwater and marine ecosystems for food or feed) have failed to provide a full accounting of this risk, as they have largely focused on individual production systems (for example, marine fisheries 10 ) and have rarely connected production system impacts to the differential contributions of aquatic foods to food system outcomes 11 . Simultaneously, aquatic foods may have substantial but diverse roles to play in transformations towards sustainable and equitable food systems and healthy diets to address multiple forms of malnutrition, especially for coastal communities and the world's undernourished [12][13][14][15] . Efforts to build climate-resilient food systems must ensure that key health, equity and sustainability goals 16 are met at national, regional and global scales.\nEnvironmental change caused by rising atmospheric greenhouse gas concentrations creates differential climate hazards for the production capacity of marine and freshwater systems, aquafeed resources and supply, and post-production processes (Supplementary Table 11). For example, pelagic fisheries may increasingly have to contend with shifts in species distributions 1,2,10 ; coral reef fisheries and bivalve production with ocean acidification 1,2,17 ; inland fisheries with the timing and volume of freshwater availability 1,18 ; and fed aquaculture with terrestrial crop losses for feed 17,19 .",
+        "entities": [
+            {
+                "begin": 46,
+                "end": 59,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 124,
+                "end": 134,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 139,
+                "end": 156,
+                "label": "location",
+                "substring": "marine ecosystems",
+                "identifier": null
+            },
+            {
+                "begin": 306,
+                "end": 322,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 417,
+                "end": 430,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 434,
+                "end": 454,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 476,
+                "end": 489,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 948,
+                "end": 989,
+                "label": "variable",
+                "substring": "atmospheric greenhouse gas concentrations",
+                "identifier": null
+            },
+            {
+                "begin": 1011,
+                "end": 1026,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1069,
+                "end": 1079,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 1189,
+                "end": 1206,
+                "label": "location",
+                "substring": "pelagic fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1286,
+                "end": 1306,
+                "label": "location",
+                "substring": "coral reef fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1364,
+                "end": 1380,
+                "label": "location",
+                "substring": "inland fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1411,
+                "end": 1421,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 1450,
+                "end": 1461,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 679,
+                "end": 686,
+                "label": "location",
+                "substring": "coastal",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"marine ecosystems\", \"type\": \"location\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"atmospheric greenhouse gas concentrations\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"pelagic fisheries\", \"type\": \"other\"},\n    {\"entity\": \"coral reef fisheries\", \"type\": \"other\"},\n    {\"entity\": \"inland fisheries\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"coastal\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "project",
+            "location"
+        ]
+    },
+    {
+        "text": "Here, we develop and apply an integrative food system approach 11,20 (Supplementary Methods) to put all aquatic foods on the same table 21 and quantify the risk that climate change poses to the potential for aquatic foods to contribute to sustainable development (key terms, including 'risk' , are defined in the Supplementary Information).\nFrom literature-identified climate impact pathways (Supplementary Table 11), we selected representative and well-understood variables projected by three Earth system models (ESMs) that participated in the Coupled Model Intercomparison Project Phase 6 (CMIP6) to calculate cumulative national-level climate hazard scores in the near future (2021-2040) as well as the middle (2041-2060) and end (2081-2100) of the twenty-first century under two contrasting emission scenarios. We then integrated these hazard scores with measures of exposure and vulnerability to assess the overall climate risk of aquatic foods' contributions to nutrition and health, economic, social and environmental food system outcomes for 219 countries and territories (Supplementary Methods and Supplementary Fig. 2), and we evaluated where health and sustainability are most at risk at a national level and which types of aquatic food production contribute most to that risk. On the basis of this evaluation, we identify four distinct risk profiles and corresponding policy and management actions to enhance the climate resilience of aquatic food systems.\n<heading>Results</heading>\nClimate impacts on aquatic food systems.",
+        "entities": [
+            {
+                "begin": 30,
+                "end": 62,
+                "label": "project",
+                "substring": "integrative food system approach",
+                "identifier": null
+            },
+            {
+                "begin": 104,
+                "end": 117,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 208,
+                "end": 221,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 494,
+                "end": 513,
+                "label": "model",
+                "substring": "Earth system models",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e1f20631-b5b9-438c-b5c2-b1fa0fce100a"
+            },
+            {
+                "begin": 515,
+                "end": 519,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e1f20631-b5b9-438c-b5c2-b1fa0fce100a"
+            },
+            {
+                "begin": 546,
+                "end": 591,
+                "label": "project",
+                "substring": "Coupled Model Intercomparison Project Phase 6",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dcf5521f-e393-4e4c-ae4e-b4255257e18b"
+            },
+            {
+                "begin": 593,
+                "end": 598,
+                "label": "project",
+                "substring": "CMIP6",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dcf5521f-e393-4e4c-ae4e-b4255257e18b"
+            },
+            {
+                "begin": 639,
+                "end": 660,
+                "label": "variable",
+                "substring": "climate hazard scores",
+                "identifier": null
+            },
+            {
+                "begin": 921,
+                "end": 933,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 937,
+                "end": 950,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 969,
+                "end": 989,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 991,
+                "end": 999,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 1001,
+                "end": 1007,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 1026,
+                "end": 1046,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 1236,
+                "end": 1259,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": null
+            },
+            {
+                "begin": 1448,
+                "end": 1468,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            },
+            {
+                "begin": 1516,
+                "end": 1536,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"integrative food system approach\", \"type\": \"platform\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"Earth system models\", \"type\": \"model\"},\n    {\"entity\": \"ESMs\", \"type\": \"model\"},\n    {\"entity\": \"Coupled Model Intercomparison Project Phase 6\", \"type\": \"project\"},\n    {\"entity\": \"CMIP6\", \"type\": \"experiment\"},\n    {\"entity\": \"climate hazard scores\", \"type\": \"variable\"},\n    {\"entity\": \"climate risk\", \"type\": \"variable\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "project",
+            "variable",
+            "variable",
+            "model",
+            "model",
+            "project",
+            "project",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Under a high-emissions, no-mitigation scenario, capture fisheries in both marine and freshwater systems are projected to face the most severe hazards (Fig. 1). By the mid-twenty-first century, marine fishery hazards are classified as 'high' (Supplementary Table 3) in most of tropical Africa, Central America and Southeast Asia (Supplementary Methods and Extended Data Fig. 1). With a larger magnitude of warming on large continental land masses than in the ocean, freshwater fisheries in some countries are projected to face 'very high' hazards (Supplementary Table 3) by the mid-twenty-first century, especially in water-stressed areas such as northern Africa and the Middle East (Extended Data Fig. 1). 'High' or 'very high' hazard scores indicate that almost all climate variables impacting these aquatic food systems are outside the range of historical variability (Supplementary Table 3). By 2100, the estimated hazards for freshwater aquaculture under a high-emissions scenario reach the same level as those for capture-fishery systems, so that all countries face 'high' or 'very high' hazard scores for marine and freshwater fisheries and freshwater aquaculture (Fig. 1a and Extended Data Fig. 1). In contrast, marine and brackish aquaculture face lower cumulative hazards (that is, most climate variables remain within historical ranges; Supplementary Table 4) throughout the twenty-first century (Fig. 1a).",
+        "entities": [
+            {
+                "begin": 56,
+                "end": 65,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 85,
+                "end": 95,
+                "label": "location",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 276,
+                "end": 291,
+                "label": "location",
+                "substring": "tropical Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 293,
+                "end": 308,
+                "label": "location",
+                "substring": "Central America",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f2b153dd-1c30-42e4-8abf-677111e76c9a"
+            },
+            {
+                "begin": 313,
+                "end": 327,
+                "label": "location",
+                "substring": "Southeast Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9e29690c-079c-4429-afed-ef061ab0c41e"
+            },
+            {
+                "begin": 458,
+                "end": 463,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+            },
+            {
+                "begin": 465,
+                "end": 485,
+                "label": "variable",
+                "substring": "freshwater fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 646,
+                "end": 661,
+                "label": "location",
+                "substring": "northern Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 670,
+                "end": 681,
+                "label": "location",
+                "substring": "Middle East",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab"
+            },
+            {
+                "begin": 767,
+                "end": 784,
+                "label": "variable",
+                "substring": "climate variables",
+                "identifier": null
+            },
+            {
+                "begin": 801,
+                "end": 808,
+                "label": "variable",
+                "substring": "aquatic",
+                "identifier": null
+            },
+            {
+                "begin": 847,
+                "end": 869,
+                "label": "variable",
+                "substring": "historical variability",
+                "identifier": null
+            },
+            {
+                "begin": 930,
+                "end": 952,
+                "label": "project",
+                "substring": "freshwater aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 1219,
+                "end": 1250,
+                "label": "project",
+                "substring": "marine and brackish aquaculture",
+                "identifier": null
+            },
+            {
+                "begin": 1296,
+                "end": 1313,
+                "label": "variable",
+                "substring": "climate variables",
+                "identifier": null
+            },
+            {
+                "begin": 1122,
+                "end": 1142,
+                "label": "variable",
+                "substring": "freshwater fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 1147,
+                "end": 1169,
+                "label": "variable",
+                "substring": "freshwater aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 617,
+                "end": 622,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"other\"},\n    {\"entity\": \"tropical Africa\", \"type\": \"location\"},\n    {\"entity\": \"Central America\", \"type\": \"location\"},\n    {\"entity\": \"Southeast Asia\", \"type\": \"location\"},\n    {\"entity\": \"ocean\", \"type\": \"location\"},\n    {\"entity\": \"freshwater fisheries\", \"type\": \"other\"},\n    {\"entity\": \"northern Africa\", \"type\": \"location\"},\n    {\"entity\": \"Middle East\", \"type\": \"location\"},\n    {\"entity\": \"climate variables\", \"type\": \"variable\"},\n    {\"entity\": \"aquatic\", \"type\": \"other\"},\n    {\"entity\": \"historical variability\", \"type\": \"other\"},\n    {\"entity\": \"freshwater aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"marine and brackish aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"climate variables\", \"type\": \"variable\"},\n    {\"entity\": \"freshwater fisheries\", \"type\": \"other\"},\n    {\"entity\": \"freshwater aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"water\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "project",
+            "project",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Many tropical countries-where climate hazards are the strongest-do not currently practise mariculture for food, and thus skew the average hazards that marine and brackish aquaculture face downwards (Supplementary Information). As managed farming operations, (fed) marine aquaculture and brackish aquaculture are generally less directly exposed to climate-induced changes in ecosystem productivity than capture fisheries 22 , but they are still projected to be at risk in areas with strong impacts from sea level rise and cyclones (Extended Data Fig. 1). These types of extreme events are also important drivers of high hazards for post-harvest activities, especially in places with a large percentage of small-scale actors involved in the sector (Fig. 1a and Extended Data Fig. 1). Not included in our model but important for aquaculture are potential climate-change-induced effects on aquatic diseases and food safety risks, such as changes in harmful algal bloom occurrence 23 .\nStrong climate mitigation efforts that are aligned with the target specified in the Paris Agreement of keeping global warming well below 2 \u00b0C can limit the hazards faced by most systems to 'medium' or 'low' (Fig. 1b). In most cases, mitigation benefits will start to materialize by the mid-twenty-first century, though certain climate variables such as sea level rise have a slow response time and will continue to impact aquatic food systems throughout the twenty-first century and beyond, even with strong near-term climate actions.",
+        "entities": [
+            {
+                "begin": 30,
+                "end": 45,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 151,
+                "end": 182,
+                "label": "project",
+                "substring": "marine and brackish aquaculture",
+                "identifier": null
+            },
+            {
+                "begin": 264,
+                "end": 282,
+                "label": "variable",
+                "substring": "marine aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 287,
+                "end": 307,
+                "label": "variable",
+                "substring": "brackish aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 410,
+                "end": 419,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 502,
+                "end": 516,
+                "label": "variable",
+                "substring": "sea level rise",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0afaaa5e-f88c-4c1f-95c1-1faa0148885a"
+            },
+            {
+                "begin": 521,
+                "end": 529,
+                "label": "natural hazard",
+                "substring": "cyclones",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0720043d-4d31-45ae-a37c-9ba5959bf97d"
+            },
+            {
+                "begin": 826,
+                "end": 837,
+                "label": "variable",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 886,
+                "end": 902,
+                "label": "natural hazard",
+                "substring": "aquatic diseases",
+                "identifier": null
+            },
+            {
+                "begin": 1065,
+                "end": 1080,
+                "label": "project",
+                "substring": "Paris Agreement",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d62db12c-fdcf-40ec-a714-4fb7c615aebe"
+            },
+            {
+                "begin": 1308,
+                "end": 1325,
+                "label": "variable",
+                "substring": "climate variables",
+                "identifier": null
+            },
+            {
+                "begin": 1334,
+                "end": 1348,
+                "label": "variable",
+                "substring": "sea level rise",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0afaaa5e-f88c-4c1f-95c1-1faa0148885a"
+            },
+            {
+                "begin": 1403,
+                "end": 1410,
+                "label": "variable",
+                "substring": "aquatic",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"marine and brackish aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"marine aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"brackish aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"sea level rise\", \"type\": \"weather event\"},\n    {\"entity\": \"cyclones\", \"type\": \"weather event\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"aquatic diseases\", \"type\": \"other\"},\n    {\"entity\": \"Paris Agreement\", \"type\": \"other\"},\n    {\"entity\": \"climate variables\", \"type\": \"variable\"},\n    {\"entity\": \"sea level rise\", \"type\": \"weather event\"},\n    {\"entity\": \"aquatic\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "natural hazard",
+            "project",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "natural hazard",
+            "variable",
+            "natural hazard",
+            "project",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "When weighted by present-day production contributions, aggregate hazards are higher in the tropics and lower across latitudes >50\u00b0 (north and south) (Fig. 1c). This finding is in line with previous studies on both marine and terrestrial environments that show that the future climate will exceed the range of historical variability soonest in mid-to-low latitudes 2,24 . Many low-latitude communities in the least-developed or developing economies are strongly dependent-for nutrition or livelihoods or through sale to local and global markets 6,25 -on the inland and marine fisheries that face the highest hazards (Extended Data Figs. 2 and 3). These least-developed or developing economies also have relatively larger social, economic and knowledge constraints (Extended Data Fig. 4) that limit them from expanding into new modes of production in the near future. For example, the development of lower-hazard offshore mariculture 26 or land-based recirculating aquaculture systems 27 may not be a viable climate-risk-reduction pathway for these capture-fishery-dependent countries because of the comparatively high cost and benefit concentration of these alternatives 15,28 . Therefore, in addition to systemic shifts in modes of production, a priority for reducing climate hazards in these economies is to reduce local hazard and exposure levels in existing production systems.",
+        "entities": [
+            {
+                "begin": 91,
+                "end": 98,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 103,
+                "end": 125,
+                "label": "location",
+                "substring": "lower across latitudes",
+                "identifier": null
+            },
+            {
+                "begin": 309,
+                "end": 331,
+                "label": "variable",
+                "substring": "historical variability",
+                "identifier": null
+            },
+            {
+                "begin": 343,
+                "end": 363,
+                "label": "location",
+                "substring": "mid-to-low latitudes",
+                "identifier": null
+            },
+            {
+                "begin": 720,
+                "end": 726,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 728,
+                "end": 736,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 963,
+                "end": 974,
+                "label": "variable",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 1268,
+                "end": 1283,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 568,
+                "end": 584,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"tropics\", \"type\": \"location\"},\n    {\"entity\": \"lower across latitudes\", \"type\": \"location\"},\n    {\"entity\": \"historical variability\", \"type\": \"other\"},\n    {\"entity\": \"mid-to-low latitudes\", \"type\": \"location\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable"
+        ]
+    },
+    {
+        "text": "Examples of such hazard reduction strategies for capture fisheries include improved water resources management, mangrove and wetland restoration 29 , facilitating shifts in fishing grounds 30 and improved post-harvest technologies. At the same time, rapid carbon mitigation efforts by high-emitting countries can keep hazard levels to 'low' or 'medium' across production systems (Fig. 1d) and can therefore substantially reduce the risk of impacting sustainable development efforts and losing aquatic food contributions.\nCompound risks to aquatic food systems. Aquatic food systems contribute comparatively more to food system outcomes in developing countries, including Small Island Developing States (SIDS), with generally higher consumption of marine and freshwater foods 8,9 ; higher dependence on production, trade and value chain revenue 7,31 ; and higher numbers of aquatic food-dependent livelihoods [5][6][7] (Extended Data Fig. 3). Combined with the concentration of climate hazards in the tropics and subtropics (Fig. 1), this greater dependence leads to a double jeopardy in exposure to climate hazards for nutrition and health, economic and social outcomes (Fig. 2a). Though the pattern of higher exposure to hazards in low latitudes holds true generally, national contexts play an important role in shaping differences between countries and between outcomes 6 .",
+        "entities": [
+            {
+                "begin": 57,
+                "end": 66,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 112,
+                "end": 120,
+                "label": "location",
+                "substring": "mangrove",
+                "identifier": null
+            },
+            {
+                "begin": 125,
+                "end": 132,
+                "label": "location",
+                "substring": "wetland",
+                "identifier": null
+            },
+            {
+                "begin": 256,
+                "end": 281,
+                "label": "project",
+                "substring": "carbon mitigation efforts",
+                "identifier": null
+            },
+            {
+                "begin": 615,
+                "end": 635,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 671,
+                "end": 701,
+                "label": "location",
+                "substring": "Small Island Developing States",
+                "identifier": null
+            },
+            {
+                "begin": 703,
+                "end": 707,
+                "label": "location",
+                "substring": "SIDS",
+                "identifier": null
+            },
+            {
+                "begin": 758,
+                "end": 768,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 977,
+                "end": 992,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1000,
+                "end": 1007,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1012,
+                "end": 1022,
+                "label": "location",
+                "substring": "subtropics",
+                "identifier": null
+            },
+            {
+                "begin": 1099,
+                "end": 1114,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1119,
+                "end": 1139,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 1141,
+                "end": 1149,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 1154,
+                "end": 1160,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 1233,
+                "end": 1246,
+                "label": "location",
+                "substring": "low latitudes",
+                "identifier": null
+            },
+            {
+                "begin": 539,
+                "end": 559,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"mangrove\", \"type\": \"location\"},\n    {\"entity\": \"wetland\", \"type\": \"location\"},\n    {\"entity\": \"carbon mitigation efforts\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"Small Island Developing States\", \"type\": \"location\"},\n    {\"entity\": \"SIDS\", \"type\": \"location\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"tropics\", \"type\": \"location\"},\n    {\"entity\": \"subtropics\", \"type\": \"location\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"low latitudes\", \"type\": \"location\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "project",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "natural hazard",
+            "location",
+            "location",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable"
+        ]
+    },
+    {
+        "text": "Iceland and Japan, for instance, stand out as high-latitude countries with high nutritional dependence on fish, while Brazil, as a large tropical terrestrial food producer, derives relatively low (national) nutritional and economic contributions from aquatic foods (Extended Data Fig. 3).\nWhen each country's climate vulnerability-including economic output and inclusion, strength of social services, and metrics of food security and environmental integrity-is taken into account (Supplementary Methods and Extended Data Fig. 4), much of Africa, South and Southeast Asia, and the Indo-Pacific face 'high' to 'very high' climate risk for one or more food system outcomes by the middle of this century under a high-emissions scenario (Fig. 2b). In terms of nutrition, this may equate to reductions in aquatic food access, limiting iron, zinc, vitamin B 12 and omega-3 fatty acids in Fig. 2 | Mid-century climate risk of food system outcomes under a high-emissions scenario. a, Exposure to hazard for each food system outcome, for least-developed, developing and developed countries and SIDS 78 . The box limits denote the 25th and 75th percentiles, the whiskers extend to 1.5\u00d7 the interquartile range from the box edges, the red line indicates the median value and the circles represent outliers. b, Maximum risk score across all outcomes. c, Number of outcomes for which the risk score is 'high' or 'very high'.",
+        "entities": [
+            {
+                "begin": 0,
+                "end": 7,
+                "label": "location",
+                "substring": "Iceland",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e64ca14-42f3-4222-8f2c-5db3c7b71d8f"
+            },
+            {
+                "begin": 12,
+                "end": 17,
+                "label": "location",
+                "substring": "Japan",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9ae108db-2d76-44a1-b381-eba2df9554ad"
+            },
+            {
+                "begin": 46,
+                "end": 69,
+                "label": "location",
+                "substring": "high-latitude countries",
+                "identifier": null
+            },
+            {
+                "begin": 118,
+                "end": 124,
+                "label": "location",
+                "substring": "Brazil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2a65dfd1-83e7-4886-a732-316b170522a1"
+            },
+            {
+                "begin": 137,
+                "end": 157,
+                "label": "location",
+                "substring": "tropical terrestrial",
+                "identifier": null
+            },
+            {
+                "begin": 223,
+                "end": 231,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 251,
+                "end": 264,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 341,
+                "end": 349,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 384,
+                "end": 390,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 538,
+                "end": 544,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 556,
+                "end": 570,
+                "label": "location",
+                "substring": "Southeast Asia",
+                "identifier": null
+            },
+            {
+                "begin": 580,
+                "end": 592,
+                "label": "location",
+                "substring": "Indo-Pacific",
+                "identifier": null
+            },
+            {
+                "begin": 620,
+                "end": 632,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 649,
+                "end": 669,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 755,
+                "end": 764,
+                "label": "variable",
+                "substring": "nutrition",
+                "identifier": null
+            },
+            {
+                "begin": 835,
+                "end": 839,
+                "label": "variable",
+                "substring": "zinc",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ab12b3d6-2cbf-4a5a-a410-1d23afe906d8"
+            },
+            {
+                "begin": 841,
+                "end": 853,
+                "label": "variable",
+                "substring": "vitamin B 12",
+                "identifier": null
+            },
+            {
+                "begin": 858,
+                "end": 877,
+                "label": "variable",
+                "substring": "omega-3 fatty acids",
+                "identifier": null
+            },
+            {
+                "begin": 902,
+                "end": 914,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 918,
+                "end": 938,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 1084,
+                "end": 1088,
+                "label": "location",
+                "substring": "SIDS",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Iceland\", \"type\": \"location\"},\n    {\"entity\": \"Japan\", \"type\": \"location\"},\n    {\"entity\": \"high-latitude countries\", \"type\": \"location\"},\n    {\"entity\": \"Brazil\", \"type\": \"location\"},\n    {\"entity\": \"tropical terrestrial\", \"type\": \"location\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"Southeast Asia\", \"type\": \"location\"},\n    {\"entity\": \"Indo-Pacific\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"nutrition\", \"type\": \"other\"},\n    {\"entity\": \"zinc\", \"type\": \"variable\"},\n    {\"entity\": \"vitamin B 12\", \"type\": \"variable\"},\n    {\"entity\": \"omega-3 fatty acids\", \"type\": \"variable\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"SIDS\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "d, Number of countries for which the risk score is 'high' (light shade) or 'very high' (dark shade) for a low-emissions scenario (yellow) and a high-emissions scenario (blue) in 2030, 2050 and 2090. Grey means no data. Scores <25 are classified as 'low', 25-50 as 'medium', 50-75 as 'high' and >75 as 'very high'.\npopulations that are already at thresholds for deficiency 9 , especially if climate change drives up food prices 32 for households least likely to afford fish. In contrast, most countries in North America and Europe, as well as Chile, Argentina, Australia and New Zealand, face 'low' to 'medium' climate risk across all food system outcomes for this period (Fig. 2c). A rapid reduction in carbon emissions can avoid substantial increases in climate risk for many countries by the end of this century (Extended Data Figs. 5 and 6). Under a high-emissions scenario, the number of countries facing 'high' risk for nutrition and health, economic and social outcomes increases from about 50 to over 80 between the near future and the late twenty-first century, and those facing 'very high' risk increase from about 10 to about 40. Such an increase is largely prevented under a low-emissions scenario (Fig. 2d). Still, due to high vulnerability and aquatic-food dependence, at least 50 countries will experience 'high' or 'very high' risk throughout the twenty-first century in all carbon emission scenarios.",
+        "entities": [
+            {
+                "begin": 505,
+                "end": 518,
+                "label": "location",
+                "substring": "North America",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef38f589-f506-4d62-af59-d9006c622d26"
+            },
+            {
+                "begin": 523,
+                "end": 529,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a62ae820-58c5-47ff-bb72-2680962b26f4"
+            },
+            {
+                "begin": 542,
+                "end": 547,
+                "label": "location",
+                "substring": "Chile",
+                "identifier": null
+            },
+            {
+                "begin": 549,
+                "end": 558,
+                "label": "location",
+                "substring": "Argentina",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/838923bc-cda7-4cf5-a21a-0c777304a593"
+            },
+            {
+                "begin": 560,
+                "end": 569,
+                "label": "location",
+                "substring": "Australia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+            },
+            {
+                "begin": 574,
+                "end": 585,
+                "label": "location",
+                "substring": "New Zealand",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d225920a-b027-4931-83d4-b60918251b59"
+            },
+            {
+                "begin": 610,
+                "end": 622,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 634,
+                "end": 654,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 703,
+                "end": 719,
+                "label": "variable",
+                "substring": "carbon emissions",
+                "identifier": null
+            },
+            {
+                "begin": 755,
+                "end": 767,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 925,
+                "end": 934,
+                "label": "variable",
+                "substring": "nutrition",
+                "identifier": null
+            },
+            {
+                "begin": 939,
+                "end": 945,
+                "label": "variable",
+                "substring": "health",
+                "identifier": null
+            },
+            {
+                "begin": 947,
+                "end": 955,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 960,
+                "end": 966,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 1390,
+                "end": 1396,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"North America\", \"type\": \"location\"},\n    {\"entity\": \"Europe\", \"type\": \"location\"},\n    {\"entity\": \"Chile\", \"type\": \"location\"},\n    {\"entity\": \"Argentina\", \"type\": \"location\"},\n    {\"entity\": \"Australia\", \"type\": \"location\"},\n    {\"entity\": \"New Zealand\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"carbon emissions\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"nutrition\", \"type\": \"other\"},\n    {\"entity\": \"health\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"carbon\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Our findings thus show that multiple types of risk need attention through policy and investments (see next section) to ensure that beneficial aquatic food system outcomes are secured for the most vulnerable countries.\n<heading>Nutrition and health</heading>\nA cluster analysis of our modelling results (Supplementary Information) delineates four distinct climate risk profiles for countries that experience high risk in at least one food system outcome under high emissions by the mid-twenty-first century (Figs. 2b  and 3, Table 1, and Extended Data Figs. 7 and 8). For many coastal countries and SIDS with high dependency on the marine fishery sector and medium vulnerability, climate risks are concentrated in the nutrition and health and/or economic food system outcomes. Similarly, some countries, primarily in Eastern Europe, generally face low hazards and display medium vulnerability but stand out for their poor environmental performance 33 , leading to concentrated climate risks in the environmental dimension of food system outcomes. Countries with high climate vulnerability are projected to face compound climate risks 34,35 across three or four of the food system outcomes, either in marine fisheries (primarily coastal Africa) or in freshwater and deltaic fisheries and aquaculture (South and Southeast Asia and Central Africa). These different risk profiles across countries and regions call for region-specific and context-specific risk reduction interventions.\nTowards climate-resilient aquatic foods.",
+        "entities": [
+            {
+                "begin": 142,
+                "end": 170,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 355,
+                "end": 362,
+                "label": "variable",
+                "substring": "climate",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c2f5aae0-f302-4f10-9d1d-8e0f80818144"
+            },
+            {
+                "begin": 363,
+                "end": 367,
+                "label": "variable",
+                "substring": "risk",
+                "identifier": null
+            },
+            {
+                "begin": 412,
+                "end": 416,
+                "label": "variable",
+                "substring": "risk",
+                "identifier": null
+            },
+            {
+                "begin": 598,
+                "end": 602,
+                "label": "location",
+                "substring": "SIDS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/96cc340b-7899-4f22-9229-7a7cb72a741e"
+            },
+            {
+                "begin": 679,
+                "end": 692,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 717,
+                "end": 737,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 745,
+                "end": 753,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 754,
+                "end": 774,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 816,
+                "end": 830,
+                "label": "location",
+                "substring": "Eastern Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 976,
+                "end": 989,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 1024,
+                "end": 1044,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1119,
+                "end": 1132,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 1167,
+                "end": 1187,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1199,
+                "end": 1215,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 1235,
+                "end": 1241,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1249,
+                "end": 1259,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 1264,
+                "end": 1281,
+                "label": "project",
+                "substring": "deltaic fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 1286,
+                "end": 1297,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 1309,
+                "end": 1323,
+                "label": "location",
+                "substring": "Southeast Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9e29690c-079c-4429-afed-ef061ab0c41e"
+            },
+            {
+                "begin": 1328,
+                "end": 1342,
+                "label": "location",
+                "substring": "Central Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 1506,
+                "end": 1519,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 576,
+                "end": 583,
+                "label": "location",
+                "substring": "coastal",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/47be68db-d10d-43e7-b150-61cfd3f06126"
+            },
+            {
+                "begin": 1227,
+                "end": 1234,
+                "label": "location",
+                "substring": "coastal",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate\", \"type\": \"other\"},\n    {\"entity\": \"risk\", \"type\": \"other\"},\n    {\"entity\": \"risk\", \"type\": \"other\"},\n    {\"entity\": \"SIDS\", \"type\": \"location\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"Eastern Europe\", \"type\": \"location\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"freshwater\", \"type\": \"other\"},\n    {\"entity\": \"deltaic fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"Southeast Asia\", \"type\": \"location\"},\n    {\"entity\": \"Central Africa\", \"type\": \"location\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"coastal\", \"type\": \"other\"},\n    {\"entity\": \"coastal\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "project",
+            "project",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "The high levels of climate risk for multiple outcomes across much of the developing world (Fig. 2) call for urgent action to support the long-term sustainability 14 , resilience 36 and equity 13,15 of aquatic food systems. Enhanced resilience could, in principle, be achieved by the implementation of adaptive and/or transformative measures at any point along the risk chain, including reducing the actual climate hazards (for example, greenhouse gas emissions reductions), reducing the sensitivity of the production systems to these hazards (for example, farming climate-tolerant species with reduced feed dependence 27,37 , and building barriers and restoring coastal ecosystems to protect against storms 27 ), reducing dependence on climate-sensitive aquatic foods and sectors (for example, diet and livelihood diversification 38 ), and reducing vulnerability through investments that benefit human development irrespective of climate change (for example, human capabilities investments, including gender considerations 39 ).\nClimate mitigation activities will substantially reduce climate hazards (Fig. 1) but are insufficient to avoid negative aquatic food system outcomes, as a certain degree of climate change is unavoidable (Fig. 3).",
+        "entities": [
+            {
+                "begin": 19,
+                "end": 31,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 406,
+                "end": 421,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 436,
+                "end": 460,
+                "label": "variable",
+                "substring": "greenhouse gas emissions",
+                "identifier": null
+            },
+            {
+                "begin": 662,
+                "end": 680,
+                "label": "location",
+                "substring": "coastal ecosystems",
+                "identifier": null
+            },
+            {
+                "begin": 736,
+                "end": 767,
+                "label": "variable",
+                "substring": "climate-sensitive aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 1085,
+                "end": 1100,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1149,
+                "end": 1177,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 201,
+                "end": 221,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"greenhouse gas emissions\", \"type\": \"other\"},\n    {\"entity\": \"coastal ecosystems\", \"type\": \"location\"},\n    {\"entity\": \"climate-sensitive aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "natural hazard",
+            "variable",
+            "location",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "A sensitivity analysis on the vulnerability variables in our model (Supplementary Information) shows that reducing vulnerability results in similar levels of climate change risk reduction to meeting mitigation targets in the Paris Agreement, especially for countries that face compound climate risks (such as Malawi and El Salvador; Supplementary Table 12). These findings highlight the need to focus on the broader social-ecological context of each country, with actions building resilience that extend beyond aquatic food production 40 . Priority strategies for building resilience, as well as policy and management considerations and potential trade-offs,  Fig. 3 | Climate risk profiles based on differences in hazards, exposure and vulnerability across food system outcomes. On the basis of a cluster analysis (Supplementary Information), we identify four climate risk profiles for aquatic food system outcomes. The profiles are based on the characteristics of countries that have 'high' or 'very high' climate risk for at least one food system outcome by mid-century under a high-emissions scenario. The profile descriptions are based on median indicator values for each profile (Extended Data Fig. 7). Individual countries within each cluster can deviate slightly from this characterization. SLR, sea level rise.\ndiffer between countries belonging to each of our identified risk profiles (Table 1).",
+        "entities": [
+            {
+                "begin": 158,
+                "end": 177,
+                "label": "variable",
+                "substring": "climate change risk",
+                "identifier": null
+            },
+            {
+                "begin": 225,
+                "end": 240,
+                "label": "project",
+                "substring": "Paris Agreement",
+                "identifier": null
+            },
+            {
+                "begin": 286,
+                "end": 299,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 309,
+                "end": 315,
+                "label": "location",
+                "substring": "Malawi",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bc151f49-5347-401a-a0b6-476656a2df23"
+            },
+            {
+                "begin": 320,
+                "end": 331,
+                "label": "location",
+                "substring": "El Salvador",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8d237194-e6b5-418b-ab67-e20e260867e9"
+            },
+            {
+                "begin": 416,
+                "end": 422,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 511,
+                "end": 534,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": null
+            },
+            {
+                "begin": 669,
+                "end": 681,
+                "label": "variable",
+                "substring": "Climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 758,
+                "end": 778,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 861,
+                "end": 873,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 887,
+                "end": 915,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 1008,
+                "end": 1020,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1299,
+                "end": 1302,
+                "label": "variable",
+                "substring": "SLR",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bc24693a-c946-4704-8475-9688ce2f4a13"
+            },
+            {
+                "begin": 1304,
+                "end": 1318,
+                "label": "variable",
+                "substring": "sea level rise",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0afaaa5e-f88c-4c1f-95c1-1faa0148885a"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate change risk\", \"type\": \"other\"},\n    {\"entity\": \"Paris Agreement\", \"type\": \"other\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"Malawi\", \"type\": \"location\"},\n    {\"entity\": \"El Salvador\", \"type\": \"location\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"Climate risk\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"SLR\", \"type\": \"variable\"},\n    {\"entity\": \"sea level rise\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "variable",
+            "project",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Countries with low to medium vulnerability (the 'high dependence on marine fisheries' and 'poor environmental performance of aquaculture' profiles; Fig. 3) tend to experience high climate risk for just one or two food system outcomes, meaning that targeted interventions in specific areas can reduce risk (Table 1). For countries with high marine fisheries dependence, including many SIDS, one of the challenges will be to design measures that strike an appropriate balance between supporting economic development aspirations through efficiency and revenue generation, and supporting food security through local and domestic consumption of fish 41,42 (for example, climate-smart agreements for transboundary resources 43 and the development of climate-resilient aquaculture for food security 44 ). For countries where freshwater aquaculture contributes to poor environmental outcomes, solutions may target the adoption of integrated farming solutions or of technological innovations such as resource-efficient production systems that can be isolated from the environment 27,37 . In both contexts, solutions need support through enabling government policies, functional institutions at the national to community levels and sustainable, responsible financial investment 44 .\nEnhancing climate resilience for highly vulnerable countries facing compound climate risk (Table 1 and Extended Data Fig. 8)-from freshwater and deltaic fisheries and aquaculture or from marine fisheries (Fig.",
+        "entities": [
+            {
+                "begin": 68,
+                "end": 84,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 125,
+                "end": 136,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 180,
+                "end": 192,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 213,
+                "end": 233,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 340,
+                "end": 356,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 384,
+                "end": 388,
+                "label": "location",
+                "substring": "SIDS",
+                "identifier": null
+            },
+            {
+                "begin": 493,
+                "end": 501,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 744,
+                "end": 773,
+                "label": "project",
+                "substring": "climate-resilient aquaculture",
+                "identifier": null
+            },
+            {
+                "begin": 818,
+                "end": 840,
+                "label": "project",
+                "substring": "freshwater aquaculture",
+                "identifier": null
+            },
+            {
+                "begin": 1350,
+                "end": 1362,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1403,
+                "end": 1413,
+                "label": "location",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 1418,
+                "end": 1435,
+                "label": "project",
+                "substring": "deltaic fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1440,
+                "end": 1451,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 1460,
+                "end": 1476,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"SIDS\", \"type\": \"location\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"climate-resilient aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"freshwater aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"other\"},\n    {\"entity\": \"deltaic fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "project",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "project",
+            "project",
+            "variable",
+            "location",
+            "project",
+            "project",
+            "variable"
+        ]
+    },
+    {
+        "text": "3)-is most challenging and urgent given that these countries are projected to have the greatest number of food system outcomes experiencing high climate risk. For such countries, resilience efforts focused on aquatic food systems provide options (such as nature-based solutions (for example, mangrove, reef and \u2022 More environmentally sustainable production systems need to be climate adaptive and meet dietary and market demands. \u2022 Equitable access to knowledge, finance and technology.\nWe provide examples of high-level policy and management considerations in the following categories: policies (P), finance and investment (F&I), technology and innovation (T&I), and business and services (B&S). Resilience-enhancing activities are not exclusive to any particular risk profile, and knowledge exchange can occur both within and across profiles. The profile letters A-D correspond to the risk profiles in Fig. 3. References supporting particular policy and management considerations are listed in the Supplementary Information.\nseagrass restoration to aid coastal storm protection and enhance aquatic ecosystem productivity) 29 , sustainable intensification 45 , livelihood diversification 38 and investments in local value chains 44 ), but these efforts need to be part of a more generalized resilience framework that addresses the social dimensions of vulnerability 39,40,46,47 (for example, through strengthening governance, promoting gender equity and reducing poverty; Supplementary Table 12).",
+        "entities": [
+            {
+                "begin": 106,
+                "end": 126,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 145,
+                "end": 157,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 292,
+                "end": 300,
+                "label": "location",
+                "substring": "mangrove",
+                "identifier": null
+            },
+            {
+                "begin": 302,
+                "end": 306,
+                "label": "location",
+                "substring": "reef",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b982f71a-b33e-4d2e-ade0-7b1d40b9cfc5"
+            },
+            {
+                "begin": 1027,
+                "end": 1035,
+                "label": "location",
+                "substring": "seagrass",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e36c5faa-c772-4bb0-aeca-b361e160ce9d"
+            },
+            {
+                "begin": 1332,
+                "end": 1338,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 1092,
+                "end": 1109,
+                "label": "location",
+                "substring": "aquatic ecosystem",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 209,
+                "end": 229,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            },
+            {
+                "begin": 1055,
+                "end": 1062,
+                "label": "location",
+                "substring": "coastal",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"mangrove\", \"type\": \"location\"},\n    {\"entity\": \"reef\", \"type\": \"location\"},\n    {\"entity\": \"seagrass\", \"type\": \"location\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"aquatic ecosystem\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"},\n    {\"entity\": \"coastal\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "It is worth noting that 'no-regret' investments 39 based on net social welfare gain have proven a challenge in practice-particularly where investments fail to deliver a 'net political gain' , as determined by a set of complex value preferences. Climate solutions that require public sector investments must be able to deliver both social and political gains to increase their acceptability to the public choice-maker. Ultimately, a generalized resilience approach means enhancing the capacity of coastal and riparian people to become the agents of societally desired systems transformation 40,47 and to recognize aquatic food systems as integral to socio-economic development efforts and nutrition policies 42 and overall food system resilience 48,49 .\n<heading>Discussion</heading>\nThe availability of appropriate data and modelling tools for better understanding risks and resilience priorities at a global scale poses a challenge, especially for countries and systems considered most at risk. For example, in calculating hazard scores for freshwater systems and supply chains, we were unable to assess changes in climate variables at a subnational scale or to consider the varying sensitivities of different ecosystems or production types and post-production processes 1,17,49 . For many SIDS, key indicators were missing from global databases (Supplementary Information), precluding holistic climate risk assessment 50 .",
+        "entities": [
+            {
+                "begin": 64,
+                "end": 70,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 331,
+                "end": 337,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 655,
+                "end": 663,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 902,
+                "end": 914,
+                "label": "location",
+                "substring": "global scale",
+                "identifier": null
+            },
+            {
+                "begin": 1042,
+                "end": 1060,
+                "label": "variable",
+                "substring": "freshwater systems",
+                "identifier": null
+            },
+            {
+                "begin": 1116,
+                "end": 1133,
+                "label": "variable",
+                "substring": "climate variables",
+                "identifier": null
+            },
+            {
+                "begin": 1201,
+                "end": 1221,
+                "label": "location",
+                "substring": "different ecosystems",
+                "identifier": null
+            },
+            {
+                "begin": 1291,
+                "end": 1295,
+                "label": "location",
+                "substring": "SIDS",
+                "identifier": null
+            },
+            {
+                "begin": 1396,
+                "end": 1408,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 613,
+                "end": 633,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 496,
+                "end": 503,
+                "label": "location",
+                "substring": "coastal",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"global scale\", \"type\": \"location\"},\n    {\"entity\": \"freshwater systems\", \"type\": \"other\"},\n    {\"entity\": \"climate variables\", \"type\": \"variable\"},\n    {\"entity\": \"different ecosystems\", \"type\": \"other\"},\n    {\"entity\": \"SIDS\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"},\n    {\"entity\": \"coastal\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "The risk of countries such as Bangladesh, Cambodia and the countries of the African Great Lakes region (which are among the largest freshwater-fish-producing nations in the world) may in reality be even higher given that inland fish production is substantially underestimated in many countries 25,51 . Failing to address these gaps in data and understanding can perpetuate inequities, as resilience investments are likely to go to places and systems already assessed in the research and policy literature 13 . Our analysis assumed that exposure and vulnerability remain unchanged in time, though different development trajectories could change climate risk in magnitudes commensurate with changes driven by different emission trajectories (as shown by our sensitivity analysis; Supplementary Table 12). Future work could build on the framework developed here to explore the impacts of various socio-economic pathways 52 and their interactions with climate hazards. Similarly, climate change will also impact food systems outside the aquatic realm, with unknown implications for feedbacks, trade-offs, relative risk and adaptive options. While this research expands our understanding of the combined and comparative climate risk of all aquatic food systems, we ultimately need a holistic climate risk framework that makes our entire plate (staples, nuts and legumes, fruits and vegetables, livestock, and aquatic foods) resilient 21 .",
+        "entities": [
+            {
+                "begin": 30,
+                "end": 40,
+                "label": "location",
+                "substring": "Bangladesh",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/28761db9-82fe-4a24-9a89-0fd6047fa1ea"
+            },
+            {
+                "begin": 42,
+                "end": 50,
+                "label": "location",
+                "substring": "Cambodia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2d955182-b62b-43eb-9acc-74f1f1f062f7"
+            },
+            {
+                "begin": 76,
+                "end": 102,
+                "label": "location",
+                "substring": "African Great Lakes region",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 132,
+                "end": 142,
+                "label": "location",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 644,
+                "end": 656,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 899,
+                "end": 907,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 948,
+                "end": 963,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1033,
+                "end": 1046,
+                "label": "location",
+                "substring": "aquatic realm",
+                "identifier": null
+            },
+            {
+                "begin": 1215,
+                "end": 1227,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1287,
+                "end": 1299,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1404,
+                "end": 1417,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 1235,
+                "end": 1255,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Bangladesh\", \"type\": \"location\"},\n    {\"entity\": \"Cambodia\", \"type\": \"location\"},\n    {\"entity\": \"African Great Lakes region\", \"type\": \"location\"},\n    {\"entity\": \"freshwater\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"aquatic realm\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "natural hazard",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Through an integrative climate and aquatic food systems modelling approach, we reveal four main climate risk profiles and identify key challenges and opportunities for building pathways towards climate-resilient aquatic food systems. Of the different environments in which aquatic foods are caught and produced, fisheries and freshwater aquaculture are projected to experience the highest cumulative hazards throughout the twenty-first century. Combined with a comparatively higher dependence on aquatic foods for nutrition, income and livelihoods-and greater vulnerability to the loss of these benefits-SIDS and countries in Africa, South Asia and Southeast Asia are projected to be at particularly high risk from climate change.\nDifferences in climate risk profiles call for resilience-enhancing actions that are region-specific and context-specific and are guided by principles of equity and fairness 13,15 . Most urgent are actions and investments for countries that face compound climate risk across aquatic food system outcomes, requiring transformative change to reduce societal vulnerability. Though we focused on countries with high climate risk, countries with low to medium risk will also face increasing climate hazards domestically and are connected to transboundary climate risk through species movement and trade of aquatic foods and inputs 43,53 . This calls for justice-informed collaboration towards climate-proofing of aquatic food systems that transcends national and regional boundaries.",
+        "entities": [
+            {
+                "begin": 96,
+                "end": 108,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 273,
+                "end": 286,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 312,
+                "end": 321,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 326,
+                "end": 348,
+                "label": "variable",
+                "substring": "freshwater aquaculture",
+                "identifier": null
+            },
+            {
+                "begin": 496,
+                "end": 509,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 604,
+                "end": 608,
+                "label": "location",
+                "substring": "SIDS",
+                "identifier": null
+            },
+            {
+                "begin": 626,
+                "end": 632,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 634,
+                "end": 644,
+                "label": "location",
+                "substring": "South Asia",
+                "identifier": null
+            },
+            {
+                "begin": 649,
+                "end": 663,
+                "label": "location",
+                "substring": "Southeast Asia",
+                "identifier": null
+            },
+            {
+                "begin": 746,
+                "end": 758,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 985,
+                "end": 997,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1005,
+                "end": 1033,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 1142,
+                "end": 1154,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1216,
+                "end": 1231,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1280,
+                "end": 1292,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1331,
+                "end": 1344,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 1488,
+                "end": 1507,
+                "label": "location",
+                "substring": "regional boundaries",
+                "identifier": null
+            },
+            {
+                "begin": 35,
+                "end": 55,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            },
+            {
+                "begin": 212,
+                "end": 232,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            },
+            {
+                "begin": 1438,
+                "end": 1458,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"variable\"},\n    {\"entity\": \"fisheries\", \"type\": \"project\"},\n    {\"entity\": \"freshwater aquaculture\", \"type\": \"project\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"variable\"},\n    {\"entity\": \"SIDS\", \"type\": \"location\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"South Asia\", \"type\": \"location\"},\n    {\"entity\": \"Southeast Asia\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"variable\"},\n    {\"entity\": \"regional boundaries\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"project\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"project\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"project\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "<heading>Methods</heading>\nAssessment of climate impact pathways. We reviewed literature covering a wide range of geographic areas-from global reviews to regional and national case studies-to identify climate pathways that impact aquatic food systems in three different capacities: (1) aquatic food production systems, (2) aquatic food supply chains and (3) aquatic food system outcomes. In our review, we first focused on large assessment reports such as those produced by the Intergovernmental Panel on Climate Change 2 , followed by comprehensive scientific reviews and meta-analyses (for example, refs. 1,4,17,54,55 ) and the papers cited therein. We filled in remaining gaps using strategic keyword searches and the expert knowledge of our multidisciplinary team of co-authors. An overview and ranking of climate pathways for aquatic food production systems and supply chains, including key references, can be found in Supplementary Table 11, with a brief narrative summary in the Supplementary Methods.\nAquatic food production systems were split into capture fisheries and aquaculture and were further grouped by marine and freshwater production environments. The aquatic food supply chain was divided into seven components (input supply, production, post-harvest storage, processing, distribution, marketing and retail, and consumption and utilization 11 ), though most literature addressed only the production stage.",
+        "entities": [
+            {
+                "begin": 114,
+                "end": 130,
+                "label": "location",
+                "substring": "geographic areas",
+                "identifier": null
+            },
+            {
+                "begin": 286,
+                "end": 309,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": null
+            },
+            {
+                "begin": 358,
+                "end": 386,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 478,
+                "end": 519,
+                "label": "project",
+                "substring": "Intergovernmental Panel on Climate Change",
+                "identifier": null
+            },
+            {
+                "begin": 831,
+                "end": 854,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": null
+            },
+            {
+                "begin": 1065,
+                "end": 1074,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 1079,
+                "end": 1090,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 1130,
+                "end": 1140,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 230,
+                "end": 250,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"geographic areas\", \"type\": \"location\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"Intergovernmental Panel on Climate Change\", \"type\": \"provider\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "variable",
+            "project",
+            "variable",
+            "location",
+            "project",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "For the different production systems, we ranked the impact of each climate change pathway by direction (positive impact, negative impact or varied impact) and degree of confidence (limited, medium or robust research). For the supply chain components, we just noted the presence or absence of an impact.\nHazard, exposure and vulnerability variables. We compute quantitative indices of climate risk for the four aquatic food system outcomes-nutrition and health, economic, social, and environmental-adopting a fuzzy logic modelling approach to implement the risk assessment framework used by the Intergovernmental Panel on Climate Change 2 . In this framework, climate risk results from the interaction between climate-change-induced hazards, exposure to those climate hazards and vulnerabilities of components of the aquatic food systems. For our purposes, we conceptualize climate hazards as the dominant climate variables that impact aquatic food production and supply chains, exposure as the degree to which aquatic foods contribute to the various food system outcomes at a national level, and vulnerability as a combination of sensitivity to and adaptive capacity of the nationally aggregated food systems in the face of the loss of aquatic food contributions.",
+        "entities": [
+            {
+                "begin": 384,
+                "end": 396,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 410,
+                "end": 438,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 439,
+                "end": 459,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 461,
+                "end": 469,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 471,
+                "end": 477,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 508,
+                "end": 538,
+                "label": "model",
+                "substring": "fuzzy logic modelling approach",
+                "identifier": null
+            },
+            {
+                "begin": 594,
+                "end": 635,
+                "label": "project",
+                "substring": "Intergovernmental Panel on Climate Change",
+                "identifier": null
+            },
+            {
+                "begin": 659,
+                "end": 671,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 709,
+                "end": 739,
+                "label": "natural hazard",
+                "substring": "climate-change-induced hazards",
+                "identifier": null
+            },
+            {
+                "begin": 759,
+                "end": 774,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 873,
+                "end": 888,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 905,
+                "end": 922,
+                "label": "variable",
+                "substring": "climate variables",
+                "identifier": null
+            },
+            {
+                "begin": 935,
+                "end": 958,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": null
+            },
+            {
+                "begin": 1010,
+                "end": 1023,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            },
+            {
+                "begin": 1050,
+                "end": 1070,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 816,
+                "end": 836,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"variable\"},\n    {\"entity\": \"economic\", \"type\": \"variable\"},\n    {\"entity\": \"social\", \"type\": \"variable\"},\n    {\"entity\": \"fuzzy logic modelling approach\", \"type\": \"other\"},\n    {\"entity\": \"Intergovernmental Panel on Climate Change\", \"type\": \"provider\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate-change-induced hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"climate variables\", \"type\": \"variable\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "model",
+            "project",
+            "variable",
+            "natural hazard",
+            "natural hazard",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Through two rounds of virtual workshops, our team of co-authors (selected for their expertise spanning marine and freshwater ecosystems, fisheries and aquaculture production systems, and multiple food system outcomes) selected hazard, exposure and vulnerability indicators on the basis of their expert knowledge, published literature and data availability for most of the 219 countries included in this study.\nClimate hazards. From our literature assessment (Supplementary Table 11), we identified the most impactful and well-understood climatic drivers of changes in aquatic food production for which data and/or modelling tools are available at a global level. These drivers include changes in ocean temperature, circulation, net primary productivity and dissolved oxygen concentrations, which together are used to calculate projected changes in marine fisheries catch and aquaculture yield using a dynamic biological envelope model 56 . Additionally, changes in ocean pH, the extent of sea ice and the cumulative mean intensity of marine heatwaves 57 are used as marine hazard variables. Inundation from projected sea level rise and the strength of tropical storms threaten marine and brackish aquaculture as well as supply chain processes. For freshwater systems, near-surface (2 m) air temperature changes over land and changes in precipitation are used. Finally, projected changes in fish meal availability and global crop land temperature capture the hazards (through cost of production) to feed-dependent aquaculture production.",
+        "entities": [
+            {
+                "begin": 103,
+                "end": 135,
+                "label": "location",
+                "substring": "marine and freshwater ecosystems",
+                "identifier": null
+            },
+            {
+                "begin": 137,
+                "end": 146,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 151,
+                "end": 181,
+                "label": "project",
+                "substring": "aquaculture production systems",
+                "identifier": null
+            },
+            {
+                "begin": 196,
+                "end": 216,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 568,
+                "end": 591,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 696,
+                "end": 713,
+                "label": "variable",
+                "substring": "ocean temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c5563d03-2f68-4dac-a50b-3b8450725356"
+            },
+            {
+                "begin": 728,
+                "end": 752,
+                "label": "variable",
+                "substring": "net primary productivity",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9926f517-829e-4870-b18c-9f7cee875b85"
+            },
+            {
+                "begin": 767,
+                "end": 788,
+                "label": "variable",
+                "substring": "oxygen concentrations",
+                "identifier": null
+            },
+            {
+                "begin": 848,
+                "end": 864,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 875,
+                "end": 886,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 965,
+                "end": 973,
+                "label": "variable",
+                "substring": "ocean pH",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+            },
+            {
+                "begin": 989,
+                "end": 996,
+                "label": "variable",
+                "substring": "sea ice",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+            },
+            {
+                "begin": 1034,
+                "end": 1050,
+                "label": "natural hazard",
+                "substring": "marine heatwaves",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ca820557-401e-4e5e-ac32-29fdbc0628b3"
+            },
+            {
+                "begin": 1091,
+                "end": 1101,
+                "label": "variable",
+                "substring": "Inundation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9db10fb2-0ceb-412e-9936-a286c579fa9f"
+            },
+            {
+                "begin": 1117,
+                "end": 1131,
+                "label": "variable",
+                "substring": "sea level rise",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0afaaa5e-f88c-4c1f-95c1-1faa0148885a"
+            },
+            {
+                "begin": 1177,
+                "end": 1208,
+                "label": "variable",
+                "substring": "marine and brackish aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 1248,
+                "end": 1266,
+                "label": "location",
+                "substring": "freshwater systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 1336,
+                "end": 1349,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 1417,
+                "end": 1445,
+                "label": "variable",
+                "substring": "global crop land temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1513,
+                "end": 1535,
+                "label": "variable",
+                "substring": "aquaculture production",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/392d3da2-c03c-4aa5-bf60-417984f824a6"
+            },
+            {
+                "begin": 1287,
+                "end": 1302,
+                "label": "variable",
+                "substring": "air temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"marine and freshwater ecosystems\", \"type\": \"other\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture production systems\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"ocean temperature\", \"type\": \"variable\"},\n    {\"entity\": \"net primary productivity\", \"type\": \"variable\"},\n    {\"entity\": \"oxygen concentrations\", \"type\": \"variable\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"ocean pH\", \"type\": \"variable\"},\n    {\"entity\": \"sea ice\", \"type\": \"variable\"},\n    {\"entity\": \"marine heatwaves\", \"type\": \"weather event\"},\n    {\"entity\": \"Inundation\", \"type\": \"natural hazard\"},\n    {\"entity\": \"sea level rise\", \"type\": \"natural hazard\"},\n    {\"entity\": \"marine and brackish aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"freshwater systems\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"global crop land temperature\", \"type\": \"variable\"},\n    {\"entity\": \"aquaculture production\", \"type\": \"other\"},\n    {\"entity\": \"air temperature\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "project",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "project",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Some climate impact pathways, such as harmful algal blooms and their impacts on food safety, are known to be important but were excluded because (to our knowledge) no appropriate and published global model or dataset of national-level indicator variables is yet available. An overview of all hazard variables used in the model is presented in Supplementary Table 6.\nTo represent uncertainties in projections of environmental changes by different ESMs, where possible, we used projections from three ESMs available from CMIP6 (ref. 58 ): Geophysical Fluid Dynamics Laboratory (GFDL)-ESM4 (ref. 59 ), the Institut Pierre-Simon Laplace (IPSL)-CM6A-LR 60 and Max Planck Institute (MPI)-ESM1-2-HR . Outputs from GFDL-ESM4 and IPSL-CM6A-LR are also used by the Fisheries and Marine Ecosystem Impact Models Intercomparison Projects, while MPI-ESM1-2-HR is used additionally by the Dynamic Bioclimate Envelope Model to project future changes in maximum catch potential. We calculated climate hazards using two contrasting scenarios: Shared Socio-economic Pathway (SSP) 1-Representative Concentration Pathway (RCP) 2.6 (SSP1-2.6) and SSP5-8.5. SSP1-2.6 and SSP5-8.5 represent a 'strong mitigation' low-emissions pathway and a 'no mitigation' high-emissions pathway, respectively 62 . For the marine heatwave variable, CMIP6 results were not yet available, so CMIP5 equivalents were used 57 .\nResults are presented for the near future (2021-2040) and the middle (2041-2060) and end (2081-2100) of the twenty-first century.",
+        "entities": [
+            {
+                "begin": 446,
+                "end": 450,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 499,
+                "end": 503,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 519,
+                "end": 524,
+                "label": "variable",
+                "substring": "CMIP6",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dcf5521f-e393-4e4c-ae4e-b4255257e18b"
+            },
+            {
+                "begin": 537,
+                "end": 574,
+                "label": "model",
+                "substring": "Geophysical Fluid Dynamics Laboratory",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f7a0a68-6387-4f49-84ea-9652139018f5"
+            },
+            {
+                "begin": 576,
+                "end": 586,
+                "label": "model",
+                "substring": "GFDL)-ESM4",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f7a0a68-6387-4f49-84ea-9652139018f5"
+            },
+            {
+                "begin": 603,
+                "end": 632,
+                "label": "model",
+                "substring": "Institut Pierre-Simon Laplace",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e8df7edd-a176-45c9-8515-3a520948ef63"
+            },
+            {
+                "begin": 634,
+                "end": 647,
+                "label": "model",
+                "substring": "IPSL)-CM6A-LR",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/71f69b1f-f00c-4303-809b-027d58ebacf5"
+            },
+            {
+                "begin": 655,
+                "end": 675,
+                "label": "model",
+                "substring": "Max Planck Institute",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7cf22186-281a-4665-b79b-5a6e5ea5b471"
+            },
+            {
+                "begin": 677,
+                "end": 691,
+                "label": "model",
+                "substring": "MPI)-ESM1-2-HR",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b82e3b5b-c989-48d9-8fc4-66b56bf442a9"
+            },
+            {
+                "begin": 707,
+                "end": 716,
+                "label": "model",
+                "substring": "GFDL-ESM4",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f7a0a68-6387-4f49-84ea-9652139018f5"
+            },
+            {
+                "begin": 721,
+                "end": 733,
+                "label": "model",
+                "substring": "IPSL-CM6A-LR",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/71f69b1f-f00c-4303-809b-027d58ebacf5"
+            },
+            {
+                "begin": 755,
+                "end": 824,
+                "label": "project",
+                "substring": "Fisheries and Marine Ecosystem Impact Models Intercomparison Projects",
+                "identifier": null
+            },
+            {
+                "begin": 832,
+                "end": 845,
+                "label": "model",
+                "substring": "MPI-ESM1-2-HR",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b82e3b5b-c989-48d9-8fc4-66b56bf442a9"
+            },
+            {
+                "begin": 874,
+                "end": 907,
+                "label": "model",
+                "substring": "Dynamic Bioclimate Envelope Model",
+                "identifier": null
+            },
+            {
+                "begin": 976,
+                "end": 991,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1038,
+                "end": 1046,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 1063,
+                "end": 1099,
+                "label": "experiment",
+                "substring": "Representative Concentration Pathway",
+                "identifier": null
+            },
+            {
+                "begin": 1101,
+                "end": 1104,
+                "label": "experiment",
+                "substring": "RCP",
+                "identifier": null
+            },
+            {
+                "begin": 1111,
+                "end": 1119,
+                "label": "model",
+                "substring": "SSP1-2.6",
+                "identifier": null
+            },
+            {
+                "begin": 1125,
+                "end": 1133,
+                "label": "model",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 1135,
+                "end": 1143,
+                "label": "experiment",
+                "substring": "SSP1-2.6",
+                "identifier": null
+            },
+            {
+                "begin": 1148,
+                "end": 1156,
+                "label": "experiment",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 1283,
+                "end": 1298,
+                "label": "natural hazard",
+                "substring": "marine heatwave",
+                "identifier": null
+            },
+            {
+                "begin": 1309,
+                "end": 1314,
+                "label": "project",
+                "substring": "CMIP6",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dcf5521f-e393-4e4c-ae4e-b4255257e18b"
+            },
+            {
+                "begin": 1350,
+                "end": 1355,
+                "label": "project",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 1056,
+                "end": 1059,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"ESMs\", \"type\": \"model\"},\n    {\"entity\": \"ESMs\", \"type\": \"model\"},\n    {\"entity\": \"CMIP6\", \"type\": \"experiment\"},\n    {\"entity\": \"Geophysical Fluid Dynamics Laboratory\", \"type\": \"provider\"},\n    {\"entity\": \"GFDL)-ESM4\", \"type\": \"model\"},\n    {\"entity\": \"Institut Pierre-Simon Laplace\", \"type\": \"provider\"},\n    {\"entity\": \"IPSL)-CM6A-LR\", \"type\": \"model\"},\n    {\"entity\": \"Max Planck Institute\", \"type\": \"provider\"},\n    {\"entity\": \"MPI)-ESM1-2-HR\", \"type\": \"model\"},\n    {\"entity\": \"GFDL-ESM4\", \"type\": \"model\"},\n    {\"entity\": \"IPSL-CM6A-LR\", \"type\": \"model\"},\n    {\"entity\": \"Fisheries and Marine Ecosystem Impact Models Intercomparison Projects\", \"type\": \"project\"},\n    {\"entity\": \"MPI-ESM1-2-HR\", \"type\": \"model\"},\n    {\"entity\": \"Dynamic Bioclimate Envelope Model\", \"type\": \"model\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"Representative Concentration Pathway\", \"type\": \"other\"},\n    {\"entity\": \"RCP\", \"type\": \"other\"},\n    {\"entity\": \"SSP1-2.6\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP1-2.6\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"marine heatwave\", \"type\": \"weather event\"},\n    {\"entity\": \"CMIP6\", \"type\": \"experiment\"},\n    {\"entity\": \"CMIP5\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "model",
+            "model",
+            "variable",
+            "model",
+            "model",
+            "model",
+            "model",
+            "model",
+            "model",
+            "model",
+            "model",
+            "project",
+            "model",
+            "model",
+            "natural hazard",
+            "variable",
+            "experiment",
+            "experiment",
+            "model",
+            "model",
+            "experiment",
+            "experiment",
+            "natural hazard",
+            "project",
+            "project",
+            "experiment"
+        ]
+    },
+    {
+        "text": "As we compute climate risk indices for 219 countries and territories, we focus on hazards that are most common across these geographies and for which global datasets are available. Some of the climate hazards (such as the impacts of harmful algal blooms and the spread of disease) are indirectly represented by environmental variables that drive these hazards (such as ocean temperature and dissolved oxygen level). While our modelling approach accounts for interactions between climate hazards in some components of the aquatic food systems (for example, marine capture fisheries and aquaculture production), the interacting effects of hazards on some other components are not well understood, so these are not explicitly represented in the risk assessment model.\nExposure. The exposure of countries or territories to climatic hazards through their aquatic food systems is positively associated with their level of dependency on aquatic foods to support nature and people. We selected indicators (Supplementary Table 7) for four food system outcomes: nutrition and health, economic, social and environment. For nutrition and health outcomes, the indicators are per capita supply of marine and freshwater aquatic foods and the percentage of a nation's consumption of vitamin B 12 and DHA + EPA fatty acids (types of omega-3 fatty acids specific to aquatic foods) that is derived from aquatic foods 9 .",
+        "entities": [
+            {
+                "begin": 14,
+                "end": 26,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 193,
+                "end": 208,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 369,
+                "end": 386,
+                "label": "variable",
+                "substring": "ocean temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c5563d03-2f68-4dac-a50b-3b8450725356"
+            },
+            {
+                "begin": 391,
+                "end": 413,
+                "label": "variable",
+                "substring": "dissolved oxygen level",
+                "identifier": null
+            },
+            {
+                "begin": 479,
+                "end": 494,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 571,
+                "end": 580,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 585,
+                "end": 607,
+                "label": "variable",
+                "substring": "aquaculture production",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/392d3da2-c03c-4aa5-bf60-417984f824a6"
+            },
+            {
+                "begin": 930,
+                "end": 943,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1030,
+                "end": 1050,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1052,
+                "end": 1072,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 1074,
+                "end": 1082,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 1084,
+                "end": 1090,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 1112,
+                "end": 1132,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 1194,
+                "end": 1204,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 1205,
+                "end": 1218,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1267,
+                "end": 1279,
+                "label": "variable",
+                "substring": "vitamin B 12",
+                "identifier": null
+            },
+            {
+                "begin": 1316,
+                "end": 1335,
+                "label": "variable",
+                "substring": "omega-3 fatty acids",
+                "identifier": null
+            },
+            {
+                "begin": 1348,
+                "end": 1361,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 1384,
+                "end": 1397,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 521,
+                "end": 541,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 850,
+                "end": 870,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"ocean temperature\", \"type\": \"variable\"},\n    {\"entity\": \"dissolved oxygen level\", \"type\": \"variable\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture production\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"vitamin B 12\", \"type\": \"other\"},\n    {\"entity\": \"omega-3 fatty acids\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "natural hazard",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "For economic outcomes, we use data on the contributions of aquatic food to gross domestic product (GDP) 25,31,63,64 , estimates of economic multipliers of marine supply chains 65 and net aquatic food trade balance relative to GDP 66 . As social outcome variables, we selected the contributions of marine fisheries, aquaculture and inland fisheries to employment 5,25,67 , as well as the ratio of indigenous to national-average consumption of seafood as a metric of the cultural importance of aquatic foods 68 . Finally, the environmental outcome variables are drawn from standardized estimates of the average greenhouse gas emissions, nitrogen and phosphorus emissions, and land use and freshwater use of different types of wild-capture and farmed aquatic food production 33 .\nVulnerability. To capture the vulnerability of aquatic food system outcomes to climate hazards, we selected several variables (Supplementary Table 8) that represent the adaptive capacity of aquatic food systems and the sensitivity of aquatic food system outcomes in the face of climate change. As more generalized metrics of adaptive capacity and sensitivity, we include GDP per capita 63 , an aggregate of the Worldwide Governance Indicators 69 , educational attainment 70 , percentage of the population below the national poverty line 63 , the Gini coefficient 63 , access to financial services 71 , research and development expenditure as a percentage of GDP 63 , and the percentage of aquatic food landings from small-scale operations 72 .",
+        "entities": [
+            {
+                "begin": 4,
+                "end": 12,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 131,
+                "end": 139,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 238,
+                "end": 244,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 297,
+                "end": 313,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 315,
+                "end": 326,
+                "label": "variable",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 331,
+                "end": 347,
+                "label": "variable",
+                "substring": "inland fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            },
+            {
+                "begin": 492,
+                "end": 505,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 609,
+                "end": 623,
+                "label": "variable",
+                "substring": "greenhouse gas",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 674,
+                "end": 682,
+                "label": "variable",
+                "substring": "land use",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5066def0-b14b-4a2c-b40f-dc9953860366"
+            },
+            {
+                "begin": 687,
+                "end": 697,
+                "label": "variable",
+                "substring": "freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 748,
+                "end": 771,
+                "label": "variable",
+                "substring": "aquatic food production",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 824,
+                "end": 852,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 856,
+                "end": 871,
+                "label": "natural hazard",
+                "substring": "climate hazards",
+                "identifier": null
+            },
+            {
+                "begin": 1011,
+                "end": 1039,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 635,
+                "end": 643,
+                "label": "variable",
+                "substring": "nitrogen",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/db5357c9-cc9d-4693-86fe-6bb88555d434"
+            },
+            {
+                "begin": 648,
+                "end": 658,
+                "label": "variable",
+                "substring": "phosphorus",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4962dabc-b426-4c84-8147-12e15645baff"
+            },
+            {
+                "begin": 967,
+                "end": 987,
+                "label": "variable",
+                "substring": "aquatic food systems",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"inland fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquatic foods\", \"type\": \"other\"},\n    {\"entity\": \"greenhouse gas\", \"type\": \"variable\"},\n    {\"entity\": \"land use\", \"type\": \"variable\"},\n    {\"entity\": \"freshwater\", \"type\": \"variable\"},\n    {\"entity\": \"aquatic food production\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"climate hazards\", \"type\": \"natural hazard\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"nitrogen\", \"type\": \"variable\"},\n    {\"entity\": \"phosphorus\", \"type\": \"variable\"},\n    {\"entity\": \"aquatic food systems\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "As outcome-specific metrics, we include the stunting rate of children under five 73 and summary exposure values for vitamin B 12 and DHA + EPA fatty acids 9 for nutrition and health outcomes, and the Biodiversity and Habitat, Fisheries, and Climate Change indicators of the Environmental Performance Index 74 for environmental outcomes.\nA more detailed accounting of each of the model variables, including justification and data processing steps as well as a statistical summary, can be found in the Supplementary Methods. For each of the risk components, scores were calculated using whichever of the indicator variables were available.\nFuzzy logic system. We apply a fuzzy logic modelling approach to compute climate risks and account for the inherent data and knowledge uncertainties present in determining climate risks of national food system outcomes. Such an approach has been previously applied to study the conservation risk of marine fish stocks from fishing 20 and climate change 75,76 . In brief, the fuzzy logic algorithm is divided into three steps 20 :\n1. Fuzzification: Indicator values are categorized into one or more levels of 'low' , 'medium' , 'high' and 'very high' (hazard, exposure and vulnerability) simultaneously, with the degree of membership in each level defined by fuzzy membership functions (Supplementary Fig. 1 and Supplementary Table 9). 2.",
+        "entities": [
+            {
+                "begin": 116,
+                "end": 128,
+                "label": "variable",
+                "substring": "vitamin B 12",
+                "identifier": null
+            },
+            {
+                "begin": 161,
+                "end": 181,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 669,
+                "end": 699,
+                "label": "model",
+                "substring": "fuzzy logic modelling approach",
+                "identifier": null
+            },
+            {
+                "begin": 711,
+                "end": 724,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 810,
+                "end": 823,
+                "label": "variable",
+                "substring": "climate risks",
+                "identifier": null
+            },
+            {
+                "begin": 836,
+                "end": 856,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 937,
+                "end": 943,
+                "label": "variable",
+                "substring": "marine",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8ef6f360-10d0-4dc5-8fcb-c532eb23fe5d"
+            },
+            {
+                "begin": 1013,
+                "end": 1024,
+                "label": "model",
+                "substring": "fuzzy logic",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"vitamin B 12\", \"type\": \"variable\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"fuzzy logic modelling approach\", \"type\": \"other\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"climate risks\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"marine\", \"type\": \"other\"},\n    {\"entity\": \"fuzzy logic\", \"type\": \"platform\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "model",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "Fuzzy reasoning: For each subcomponent of climate risk (hazard, exposure and vulnerability), the degree of membership associated with each level is cumulated using an algorithm called MYCIN 20 :\nAccMemi+1 = AccMemi + Membership i+1 \u00d7 (1 \u2212 AccMemi)\nwhere AccMem is the accumulated membership of a particular level (for example, high vulnerability) and i denotes the indicator variable contributing to the subcomponent. Then, hazard, exposure and vulnerability are aggregated into a combined risk level using predefined heuristic rules (Supplementary Table 2).\nWhere data availability allows, information is kept segregated on the basis of the relevant subsystem (such as fisheries versus aquaculture or marine versus freshwater).\n3. Defuzzification: The climate risk of aquatic food system outcomes is ultimately expressed on a scale of 0 to 100, with 100 being the most at risk. The index values (Indval) corresponding to each level x are: 'low' = 1, 'moderate' = 25, 'high' = 75 and 'very high' = 100. The final risk index (FnlInd) is calculated from the average of the index values, weighted by their accumulated membership 20 :\nFnlInd = \u2211 4 x=1 AccMemx \u00d7 Indvalx \u2211 4 x=1 AccMemx\nA more detailed description of the various fuzzy logic modelling steps and assumptions and a schematic overview of the various model components are provided in the Supplementary Information.\nCluster analysis.",
+        "entities": [
+            {
+                "begin": 42,
+                "end": 54,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 670,
+                "end": 679,
+                "label": "location",
+                "substring": "fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7112a64-be39-414a-9125-f63ab44ecb5b"
+            },
+            {
+                "begin": 687,
+                "end": 698,
+                "label": "location",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 716,
+                "end": 726,
+                "label": "location",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 753,
+                "end": 765,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 769,
+                "end": 797,
+                "label": "variable",
+                "substring": "aquatic food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 1225,
+                "end": 1236,
+                "label": "model",
+                "substring": "fuzzy logic",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"fisheries\", \"type\": \"other\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"aquatic food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"fuzzy logic\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "To identify patterns in the types of climate risk that high-risk countries face, we perform a K-means clustering analysis on the outcomes of the fuzzy logic model, using the following input variables: the number of outcomes for which climate risk in 2050 is 'high' or 'very high' under SSP5-8.5, the climate hazard score in 2050 under SSP5-8.5, the percentage of production from marine environments 64 , the percentage of production from aquaculture 64 , exposure scores for each of the food system outcomes (nutrition and health, economic, social, and environmental) and vulnerability scores for each of the food system outcomes. Only countries for which at least one of the food system outcomes had 'high' or 'very high' risk in 2050 under SSP5-8.5 were included. We were not able to assign clusters for countries with missing values for any of these variables.\nWe find that using a total of four clusters leads to climate risk profiles that are distinct (Supplementary Fig. 3) and meaningful for describing policy considerations. The profiles that we identify are high dependency on marine fisheries (Cluster 2, 47 countries), compound climate risk from freshwater and brackish systems (Cluster 1, 38 countries), compound climate risk from marine fisheries (Cluster 3, 28 countries), and environmental performance risk from freshwater aquaculture (Cluster 4, 17 countries). The distribution of input variables for each of these clusters is shown in Extended Data Fig. 7 and summarized in Supplementary Table 13.",
+        "entities": [
+            {
+                "begin": 37,
+                "end": 49,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 145,
+                "end": 156,
+                "label": "model",
+                "substring": "fuzzy logic",
+                "identifier": null
+            },
+            {
+                "begin": 234,
+                "end": 246,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 286,
+                "end": 294,
+                "label": "experiment",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 300,
+                "end": 314,
+                "label": "natural hazard",
+                "substring": "climate hazard",
+                "identifier": null
+            },
+            {
+                "begin": 335,
+                "end": 343,
+                "label": "experiment",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 379,
+                "end": 398,
+                "label": "location",
+                "substring": "marine environments",
+                "identifier": null
+            },
+            {
+                "begin": 438,
+                "end": 449,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 487,
+                "end": 507,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 509,
+                "end": 529,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 531,
+                "end": 539,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 541,
+                "end": 547,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 609,
+                "end": 629,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 676,
+                "end": 696,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 742,
+                "end": 750,
+                "label": "experiment",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 917,
+                "end": 929,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1086,
+                "end": 1102,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1139,
+                "end": 1151,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1157,
+                "end": 1167,
+                "label": "location",
+                "substring": "freshwater",
+                "identifier": null
+            },
+            {
+                "begin": 1225,
+                "end": 1237,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 1243,
+                "end": 1259,
+                "label": "variable",
+                "substring": "marine fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1327,
+                "end": 1349,
+                "label": "variable",
+                "substring": "freshwater aquaculture",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"variable\"},\n    {\"entity\": \"fuzzy logic\", \"type\": \"platform\"},\n    {\"entity\": \"climate risk\", \"type\": \"variable\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"climate hazard\", \"type\": \"variable\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"marine environments\", \"type\": \"location\"},\n    {\"entity\": \"aquaculture\", \"type\": \"platform\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"variable\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"variable\"},\n    {\"entity\": \"economic\", \"type\": \"variable\"},\n    {\"entity\": \"social\", \"type\": \"variable\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"variable\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"variable\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"climate risk\", \"type\": \"variable\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"variable\"},\n    {\"entity\": \"freshwater\", \"type\": \"location\"},\n    {\"entity\": \"climate risk\", \"type\": \"variable\"},\n    {\"entity\": \"marine fisheries\", \"type\": \"location\"},\n    {\"entity\": \"freshwater aquaculture\", \"type\": \"platform\"}\n]\n```",
+        "labels": [
+            "variable",
+            "model",
+            "variable",
+            "experiment",
+            "natural hazard",
+            "experiment",
+            "location",
+            "project",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "experiment",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "A map of the cluster assignments is shown in Extended Data Fig. 8, with a complete list in Supplementary Table 14.\n<heading>Statistics and reproducibility.</heading>\nNo data were excluded from the analyses.\n<heading>Acknowledgements</heading>\nThis paper is part of the Blue Food Assessment (https://www.bluefood.earth/), a comprehensive examination of the role of aquatic foods in building healthy, sustainable and equitable food systems. The assessment was supported by the Builders Initiative, the MAVA Foundation, the Oak Foundation and the Walton Family \n<heading>Data availability</heading>\nMost of the model input data were retrieved from publicly accessible reports and databases, as outlined in Supplementary Tables 6-8. The model output data are provided on Dryad 77 : https://doi.org/10.5061/dryad.70rxwdbz3. Source data are provided with this paper.\n<heading>Code availability</heading>\nAll custom code produced for the analyses was generated using Python version 3.7.1 and R version 4.0.2 and is available from the corresponding author upon request. \n<heading>Competing interests</heading>\nThe authors declare no competing interests.\n<heading>Additional information</heading>\nExtended data is available for this paper at https://doi.org/10.1038/s43016-021-00368-9.\n<heading>Supplementary information</heading>\nThe online version contains supplementary material available at https://doi.org/10.1038/s43016-021-00368-9.\nCorrespondence and requests for materials should be addressed to Michelle Tigchelaar.",
+        "entities": [
+            {
+                "begin": 364,
+                "end": 377,
+                "label": "variable",
+                "substring": "aquatic foods",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"aquatic foods\", \"type\": \"other\"}]\n```",
+        "labels": [
+            "variable"
+        ]
+    },
+    {
+        "text": "<heading>Peer review information</heading>\n\n<heading>Articles</heading>\n\n<heading>NATurE FooD</heading>\nExtended Data Fig. 7 | Distribution of input variables for each climate risk cluster. The variables used in the cluster analysis are the number of outcomes for which climate risk in 2050 is 'high' or 'very high' under SSP5-8.5 ('riskcount'); the climate hazard score in 2050 under SSP5-8.5 ('hazard'); the percentage of production from marine environments ('perc_marine'); the percentage of production from aquaculture ('perc_aqua'); exposure scores for each of the food system outcomes (nutrition and health, economic, social, and environmental -'exp_nh', 'exp_ec', 'exp_so' and 'exp_en'); and vulnerability scores for each of the food system outcomes ('vul_nh', 'vul_ec', 'vul_so' and 'vul_en'). We summarize the clusters as: Cluster 1 = Compound riskfreshwater & deltaic system; Cluster 2 = High marine dependence; Cluster 3 = Compound risk -marine fisheries; Cluster 4 = Environmental performance risk. Box limits denote 25th and 75th percentiles; whiskers extend 1.5x the interquartile range from box edges; black line indicates median value and circles represent outliers.\n<heading>Articles</heading>\n\n<heading>NATurE FooD</heading>\nExtended Data Fig. 8 | Cluster assignment for each of the high risk countries. Cluster analysis was done only on countries that are projected to have 'high' or 'very high' risk in at least one of the food system outcomes and that had no missing data for any of the input variables.",
+        "entities": [
+            {
+                "begin": 168,
+                "end": 180,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 270,
+                "end": 282,
+                "label": "variable",
+                "substring": "climate risk",
+                "identifier": null
+            },
+            {
+                "begin": 322,
+                "end": 330,
+                "label": "experiment",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 350,
+                "end": 364,
+                "label": "natural hazard",
+                "substring": "climate hazard",
+                "identifier": null
+            },
+            {
+                "begin": 385,
+                "end": 393,
+                "label": "experiment",
+                "substring": "SSP5-8.5",
+                "identifier": null
+            },
+            {
+                "begin": 440,
+                "end": 459,
+                "label": "location",
+                "substring": "marine environments",
+                "identifier": null
+            },
+            {
+                "begin": 511,
+                "end": 522,
+                "label": "project",
+                "substring": "aquaculture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f6c057c9-c789-4cd5-ba22-e9b08aae152b"
+            },
+            {
+                "begin": 570,
+                "end": 590,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 592,
+                "end": 612,
+                "label": "variable",
+                "substring": "nutrition and health",
+                "identifier": null
+            },
+            {
+                "begin": 614,
+                "end": 622,
+                "label": "variable",
+                "substring": "economic",
+                "identifier": null
+            },
+            {
+                "begin": 624,
+                "end": 630,
+                "label": "variable",
+                "substring": "social",
+                "identifier": null
+            },
+            {
+                "begin": 736,
+                "end": 756,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            },
+            {
+                "begin": 948,
+                "end": 965,
+                "label": "variable",
+                "substring": "-marine fisheries",
+                "identifier": null
+            },
+            {
+                "begin": 1443,
+                "end": 1463,
+                "label": "variable",
+                "substring": "food system outcomes",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"climate risk\", \"type\": \"other\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"climate hazard\", \"type\": \"natural hazard\"},\n    {\"entity\": \"SSP5-8.5\", \"type\": \"experiment\"},\n    {\"entity\": \"marine environments\", \"type\": \"location\"},\n    {\"entity\": \"aquaculture\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"nutrition and health\", \"type\": \"other\"},\n    {\"entity\": \"economic\", \"type\": \"other\"},\n    {\"entity\": \"social\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"},\n    {\"entity\": \"-marine fisheries\", \"type\": \"other\"},\n    {\"entity\": \"food system outcomes\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "experiment",
+            "natural hazard",
+            "experiment",
+            "location",
+            "project",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Cluster numbers correspond to the numbers in Extended Data Fig. 7 and the Supplemental Methods. Cluster 1 = Compound risk -freshwater & deltaic system; Cluster 2 = High marine dependence; Cluster 3 = Compound risk -marine fisheries; Cluster 4 = Environmental performance risk. Grey shading represents no data.",
+        "entities": [
+            {
+                "begin": 122,
+                "end": 133,
+                "label": "variable",
+                "substring": "-freshwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c87c086a-933f-44c7-a128-33279b36d7b5"
+            },
+            {
+                "begin": 214,
+                "end": 231,
+                "label": "variable",
+                "substring": "-marine fisheries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fa57b0a0-9723-4195-bdd1-4f26aefa0e07"
+            }
+        ],
+        "response": "[{\"entity\": \"-freshwater\", \"type\": \"other\"}, {\"entity\": \"-marine fisheries\", \"type\": \"other\"}]",
+        "labels": [
+            "variable",
+            "variable"
+        ]
+    }
+]

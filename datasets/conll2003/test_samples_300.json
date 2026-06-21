@@ -1,0 +1,3887 @@
+[
+    {
+        "text": "Inter will be without suspended French defender Joceyln Angloma and injured Chilean striker Ivan Zamorano .",
+        "target": "<entity type=\"organization\">Inter</entity> will be without suspended <entity type=\"miscellaneous\">French</entity> defender <entity type=\"person\">Joceyln Angloma</entity> and injured <entity type=\"miscellaneous\">Chilean</entity> striker <entity type=\"person\">Ivan Zamorano</entity> .",
+        "entities": [
+            [
+                "Inter",
+                "organization"
+            ],
+            [
+                "French",
+                "miscellaneous"
+            ],
+            [
+                "Joceyln Angloma",
+                "person"
+            ],
+            [
+                "Chilean",
+                "miscellaneous"
+            ],
+            [
+                "Ivan Zamorano",
+                "person"
+            ]
+        ],
+        "sent_id": "850"
+    },
+    {
+        "text": "SOCCER - SPANISH FIRST DIVISION SUMMARY .",
+        "target": "SOCCER - <entity type=\"miscellaneous\">SPANISH</entity> FIRST DIVISION SUMMARY .",
+        "entities": [
+            [
+                "SPANISH",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "3391"
+    },
+    {
+        "text": "OAKLAND 6 7 0 274 234",
+        "target": "<entity type=\"organization\">OAKLAND</entity> 6 7 0 274 234",
+        "entities": [
+            [
+                "OAKLAND",
+                "organization"
+            ]
+        ],
+        "sent_id": "510"
+    },
+    {
+        "text": "Sangetsu - 96/97 parent forecast .",
+        "target": "<entity type=\"organization\">Sangetsu</entity> - 96/97 parent forecast .",
+        "entities": [
+            [
+                "Sangetsu",
+                "organization"
+            ]
+        ],
+        "sent_id": "2302"
+    },
+    {
+        "text": "Munich Re 's registered shares , part of the blue-chip DAX index , were trading at 3,710 marks on Friday .",
+        "target": "<entity type=\"organization\">Munich Re</entity> 's registered shares , part of the blue-chip <entity type=\"miscellaneous\">DAX</entity> index , were trading at 3,710 marks on Friday .",
+        "entities": [
+            [
+                "Munich Re",
+                "organization"
+            ],
+            [
+                "DAX",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2170"
+    },
+    {
+        "text": "Playing Sunday : West Bromwich v Bolton",
+        "target": "Playing Sunday : <entity type=\"organization\">West Bromwich</entity> v <entity type=\"organization\">Bolton</entity>",
+        "entities": [
+            [
+                "West Bromwich",
+                "organization"
+            ],
+            [
+                "Bolton",
+                "organization"
+            ]
+        ],
+        "sent_id": "3101"
+    },
+    {
+        "text": "Tenerife 15 5 4 6 23 17 19",
+        "target": "<entity type=\"organization\">Tenerife</entity> 15 5 4 6 23 17 19",
+        "entities": [
+            [
+                "Tenerife",
+                "organization"
+            ]
+        ],
+        "sent_id": "781"
+    },
+    {
+        "text": "Canadian West Coast Vessel Loadings - CWB .",
+        "target": "<entity type=\"miscellaneous\">Canadian</entity> West Coast Vessel Loadings - CWB .",
+        "entities": [
+            [
+                "Canadian",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "1103"
+    },
+    {
+        "text": "Ohio State left tackle Orlando Pace became the first repeat winner of the Lombardi Award Thursday night when the Rotary Club of Houston again honoured him as college football 's lineman of the year .",
+        "target": "<entity type=\"organization\">Ohio State</entity> left tackle <entity type=\"person\">Orlando Pace</entity> became the first repeat winner of the <entity type=\"miscellaneous\">Lombardi Award</entity> Thursday night when the <entity type=\"organization\">Rotary Club</entity> of <entity type=\"location\">Houston</entity> again honoured him as college football 's lineman of the year .",
+        "entities": [
+            [
+                "Ohio State",
+                "organization"
+            ],
+            [
+                "Orlando Pace",
+                "person"
+            ],
+            [
+                "Lombardi Award",
+                "miscellaneous"
+            ],
+            [
+                "Rotary Club",
+                "organization"
+            ],
+            [
+                "Houston",
+                "location"
+            ]
+        ],
+        "sent_id": "559"
+    },
+    {
+        "text": "Rain earlier delayed the start of play by 30 minutes .",
+        "target": "Rain earlier delayed the start of play by 30 minutes .",
+        "entities": [],
+        "sent_id": "1076"
+    },
+    {
+        "text": "Full strength Vicenza , led by Uruguayan Marcelo Otero , may continue their surprise run at the top against an Inter side that has been less than impressive in three successive home draws .",
+        "target": "Full strength <entity type=\"organization\">Vicenza</entity> , led by <entity type=\"miscellaneous\">Uruguayan</entity> <entity type=\"person\">Marcelo Otero</entity> , may continue their surprise run at the top against an <entity type=\"organization\">Inter</entity> side that has been less than impressive in three successive home draws .",
+        "entities": [
+            [
+                "Vicenza",
+                "organization"
+            ],
+            [
+                "Uruguayan",
+                "miscellaneous"
+            ],
+            [
+                "Marcelo Otero",
+                "person"
+            ],
+            [
+                "Inter",
+                "organization"
+            ]
+        ],
+        "sent_id": "849"
+    },
+    {
+        "text": "Real Madrid 2 ( Davor Suker 24 , Predrag Mijatovic 48 ) Barcelona 0 .",
+        "target": "<entity type=\"organization\">Real Madrid</entity> 2 ( <entity type=\"person\">Davor Suker</entity> 24 , <entity type=\"person\">Predrag Mijatovic</entity> 48 ) <entity type=\"organization\">Barcelona</entity> 0 .",
+        "entities": [
+            [
+                "Real Madrid",
+                "organization"
+            ],
+            [
+                "Davor Suker",
+                "person"
+            ],
+            [
+                "Predrag Mijatovic",
+                "person"
+            ],
+            [
+                "Barcelona",
+                "organization"
+            ]
+        ],
+        "sent_id": "3394"
+    },
+    {
+        "text": "Draw : 9-4",
+        "target": "Draw : 9-4",
+        "entities": [],
+        "sent_id": "705"
+    },
+    {
+        "text": "Crewe 21 11 1 9 29 21 34",
+        "target": "<entity type=\"organization\">Crewe</entity> 21 11 1 9 29 21 34",
+        "entities": [
+            [
+                "Crewe",
+                "organization"
+            ]
+        ],
+        "sent_id": "3003"
+    },
+    {
+        "text": "It looked like turning into a rout as Hwang Sun Hong rapidly added two more in the seventh and 15th minutes but although the Koreans continued to dominate they failed to add to the score before the interval .",
+        "target": "It looked like turning into a rout as <entity type=\"person\">Hwang Sun Hong</entity> rapidly added two more in the seventh and 15th minutes but although the <entity type=\"miscellaneous\">Koreans</entity> continued to dominate they failed to add to the score before the interval .",
+        "entities": [
+            [
+                "Hwang Sun Hong",
+                "person"
+            ],
+            [
+                "Koreans",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "3191"
+    },
+    {
+        "text": "Alexis Blanc and Sebastien Foucras gave France a one-two finish in the first aerials competition of the season .",
+        "target": "<entity type=\"person\">Alexis Blanc</entity> and <entity type=\"person\">Sebastien Foucras</entity> gave <entity type=\"location\">France</entity> a one-two finish in the first aerials competition of the season .",
+        "entities": [
+            [
+                "Alexis Blanc",
+                "person"
+            ],
+            [
+                "Sebastien Foucras",
+                "person"
+            ],
+            [
+                "France",
+                "location"
+            ]
+        ],
+        "sent_id": "2606"
+    },
+    {
+        "text": "But they have said both parties had a \" moral link \" in that they were against police brutality and injustice .",
+        "target": "But they have said both parties had a \" moral link \" in that they were against police brutality and injustice .",
+        "entities": [],
+        "sent_id": "1527"
+    },
+    {
+        "text": "Returns take account of price moves and accrued interest .",
+        "target": "Returns take account of price moves and accrued interest .",
+        "entities": [],
+        "sent_id": "1935"
+    },
+    {
+        "text": "Hapoel Petah Tikva 12 9 2 1 27 13 29",
+        "target": "<entity type=\"organization\">Hapoel Petah Tikva</entity> 12 9 2 1 27 13 29",
+        "entities": [
+            [
+                "Hapoel Petah Tikva",
+                "organization"
+            ]
+        ],
+        "sent_id": "3215"
+    },
+    {
+        "text": "Cannes 20 5 7 8 13 22 22",
+        "target": "<entity type=\"organization\">Cannes</entity> 20 5 7 8 13 22 22",
+        "entities": [
+            [
+                "Cannes",
+                "organization"
+            ]
+        ],
+        "sent_id": "659"
+    },
+    {
+        "text": "Goalkeepers - Blendi Nallbani , Armir Grima",
+        "target": "Goalkeepers - <entity type=\"person\">Blendi Nallbani</entity> , <entity type=\"person\">Armir Grima</entity>",
+        "entities": [
+            [
+                "Blendi Nallbani",
+                "person"
+            ],
+            [
+                "Armir Grima",
+                "person"
+            ]
+        ],
+        "sent_id": "3168"
+    },
+    {
+        "text": "40-1 Rafael Alkorta 33-1 Albert",
+        "target": "40-1 <entity type=\"person\">Rafael Alkorta</entity> 33-1 <entity type=\"person\">Albert</entity>",
+        "entities": [
+            [
+                "Rafael Alkorta",
+                "person"
+            ],
+            [
+                "Albert",
+                "person"
+            ]
+        ],
+        "sent_id": "753"
+    },
+    {
+        "text": "Five die as SAfrican crop plane hits pickup .",
+        "target": "Five die as <entity type=\"miscellaneous\">SAfrican</entity> crop plane hits pickup .",
+        "entities": [
+            [
+                "SAfrican",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "1267"
+    },
+    {
+        "text": "West Ham 16 4 5 7 13 20 17",
+        "target": "<entity type=\"organization\">West Ham</entity> 16 4 5 7 13 20 17",
+        "entities": [
+            [
+                "West Ham",
+                "organization"
+            ]
+        ],
+        "sent_id": "2962"
+    },
+    {
+        "text": "Yevgeny Kafelnikov ( Russia ) beat Jim Courier ( U.S. ) 2-6 6-4 8-6",
+        "target": "<entity type=\"person\">Yevgeny Kafelnikov</entity> ( <entity type=\"location\">Russia</entity> ) beat <entity type=\"person\">Jim Courier</entity> ( <entity type=\"location\">U.S.</entity> ) 2-6 6-4 8-6",
+        "entities": [
+            [
+                "Yevgeny Kafelnikov",
+                "person"
+            ],
+            [
+                "Russia",
+                "location"
+            ],
+            [
+                "Jim Courier",
+                "person"
+            ],
+            [
+                "U.S.",
+                "location"
+            ]
+        ],
+        "sent_id": "688"
+    },
+    {
+        "text": "Draw :",
+        "target": "Draw :",
+        "entities": [],
+        "sent_id": "717"
+    },
+    {
+        "text": "Teams :",
+        "target": "Teams :",
+        "entities": [],
+        "sent_id": "3197"
+    },
+    {
+        "text": "The EU and Poland will monitor the settlement at six-monthly meetings .",
+        "target": "The <entity type=\"organization\">EU</entity> and <entity type=\"location\">Poland</entity> will monitor the settlement at six-monthly meetings .",
+        "entities": [
+            [
+                "EU",
+                "organization"
+            ],
+            [
+                "Poland",
+                "location"
+            ]
+        ],
+        "sent_id": "1882"
+    },
+    {
+        "text": "A police spokesman said two youths believed to be supporters of President Nelson Mandela 's African National Congress ( ANC ) had been killed when unknown gunmen opened fire at the rural settlement of Izingolweni on KwaZulu-Natal province 's south coast on Thursday night .",
+        "target": "A police spokesman said two youths believed to be supporters of President <entity type=\"person\">Nelson Mandela</entity> 's <entity type=\"organization\">African National Congress</entity> ( <entity type=\"organization\">ANC</entity> ) had been killed when unknown gunmen opened fire at the rural settlement of <entity type=\"location\">Izingolweni</entity> on <entity type=\"location\">KwaZulu-Natal</entity> province 's south coast on Thursday night .",
+        "entities": [
+            [
+                "Nelson Mandela",
+                "person"
+            ],
+            [
+                "African National Congress",
+                "organization"
+            ],
+            [
+                "ANC",
+                "organization"
+            ],
+            [
+                "Izingolweni",
+                "location"
+            ],
+            [
+                "KwaZulu-Natal",
+                "location"
+            ]
+        ],
+        "sent_id": "881"
+    },
+    {
+        "text": "Nation : Russia",
+        "target": "Nation : <entity type=\"location\">Russia</entity>",
+        "entities": [
+            [
+                "Russia",
+                "location"
+            ]
+        ],
+        "sent_id": "2391"
+    },
+    {
+        "text": "Brian Laudrup ( Rangers ) , Darren Jackson",
+        "target": "<entity type=\"person\">Brian Laudrup</entity> ( <entity type=\"organization\">Rangers</entity> ) , <entity type=\"person\">Darren Jackson</entity>",
+        "entities": [
+            [
+                "Brian Laudrup",
+                "person"
+            ],
+            [
+                "Rangers",
+                "organization"
+            ],
+            [
+                "Darren Jackson",
+                "person"
+            ]
+        ],
+        "sent_id": "2779"
+    },
+    {
+        "text": "U.S. energy futures added to floor session gains in light NYMEX ACCESS trade Thursday , as forecasts for colder temperatures in distillate-hungry Northeastern markets raised supply concerns .",
+        "target": "<entity type=\"location\">U.S.</entity> energy futures added to floor session gains in light <entity type=\"miscellaneous\">NYMEX ACCESS</entity> trade Thursday , as forecasts for colder temperatures in distillate-hungry Northeastern markets raised supply concerns .",
+        "entities": [
+            [
+                "U.S.",
+                "location"
+            ],
+            [
+                "NYMEX ACCESS",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2040"
+    },
+    {
+        "text": "A Homestake spokesman was not immediately available to comment on speculation that it tops the list .",
+        "target": "A <entity type=\"organization\">Homestake</entity> spokesman was not immediately available to comment on speculation that it tops the list .",
+        "entities": [
+            [
+                "Homestake",
+                "organization"
+            ]
+        ],
+        "sent_id": "1163"
+    },
+    {
+        "text": "Oats 286.5 284.6 31.9 937.3 581.2",
+        "target": "Oats 286.5 284.6 31.9 937.3 581.2",
+        "entities": [],
+        "sent_id": "1713"
+    },
+    {
+        "text": "SKI JUMPING-LEADING WORLD CUP RESULTS / STANDINGS .",
+        "target": "SKI JUMPING-LEADING <entity type=\"miscellaneous\">WORLD CUP</entity> RESULTS / STANDINGS .",
+        "entities": [
+            [
+                "WORLD CUP",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2679"
+    },
+    {
+        "text": "tied , points for and points against ) :",
+        "target": "tied , points for and points against ) :",
+        "entities": [],
+        "sent_id": "489"
+    },
+    {
+        "text": "Andrew Pitts ( U.S. ) 69 67 76",
+        "target": "<entity type=\"person\">Andrew Pitts</entity> ( <entity type=\"location\">U.S.</entity> ) 69 67 76",
+        "entities": [
+            [
+                "Andrew Pitts",
+                "person"
+            ],
+            [
+                "U.S.",
+                "location"
+            ]
+        ],
+        "sent_id": "3153"
+    },
+    {
+        "text": "Double result :",
+        "target": "Double result :",
+        "entities": [],
+        "sent_id": "722"
+    },
+    {
+        "text": "Do you think that I would have a conscience problem doing it or not at that time ?",
+        "target": "Do you think that I would have a conscience problem doing it or not at that time ?",
+        "entities": [],
+        "sent_id": "1205"
+    },
+    {
+        "text": "Earlier this year South African Breweries Ltd ( SAB ) bought strategic stakes in the unlisted Lech and Tychy brewers , which together hold more than 20 percent of the market , and Australia 's Brewpole BV has a controlling stake in Poland 's larges t brewery , Elbrewery Company Ltd. ( EB ) .",
+        "target": "Earlier this year <entity type=\"organization\">South African Breweries Ltd</entity> ( <entity type=\"organization\">SAB</entity> ) bought strategic stakes in the unlisted <entity type=\"organization\">Lech</entity> and <entity type=\"organization\">Tychy</entity> brewers , which together hold more than 20 percent of the market , and <entity type=\"location\">Australia</entity> 's <entity type=\"organization\">Brewpole BV</entity> has a controlling stake in <entity type=\"location\">Poland</entity> 's larges t brewery , <entity type=\"organization\">Elbrewery Company Ltd.</entity> ( <entity type=\"organization\">EB</entity> ) .",
+        "entities": [
+            [
+                "South African Breweries Ltd",
+                "organization"
+            ],
+            [
+                "SAB",
+                "organization"
+            ],
+            [
+                "Lech",
+                "organization"
+            ],
+            [
+                "Tychy",
+                "organization"
+            ],
+            [
+                "Australia",
+                "location"
+            ],
+            [
+                "Brewpole BV",
+                "organization"
+            ],
+            [
+                "Poland",
+                "location"
+            ],
+            [
+                "Elbrewery Company Ltd.",
+                "organization"
+            ],
+            [
+                "EB",
+                "organization"
+            ]
+        ],
+        "sent_id": "958"
+    },
+    {
+        "text": "Van Boxmeer said Poland 's top five brewers , which produce about 55 percent of the country 's beer , could all raise market share as some of the numerous small brewers fall to competition from the large brewers with foreign investors .",
+        "target": "<entity type=\"person\">Van Boxmeer</entity> said <entity type=\"location\">Poland</entity> 's top five brewers , which produce about 55 percent of the country 's beer , could all raise market share as some of the numerous small brewers fall to competition from the large brewers with foreign investors .",
+        "entities": [
+            [
+                "Van Boxmeer",
+                "person"
+            ],
+            [
+                "Poland",
+                "location"
+            ]
+        ],
+        "sent_id": "956"
+    },
+    {
+        "text": "RANGOON 1996-12-07",
+        "target": "<entity type=\"location\">RANGOON</entity> 1996-12-07",
+        "entities": [
+            [
+                "RANGOON",
+                "location"
+            ]
+        ],
+        "sent_id": "1497"
+    },
+    {
+        "text": "INDIANA 7 8 .467 8 1/2",
+        "target": "<entity type=\"organization\">INDIANA</entity> 7 8 .467 8 1/2",
+        "entities": [
+            [
+                "INDIANA",
+                "organization"
+            ]
+        ],
+        "sent_id": "454"
+    },
+    {
+        "text": "Cardiff 0 Gillingham 2",
+        "target": "<entity type=\"organization\">Cardiff</entity> 0 <entity type=\"organization\">Gillingham</entity> 2",
+        "entities": [
+            [
+                "Cardiff",
+                "organization"
+            ],
+            [
+                "Gillingham",
+                "organization"
+            ]
+        ],
+        "sent_id": "3121"
+    },
+    {
+        "text": "ACCESS energy futures prices add to daytime gains .",
+        "target": "<entity type=\"miscellaneous\">ACCESS</entity> energy futures prices add to daytime gains .",
+        "entities": [
+            [
+                "ACCESS",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2038"
+    },
+    {
+        "text": "Robert Galvin",
+        "target": "<entity type=\"person\">Robert Galvin</entity>",
+        "entities": [
+            [
+                "Robert Galvin",
+                "person"
+            ]
+        ],
+        "sent_id": "233"
+    },
+    {
+        "text": "In the 18 weeks to November 30 , sales were up 13.6 percent year-on-year .",
+        "target": "In the 18 weeks to November 30 , sales were up 13.6 percent year-on-year .",
+        "entities": [],
+        "sent_id": "2185"
+    },
+    {
+        "text": "Earlier , Posts and Telecommunications Minister Hisao Horinouchi told a news conference the government plans to split NTT into three firms under a holding company , but did not specify when the restructuring would likely take effect .",
+        "target": "Earlier , Posts and Telecommunications Minister <entity type=\"person\">Hisao Horinouchi</entity> told a news conference the government plans to split <entity type=\"organization\">NTT</entity> into three firms under a holding company , but did not specify when the restructuring would likely take effect .",
+        "entities": [
+            [
+                "Hisao Horinouchi",
+                "person"
+            ],
+            [
+                "NTT",
+                "organization"
+            ]
+        ],
+        "sent_id": "2372"
+    },
+    {
+        "text": "Carlisle 22 11 7 4 32 20 40",
+        "target": "<entity type=\"organization\">Carlisle</entity> 22 11 7 4 32 20 40",
+        "entities": [
+            [
+                "Carlisle",
+                "organization"
+            ]
+        ],
+        "sent_id": "3022"
+    },
+    {
+        "text": "12/15/2007 850M 4.85 4.85",
+        "target": "12/15/2007 850M 4.85 4.85",
+        "entities": [],
+        "sent_id": "1645"
+    },
+    {
+        "text": "Glenavon 2 Linfield 1",
+        "target": "<entity type=\"organization\">Glenavon</entity> 2 <entity type=\"organization\">Linfield</entity> 1",
+        "entities": [
+            [
+                "Glenavon",
+                "organization"
+            ],
+            [
+                "Linfield",
+                "organization"
+            ]
+        ],
+        "sent_id": "2805"
+    },
+    {
+        "text": "The unnamed accomplice was earlier sentenced to 20 years in prison .",
+        "target": "The unnamed accomplice was earlier sentenced to 20 years in prison .",
+        "entities": [],
+        "sent_id": "2230"
+    },
+    {
+        "text": "Pace outdistanced three senior finalists -- Virginia Tech defensive end Cornell Brown , Arizona State offensive tackle Juan Roque and defensive end Jared Tomich of Nebraska .",
+        "target": "<entity type=\"person\">Pace</entity> outdistanced three senior finalists -- <entity type=\"organization\">Virginia Tech</entity> defensive end <entity type=\"person\">Cornell Brown</entity> , <entity type=\"organization\">Arizona State</entity> offensive tackle <entity type=\"person\">Juan Roque</entity> and defensive end <entity type=\"person\">Jared Tomich</entity> of <entity type=\"organization\">Nebraska</entity> .",
+        "entities": [
+            [
+                "Pace",
+                "person"
+            ],
+            [
+                "Virginia Tech",
+                "organization"
+            ],
+            [
+                "Cornell Brown",
+                "person"
+            ],
+            [
+                "Arizona State",
+                "organization"
+            ],
+            [
+                "Juan Roque",
+                "person"
+            ],
+            [
+                "Jared Tomich",
+                "person"
+            ],
+            [
+                "Nebraska",
+                "organization"
+            ]
+        ],
+        "sent_id": "563"
+    },
+    {
+        "text": "\" It is very possible that Arafat and Netanyahu will meet in Cairo on Saturday .",
+        "target": "\" It is very possible that <entity type=\"person\">Arafat</entity> and <entity type=\"person\">Netanyahu</entity> will meet in <entity type=\"location\">Cairo</entity> on Saturday .",
+        "entities": [
+            [
+                "Arafat",
+                "person"
+            ],
+            [
+                "Netanyahu",
+                "person"
+            ],
+            [
+                "Cairo",
+                "location"
+            ]
+        ],
+        "sent_id": "1964"
+    },
+    {
+        "text": "NEW YORK 1996-12-07",
+        "target": "<entity type=\"location\">NEW YORK</entity> 1996-12-07",
+        "entities": [
+            [
+                "NEW YORK",
+                "location"
+            ]
+        ],
+        "sent_id": "3370"
+    },
+    {
+        "text": "REUTER",
+        "target": "<entity type=\"organization\">REUTER</entity>",
+        "entities": [
+            [
+                "REUTER",
+                "organization"
+            ]
+        ],
+        "sent_id": "225"
+    },
+    {
+        "text": "NEW YORK 1996-12-06",
+        "target": "<entity type=\"location\">NEW YORK</entity> 1996-12-06",
+        "entities": [
+            [
+                "NEW YORK",
+                "location"
+            ]
+        ],
+        "sent_id": "1128"
+    },
+    {
+        "text": "VAIL , Colorado 1996-12-07",
+        "target": "<entity type=\"location\">VAIL</entity> , <entity type=\"location\">Colorado</entity> 1996-12-07",
+        "entities": [
+            [
+                "VAIL",
+                "location"
+            ],
+            [
+                "Colorado",
+                "location"
+            ]
+        ],
+        "sent_id": "2430"
+    },
+    {
+        "text": "\" I 've gone back , \" she told a radio show shortly after AN leader Gianfranco Fini , who was being interviewed on the programme , said the row had been resolved .",
+        "target": "\" I 've gone back , \" she told a radio show shortly after <entity type=\"organization\">AN</entity> leader <entity type=\"person\">Gianfranco Fini</entity> , who was being interviewed on the programme , said the row had been resolved .",
+        "entities": [
+            [
+                "AN",
+                "organization"
+            ],
+            [
+                "Gianfranco Fini",
+                "person"
+            ]
+        ],
+        "sent_id": "1859"
+    },
+    {
+        "text": "U.S. blasts release of convicted bomber .",
+        "target": "<entity type=\"location\">U.S.</entity> blasts release of convicted bomber .",
+        "entities": [
+            [
+                "U.S.",
+                "location"
+            ]
+        ],
+        "sent_id": "2049"
+    },
+    {
+        "text": "OTTAWA 7 11 6 62 72 20",
+        "target": "<entity type=\"organization\">OTTAWA</entity> 7 11 6 62 72 20",
+        "entities": [
+            [
+                "OTTAWA",
+                "organization"
+            ]
+        ],
+        "sent_id": "366"
+    },
+    {
+        "text": "About 350 lots were traded for January and 870 in all months .",
+        "target": "About 350 lots were traded for January and 870 in all months .",
+        "entities": [],
+        "sent_id": "2047"
+    },
+    {
+        "text": "Attendance :",
+        "target": "Attendance :",
+        "entities": [],
+        "sent_id": "625"
+    },
+    {
+        "text": "20-1 Luis Milla 25-1 Luis",
+        "target": "20-1 <entity type=\"person\">Luis Milla</entity> 25-1 <entity type=\"person\">Luis</entity>",
+        "entities": [
+            [
+                "Luis Milla",
+                "person"
+            ],
+            [
+                "Luis",
+                "person"
+            ]
+        ],
+        "sent_id": "748"
+    },
+    {
+        "text": "70 , Phil Gray 89 ) .",
+        "target": "70 , <entity type=\"person\">Phil Gray</entity> 89 ) .",
+        "entities": [
+            [
+                "Phil Gray",
+                "person"
+            ]
+        ],
+        "sent_id": "628"
+    },
+    {
+        "text": "1996 1995 1996 1995",
+        "target": "1996 1995 1996 1995",
+        "entities": [],
+        "sent_id": "1897"
+    },
+    {
+        "text": "MOODY 'S : Aaa / A1 S&P : AAA / AA-",
+        "target": "<entity type=\"organization\">MOODY 'S</entity> : Aaa / A1 <entity type=\"organization\">S&P</entity> : AAA / AA-",
+        "entities": [
+            [
+                "MOODY 'S",
+                "organization"
+            ],
+            [
+                "S&P",
+                "organization"
+            ]
+        ],
+        "sent_id": "1635"
+    },
+    {
+        "text": "The group , known as Munich Re , plans to seek approval for the move at its shareholders ' meeting today .",
+        "target": "The group , known as <entity type=\"organization\">Munich Re</entity> , plans to seek approval for the move at its shareholders ' meeting today .",
+        "entities": [
+            [
+                "Munich Re",
+                "organization"
+            ]
+        ],
+        "sent_id": "2167"
+    },
+    {
+        "text": "BUFFALO AT SEATTLE",
+        "target": "<entity type=\"organization\">BUFFALO</entity> AT <entity type=\"location\">SEATTLE</entity>",
+        "entities": [
+            [
+                "BUFFALO",
+                "organization"
+            ],
+            [
+                "SEATTLE",
+                "location"
+            ]
+        ],
+        "sent_id": "547"
+    },
+    {
+        "text": "5. Becky Sundstrom ( U.S. ) 1:25.39",
+        "target": "5. <entity type=\"person\">Becky Sundstrom</entity> ( <entity type=\"location\">U.S.</entity> ) 1:25.39",
+        "entities": [
+            [
+                "Becky Sundstrom",
+                "person"
+            ],
+            [
+                "U.S.",
+                "location"
+            ]
+        ],
+        "sent_id": "2757"
+    },
+    {
+        "text": "Kilmarnock 0 Dundee United 2",
+        "target": "<entity type=\"organization\">Kilmarnock</entity> 0 <entity type=\"organization\">Dundee United</entity> 2",
+        "entities": [
+            [
+                "Kilmarnock",
+                "organization"
+            ],
+            [
+                "Dundee United",
+                "organization"
+            ]
+        ],
+        "sent_id": "3057"
+    },
+    {
+        "text": "-- Soeren Linding Jakobsen , Copenhagen newsroom +45 33969650",
+        "target": "-- <entity type=\"person\">Soeren Linding Jakobsen</entity> , <entity type=\"location\">Copenhagen</entity> newsroom +45 33969650",
+        "entities": [
+            [
+                "Soeren Linding Jakobsen",
+                "person"
+            ],
+            [
+                "Copenhagen",
+                "location"
+            ]
+        ],
+        "sent_id": "2140"
+    },
+    {
+        "text": "A city official , who declined to be named , explained that Goldman , Sachs , which this summer was demoted to the second tier of the syndicate , proposed the floating rate issue and as a result was promoted to book runner for this offering .",
+        "target": "A city official , who declined to be named , explained that <entity type=\"organization\">Goldman , Sachs</entity> , which this summer was demoted to the second tier of the syndicate , proposed the floating rate issue and as a result was promoted to book runner for this offering .",
+        "entities": [
+            [
+                "Goldman , Sachs",
+                "organization"
+            ]
+        ],
+        "sent_id": "1139"
+    },
+    {
+        "text": "VAIL , Colorado 1996-12-07",
+        "target": "<entity type=\"location\">VAIL</entity> , <entity type=\"location\">Colorado</entity> 1996-12-07",
+        "entities": [
+            [
+                "VAIL",
+                "location"
+            ],
+            [
+                "Colorado",
+                "location"
+            ]
+        ],
+        "sent_id": "2442"
+    },
+    {
+        "text": "SAN ANTONIO 3 14 .176 12 1/2",
+        "target": "<entity type=\"organization\">SAN ANTONIO</entity> 3 14 .176 12 1/2",
+        "entities": [
+            [
+                "SAN ANTONIO",
+                "organization"
+            ]
+        ],
+        "sent_id": "3283"
+    },
+    {
+        "text": "MOSCOW 1996-12-06",
+        "target": "<entity type=\"location\">MOSCOW</entity> 1996-12-06",
+        "entities": [
+            [
+                "MOSCOW",
+                "location"
+            ]
+        ],
+        "sent_id": "1273"
+    },
+    {
+        "text": "SQUASH - MAHINDRA INTERNATIONAL SEMIFINAL RESULTS .",
+        "target": "SQUASH - <entity type=\"miscellaneous\">MAHINDRA INTERNATIONAL</entity> SEMIFINAL RESULTS .",
+        "entities": [
+            [
+                "MAHINDRA INTERNATIONAL",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "873"
+    },
+    {
+        "text": "24. Megan Gerety ( U.S. ) 1:19.39",
+        "target": "24. <entity type=\"person\">Megan Gerety</entity> ( <entity type=\"location\">U.S.</entity> ) 1:19.39",
+        "entities": [
+            [
+                "Megan Gerety",
+                "person"
+            ],
+            [
+                "U.S.",
+                "location"
+            ]
+        ],
+        "sent_id": "2421"
+    },
+    {
+        "text": "Frederick is serving a 347-year sentence .",
+        "target": "<entity type=\"person\">Frederick</entity> is serving a 347-year sentence .",
+        "entities": [
+            [
+                "Frederick",
+                "person"
+            ]
+        ],
+        "sent_id": "1675"
+    },
+    {
+        "text": "But overall , it was France and Canada who dominated the day .",
+        "target": "But overall , it was <entity type=\"location\">France</entity> and <entity type=\"location\">Canada</entity> who dominated the day .",
+        "entities": [
+            [
+                "France",
+                "location"
+            ],
+            [
+                "Canada",
+                "location"
+            ]
+        ],
+        "sent_id": "2605"
+    },
+    {
+        "text": "\" I sincerely believe that this unfortunate choice in giving the honour to such a controversial figure as Ramos Horta ...",
+        "target": "\" I sincerely believe that this unfortunate choice in giving the honour to such a controversial figure as <entity type=\"person\">Ramos Horta</entity> ...",
+        "entities": [
+            [
+                "Ramos Horta",
+                "person"
+            ]
+        ],
+        "sent_id": "1479"
+    },
+    {
+        "text": "Lester Lawhon was taken to a nearby airstrip where he was bludgeoned with a tire iron .",
+        "target": "<entity type=\"person\">Lester Lawhon</entity> was taken to a nearby airstrip where he was bludgeoned with a tire iron .",
+        "entities": [
+            [
+                "Lester Lawhon",
+                "person"
+            ]
+        ],
+        "sent_id": "1673"
+    },
+    {
+        "text": "Livingston 16 10 4 2 27 13 34",
+        "target": "<entity type=\"organization\">Livingston</entity> 16 10 4 2 27 13 34",
+        "entities": [
+            [
+                "Livingston",
+                "organization"
+            ]
+        ],
+        "sent_id": "2922"
+    },
+    {
+        "text": "A former cabinet minister in Central African Republic and his son were abducted from their home and murdered in growing ethnic violence in the capital Bangui , a government minister said on Friday .",
+        "target": "A former cabinet minister in <entity type=\"location\">Central African Republic</entity> and his son were abducted from their home and murdered in growing ethnic violence in the capital <entity type=\"location\">Bangui</entity> , a government minister said on Friday .",
+        "entities": [
+            [
+                "Central African Republic",
+                "location"
+            ],
+            [
+                "Bangui",
+                "location"
+            ]
+        ],
+        "sent_id": "1239"
+    },
+    {
+        "text": "6 - Marcus Gayle ( Wimbledon ) , Gary Speed ( Everton ) , Chris",
+        "target": "6 - <entity type=\"person\">Marcus Gayle</entity> ( <entity type=\"location\">Wimbledon</entity> ) , <entity type=\"person\">Gary Speed</entity> ( <entity type=\"organization\">Everton</entity> ) , <entity type=\"person\">Chris</entity>",
+        "entities": [
+            [
+                "Marcus Gayle",
+                "person"
+            ],
+            [
+                "Wimbledon",
+                "location"
+            ],
+            [
+                "Gary Speed",
+                "person"
+            ],
+            [
+                "Everton",
+                "organization"
+            ],
+            [
+                "Chris",
+                "person"
+            ]
+        ],
+        "sent_id": "2795"
+    },
+    {
+        "text": "No barges traded versus no trades Thursday .",
+        "target": "No barges traded versus no trades Thursday .",
+        "entities": [],
+        "sent_id": "1763"
+    },
+    {
+        "text": "Stranraer 15 5 2 8 13 21 17",
+        "target": "<entity type=\"organization\">Stranraer</entity> 15 5 2 8 13 21 17",
+        "entities": [
+            [
+                "Stranraer",
+                "organization"
+            ]
+        ],
+        "sent_id": "2927"
+    },
+    {
+        "text": "In November , New York City said it became the first U.S. municipality to offer bonds for sale in European markets by competitive bidding as it listed taxable bonds on the London Stock Exchange .",
+        "target": "In November , <entity type=\"location\">New York City</entity> said it became the first <entity type=\"location\">U.S.</entity> municipality to offer bonds for sale in <entity type=\"miscellaneous\">European</entity> markets by competitive bidding as it listed taxable bonds on the <entity type=\"organization\">London Stock Exchange</entity> .",
+        "entities": [
+            [
+                "New York City",
+                "location"
+            ],
+            [
+                "U.S.",
+                "location"
+            ],
+            [
+                "European",
+                "miscellaneous"
+            ],
+            [
+                "London Stock Exchange",
+                "organization"
+            ]
+        ],
+        "sent_id": "1142"
+    },
+    {
+        "text": "Police said the guards fired automatic weapons at each other .",
+        "target": "Police said the guards fired automatic weapons at each other .",
+        "entities": [],
+        "sent_id": "1998"
+    },
+    {
+        "text": "LUXEMBOURG CHRISTMAS MARKET GOES ON WORLD WIDE WEB .",
+        "target": "<entity type=\"location\">LUXEMBOURG</entity> CHRISTMAS MARKET GOES ON WORLD WIDE WEB .",
+        "entities": [
+            [
+                "LUXEMBOURG",
+                "location"
+            ]
+        ],
+        "sent_id": "1901"
+    },
+    {
+        "text": "Mansfield 21 5 9 7 21 22 24",
+        "target": "<entity type=\"organization\">Mansfield</entity> 21 5 9 7 21 22 24",
+        "entities": [
+            [
+                "Mansfield",
+                "organization"
+            ]
+        ],
+        "sent_id": "3037"
+    },
+    {
+        "text": "-- Milan newsroom +392 66129502",
+        "target": "-- <entity type=\"location\">Milan</entity> newsroom +392 66129502",
+        "entities": [
+            [
+                "Milan",
+                "location"
+            ]
+        ],
+        "sent_id": "1873"
+    },
+    {
+        "text": "Boroughmuir 31 Watsonians 35",
+        "target": "<entity type=\"organization\">Boroughmuir</entity> 31 <entity type=\"organization\">Watsonians</entity> 35",
+        "entities": [
+            [
+                "Boroughmuir",
+                "organization"
+            ],
+            [
+                "Watsonians",
+                "organization"
+            ]
+        ],
+        "sent_id": "2836"
+    },
+    {
+        "text": "5,812",
+        "target": "5,812",
+        "entities": [],
+        "sent_id": "2847"
+    },
+    {
+        "text": "WASHINGTON AT TAMPA BAY",
+        "target": "<entity type=\"organization\">WASHINGTON</entity> AT <entity type=\"location\">TAMPA BAY</entity>",
+        "entities": [
+            [
+                "WASHINGTON",
+                "organization"
+            ],
+            [
+                "TAMPA BAY",
+                "location"
+            ]
+        ],
+        "sent_id": "544"
+    },
+    {
+        "text": "Bristol City 21 9 6 6 36 23 33",
+        "target": "<entity type=\"organization\">Bristol City</entity> 21 9 6 6 36 23 33",
+        "entities": [
+            [
+                "Bristol City",
+                "organization"
+            ]
+        ],
+        "sent_id": "3004"
+    },
+    {
+        "text": "SOCCER - FRENCH LEAGUE STANDINGS .",
+        "target": "SOCCER - <entity type=\"miscellaneous\">FRENCH</entity> LEAGUE STANDINGS .",
+        "entities": [
+            [
+                "FRENCH",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "639"
+    },
+    {
+        "text": "5. France 853",
+        "target": "5. <entity type=\"location\">France</entity> 853",
+        "entities": [
+            [
+                "France",
+                "location"
+            ]
+        ],
+        "sent_id": "2523"
+    },
+    {
+        "text": "Indian rubber demand is seen outpacing local production in the 1996/97 April / March season and the trend will persist way into the next century , the chairman of the Rubber Board of India said on Friday .",
+        "target": "<entity type=\"miscellaneous\">Indian</entity> rubber demand is seen outpacing local production in the 1996/97 April / March season and the trend will persist way into the next century , the chairman of the <entity type=\"organization\">Rubber Board of India</entity> said on Friday .",
+        "entities": [
+            [
+                "Indian",
+                "miscellaneous"
+            ],
+            [
+                "Rubber Board of India",
+                "organization"
+            ]
+        ],
+        "sent_id": "1549"
+    },
+    {
+        "text": "6. Warwara Zelenskaja ( Russia ) 1:18.21",
+        "target": "6. <entity type=\"person\">Warwara Zelenskaja</entity> ( <entity type=\"location\">Russia</entity> ) 1:18.21",
+        "entities": [
+            [
+                "Warwara Zelenskaja",
+                "person"
+            ],
+            [
+                "Russia",
+                "location"
+            ]
+        ],
+        "sent_id": "2403"
+    },
+    {
+        "text": "GOLF - ZIMBABWE OPEN SECOND ROUND SCORES .",
+        "target": "GOLF - <entity type=\"miscellaneous\">ZIMBABWE OPEN</entity> SECOND ROUND SCORES .",
+        "entities": [
+            [
+                "ZIMBABWE OPEN",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "204"
+    },
+    {
+        "text": "TEMBAU DENPASAR , Bali 1996-12-07",
+        "target": "<entity type=\"location\">TEMBAU DENPASAR</entity> , <entity type=\"location\">Bali</entity> 1996-12-07",
+        "entities": [
+            [
+                "TEMBAU DENPASAR",
+                "location"
+            ],
+            [
+                "Bali",
+                "location"
+            ]
+        ],
+        "sent_id": "2706"
+    },
+    {
+        "text": "Kohl had wanted to meet Belo during the chancellor 's official visit to Indonesia last month , but the bishop was too busy in East Timor to come to Jakarta .",
+        "target": "<entity type=\"person\">Kohl</entity> had wanted to meet <entity type=\"person\">Belo</entity> during the chancellor 's official visit to <entity type=\"location\">Indonesia</entity> last month , but the bishop was too busy in <entity type=\"location\">East Timor</entity> to come to <entity type=\"location\">Jakarta</entity> .",
+        "entities": [
+            [
+                "Kohl",
+                "person"
+            ],
+            [
+                "Belo",
+                "person"
+            ],
+            [
+                "Indonesia",
+                "location"
+            ],
+            [
+                "East Timor",
+                "location"
+            ],
+            [
+                "Jakarta",
+                "location"
+            ]
+        ],
+        "sent_id": "1488"
+    },
+    {
+        "text": "Its previous close on Thursday was $ 15.80 .",
+        "target": "Its previous close on Thursday was $ 15.80 .",
+        "entities": [],
+        "sent_id": "2192"
+    },
+    {
+        "text": "FIFA chairman Joao Havelange said on Friday he would personally present AC Milan George Weah with world soccer 's fair play award despite the striker 's attack on Porto captain Jorge Costa .",
+        "target": "<entity type=\"organization\">FIFA</entity> chairman <entity type=\"person\">Joao Havelange</entity> said on Friday he would personally present <entity type=\"organization\">AC Milan</entity> <entity type=\"person\">George Weah</entity> with world soccer 's fair play award despite the striker 's attack on <entity type=\"organization\">Porto</entity> captain <entity type=\"person\">Jorge Costa</entity> .",
+        "entities": [
+            [
+                "FIFA",
+                "organization"
+            ],
+            [
+                "Joao Havelange",
+                "person"
+            ],
+            [
+                "AC Milan",
+                "organization"
+            ],
+            [
+                "George Weah",
+                "person"
+            ],
+            [
+                "Porto",
+                "organization"
+            ],
+            [
+                "Jorge Costa",
+                "person"
+            ]
+        ],
+        "sent_id": "798"
+    },
+    {
+        "text": "Demand limited .",
+        "target": "Demand limited .",
+        "entities": [],
+        "sent_id": "1829"
+    },
+    {
+        "text": "MONTREAL 11 14 4 99 104 26",
+        "target": "<entity type=\"organization\">MONTREAL</entity> 11 14 4 99 104 26",
+        "entities": [
+            [
+                "MONTREAL",
+                "organization"
+            ]
+        ],
+        "sent_id": "3327"
+    },
+    {
+        "text": "- 36 barges , two each week May-August , mid-Mississippi offered at a steady 135 percent , bid at 120 percent ( basis one each week ) .",
+        "target": "- 36 barges , two each week May-August , <entity type=\"miscellaneous\">mid-Mississippi</entity> offered at a steady 135 percent , bid at 120 percent ( basis one each week ) .",
+        "entities": [
+            [
+                "mid-Mississippi",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "1769"
+    },
+    {
+        "text": "Falkirk 17 9 2 6 18 15 29",
+        "target": "<entity type=\"organization\">Falkirk</entity> 17 9 2 6 18 15 29",
+        "entities": [
+            [
+                "Falkirk",
+                "organization"
+            ]
+        ],
+        "sent_id": "2911"
+    },
+    {
+        "text": "The relations with the Vatican have also been soured by a recent relaxation of Poland 's anti-abortion rules , which Kwasniewski signed into law last month .",
+        "target": "The relations with the <entity type=\"location\">Vatican</entity> have also been soured by a recent relaxation of <entity type=\"location\">Poland</entity> 's anti-abortion rules , which <entity type=\"person\">Kwasniewski</entity> signed into law last month .",
+        "entities": [
+            [
+                "Vatican",
+                "location"
+            ],
+            [
+                "Poland",
+                "location"
+            ],
+            [
+                "Kwasniewski",
+                "person"
+            ]
+        ],
+        "sent_id": "1302"
+    },
+    {
+        "text": "BRUSSELS 1996-12-06",
+        "target": "<entity type=\"location\">BRUSSELS</entity> 1996-12-06",
+        "entities": [
+            [
+                "BRUSSELS",
+                "location"
+            ]
+        ],
+        "sent_id": "1875"
+    },
+    {
+        "text": "SOCCER - SPANISH FIRST DIVISION RESULT / STANDINGS .",
+        "target": "SOCCER - <entity type=\"miscellaneous\">SPANISH</entity> FIRST DIVISION RESULT / STANDINGS .",
+        "entities": [
+            [
+                "SPANISH",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "3413"
+    },
+    {
+        "text": "\" All of us who have been victimised by terrorists ... need to stand together against terrorists .",
+        "target": "\" All of us who have been victimised by terrorists ... need to stand together against terrorists .",
+        "entities": [],
+        "sent_id": "2052"
+    },
+    {
+        "text": "Previous victories ( two ) : slalom , Lillehammer Norway , 1993 ; super G , Flachau , Austria , 1995 .",
+        "target": "Previous victories ( two ) : slalom , <entity type=\"location\">Lillehammer</entity> <entity type=\"location\">Norway</entity> , 1993 ; super G , <entity type=\"location\">Flachau</entity> , <entity type=\"location\">Austria</entity> , 1995 .",
+        "entities": [
+            [
+                "Lillehammer",
+                "location"
+            ],
+            [
+                "Norway",
+                "location"
+            ],
+            [
+                "Flachau",
+                "location"
+            ],
+            [
+                "Austria",
+                "location"
+            ]
+        ],
+        "sent_id": "2447"
+    },
+    {
+        "text": "The NTT official said the timing of the planned split-up was uncertain because more discussions by government officials were required .",
+        "target": "The <entity type=\"organization\">NTT</entity> official said the timing of the planned split-up was uncertain because more discussions by government officials were required .",
+        "entities": [
+            [
+                "NTT",
+                "organization"
+            ]
+        ],
+        "sent_id": "2376"
+    },
+    {
+        "text": "Indonesia 2 0 1 1 4 6 1",
+        "target": "<entity type=\"location\">Indonesia</entity> 2 0 1 1 4 6 1",
+        "entities": [
+            [
+                "Indonesia",
+                "location"
+            ]
+        ],
+        "sent_id": "3249"
+    },
+    {
+        "text": "MOSCOW 1996-12-06",
+        "target": "<entity type=\"location\">MOSCOW</entity> 1996-12-06",
+        "entities": [
+            [
+                "MOSCOW",
+                "location"
+            ]
+        ],
+        "sent_id": "1305"
+    },
+    {
+        "text": "40-1 Carlos Secretario 28-1 Sergi Barjuan",
+        "target": "40-1 <entity type=\"person\">Carlos Secretario</entity> 28-1 <entity type=\"person\">Sergi Barjuan</entity>",
+        "entities": [
+            [
+                "Carlos Secretario",
+                "person"
+            ],
+            [
+                "Sergi Barjuan",
+                "person"
+            ]
+        ],
+        "sent_id": "752"
+    },
+    {
+        "text": "SOFIA 1996-12-06",
+        "target": "<entity type=\"location\">SOFIA</entity> 1996-12-06",
+        "entities": [
+            [
+                "SOFIA",
+                "location"
+            ]
+        ],
+        "sent_id": "1366"
+    },
+    {
+        "text": "The Indonesian government has condemned the inclusion of Ramos Horta in the award , and Foreign Minister Ali Alatas said on Friday that Indonesia would not be represented officially at the ceremony in the Norwegian capital .",
+        "target": "The <entity type=\"miscellaneous\">Indonesian</entity> government has condemned the inclusion of <entity type=\"person\">Ramos Horta</entity> in the award , and Foreign Minister <entity type=\"person\">Ali Alatas</entity> said on Friday that <entity type=\"location\">Indonesia</entity> would not be represented officially at the ceremony in the <entity type=\"miscellaneous\">Norwegian</entity> capital .",
+        "entities": [
+            [
+                "Indonesian",
+                "miscellaneous"
+            ],
+            [
+                "Ramos Horta",
+                "person"
+            ],
+            [
+                "Ali Alatas",
+                "person"
+            ],
+            [
+                "Indonesia",
+                "location"
+            ],
+            [
+                "Norwegian",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "1478"
+    },
+    {
+        "text": "Russian Finance Minister Alexander Livshits warned financially-troubled Norilsk Nickel on Friday that it must pay overdue taxes , but analysts said the firm would not be liquidated or that its would assets would be frozen .",
+        "target": "<entity type=\"miscellaneous\">Russian</entity> Finance Minister <entity type=\"person\">Alexander Livshits</entity> warned financially-troubled <entity type=\"organization\">Norilsk Nickel</entity> on Friday that it must pay overdue taxes , but analysts said the firm would not be liquidated or that its would assets would be frozen .",
+        "entities": [
+            [
+                "Russian",
+                "miscellaneous"
+            ],
+            [
+                "Alexander Livshits",
+                "person"
+            ],
+            [
+                "Norilsk Nickel",
+                "organization"
+            ]
+        ],
+        "sent_id": "1306"
+    },
+    {
+        "text": "\" I think Homestake could come in as a white knight , but how much is someone willing to come in above the Newmont number .",
+        "target": "\" I think <entity type=\"organization\">Homestake</entity> could come in as a white knight , but how much is someone willing to come in above the <entity type=\"organization\">Newmont</entity> number .",
+        "entities": [
+            [
+                "Homestake",
+                "organization"
+            ],
+            [
+                "Newmont",
+                "organization"
+            ]
+        ],
+        "sent_id": "1169"
+    },
+    {
+        "text": "10. Xue Rulhong ( China ) 1:25.89",
+        "target": "10. <entity type=\"person\">Xue Rulhong</entity> ( <entity type=\"location\">China</entity> ) 1:25.89",
+        "entities": [
+            [
+                "Xue Rulhong",
+                "person"
+            ],
+            [
+                "China",
+                "location"
+            ]
+        ],
+        "sent_id": "2762"
+    },
+    {
+        "text": "W L T GF GA PTS",
+        "target": "W L T GF GA PTS",
+        "entities": [],
+        "sent_id": "378"
+    },
+    {
+        "text": "Stirling 16 3 3 10 18 33 12",
+        "target": "<entity type=\"organization\">Stirling</entity> 16 3 3 10 18 33 12",
+        "entities": [
+            [
+                "Stirling",
+                "organization"
+            ]
+        ],
+        "sent_id": "2918"
+    },
+    {
+        "text": "Brazil has been at the forefront in plastic surgery for decades and is home to one of the most famous surgeons , Ivo Pitangy .",
+        "target": "<entity type=\"location\">Brazil</entity> has been at the forefront in plastic surgery for decades and is home to one of the most famous surgeons , <entity type=\"person\">Ivo Pitangy</entity> .",
+        "entities": [
+            [
+                "Brazil",
+                "location"
+            ],
+            [
+                "Ivo Pitangy",
+                "person"
+            ]
+        ],
+        "sent_id": "1416"
+    },
+    {
+        "text": "Spain 's police seize petrol bombs , arrest five .",
+        "target": "<entity type=\"location\">Spain</entity> 's police seize petrol bombs , arrest five .",
+        "entities": [
+            [
+                "Spain",
+                "location"
+            ]
+        ],
+        "sent_id": "1850"
+    },
+    {
+        "text": "A mix-up in the Barcelona defence let Croatian international Suker in midway through the first half , and Montenegrin striker Mijatovic made it 2-0 after fine work by Clarence Seedorf just after the break .",
+        "target": "A mix-up in the <entity type=\"organization\">Barcelona</entity> defence let <entity type=\"miscellaneous\">Croatian</entity> international <entity type=\"person\">Suker</entity> in midway through the first half , and <entity type=\"miscellaneous\">Montenegrin</entity> striker <entity type=\"person\">Mijatovic</entity> made it 2-0 after fine work by <entity type=\"person\">Clarence Seedorf</entity> just after the break .",
+        "entities": [
+            [
+                "Barcelona",
+                "organization"
+            ],
+            [
+                "Croatian",
+                "miscellaneous"
+            ],
+            [
+                "Suker",
+                "person"
+            ],
+            [
+                "Montenegrin",
+                "miscellaneous"
+            ],
+            [
+                "Mijatovic",
+                "person"
+            ],
+            [
+                "Clarence Seedorf",
+                "person"
+            ]
+        ],
+        "sent_id": "3402"
+    },
+    {
+        "text": "Canadian Defence Minister Doug Young said on Thursday that the multinational force would probably not have to make food airdrops or intervene militarily in any major way .",
+        "target": "<entity type=\"miscellaneous\">Canadian</entity> Defence Minister <entity type=\"person\">Doug Young</entity> said on Thursday that the multinational force would probably not have to make food airdrops or intervene militarily in any major way .",
+        "entities": [
+            [
+                "Canadian",
+                "miscellaneous"
+            ],
+            [
+                "Doug Young",
+                "person"
+            ]
+        ],
+        "sent_id": "1197"
+    },
+    {
+        "text": "\" The procedure of bankruptcy will be applied , \" Tass quoted Livshits as telling Duma deputies about Norilsk .",
+        "target": "\" The procedure of bankruptcy will be applied , \" <entity type=\"organization\">Tass</entity> quoted <entity type=\"person\">Livshits</entity> as telling <entity type=\"organization\">Duma</entity> deputies about <entity type=\"organization\">Norilsk</entity> .",
+        "entities": [
+            [
+                "Tass",
+                "organization"
+            ],
+            [
+                "Livshits",
+                "person"
+            ],
+            [
+                "Duma",
+                "organization"
+            ],
+            [
+                "Norilsk",
+                "organization"
+            ]
+        ],
+        "sent_id": "1319"
+    },
+    {
+        "text": "Goalkeepers - Vitor Baia ( Barcelona , Spain ) , Rui Correia ( Braga ) :",
+        "target": "Goalkeepers - <entity type=\"person\">Vitor Baia</entity> ( <entity type=\"organization\">Barcelona</entity> , <entity type=\"location\">Spain</entity> ) , <entity type=\"person\">Rui Correia</entity> ( <entity type=\"organization\">Braga</entity> ) :",
+        "entities": [
+            [
+                "Vitor Baia",
+                "person"
+            ],
+            [
+                "Barcelona",
+                "organization"
+            ],
+            [
+                "Spain",
+                "location"
+            ],
+            [
+                "Rui Correia",
+                "person"
+            ],
+            [
+                "Braga",
+                "organization"
+            ]
+        ],
+        "sent_id": "696"
+    },
+    {
+        "text": "5. Ari-Pekka Nikkola ( Finland ) 256.4 ( 126 / 130.4 )",
+        "target": "5. <entity type=\"person\">Ari-Pekka Nikkola</entity> ( <entity type=\"location\">Finland</entity> ) 256.4 ( 126 / 130.4 )",
+        "entities": [
+            [
+                "Ari-Pekka Nikkola",
+                "person"
+            ],
+            [
+                "Finland",
+                "location"
+            ]
+        ],
+        "sent_id": "2688"
+    },
+    {
+        "text": "NFL AMERICAN FOOTBALL-STANDINGS AFTER THURSDAY 'S GAME .",
+        "target": "<entity type=\"organization\">NFL</entity> AMERICAN FOOTBALL-STANDINGS AFTER THURSDAY 'S GAME .",
+        "entities": [
+            [
+                "NFL",
+                "organization"
+            ]
+        ],
+        "sent_id": "485"
+    },
+    {
+        "text": "half-time full-time",
+        "target": "half-time full-time",
+        "entities": [],
+        "sent_id": "723"
+    },
+    {
+        "text": "Liverpool 0 Sheffield Wednesday 1 ( Whittingham 22 ) .",
+        "target": "<entity type=\"organization\">Liverpool</entity> 0 <entity type=\"organization\">Sheffield Wednesday</entity> 1 ( <entity type=\"person\">Whittingham</entity> 22 ) .",
+        "entities": [
+            [
+                "Liverpool",
+                "organization"
+            ],
+            [
+                "Sheffield Wednesday",
+                "organization"
+            ],
+            [
+                "Whittingham",
+                "person"
+            ]
+        ],
+        "sent_id": "2881"
+    },
+    {
+        "text": "Division One",
+        "target": "Division One",
+        "entities": [],
+        "sent_id": "2909"
+    },
+    {
+        "text": "rounds )",
+        "target": "rounds )",
+        "entities": [],
+        "sent_id": "2570"
+    },
+    {
+        "text": "A Lebanese military court on Friday sentenced to death in absentia the commander of Israel 's surrogate militia in south Lebanon on treason charges .",
+        "target": "A <entity type=\"miscellaneous\">Lebanese</entity> military court on Friday sentenced to death in absentia the commander of <entity type=\"location\">Israel</entity> 's surrogate militia in south <entity type=\"location\">Lebanon</entity> on treason charges .",
+        "entities": [
+            [
+                "Lebanese",
+                "miscellaneous"
+            ],
+            [
+                "Israel",
+                "location"
+            ],
+            [
+                "Lebanon",
+                "location"
+            ]
+        ],
+        "sent_id": "1588"
+    },
+    {
+        "text": "limited overs match between Australia and West Indies on Friday :",
+        "target": "limited overs match between <entity type=\"location\">Australia</entity> and <entity type=\"location\">West Indies</entity> on Friday :",
+        "entities": [
+            [
+                "Australia",
+                "location"
+            ],
+            [
+                "West Indies",
+                "location"
+            ]
+        ],
+        "sent_id": "251"
+    },
+    {
+        "text": "Cambridge United 0 Woking 2",
+        "target": "<entity type=\"organization\">Cambridge United</entity> 0 <entity type=\"organization\">Woking</entity> 2",
+        "entities": [
+            [
+                "Cambridge United",
+                "organization"
+            ],
+            [
+                "Woking",
+                "organization"
+            ]
+        ],
+        "sent_id": "3106"
+    },
+    {
+        "text": "VfL Bochum 16 7 6 3 23 21 27",
+        "target": "<entity type=\"organization\">VfL Bochum</entity> 16 7 6 3 23 21 27",
+        "entities": [
+            [
+                "VfL Bochum",
+                "organization"
+            ]
+        ],
+        "sent_id": "605"
+    },
+    {
+        "text": "Coleraine 10 7 1 2 18 11 22",
+        "target": "<entity type=\"organization\">Coleraine</entity> 10 7 1 2 18 11 22",
+        "entities": [
+            [
+                "Coleraine",
+                "organization"
+            ]
+        ],
+        "sent_id": "2809"
+    },
+    {
+        "text": "Indian officials blame revenge-minded Moslem underworld gangs in Bombay for a string of bombings in the city three months later that killed 260 people .",
+        "target": "<entity type=\"miscellaneous\">Indian</entity> officials blame revenge-minded <entity type=\"miscellaneous\">Moslem</entity> underworld gangs in <entity type=\"location\">Bombay</entity> for a string of bombings in the city three months later that killed 260 people .",
+        "entities": [
+            [
+                "Indian",
+                "miscellaneous"
+            ],
+            [
+                "Moslem",
+                "miscellaneous"
+            ],
+            [
+                "Bombay",
+                "location"
+            ]
+        ],
+        "sent_id": "1890"
+    },
+    {
+        "text": "Hearts 0 Raith 0",
+        "target": "<entity type=\"organization\">Hearts</entity> 0 <entity type=\"organization\">Raith</entity> 0",
+        "entities": [
+            [
+                "Hearts",
+                "organization"
+            ],
+            [
+                "Raith",
+                "organization"
+            ]
+        ],
+        "sent_id": "3056"
+    },
+    {
+        "text": "York 21 7 5 9 23 29 26",
+        "target": "<entity type=\"organization\">York</entity> 21 7 5 9 23 29 26",
+        "entities": [
+            [
+                "York",
+                "organization"
+            ]
+        ],
+        "sent_id": "3007"
+    },
+    {
+        "text": "will exacerbate the problem in finding a solution ( to East Timor ) , \" Alatas said on Friday .",
+        "target": "will exacerbate the problem in finding a solution ( to <entity type=\"location\">East Timor</entity> ) , \" <entity type=\"person\">Alatas</entity> said on Friday .",
+        "entities": [
+            [
+                "East Timor",
+                "location"
+            ],
+            [
+                "Alatas",
+                "person"
+            ]
+        ],
+        "sent_id": "1480"
+    },
+    {
+        "text": "C. Ambrose run out 2",
+        "target": "<entity type=\"person\">C. Ambrose</entity> run out 2",
+        "entities": [
+            [
+                "C. Ambrose",
+                "person"
+            ]
+        ],
+        "sent_id": "262"
+    },
+    {
+        "text": "PACIFIC DIVISION",
+        "target": "<entity type=\"location\">PACIFIC</entity> DIVISION",
+        "entities": [
+            [
+                "PACIFIC",
+                "location"
+            ]
+        ],
+        "sent_id": "3285"
+    },
+    {
+        "text": "HAMBURG 1996-12-06",
+        "target": "<entity type=\"location\">HAMBURG</entity> 1996-12-06",
+        "entities": [
+            [
+                "HAMBURG",
+                "location"
+            ]
+        ],
+        "sent_id": "2158"
+    },
+    {
+        "text": "The cause of the crash was not yet known .",
+        "target": "The cause of the crash was not yet known .",
+        "entities": [],
+        "sent_id": "1959"
+    },
+    {
+        "text": "LATEST ACTUAL",
+        "target": "LATEST ACTUAL",
+        "entities": [],
+        "sent_id": "2306"
+    },
+    {
+        "text": "The Lombardi Award is presented to the college lineman who , in addition to outstanding effort on the field , best exemplifies the characteristics and discipline of Vince Lombardi , legendary coach of the Green Bay Packers .",
+        "target": "The <entity type=\"miscellaneous\">Lombardi Award</entity> is presented to the college lineman who , in addition to outstanding effort on the field , best exemplifies the characteristics and discipline of <entity type=\"person\">Vince Lombardi</entity> , legendary coach of the <entity type=\"organization\">Green Bay Packers</entity> .",
+        "entities": [
+            [
+                "Lombardi Award",
+                "miscellaneous"
+            ],
+            [
+                "Vince Lombardi",
+                "person"
+            ],
+            [
+                "Green Bay Packers",
+                "organization"
+            ]
+        ],
+        "sent_id": "564"
+    },
+    {
+        "text": "2-1 8-1 2-1 10-1",
+        "target": "2-1 8-1 2-1 10-1",
+        "entities": [],
+        "sent_id": "710"
+    },
+    {
+        "text": "LONDON 1996-12-07",
+        "target": "<entity type=\"location\">LONDON</entity> 1996-12-07",
+        "entities": [
+            [
+                "LONDON",
+                "location"
+            ]
+        ],
+        "sent_id": "3044"
+    },
+    {
+        "text": "Wk to Date - None Week Ago - 800 Year Ago - 900",
+        "target": "Wk to Date - None Week Ago - 800 Year Ago - 900",
+        "entities": [],
+        "sent_id": "1694"
+    },
+    {
+        "text": "Peters left a meeting between NZ First and National negotiators to spend 20 minutes speaking to Labour leader Helen Clark .",
+        "target": "<entity type=\"person\">Peters</entity> left a meeting between <entity type=\"organization\">NZ First</entity> and <entity type=\"organization\">National</entity> negotiators to spend 20 minutes speaking to <entity type=\"organization\">Labour</entity> leader <entity type=\"person\">Helen Clark</entity> .",
+        "entities": [
+            [
+                "Peters",
+                "person"
+            ],
+            [
+                "NZ First",
+                "organization"
+            ],
+            [
+                "National",
+                "organization"
+            ],
+            [
+                "Labour",
+                "organization"
+            ],
+            [
+                "Helen Clark",
+                "person"
+            ]
+        ],
+        "sent_id": "2238"
+    },
+    {
+        "text": "It said Kurdistan Workers Party ( PKK ) guerrillas sometimes know the layout of mined areas along the border better than the security forces .",
+        "target": "It said <entity type=\"organization\">Kurdistan Workers Party</entity> ( <entity type=\"organization\">PKK</entity> ) guerrillas sometimes know the layout of mined areas along the border better than the security forces .",
+        "entities": [
+            [
+                "Kurdistan Workers Party",
+                "organization"
+            ],
+            [
+                "PKK",
+                "organization"
+            ]
+        ],
+        "sent_id": "1986"
+    },
+    {
+        "text": "19. Spela Bracun ( Slovenia ) 1:50.40",
+        "target": "19. <entity type=\"person\">Spela Bracun</entity> ( <entity type=\"location\">Slovenia</entity> ) 1:50.40",
+        "entities": [
+            [
+                "Spela Bracun",
+                "person"
+            ],
+            [
+                "Slovenia",
+                "location"
+            ]
+        ],
+        "sent_id": "2551"
+    },
+    {
+        "text": "Shimazaki Kyoko ( Japan ) 41.45 ; 6 .",
+        "target": "<entity type=\"person\">Shimazaki Kyoko</entity> ( <entity type=\"location\">Japan</entity> ) 41.45 ; 6 .",
+        "entities": [
+            [
+                "Shimazaki Kyoko",
+                "person"
+            ],
+            [
+                "Japan",
+                "location"
+            ]
+        ],
+        "sent_id": "2735"
+    },
+    {
+        "text": "\" The move is expected to give a shot in the arm to the economic expansion of Guangxi and southwest China as a whole , \" the agency said but gave no further details .",
+        "target": "\" The move is expected to give a shot in the arm to the economic expansion of <entity type=\"location\">Guangxi</entity> and southwest <entity type=\"location\">China</entity> as a whole , \" the agency said but gave no further details .",
+        "entities": [
+            [
+                "Guangxi",
+                "location"
+            ],
+            [
+                "China",
+                "location"
+            ]
+        ],
+        "sent_id": "2294"
+    },
+    {
+        "text": "Investigators were due to fly to Stephenville later on Friday .",
+        "target": "Investigators were due to fly to <entity type=\"location\">Stephenville</entity> later on Friday .",
+        "entities": [
+            [
+                "Stephenville",
+                "location"
+            ]
+        ],
+        "sent_id": "1960"
+    },
+    {
+        "text": "Attendance 29,300",
+        "target": "Attendance 29,300",
+        "entities": [],
+        "sent_id": "684"
+    },
+    {
+        "text": "Borussia Dortmund 16 9 4 3 33 17 31",
+        "target": "<entity type=\"organization\">Borussia Dortmund</entity> 16 9 4 3 33 17 31",
+        "entities": [
+            [
+                "Borussia Dortmund",
+                "organization"
+            ]
+        ],
+        "sent_id": "603"
+    },
+    {
+        "text": "COAL - Lantau Peak - 120,000 tones coal Hay Point or Newcastle / Kaohsiung 20-30/1 $ 5.25 and $ 5.85 fio respectively 40,000-35,000 / 28,000 shinc China Steel .",
+        "target": "COAL - <entity type=\"miscellaneous\">Lantau Peak</entity> - 120,000 tones coal <entity type=\"location\">Hay Point</entity> or <entity type=\"location\">Newcastle</entity> / <entity type=\"location\">Kaohsiung</entity> 20-30/1 $ 5.25 and $ 5.85 fio respectively 40,000-35,000 / 28,000 shinc <entity type=\"organization\">China Steel</entity> .",
+        "entities": [
+            [
+                "Lantau Peak",
+                "miscellaneous"
+            ],
+            [
+                "Hay Point",
+                "location"
+            ],
+            [
+                "Newcastle",
+                "location"
+            ],
+            [
+                "Kaohsiung",
+                "location"
+            ],
+            [
+                "China Steel",
+                "organization"
+            ]
+        ],
+        "sent_id": "1908"
+    },
+    {
+        "text": "Brazil 's most sought-after beauty treatment is liposuction in which fat is sucked away from areas of the body , with about 30,000 operations a year at a cost of $ 3,000 to $ 4,000 each .",
+        "target": "<entity type=\"location\">Brazil</entity> 's most sought-after beauty treatment is liposuction in which fat is sucked away from areas of the body , with about 30,000 operations a year at a cost of $ 3,000 to $ 4,000 each .",
+        "entities": [
+            [
+                "Brazil",
+                "location"
+            ]
+        ],
+        "sent_id": "1421"
+    },
+    {
+        "text": "Sunderland 1 ( Melville 83 ) Wimbledon 3 ( Ekoku 8 , 29 , Holdsworth",
+        "target": "<entity type=\"organization\">Sunderland</entity> 1 ( <entity type=\"person\">Melville</entity> 83 ) <entity type=\"location\">Wimbledon</entity> 3 ( <entity type=\"person\">Ekoku</entity> 8 , 29 , <entity type=\"person\">Holdsworth</entity>",
+        "entities": [
+            [
+                "Sunderland",
+                "organization"
+            ],
+            [
+                "Melville",
+                "person"
+            ],
+            [
+                "Wimbledon",
+                "location"
+            ],
+            [
+                "Ekoku",
+                "person"
+            ],
+            [
+                "Holdsworth",
+                "person"
+            ]
+        ],
+        "sent_id": "2889"
+    },
+    {
+        "text": "20. Spela Bracun ( Slovenia ) 1:19.07",
+        "target": "20. <entity type=\"person\">Spela Bracun</entity> ( <entity type=\"location\">Slovenia</entity> ) 1:19.07",
+        "entities": [
+            [
+                "Spela Bracun",
+                "person"
+            ],
+            [
+                "Slovenia",
+                "location"
+            ]
+        ],
+        "sent_id": "2417"
+    },
+    {
+        "text": "Week to Date 3,500 Sm Pd Lst Wk 800 Sm Pd Lst Yr N / A",
+        "target": "Week to Date 3,500 Sm Pd Lst Wk 800 Sm Pd Lst Yr N / A",
+        "entities": [],
+        "sent_id": "1833"
+    },
+    {
+        "text": "Skinheads attack Bratislava Rabbi - police .",
+        "target": "Skinheads attack <entity type=\"location\">Bratislava</entity> Rabbi - police .",
+        "entities": [
+            [
+                "Bratislava",
+                "location"
+            ]
+        ],
+        "sent_id": "1276"
+    },
+    {
+        "text": "Analysts said the government , while anxious about Norilsk 's debts , is highly unlikely to bring the nickel , copper , cobalt , platinum and platinum group metals producer to its knees or take measures that could significantly affect output .",
+        "target": "Analysts said the government , while anxious about <entity type=\"organization\">Norilsk</entity> 's debts , is highly unlikely to bring the nickel , copper , cobalt , platinum and platinum group metals producer to its knees or take measures that could significantly affect output .",
+        "entities": [
+            [
+                "Norilsk",
+                "organization"
+            ]
+        ],
+        "sent_id": "1317"
+    },
+    {
+        "text": "Previous day estimated Steer and Heifer Cow and Bull",
+        "target": "Previous day estimated Steer and Heifer Cow and Bull",
+        "entities": [],
+        "sent_id": "1628"
+    },
+    {
+        "text": "Maccabi Haifa 1 Hapoel Taibe 1",
+        "target": "<entity type=\"organization\">Maccabi Haifa</entity> 1 <entity type=\"organization\">Hapoel Taibe</entity> 1",
+        "entities": [
+            [
+                "Maccabi Haifa",
+                "organization"
+            ],
+            [
+                "Hapoel Taibe",
+                "organization"
+            ]
+        ],
+        "sent_id": "3205"
+    },
+    {
+        "text": "He estimated the company 's regional debts at least one trillion roubles and said 30 percent of the giant Krasnoyarsk regional budget was fuelled by Norilsk money .",
+        "target": "He estimated the company 's regional debts at least one trillion roubles and said 30 percent of the giant <entity type=\"location\">Krasnoyarsk</entity> regional budget was fuelled by <entity type=\"organization\">Norilsk</entity> money .",
+        "entities": [
+            [
+                "Krasnoyarsk",
+                "location"
+            ],
+            [
+                "Norilsk",
+                "organization"
+            ]
+        ],
+        "sent_id": "1322"
+    },
+    {
+        "text": "With violence spiralling out of control , France voiced backing for the elected Bangui government but said its troops based in the former colony under defence pacts would not help it combat army mutineers .",
+        "target": "With violence spiralling out of control , <entity type=\"location\">France</entity> voiced backing for the elected <entity type=\"location\">Bangui</entity> government but said its troops based in the former colony under defence pacts would not help it combat army mutineers .",
+        "entities": [
+            [
+                "France",
+                "location"
+            ],
+            [
+                "Bangui",
+                "location"
+            ]
+        ],
+        "sent_id": "1240"
+    },
+    {
+        "text": "February was down 22 cents at the close , while other deferreds were 4.5 to nine cents lower .",
+        "target": "February was down 22 cents at the close , while other deferreds were 4.5 to nine cents lower .",
+        "entities": [],
+        "sent_id": "1756"
+    },
+    {
+        "text": "Result of a EuroLeague basketball match on Thursday :",
+        "target": "Result of a <entity type=\"miscellaneous\">EuroLeague</entity> basketball match on Thursday :",
+        "entities": [
+            [
+                "EuroLeague",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "853"
+    },
+    {
+        "text": "Nadim Ladki",
+        "target": "<entity type=\"person\">Nadim Ladki</entity>",
+        "entities": [
+            [
+                "Nadim Ladki",
+                "person"
+            ]
+        ],
+        "sent_id": "1"
+    },
+    {
+        "text": "His sentence had been reduced to 15 years in 1993 .",
+        "target": "His sentence had been reduced to 15 years in 1993 .",
+        "entities": [],
+        "sent_id": "2061"
+    },
+    {
+        "text": "Y-GREEN BAY 10 3 0 346 191",
+        "target": "<entity type=\"miscellaneous\">Y-GREEN BAY</entity> 10 3 0 346 191",
+        "entities": [
+            [
+                "Y-GREEN BAY",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "522"
+    },
+    {
+        "text": "SUNDAY , DECEMBER 8",
+        "target": "SUNDAY , DECEMBER 8",
+        "entities": [],
+        "sent_id": "536"
+    },
+    {
+        "text": "RIO DE JANEIRO 1996-12-05",
+        "target": "<entity type=\"location\">RIO DE JANEIRO</entity> 1996-12-05",
+        "entities": [
+            [
+                "RIO DE JANEIRO",
+                "location"
+            ]
+        ],
+        "sent_id": "227"
+    },
+    {
+        "text": "\" The perspective on growth is such that reasonably we can think that somewhere between 65 and 80 litres per year is certainly reachable , \" van Boxmeer said on Polish per-capita beer consumption , currently around 40 litres .",
+        "target": "\" The perspective on growth is such that reasonably we can think that somewhere between 65 and 80 litres per year is certainly reachable , \" van <entity type=\"person\">Boxmeer</entity> said on <entity type=\"miscellaneous\">Polish</entity> per-capita beer consumption , currently around 40 litres .",
+        "entities": [
+            [
+                "Boxmeer",
+                "person"
+            ],
+            [
+                "Polish",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "954"
+    },
+    {
+        "text": "The bodies were found on Thursday in an open field about two km ( one mile ) further away , said Dofora and other witnesses .",
+        "target": "The bodies were found on Thursday in an open field about two km ( one mile ) further away , said <entity type=\"person\">Dofora</entity> and other witnesses .",
+        "entities": [
+            [
+                "Dofora",
+                "person"
+            ]
+        ],
+        "sent_id": "1248"
+    },
+    {
+        "text": "18. Marianne Brechu ( France ) 1:19.02",
+        "target": "18. <entity type=\"person\">Marianne Brechu</entity> ( <entity type=\"location\">France</entity> ) 1:19.02",
+        "entities": [
+            [
+                "Marianne Brechu",
+                "person"
+            ],
+            [
+                "France",
+                "location"
+            ]
+        ],
+        "sent_id": "2415"
+    },
+    {
+        "text": "Chile and Mexico will start negotiations next year to broaden their free trade agreement to include services and investments , Finance Minister Eduardo Aninat said .",
+        "target": "<entity type=\"location\">Chile</entity> and <entity type=\"location\">Mexico</entity> will start negotiations next year to broaden their free trade agreement to include services and investments , <entity type=\"organization\">Finance</entity> Minister <entity type=\"person\">Eduardo Aninat</entity> said .",
+        "entities": [
+            [
+                "Chile",
+                "location"
+            ],
+            [
+                "Mexico",
+                "location"
+            ],
+            [
+                "Finance",
+                "organization"
+            ],
+            [
+                "Eduardo Aninat",
+                "person"
+            ]
+        ],
+        "sent_id": "1463"
+    },
+    {
+        "text": "DES MOINES 1996-12-06",
+        "target": "<entity type=\"location\">DES MOINES</entity> 1996-12-06",
+        "entities": [
+            [
+                "DES MOINES",
+                "location"
+            ]
+        ],
+        "sent_id": "1681"
+    },
+    {
+        "text": "Chinese girl nearly dies from cigarette smoke .",
+        "target": "<entity type=\"miscellaneous\">Chinese</entity> girl nearly dies from cigarette smoke .",
+        "entities": [
+            [
+                "Chinese",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2278"
+    },
+    {
+        "text": "LONDON 1996-12-06",
+        "target": "<entity type=\"location\">LONDON</entity> 1996-12-06",
+        "entities": [
+            [
+                "LONDON",
+                "location"
+            ]
+        ],
+        "sent_id": "1041"
+    },
+    {
+        "text": "\" They could freeze metal , but it 's not a long-term solution to the problem and would n't put money in the budget , \" Chernyshev said . \"",
+        "target": "\" They could freeze metal , but it 's not a long-term solution to the problem and would n't put money in the budget , \" <entity type=\"person\">Chernyshev</entity> said . \"",
+        "entities": [
+            [
+                "Chernyshev",
+                "person"
+            ]
+        ],
+        "sent_id": "1313"
+    },
+    {
+        "text": "To win : 6-5 Real Madrid ; 7-4 Barcelona",
+        "target": "To win : 6-5 <entity type=\"organization\">Real Madrid</entity> ; 7-4 <entity type=\"organization\">Barcelona</entity>",
+        "entities": [
+            [
+                "Real Madrid",
+                "organization"
+            ],
+            [
+                "Barcelona",
+                "organization"
+            ]
+        ],
+        "sent_id": "704"
+    },
+    {
+        "text": "Addressing a convention on Italian unity in Mantua , where the party has set up its own \" parliament of the north \" , Scalfaro made a direct appeal to what he called \" my friends from the League \" to work instead for federal reform .",
+        "target": "Addressing a convention on <entity type=\"miscellaneous\">Italian</entity> unity in Mantua , where the party has set up its own \" parliament of the north \" , <entity type=\"person\">Scalfaro</entity> made a direct appeal to what he called \" my friends from the <entity type=\"organization\">League</entity> \" to work instead for federal reform .",
+        "entities": [
+            [
+                "Italian",
+                "miscellaneous"
+            ],
+            [
+                "Scalfaro",
+                "person"
+            ],
+            [
+                "League",
+                "organization"
+            ]
+        ],
+        "sent_id": "2125"
+    },
+    {
+        "text": "Provisional results from",
+        "target": "Provisional results from",
+        "entities": [],
+        "sent_id": "2396"
+    },
+    {
+        "text": "Network operators said the draft laws would hold them responsible for copyright infringements in the system and expose them to multi-billion-dollar liabilities .",
+        "target": "<entity type=\"miscellaneous\">Network</entity> operators said the draft laws would hold them responsible for copyright infringements in the system and expose them to multi-billion-dollar liabilities .",
+        "entities": [
+            [
+                "Network",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2106"
+    },
+    {
+        "text": "3. Canada I ( Pierre Lueders , Dave MacEachern ) 1:45.94",
+        "target": "3. <entity type=\"organization\">Canada I</entity> ( <entity type=\"person\">Pierre Lueders</entity> , <entity type=\"person\">Dave MacEachern</entity> ) 1:45.94",
+        "entities": [
+            [
+                "Canada I",
+                "organization"
+            ],
+            [
+                "Pierre Lueders",
+                "person"
+            ],
+            [
+                "Dave MacEachern",
+                "person"
+            ]
+        ],
+        "sent_id": "2618"
+    },
+    {
+        "text": "Clarke denied on Thursday he had threatened to resign and said his position on the single currency was in tune with that of Prime Minister John Major .",
+        "target": "<entity type=\"person\">Clarke</entity> denied on Thursday he had threatened to resign and said his position on the single currency was in tune with that of Prime Minister <entity type=\"person\">John Major</entity> .",
+        "entities": [
+            [
+                "Clarke",
+                "person"
+            ],
+            [
+                "John Major",
+                "person"
+            ]
+        ],
+        "sent_id": "2205"
+    },
+    {
+        "text": "East Stirling 16 2 5 9 14 25 11",
+        "target": "<entity type=\"organization\">East Stirling</entity> 16 2 5 9 14 25 11",
+        "entities": [
+            [
+                "East Stirling",
+                "organization"
+            ]
+        ],
+        "sent_id": "2941"
+    },
+    {
+        "text": "5. Florence Masnada ( France ) 82",
+        "target": "5. <entity type=\"person\">Florence Masnada</entity> ( <entity type=\"location\">France</entity> ) 82",
+        "entities": [
+            [
+                "Florence Masnada",
+                "person"
+            ],
+            [
+                "France",
+                "location"
+            ]
+        ],
+        "sent_id": "2502"
+    },
+    {
+        "text": "RUGBY UNION - CAMPESE SIGNS OFF WITH TRY IN WALLABY ROMP .",
+        "target": "<entity type=\"organization\">RUGBY UNION</entity> - <entity type=\"person\">CAMPESE</entity> SIGNS OFF WITH TRY IN <entity type=\"location\">WALLABY</entity> ROMP .",
+        "entities": [
+            [
+                "RUGBY UNION",
+                "organization"
+            ],
+            [
+                "CAMPESE",
+                "person"
+            ],
+            [
+                "WALLABY",
+                "location"
+            ]
+        ],
+        "sent_id": "3122"
+    },
+    {
+        "text": "Division Two",
+        "target": "Division Two",
+        "entities": [],
+        "sent_id": "2993"
+    },
+    {
+        "text": "Dunfermline 14 4 5 5 19 27 17",
+        "target": "<entity type=\"organization\">Dunfermline</entity> 14 4 5 5 19 27 17",
+        "entities": [
+            [
+                "Dunfermline",
+                "organization"
+            ]
+        ],
+        "sent_id": "2906"
+    },
+    {
+        "text": "soccer match played on Friday :",
+        "target": "soccer match played on Friday :",
+        "entities": [],
+        "sent_id": "568"
+    },
+    {
+        "text": "Takuya Takagi headed the winner in the 88th minute of the group C game after goalkeeper Salem Bitar spoiled a mistake-free display by allowing the ball to slip under his body .",
+        "target": "<entity type=\"person\">Takuya Takagi</entity> headed the winner in the 88th minute of the group C game after goalkeeper <entity type=\"person\">Salem Bitar</entity> spoiled a mistake-free display by allowing the ball to slip under his body .",
+        "entities": [
+            [
+                "Takuya Takagi",
+                "person"
+            ],
+            [
+                "Salem Bitar",
+                "person"
+            ]
+        ],
+        "sent_id": "37"
+    },
+    {
+        "text": "Slaughter steers and heifers were not established Thursday .",
+        "target": "Slaughter steers and heifers were not established Thursday .",
+        "entities": [],
+        "sent_id": "1828"
+    },
+    {
+        "text": "On Friday , some students told Reuters that they were still dissatisfied with the ruling State Law and Order Restoration Council 's ( SLORC ) handling of their demands .",
+        "target": "On Friday , some students told <entity type=\"organization\">Reuters</entity> that they were still dissatisfied with the ruling <entity type=\"organization\">State Law and Order Restoration Council</entity> 's ( <entity type=\"organization\">SLORC</entity> ) handling of their demands .",
+        "entities": [
+            [
+                "Reuters",
+                "organization"
+            ],
+            [
+                "State Law and Order Restoration Council",
+                "organization"
+            ],
+            [
+                "SLORC",
+                "organization"
+            ]
+        ],
+        "sent_id": "2259"
+    },
+    {
+        "text": "3-0 20-1 3-0 28-1",
+        "target": "3-0 20-1 3-0 28-1",
+        "entities": [],
+        "sent_id": "711"
+    },
+    {
+        "text": "Mansfield 0 Stockport 3",
+        "target": "<entity type=\"organization\">Mansfield</entity> 0 <entity type=\"organization\">Stockport</entity> 3",
+        "entities": [
+            [
+                "Mansfield",
+                "organization"
+            ],
+            [
+                "Stockport",
+                "organization"
+            ]
+        ],
+        "sent_id": "3114"
+    },
+    {
+        "text": "Plymouth 4 Exeter 1",
+        "target": "<entity type=\"organization\">Plymouth</entity> 4 <entity type=\"organization\">Exeter</entity> 1",
+        "entities": [
+            [
+                "Plymouth",
+                "organization"
+            ],
+            [
+                "Exeter",
+                "organization"
+            ]
+        ],
+        "sent_id": "141"
+    },
+    {
+        "text": "Linfield 10 4 3 3 13 10 15",
+        "target": "<entity type=\"organization\">Linfield</entity> 10 4 3 3 13 10 15",
+        "entities": [
+            [
+                "Linfield",
+                "organization"
+            ]
+        ],
+        "sent_id": "2810"
+    },
+    {
+        "text": "WELLINGTON 1996-12-06",
+        "target": "<entity type=\"location\">WELLINGTON</entity> 1996-12-06",
+        "entities": [
+            [
+                "WELLINGTON",
+                "location"
+            ]
+        ],
+        "sent_id": "2236"
+    },
+    {
+        "text": "K.T. Arasu",
+        "target": "<entity type=\"location\">K.T. Arasu</entity>",
+        "entities": [
+            [
+                "K.T. Arasu",
+                "location"
+            ]
+        ],
+        "sent_id": "2315"
+    },
+    {
+        "text": "12/15/2006 145M 4.70 4.70",
+        "target": "12/15/2006 145M 4.70 4.70",
+        "entities": [],
+        "sent_id": "1644"
+    },
+    {
+        "text": "Cliftonville 1 Portadown 1",
+        "target": "<entity type=\"organization\">Cliftonville</entity> 1 <entity type=\"organization\">Portadown</entity> 1",
+        "entities": [
+            [
+                "Cliftonville",
+                "organization"
+            ],
+            [
+                "Portadown",
+                "organization"
+            ]
+        ],
+        "sent_id": "2804"
+    },
+    {
+        "text": "Turkey hindered by own landmines on Syrian border .",
+        "target": "<entity type=\"location\">Turkey</entity> hindered by own landmines on <entity type=\"miscellaneous\">Syrian</entity> border .",
+        "entities": [
+            [
+                "Turkey",
+                "location"
+            ],
+            [
+                "Syrian",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "1980"
+    },
+    {
+        "text": "Mongolia 's state copyright official , Gundegma Jargalshaihan , said apologetically that he had just arrived from Ulan Bator and was not aware of the details of the digital agenda .",
+        "target": "<entity type=\"location\">Mongolia</entity> 's state copyright official , <entity type=\"person\">Gundegma Jargalshaihan</entity> , said apologetically that he had just arrived from <entity type=\"location\">Ulan Bator</entity> and was not aware of the details of the digital agenda .",
+        "entities": [
+            [
+                "Mongolia",
+                "location"
+            ],
+            [
+                "Gundegma Jargalshaihan",
+                "person"
+            ],
+            [
+                "Ulan Bator",
+                "location"
+            ]
+        ],
+        "sent_id": "2092"
+    },
+    {
+        "text": "minute 45.91 seconds ( 52.90 / 53.01 )",
+        "target": "minute 45.91 seconds ( 52.90 / 53.01 )",
+        "entities": [],
+        "sent_id": "2615"
+    },
+    {
+        "text": "Norilsk 's new majority shareholder , Russian commerical bank Uneximbank , has said it is reorganising metal exports through Interrosimpex in order to boost revenues .",
+        "target": "<entity type=\"organization\">Norilsk</entity> 's new majority shareholder , <entity type=\"miscellaneous\">Russian</entity> commerical bank <entity type=\"organization\">Uneximbank</entity> , has said it is reorganising metal exports through <entity type=\"organization\">Interrosimpex</entity> in order to boost revenues .",
+        "entities": [
+            [
+                "Norilsk",
+                "organization"
+            ],
+            [
+                "Russian",
+                "miscellaneous"
+            ],
+            [
+                "Uneximbank",
+                "organization"
+            ],
+            [
+                "Interrosimpex",
+                "organization"
+            ]
+        ],
+        "sent_id": "1323"
+    },
+    {
+        "text": "Any deal , friendly or hostile , would almost assuredly be a stock swap , which is necessary to preserve the tax-free , pooling-of-interest accounting , they said .",
+        "target": "Any deal , friendly or hostile , would almost assuredly be a stock swap , which is necessary to preserve the tax-free , pooling-of-interest accounting , they said .",
+        "entities": [],
+        "sent_id": "1160"
+    },
+    {
+        "text": "Curr Wk YTD Yr Ago Curr Wk YTD Yr Ago",
+        "target": "Curr Wk YTD Yr Ago Curr Wk YTD Yr Ago",
+        "entities": [],
+        "sent_id": "1721"
+    },
+    {
+        "text": "NEW JERSEY AT BOSTON",
+        "target": "<entity type=\"organization\">NEW JERSEY</entity> AT <entity type=\"location\">BOSTON</entity>",
+        "entities": [
+            [
+                "NEW JERSEY",
+                "organization"
+            ],
+            [
+                "BOSTON",
+                "location"
+            ]
+        ],
+        "sent_id": "476"
+    },
+    {
+        "text": "It recorded the day 's low of $ 15.475 and the day 's high of $ 15.725 .",
+        "target": "It recorded the day 's low of $ 15.475 and the day 's high of $ 15.725 .",
+        "entities": [],
+        "sent_id": "989"
+    },
+    {
+        "text": "The ceremony was attended by President Emil Constantinescu .",
+        "target": "The ceremony was attended by President <entity type=\"person\">Emil Constantinescu</entity> .",
+        "entities": [
+            [
+                "Emil Constantinescu",
+                "person"
+            ]
+        ],
+        "sent_id": "910"
+    },
+    {
+        "text": "Dundee 2 Falkirk 0",
+        "target": "<entity type=\"organization\">Dundee</entity> 2 <entity type=\"organization\">Falkirk</entity> 0",
+        "entities": [
+            [
+                "Dundee",
+                "organization"
+            ],
+            [
+                "Falkirk",
+                "organization"
+            ]
+        ],
+        "sent_id": "3061"
+    },
+    {
+        "text": "12/15/2001 575M 4.60 4.20",
+        "target": "12/15/2001 575M 4.60 4.20",
+        "entities": [],
+        "sent_id": "1640"
+    },
+    {
+        "text": "\" Modernisation and more profesionalism of the party 's structure , having financing of the party be more transparent ...",
+        "target": "\" Modernisation and more profesionalism of the party 's structure , having financing of the party be more transparent ...",
+        "entities": [],
+        "sent_id": "918"
+    },
+    {
+        "text": "In a stand some analysts linked to controversy over Singapore 's caning of an American teenager for vandalism , then-U.S. Trade Representative Mickey Kantor had said the meeting ought to be held where the WTO was going to be headquartered .",
+        "target": "In a stand some analysts linked to controversy over <entity type=\"location\">Singapore</entity> 's caning of an <entity type=\"miscellaneous\">American</entity> teenager for vandalism , <entity type=\"miscellaneous\">then-U.S.</entity> Trade Representative <entity type=\"person\">Mickey Kantor</entity> had said the meeting ought to be held where the <entity type=\"organization\">WTO</entity> was going to be headquartered .",
+        "entities": [
+            [
+                "Singapore",
+                "location"
+            ],
+            [
+                "American",
+                "miscellaneous"
+            ],
+            [
+                "then-U.S.",
+                "miscellaneous"
+            ],
+            [
+                "Mickey Kantor",
+                "person"
+            ],
+            [
+                "WTO",
+                "organization"
+            ]
+        ],
+        "sent_id": "2350"
+    },
+    {
+        "text": "Results on the first day of the World Cup speed skating races here on Saturday .",
+        "target": "Results on the first day of the <entity type=\"miscellaneous\">World Cup</entity> speed skating races here on Saturday .",
+        "entities": [
+            [
+                "World Cup",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2718"
+    },
+    {
+        "text": "Mauritian authorities put the Indian Ocean island on cyclone alert on Friday .",
+        "target": "<entity type=\"miscellaneous\">Mauritian</entity> authorities put the <entity type=\"location\">Indian Ocean</entity> island on cyclone alert on Friday .",
+        "entities": [
+            [
+                "Mauritian",
+                "miscellaneous"
+            ],
+            [
+                "Indian Ocean",
+                "location"
+            ]
+        ],
+        "sent_id": "1218"
+    },
+    {
+        "text": "WHISTLER , British Columbia 1996-12-06",
+        "target": "<entity type=\"location\">WHISTLER</entity> , <entity type=\"location\">British Columbia</entity> 1996-12-06",
+        "entities": [
+            [
+                "WHISTLER",
+                "location"
+            ],
+            [
+                "British Columbia",
+                "location"
+            ]
+        ],
+        "sent_id": "2764"
+    },
+    {
+        "text": "Corn 4.4 15.1 87.0 0.6 22.1 11.1",
+        "target": "Corn 4.4 15.1 87.0 0.6 22.1 11.1",
+        "entities": [],
+        "sent_id": "1729"
+    },
+    {
+        "text": "Marseille 20 6 8 6 18 17 26",
+        "target": "<entity type=\"organization\">Marseille</entity> 20 6 8 6 18 17 26",
+        "entities": [
+            [
+                "Marseille",
+                "organization"
+            ]
+        ],
+        "sent_id": "654"
+    },
+    {
+        "text": "Standings in English league soccer",
+        "target": "Standings in <entity type=\"miscellaneous\">English</entity> league soccer",
+        "entities": [
+            [
+                "English",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2944"
+    },
+    {
+        "text": "CLEVELAND AT DETROIT",
+        "target": "<entity type=\"organization\">CLEVELAND</entity> AT <entity type=\"location\">DETROIT</entity>",
+        "entities": [
+            [
+                "CLEVELAND",
+                "organization"
+            ],
+            [
+                "DETROIT",
+                "location"
+            ]
+        ],
+        "sent_id": "477"
+    },
+    {
+        "text": "9. Jani Soininen ( Finland ) 231.5 ( 115 / 116.5 )",
+        "target": "9. <entity type=\"person\">Jani Soininen</entity> ( <entity type=\"location\">Finland</entity> ) 231.5 ( 115 / 116.5 )",
+        "entities": [
+            [
+                "Jani Soininen",
+                "person"
+            ],
+            [
+                "Finland",
+                "location"
+            ]
+        ],
+        "sent_id": "2692"
+    },
+    {
+        "text": "( $ 1=32.14 Belgian Franc )",
+        "target": "( $ 1=32.14 <entity type=\"miscellaneous\">Belgian</entity> Franc )",
+        "entities": [
+            [
+                "Belgian",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2154"
+    },
+    {
+        "text": "Pace , a junior , helped Ohio State to a 10-1 record and a berth in the Rose Bowl against Arizona State .",
+        "target": "<entity type=\"person\">Pace</entity> , a junior , helped <entity type=\"organization\">Ohio State</entity> to a 10-1 record and a berth in the <entity type=\"miscellaneous\">Rose Bowl</entity> against <entity type=\"organization\">Arizona State</entity> .",
+        "entities": [
+            [
+                "Pace",
+                "person"
+            ],
+            [
+                "Ohio State",
+                "organization"
+            ],
+            [
+                "Rose Bowl",
+                "miscellaneous"
+            ],
+            [
+                "Arizona State",
+                "organization"
+            ]
+        ],
+        "sent_id": "560"
+    },
+    {
+        "text": "Hermawan Susanto ( Indonesia ) beat Soren B. Nielsen ( Denmark ) 15-8 15-2",
+        "target": "<entity type=\"person\">Hermawan Susanto</entity> ( <entity type=\"location\">Indonesia</entity> ) beat <entity type=\"person\">Soren B. Nielsen</entity> ( <entity type=\"location\">Denmark</entity> ) 15-8 15-2",
+        "entities": [
+            [
+                "Hermawan Susanto",
+                "person"
+            ],
+            [
+                "Indonesia",
+                "location"
+            ],
+            [
+                "Soren B. Nielsen",
+                "person"
+            ],
+            [
+                "Denmark",
+                "location"
+            ]
+        ],
+        "sent_id": "330"
+    },
+    {
+        "text": "\" The banks are already preparing for the December 10 tax payment , \" said Budapest Bank 's Sandor Tolonics . \"",
+        "target": "\" The banks are already preparing for the December 10 tax payment , \" said <entity type=\"location\">Budapest</entity> Bank 's <entity type=\"person\">Sandor Tolonics</entity> . \"",
+        "entities": [
+            [
+                "Budapest",
+                "location"
+            ],
+            [
+                "Sandor Tolonics",
+                "person"
+            ]
+        ],
+        "sent_id": "1376"
+    },
+    {
+        "text": "When we do n't know where the front is , we do n't know what the risk is . \"",
+        "target": "When we do n't know where the front is , we do n't know what the risk is . \"",
+        "entities": [],
+        "sent_id": "1212"
+    },
+    {
+        "text": "Airdrieonians 16 6 8 2 26 16 26",
+        "target": "<entity type=\"organization\">Airdrieonians</entity> 16 6 8 2 26 16 26",
+        "entities": [
+            [
+                "Airdrieonians",
+                "organization"
+            ]
+        ],
+        "sent_id": "2912"
+    },
+    {
+        "text": "laPena",
+        "target": "<entity type=\"person\">laPena</entity>",
+        "entities": [
+            [
+                "laPena",
+                "person"
+            ]
+        ],
+        "sent_id": "747"
+    },
+    {
+        "text": "for goals against points ) :",
+        "target": "for goals against points ) :",
+        "entities": [],
+        "sent_id": "599"
+    },
+    {
+        "text": "Villa ) , Les Ferdinand ( Newcastle ) , Efan Ekoku ( Wimbledon ) ,",
+        "target": "<entity type=\"organization\">Villa</entity> ) , <entity type=\"person\">Les Ferdinand</entity> ( <entity type=\"organization\">Newcastle</entity> ) , <entity type=\"person\">Efan Ekoku</entity> ( <entity type=\"location\">Wimbledon</entity> ) ,",
+        "entities": [
+            [
+                "Villa",
+                "organization"
+            ],
+            [
+                "Les Ferdinand",
+                "person"
+            ],
+            [
+                "Newcastle",
+                "organization"
+            ],
+            [
+                "Efan Ekoku",
+                "person"
+            ],
+            [
+                "Wimbledon",
+                "location"
+            ]
+        ],
+        "sent_id": "2792"
+    },
+    {
+        "text": "Italian President urges separatists to turn back .",
+        "target": "<entity type=\"miscellaneous\">Italian</entity> President urges separatists to turn back .",
+        "entities": [
+            [
+                "Italian",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2122"
+    },
+    {
+        "text": "MONTREAL 10 14 4 96 103 24",
+        "target": "<entity type=\"organization\">MONTREAL</entity> 10 14 4 96 103 24",
+        "entities": [
+            [
+                "MONTREAL",
+                "organization"
+            ]
+        ],
+        "sent_id": "364"
+    },
+    {
+        "text": "LONDON 1996-12-07",
+        "target": "<entity type=\"location\">LONDON</entity> 1996-12-07",
+        "entities": [
+            [
+                "LONDON",
+                "location"
+            ]
+        ],
+        "sent_id": "3123"
+    },
+    {
+        "text": "Budisuryana 22/11/96 3,800 Malaysia",
+        "target": "<entity type=\"miscellaneous\">Budisuryana</entity> 22/11/96 3,800 <entity type=\"location\">Malaysia</entity>",
+        "entities": [
+            [
+                "Budisuryana",
+                "miscellaneous"
+            ],
+            [
+                "Malaysia",
+                "location"
+            ]
+        ],
+        "sent_id": "2273"
+    },
+    {
+        "text": "Tickets for the game stipulate that supporters will be barred if they are \" under the effects of alcohol \" .",
+        "target": "Tickets for the game stipulate that supporters will be barred if they are \" under the effects of alcohol \" .",
+        "entities": [],
+        "sent_id": "762"
+    },
+    {
+        "text": "17. Svetlana Gladishiva ( Russia ) 1:50.03",
+        "target": "17. <entity type=\"person\">Svetlana Gladishiva</entity> ( <entity type=\"location\">Russia</entity> ) 1:50.03",
+        "entities": [
+            [
+                "Svetlana Gladishiva",
+                "person"
+            ],
+            [
+                "Russia",
+                "location"
+            ]
+        ],
+        "sent_id": "2549"
+    },
+    {
+        "text": "South Korea made virtually certain of an Asian Cup quarter-final spot with a 4-2 win over Indonesia in a Group A match on Saturday .",
+        "target": "<entity type=\"location\">South Korea</entity> made virtually certain of an <entity type=\"miscellaneous\">Asian Cup</entity> quarter-final spot with a 4-2 win over <entity type=\"location\">Indonesia</entity> in a Group A match on Saturday .",
+        "entities": [
+            [
+                "South Korea",
+                "location"
+            ],
+            [
+                "Asian Cup",
+                "miscellaneous"
+            ],
+            [
+                "Indonesia",
+                "location"
+            ]
+        ],
+        "sent_id": "3188"
+    },
+    {
+        "text": "Scottish Cup first round",
+        "target": "<entity type=\"miscellaneous\">Scottish Cup</entity> first round",
+        "entities": [
+            [
+                "Scottish Cup",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "3071"
+    },
+    {
+        "text": "Results of French first division",
+        "target": "Results of <entity type=\"miscellaneous\">French</entity> first division",
+        "entities": [
+            [
+                "French",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "666"
+    },
+    {
+        "text": "NEC Nijmegen 18 3 7 8 19 32 16",
+        "target": "<entity type=\"organization\">NEC Nijmegen</entity> 18 3 7 8 19 32 16",
+        "entities": [
+            [
+                "NEC Nijmegen",
+                "organization"
+            ]
+        ],
+        "sent_id": "588"
+    },
+    {
+        "text": "HOUSTON 1996-12-05",
+        "target": "<entity type=\"location\">HOUSTON</entity> 1996-12-05",
+        "entities": [
+            [
+                "HOUSTON",
+                "location"
+            ]
+        ],
+        "sent_id": "558"
+    },
+    {
+        "text": "The Canadian Wheat Board reported six ships loading , 10 waiting and four due at the Canadian West Coast , as of Friday .",
+        "target": "The <entity type=\"organization\">Canadian Wheat Board</entity> reported six ships loading , 10 waiting and four due at the <entity type=\"miscellaneous\">Canadian</entity> West Coast , as of Friday .",
+        "entities": [
+            [
+                "Canadian Wheat Board",
+                "organization"
+            ],
+            [
+                "Canadian",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "1105"
+    },
+    {
+        "text": "8. Florence Masnada ( France ) 1:18.31",
+        "target": "8. <entity type=\"person\">Florence Masnada</entity> ( <entity type=\"location\">France</entity> ) 1:18.31",
+        "entities": [
+            [
+                "Florence Masnada",
+                "person"
+            ],
+            [
+                "France",
+                "location"
+            ]
+        ],
+        "sent_id": "2405"
+    },
+    {
+        "text": "That 's when the wreckage was discovered , \" Snow said .",
+        "target": "That 's when the wreckage was discovered , \" <entity type=\"person\">Snow</entity> said .",
+        "entities": [
+            [
+                "Snow",
+                "person"
+            ]
+        ],
+        "sent_id": "1957"
+    },
+    {
+        "text": "DENVER AT GREEN BAY",
+        "target": "<entity type=\"organization\">DENVER</entity> AT <entity type=\"location\">GREEN BAY</entity>",
+        "entities": [
+            [
+                "DENVER",
+                "organization"
+            ],
+            [
+                "GREEN BAY",
+                "location"
+            ]
+        ],
+        "sent_id": "539"
+    },
+    {
+        "text": "U.S. barge rates were lightly quoted Friday on the St. Louis Merchants Exchange call session .",
+        "target": "<entity type=\"location\">U.S.</entity> barge rates were lightly quoted Friday on the <entity type=\"location\">St. Louis</entity> Merchants Exchange call session .",
+        "entities": [
+            [
+                "U.S.",
+                "location"
+            ],
+            [
+                "St. Louis",
+                "location"
+            ]
+        ],
+        "sent_id": "1762"
+    },
+    {
+        "text": "He said Bre-X would then formally seek the permission of the Indonesian government to begin construction to develop Busang 's central region , which might take up to two years .",
+        "target": "He said <entity type=\"organization\">Bre-X</entity> would then formally seek the permission of the <entity type=\"miscellaneous\">Indonesian</entity> government to begin construction to develop <entity type=\"location\">Busang</entity> 's central region , which might take up to two years .",
+        "entities": [
+            [
+                "Bre-X",
+                "organization"
+            ],
+            [
+                "Indonesian",
+                "miscellaneous"
+            ],
+            [
+                "Busang",
+                "location"
+            ]
+        ],
+        "sent_id": "2324"
+    },
+    {
+        "text": "1-0 .",
+        "target": "1-0 .",
+        "entities": [],
+        "sent_id": "2849"
+    },
+    {
+        "text": "19,675",
+        "target": "19,675",
+        "entities": [],
+        "sent_id": "2877"
+    },
+    {
+        "text": "8. Elena Koroleva ( Russia ) 21.77",
+        "target": "8. <entity type=\"person\">Elena Koroleva</entity> ( <entity type=\"location\">Russia</entity> ) 21.77",
+        "entities": [
+            [
+                "Elena Koroleva",
+                "person"
+            ],
+            [
+                "Russia",
+                "location"
+            ]
+        ],
+        "sent_id": "71"
+    },
+    {
+        "text": "China 0 Uzbekistan 2 ( halftime 0-0 )",
+        "target": "<entity type=\"location\">China</entity> 0 <entity type=\"location\">Uzbekistan</entity> 2 ( halftime 0-0 )",
+        "entities": [
+            [
+                "China",
+                "location"
+            ],
+            [
+                "Uzbekistan",
+                "location"
+            ]
+        ],
+        "sent_id": "82"
+    },
+    {
+        "text": "Patasse offered concessions and amnesty to rebels before the May rebellion ended after rebels looted the city centre .",
+        "target": "<entity type=\"person\">Patasse</entity> offered concessions and amnesty to rebels before the May rebellion ended after rebels looted the city centre .",
+        "entities": [
+            [
+                "Patasse",
+                "person"
+            ]
+        ],
+        "sent_id": "1261"
+    },
+    {
+        "text": "6. Alexandre Mikhailov ( Russia ) 202.59",
+        "target": "6. <entity type=\"person\">Alexandre Mikhailov</entity> ( <entity type=\"location\">Russia</entity> ) 202.59",
+        "entities": [
+            [
+                "Alexandre Mikhailov",
+                "person"
+            ],
+            [
+                "Russia",
+                "location"
+            ]
+        ],
+        "sent_id": "2663"
+    },
+    {
+        "text": "NEW JERSEY 14 10 1 61 61 29",
+        "target": "<entity type=\"organization\">NEW JERSEY</entity> 14 10 1 61 61 29",
+        "entities": [
+            [
+                "NEW JERSEY",
+                "organization"
+            ]
+        ],
+        "sent_id": "371"
+    },
+    {
+        "text": "Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .",
+        "target": "Despite winning the <entity type=\"miscellaneous\">Asian Games</entity> title two years ago , <entity type=\"location\">Uzbekistan</entity> are in the finals as outsiders .",
+        "entities": [
+            [
+                "Asian Games",
+                "miscellaneous"
+            ],
+            [
+                "Uzbekistan",
+                "location"
+            ]
+        ],
+        "sent_id": "8"
+    },
+    {
+        "text": "West Indies resumed their innings on 53 for two with opener Sherwin Campbell on 25 and Shivnarine Chanderpaul 10 .",
+        "target": "<entity type=\"location\">West Indies</entity> resumed their innings on 53 for two with opener <entity type=\"person\">Sherwin Campbell</entity> on 25 and <entity type=\"person\">Shivnarine Chanderpaul</entity> 10 .",
+        "entities": [
+            [
+                "West Indies",
+                "location"
+            ],
+            [
+                "Sherwin Campbell",
+                "person"
+            ],
+            [
+                "Shivnarine Chanderpaul",
+                "person"
+            ]
+        ],
+        "sent_id": "1075"
+    },
+    {
+        "text": "Dynamo Moscow ( Russia ) 9 2 7 11",
+        "target": "<entity type=\"organization\">Dynamo Moscow</entity> ( <entity type=\"location\">Russia</entity> ) 9 2 7 11",
+        "entities": [
+            [
+                "Dynamo Moscow",
+                "organization"
+            ],
+            [
+                "Russia",
+                "location"
+            ]
+        ],
+        "sent_id": "188"
+    },
+    {
+        "text": "WASHINGTON 1996-12-05",
+        "target": "<entity type=\"location\">WASHINGTON</entity> 1996-12-05",
+        "entities": [
+            [
+                "WASHINGTON",
+                "location"
+            ]
+        ],
+        "sent_id": "2050"
+    },
+    {
+        "text": "Before Gorst 's statement , Major had a one-seat majority in the 651-seat House of Commons lower house of parliament .",
+        "target": "Before <entity type=\"person\">Gorst</entity> 's statement , <entity type=\"person\">Major</entity> had a one-seat majority in the 651-seat <entity type=\"organization\">House of Commons</entity> lower house of parliament .",
+        "entities": [
+            [
+                "Gorst",
+                "person"
+            ],
+            [
+                "Major",
+                "person"
+            ],
+            [
+                "House of Commons",
+                "organization"
+            ]
+        ],
+        "sent_id": "1061"
+    },
+    {
+        "text": "Port Vale 22 6 10 6 19 22 28",
+        "target": "<entity type=\"organization\">Port Vale</entity> 22 6 10 6 19 22 28",
+        "entities": [
+            [
+                "Port Vale",
+                "organization"
+            ]
+        ],
+        "sent_id": "2983"
+    },
+    {
+        "text": "TOKYO 1996-12-06",
+        "target": "<entity type=\"location\">TOKYO</entity> 1996-12-06",
+        "entities": [
+            [
+                "TOKYO",
+                "location"
+            ]
+        ],
+        "sent_id": "2368"
+    },
+    {
+        "text": "Anke Baler ( Germany ) 41.76 .",
+        "target": "<entity type=\"person\">Anke Baler</entity> ( <entity type=\"location\">Germany</entity> ) 41.76 .",
+        "entities": [
+            [
+                "Anke Baler",
+                "person"
+            ],
+            [
+                "Germany",
+                "location"
+            ]
+        ],
+        "sent_id": "2740"
+    },
+    {
+        "text": "* The Democratic Convention signed an agreement on government and parliamentary support with its coalition partners the Social Democratic Union and the Hungarian Democratic Union ( UDMR ) .",
+        "target": "* The <entity type=\"miscellaneous\">Democratic Convention</entity> signed an agreement on government and parliamentary support with its coalition partners the <entity type=\"organization\">Social Democratic Union</entity> and the <entity type=\"organization\">Hungarian Democratic Union</entity> ( <entity type=\"organization\">UDMR</entity> ) .",
+        "entities": [
+            [
+                "Democratic Convention",
+                "miscellaneous"
+            ],
+            [
+                "Social Democratic Union",
+                "organization"
+            ],
+            [
+                "Hungarian Democratic Union",
+                "organization"
+            ],
+            [
+                "UDMR",
+                "organization"
+            ]
+        ],
+        "sent_id": "909"
+    },
+    {
+        "text": "It closed at $ 15.80 on Thursday .",
+        "target": "It closed at $ 15.80 on Thursday .",
+        "entities": [],
+        "sent_id": "990"
+    },
+    {
+        "text": "But the Internet , a global computer network where anything from music to software can be duplicated and distributed at the click of a computer mouse , has ripped up the rulebooks .",
+        "target": "But the <entity type=\"miscellaneous\">Internet</entity> , a global computer network where anything from music to software can be duplicated and distributed at the click of a computer mouse , has ripped up the rulebooks .",
+        "entities": [
+            [
+                "Internet",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2105"
+    },
+    {
+        "text": "Feb settled down 22 cents at $ 3.186 .",
+        "target": "Feb settled down 22 cents at $ 3.186 .",
+        "entities": [],
+        "sent_id": "1740"
+    },
+    {
+        "text": "LONDON 1996-12-06",
+        "target": "<entity type=\"location\">LONDON</entity> 1996-12-06",
+        "entities": [
+            [
+                "LONDON",
+                "location"
+            ]
+        ],
+        "sent_id": "191"
+    },
+    {
+        "text": "Corn",
+        "target": "Corn",
+        "entities": [],
+        "sent_id": "1779"
+    },
+    {
+        "text": "SOCCER - ENGLISH PREMIER LEAGUE SUMMARIES .",
+        "target": "SOCCER - <entity type=\"miscellaneous\">ENGLISH</entity> PREMIER LEAGUE SUMMARIES .",
+        "entities": [
+            [
+                "ENGLISH",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "2863"
+    },
+    {
+        "text": "Canada 's were the worst performing bonds .",
+        "target": "<entity type=\"location\">Canada</entity> 's were the worst performing bonds .",
+        "entities": [
+            [
+                "Canada",
+                "location"
+            ]
+        ],
+        "sent_id": "1924"
+    },
+    {
+        "text": "53.29 )",
+        "target": "53.29 )",
+        "entities": [],
+        "sent_id": "2631"
+    },
+    {
+        "text": "League title-holders Steaua Bucharest , who finished bottom of their Champions ' League group in the European Cup , have only two players in the squad .",
+        "target": "League title-holders <entity type=\"organization\">Steaua Bucharest</entity> , who finished bottom of their <entity type=\"miscellaneous\">Champions ' League</entity> group in the <entity type=\"miscellaneous\">European Cup</entity> , have only two players in the squad .",
+        "entities": [
+            [
+                "Steaua Bucharest",
+                "organization"
+            ],
+            [
+                "Champions ' League",
+                "miscellaneous"
+            ],
+            [
+                "European Cup",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "218"
+    },
+    {
+        "text": "Summaries of French first division",
+        "target": "Summaries of <entity type=\"miscellaneous\">French</entity> first division",
+        "entities": [
+            [
+                "French",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "620"
+    },
+    {
+        "text": "9-153 .",
+        "target": "9-153 .",
+        "entities": [],
+        "sent_id": "267"
+    },
+    {
+        "text": "-- Moscow Newsroom , +7095 941 8520",
+        "target": "-- <entity type=\"organization\">Moscow Newsroom</entity> , +7095 941 8520",
+        "entities": [
+            [
+                "Moscow Newsroom",
+                "organization"
+            ]
+        ],
+        "sent_id": "1328"
+    },
+    {
+        "text": "CALGARY 10 16 2 65 77 22",
+        "target": "<entity type=\"organization\">CALGARY</entity> 10 16 2 65 77 22",
+        "entities": [
+            [
+                "CALGARY",
+                "organization"
+            ]
+        ],
+        "sent_id": "3357"
+    },
+    {
+        "text": "LISBON 1996-12-06",
+        "target": "<entity type=\"location\">LISBON</entity> 1996-12-06",
+        "entities": [
+            [
+                "LISBON",
+                "location"
+            ]
+        ],
+        "sent_id": "690"
+    },
+    {
+        "text": "School football player banned for slashing opponents .",
+        "target": "School football player banned for slashing opponents .",
+        "entities": [],
+        "sent_id": "2065"
+    },
+    {
+        "text": "Current 12.00 9.94",
+        "target": "Current 12.00 9.94",
+        "entities": [],
+        "sent_id": "2309"
+    },
+    {
+        "text": "Week to date ( est ) 688,000 31,000 1,810,000",
+        "target": "Week to date ( est ) 688,000 31,000 1,810,000",
+        "entities": [],
+        "sent_id": "1621"
+    },
+    {
+        "text": "\" Some governments are very determined to stop the issue ( of trade and labour rights ) being discussed , \" he said , adding that the Association of Southeast Asian Nations ( ASEAN ) seemed particularly hostile to the ILO agenda .",
+        "target": "\" Some governments are very determined to stop the issue ( of trade and labour rights ) being discussed , \" he said , adding that the <entity type=\"organization\">Association of Southeast Asian Nations</entity> ( <entity type=\"organization\">ASEAN</entity> ) seemed particularly hostile to the <entity type=\"organization\">ILO</entity> agenda .",
+        "entities": [
+            [
+                "Association of Southeast Asian Nations",
+                "organization"
+            ],
+            [
+                "ASEAN",
+                "organization"
+            ],
+            [
+                "ILO",
+                "organization"
+            ]
+        ],
+        "sent_id": "1542"
+    },
+    {
+        "text": "The Syrians scored early and then played defensively and adopted long balls which made it hard for us . '",
+        "target": "The <entity type=\"miscellaneous\">Syrians</entity> scored early and then played defensively and adopted long balls which made it hard for us . '",
+        "entities": [
+            [
+                "Syrians",
+                "miscellaneous"
+            ]
+        ],
+        "sent_id": "17"
+    },
+    {
+        "text": "SACRAMENTO 6 12 .333 8",
+        "target": "<entity type=\"organization\">SACRAMENTO</entity> 6 12 .333 8",
+        "entities": [
+            [
+                "SACRAMENTO",
+                "organization"
+            ]
+        ],
+        "sent_id": "473"
+    },
+    {
+        "text": "9. Florence Masnada ( France ) 1:49.51",
+        "target": "9. <entity type=\"person\">Florence Masnada</entity> ( <entity type=\"location\">France</entity> ) 1:49.51",
+        "entities": [
+            [
+                "Florence Masnada",
+                "person"
+            ],
+            [
+                "France",
+                "location"
+            ]
+        ],
+        "sent_id": "2541"
+    },
+    {
+        "text": "8 - Matthew Le Tissier ( Southampton ) , Dwight Yorke ( Aston",
+        "target": "8 - <entity type=\"person\">Matthew Le Tissier</entity> ( <entity type=\"organization\">Southampton</entity> ) , <entity type=\"person\">Dwight Yorke</entity> ( <entity type=\"organization\">Aston</entity>",
+        "entities": [
+            [
+                "Matthew Le Tissier",
+                "person"
+            ],
+            [
+                "Southampton",
+                "organization"
+            ],
+            [
+                "Dwight Yorke",
+                "person"
+            ],
+            [
+                "Aston",
+                "organization"
+            ]
+        ],
+        "sent_id": "2791"
+    },
+    {
+        "text": "against , points ) :",
+        "target": "against , points ) :",
+        "entities": [],
+        "sent_id": "768"
+    },
+    {
+        "text": "LONDON 1996-12-06",
+        "target": "<entity type=\"location\">LONDON</entity> 1996-12-06",
+        "entities": [
+            [
+                "LONDON",
+                "location"
+            ]
+        ],
+        "sent_id": "138"
+    },
+    {
+        "text": "Northampton 22 8 6 8 31 26 30",
+        "target": "<entity type=\"organization\">Northampton</entity> 22 8 6 8 31 26 30",
+        "entities": [
+            [
+                "Northampton",
+                "organization"
+            ]
+        ],
+        "sent_id": "3028"
+    }
+]

@@ -1,0 +1,2129 @@
+[
+    {
+        "text": "Other works soon followed , including A Tale of Two Cities ( 1859 ) and Great Expectations ( 1861 ) , which were resounding successes .",
+        "target": "Other works soon followed , including <entity type=\"book\">A Tale of Two Cities</entity> ( 1859 ) and <entity type=\"book\">Great Expectations</entity> ( 1861 ) , which were resounding successes .",
+        "entities": [
+            [
+                "A Tale of Two Cities",
+                "book"
+            ],
+            [
+                "Great Expectations",
+                "book"
+            ]
+        ],
+        "response": "Other works soon followed , including <entity type=\"book\">A Tale of Two Cities</entity> ( 1859 ) and <entity type=\"book\">Great Expectations</entity> ( 1861 ) , which were resounding successes .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "He reprised the role in Evil Under the Sun ( 1982 ) and Appointment with Death ( 1988 ) .",
+        "target": "He reprised the role in <entity type=\"book\">Evil Under the Sun</entity> ( 1982 ) and <entity type=\"book\">Appointment with Death</entity> ( 1988 ) .",
+        "entities": [
+            [
+                "Evil Under the Sun",
+                "book"
+            ],
+            [
+                "Appointment with Death",
+                "book"
+            ]
+        ],
+        "response": "He reprised the role in <entity type=\"book\">Evil Under the Sun</entity> ( 1982 ) and <entity type=\"book\">Appointment with Death</entity> ( 1988 ) .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "During most of his career , Orwell was best known for his journalism , in essays , reviews , columns in newspapers and magazines and in his books of reportage : Down and Out in Paris and London ( describing a period of poverty in these cities ) , The Road to Wigan Pier ( describing the living conditions of the poor in northern England , and class division generally ) and Homage to Catalonia .",
+        "target": "During most of his career , <entity type=\"writer\">Orwell</entity> was best known for his journalism , in essays , reviews , columns in newspapers and magazines and in his books of reportage : <entity type=\"book\">Down and Out in Paris and London</entity> ( describing a period of poverty in these cities ) , <entity type=\"book\">The Road to Wigan Pier</entity> ( describing the living conditions of the poor in northern <entity type=\"country\">England</entity> , and class division generally ) and <entity type=\"book\">Homage to Catalonia</entity> .",
+        "entities": [
+            [
+                "Orwell",
+                "writer"
+            ],
+            [
+                "Down and Out in Paris and London",
+                "book"
+            ],
+            [
+                "The Road to Wigan Pier",
+                "book"
+            ],
+            [
+                "England",
+                "country"
+            ],
+            [
+                "Homage to Catalonia",
+                "book"
+            ]
+        ],
+        "response": "During most of his career , <entity type=\"writer\">Orwell</entity> was best known for his journalism , in essays , reviews , columns in newspapers and magazines and in his books of reportage : <entity type=\"book\">Down and Out in Paris and London</entity> ( describing a period of poverty in these cities ) , <entity type=\"book\">The Road to Wigan Pier</entity> ( describing the living conditions of the poor in <entity type=\"location\">northern England</entity> , and class division generally ) and <entity type=\"book\">Homage to Catalonia</entity> .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "northern England",
+                    "location",
+                    "England",
+                    "country"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "He is a council member of the International Forum for Democratic Studies founded by the National Endowment for Democracy and was a member of the Political Science Department of the RAND Corporation .",
+        "target": "He is a council member of the <entity type=\"miscellaneous\">International Forum for Democratic Studies</entity> founded by the <entity type=\"organization\">National Endowment for Democracy</entity> and was a member of the <entity type=\"miscellaneous\">Political Science Department</entity> of the <entity type=\"organization\">RAND Corporation</entity> .",
+        "entities": [
+            [
+                "International Forum for Democratic Studies",
+                "miscellaneous"
+            ],
+            [
+                "National Endowment for Democracy",
+                "organization"
+            ],
+            [
+                "Political Science Department",
+                "miscellaneous"
+            ],
+            [
+                "RAND Corporation",
+                "organization"
+            ]
+        ],
+        "response": "He is a council member of the <entity type=\"organization\">International Forum for Democratic Studies</entity> founded by the <entity type=\"organization\">National Endowment for Democracy</entity> and was a member of the <entity type=\"organization\">Political Science Department</entity> of the <entity type=\"organization\">RAND Corporation</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "International Forum for Democratic Studies",
+                    "organization",
+                    "International Forum for Democratic Studies",
+                    "miscellaneous"
+                ],
+                [
+                    "Political Science Department",
+                    "organization",
+                    "Political Science Department",
+                    "miscellaneous"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "This uses the words of war poet Wilfred Owen ' s At a Calvary near the Ancre .",
+        "target": "This uses the words of war poet <entity type=\"writer\">Wilfred Owen</entity> ' s <entity type=\"poem\">At a Calvary near the Ancre</entity> .",
+        "entities": [
+            [
+                "Wilfred Owen",
+                "writer"
+            ],
+            [
+                "At a Calvary near the Ancre",
+                "poem"
+            ]
+        ],
+        "response": "This uses the words of <entity type=\"writer\">war poet Wilfred Owen</entity> ' s <entity type=\"poem\">At a Calvary near the Ancre</entity> .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "war poet Wilfred Owen",
+                    "writer",
+                    "Wilfred Owen",
+                    "writer"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "This period provided the materials for Kerouac 's novel The Dharma Bums , and Snyder was the inspiration for the novel 's main character , Japhy Ryder , in the same way Neal Cassady had inspired Dean Moriarty in On the Road .",
+        "target": "This period provided the materials for <entity type=\"writer\">Kerouac</entity> 's <entity type=\"literary genre\">novel</entity> <entity type=\"book\">The Dharma Bums</entity> , and <entity type=\"writer\">Snyder</entity> was the inspiration for the <entity type=\"literary genre\">novel</entity> 's main character , <entity type=\"person\">Japhy Ryder</entity> , in the same way <entity type=\"writer\">Neal Cassady</entity> had inspired <entity type=\"person\">Dean Moriarty</entity> in <entity type=\"book\">On the Road</entity> .",
+        "entities": [
+            [
+                "Kerouac",
+                "writer"
+            ],
+            [
+                "novel",
+                "literary genre"
+            ],
+            [
+                "The Dharma Bums",
+                "book"
+            ],
+            [
+                "Snyder",
+                "writer"
+            ],
+            [
+                "novel",
+                "literary genre"
+            ],
+            [
+                "Japhy Ryder",
+                "person"
+            ],
+            [
+                "Neal Cassady",
+                "writer"
+            ],
+            [
+                "Dean Moriarty",
+                "person"
+            ],
+            [
+                "On the Road",
+                "book"
+            ]
+        ],
+        "response": "This period provided the materials for <entity type=\"writer\">Kerouac</entity> 's <entity type=\"literary genre\">novel</entity> <entity type=\"book\">The Dharma Bums</entity> , and <entity type=\"writer\">Snyder</entity> was the inspiration for the <entity type=\"literary genre\">novel</entity> 's main character , <entity type=\"person\">Japhy Ryder</entity> , in the same way <entity type=\"person\">Neal Cassady</entity> had inspired <entity type=\"person\">Dean Moriarty</entity> in <entity type=\"book\">On the Road</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Neal Cassady",
+                    "person",
+                    "Neal Cassady",
+                    "writer"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Tarkovsky considered Thomas Mann and E.T.A. Hoffmann , and also thought about Henrik Ibsen ' s Peer Gynt .",
+        "target": "<entity type=\"writer\">Tarkovsky</entity> considered <entity type=\"writer\">Thomas Mann</entity> and <entity type=\"writer\">E.T.A. Hoffmann</entity> , and also thought about <entity type=\"writer\">Henrik Ibsen</entity> ' s <entity type=\"book\">Peer Gynt</entity> .",
+        "entities": [
+            [
+                "Tarkovsky",
+                "writer"
+            ],
+            [
+                "Thomas Mann",
+                "writer"
+            ],
+            [
+                "E.T.A. Hoffmann",
+                "writer"
+            ],
+            [
+                "Henrik Ibsen",
+                "writer"
+            ],
+            [
+                "Peer Gynt",
+                "book"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Tarkovsky</entity> considered <entity type=\"writer\">Thomas Mann</entity> and <entity type=\"writer\">E.T.A. Hoffmann</entity> , and also thought about <entity type=\"writer\">Henrik Ibsen</entity> ' s <entity type=\"poem\">Peer Gynt</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Peer Gynt",
+                    "poem",
+                    "Peer Gynt",
+                    "book"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "The list has also no films or directors from Tarkovsky 's native Russia , although he rated Soviet directors such as Boris Barnet , Sergei Parajanov and Alexander Dovzhenko highly .",
+        "target": "The list has also no films or directors from <entity type=\"writer\">Tarkovsky</entity> 's native <entity type=\"country\">Russia</entity> , although he rated <entity type=\"country\">Soviet</entity> directors such as <entity type=\"person\">Boris Barnet</entity> , <entity type=\"person\">Sergei Parajanov</entity> and <entity type=\"person\">Alexander Dovzhenko</entity> highly .",
+        "entities": [
+            [
+                "Tarkovsky",
+                "writer"
+            ],
+            [
+                "Russia",
+                "country"
+            ],
+            [
+                "Soviet",
+                "country"
+            ],
+            [
+                "Boris Barnet",
+                "person"
+            ],
+            [
+                "Sergei Parajanov",
+                "person"
+            ],
+            [
+                "Alexander Dovzhenko",
+                "person"
+            ]
+        ],
+        "response": "The list has also no films or directors from <entity type=\"writer\">Tarkovsky</entity> 's native <entity type=\"country\">Russia</entity> , although he rated <entity type=\"miscellaneous\">Soviet</entity> directors such as <entity type=\"person\">Boris Barnet</entity> , <entity type=\"person\">Sergei Parajanov</entity> and <entity type=\"person\">Alexander Dovzhenko</entity> highly .",
+        "errors": {
+            "type": [
+                [
+                    "Soviet",
+                    "miscellaneous",
+                    "Soviet",
+                    "country"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "In 1946 the Society of Jesus was banned and the Franciscans were banned in 1947 .",
+        "target": "In 1946 the <entity type=\"organization\">Society of Jesus</entity> was banned and the <entity type=\"organization\">Franciscans</entity> were banned in 1947 .",
+        "entities": [
+            [
+                "Society of Jesus",
+                "organization"
+            ],
+            [
+                "Franciscans",
+                "organization"
+            ]
+        ],
+        "response": "In 1946 the <entity type=\"organization\">Society of Jesus</entity> was banned and the <entity type=\"organization\">Franciscans</entity> were banned in 1947 .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "In 1946 , she was awarded a Guggenheim Fellowship for Creative Work in the Field of Motion Pictures , and won the Grand Prix Internationale for 16mm experimental film at the Cannes Film Festival for Meshes of the Afternoon ( 1943 ) .",
+        "target": "In 1946 , she was awarded a <entity type=\"award\">Guggenheim Fellowship for Creative Work in the Field of Motion Pictures</entity> , and won the <entity type=\"award\">Grand Prix</entity> Internationale for 16mm experimental film at the <entity type=\"event\">Cannes Film Festival</entity> for <entity type=\"miscellaneous\">Meshes of the Afternoon</entity> ( 1943 ) .",
+        "entities": [
+            [
+                "Guggenheim Fellowship for Creative Work in the Field of Motion Pictures",
+                "award"
+            ],
+            [
+                "Grand Prix",
+                "award"
+            ],
+            [
+                "Cannes Film Festival",
+                "event"
+            ],
+            [
+                "Meshes of the Afternoon",
+                "miscellaneous"
+            ]
+        ],
+        "response": "In 1946 , she was awarded a <entity type=\"award\">Guggenheim Fellowship</entity> for Creative Work in the Field of <entity type=\"miscellaneous\">Motion Pictures</entity> , and won the <entity type=\"award\">Grand Prix Internationale</entity> for 16mm experimental film at the <entity type=\"event\">Cannes Film Festival</entity> for <entity type=\"miscellaneous\">Meshes of the Afternoon</entity> ( 1943 ) .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "Guggenheim Fellowship",
+                    "award",
+                    "Guggenheim Fellowship for Creative Work in the Field of Motion Pictures",
+                    "award"
+                ],
+                [
+                    "Grand Prix Internationale",
+                    "award",
+                    "Grand Prix",
+                    "award"
+                ]
+            ],
+            "missing": [],
+            "spurious": [
+                [
+                    "Motion Pictures",
+                    "miscellaneous"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "Iain Moncreiffe and Don Pottinger jokingly mentioned in their 1956 book Blood Royal the sentence : Without Little Father need for Big Brother , referring to the Russian Revolution and the Soviet Union .",
+        "target": "<entity type=\"writer\">Iain Moncreiffe</entity> and <entity type=\"writer\">Don Pottinger</entity> jokingly mentioned in their 1956 book <entity type=\"book\">Blood Royal</entity> the sentence : Without <entity type=\"person\">Little Father</entity> need for <entity type=\"person\">Big Brother</entity> , referring to the <entity type=\"event\">Russian Revolution</entity> and the <entity type=\"country\">Soviet Union</entity> .",
+        "entities": [
+            [
+                "Iain Moncreiffe",
+                "writer"
+            ],
+            [
+                "Don Pottinger",
+                "writer"
+            ],
+            [
+                "Blood Royal",
+                "book"
+            ],
+            [
+                "Little Father",
+                "person"
+            ],
+            [
+                "Big Brother",
+                "person"
+            ],
+            [
+                "Russian Revolution",
+                "event"
+            ],
+            [
+                "Soviet Union",
+                "country"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Iain Moncreiffe</entity> and <entity type=\"writer\">Don Pottinger</entity> jokingly mentioned in their 1956 <entity type=\"book\">Blood Royal</entity> the sentence : Without <entity type=\"miscellaneous\">Little Father</entity> need for <entity type=\"miscellaneous\">Big Brother</entity> , referring to the <entity type=\"event\">Russian Revolution</entity> and the <entity type=\"country\">Soviet Union</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Big Brother",
+                    "miscellaneous",
+                    "Big Brother",
+                    "person"
+                ],
+                [
+                    "Little Father",
+                    "miscellaneous",
+                    "Little Father",
+                    "person"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "He even writes a book about mystery fiction in which he deals sternly with Edgar Allan Poe and Wilkie Collins .",
+        "target": "He even writes a book about <entity type=\"literary genre\">mystery fiction</entity> in which he deals sternly with <entity type=\"writer\">Edgar Allan Poe</entity> and <entity type=\"writer\">Wilkie Collins</entity> .",
+        "entities": [
+            [
+                "mystery fiction",
+                "literary genre"
+            ],
+            [
+                "Edgar Allan Poe",
+                "writer"
+            ],
+            [
+                "Wilkie Collins",
+                "writer"
+            ]
+        ],
+        "response": "He even writes a book about <entity type=\"literary genre\">mystery fiction</entity> in which he deals sternly with <entity type=\"writer\">Edgar Allan Poe</entity> and <entity type=\"writer\">Wilkie Collins</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "In 1966 , with her brother Paul Edwin Zimmer , she helped found and name the Society for Creative Anachronism and was involved in developing several local groups , some in New York after her move to Staten Island .",
+        "target": "In 1966 , with her brother <entity type=\"writer\">Paul Edwin Zimmer</entity> , she helped found and name the <entity type=\"organization\">Society for Creative Anachronism</entity> and was involved in developing several local groups , some in <entity type=\"location\">New York</entity> after her move to <entity type=\"location\">Staten Island</entity> .",
+        "entities": [
+            [
+                "Paul Edwin Zimmer",
+                "writer"
+            ],
+            [
+                "Society for Creative Anachronism",
+                "organization"
+            ],
+            [
+                "New York",
+                "location"
+            ],
+            [
+                "Staten Island",
+                "location"
+            ]
+        ],
+        "response": "In 1966 , with her brother <entity type=\"person\">Paul Edwin Zimmer</entity> , she helped found and name the <entity type=\"organization\">Society for Creative Anachronism</entity> and was involved in developing several local groups , some in <entity type=\"location\">New York</entity> after her move to <entity type=\"location\">Staten Island</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Paul Edwin Zimmer",
+                    "person",
+                    "Paul Edwin Zimmer",
+                    "writer"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Orwell wrote the book between November 1943 and February 1944 , when the UK was in its Allies of World War II with the Soviet Union against Nazi Germany , and the British people and intelligentsia held Stalin in high esteem , a phenomenon Orwell hated .",
+        "target": "<entity type=\"writer\">Orwell</entity> wrote the book between November 1943 and February 1944 , when the <entity type=\"country\">UK</entity> was in its <entity type=\"organization\">Allies of World War II</entity> with the <entity type=\"country\">Soviet Union</entity> against <entity type=\"country\">Nazi Germany</entity> , and the <entity type=\"miscellaneous\">British</entity> people and intelligentsia held <entity type=\"person\">Stalin</entity> in high esteem , a phenomenon <entity type=\"writer\">Orwell</entity> hated .",
+        "entities": [
+            [
+                "Orwell",
+                "writer"
+            ],
+            [
+                "UK",
+                "country"
+            ],
+            [
+                "Allies of World War II",
+                "organization"
+            ],
+            [
+                "Soviet Union",
+                "country"
+            ],
+            [
+                "Nazi Germany",
+                "country"
+            ],
+            [
+                "British",
+                "miscellaneous"
+            ],
+            [
+                "Stalin",
+                "person"
+            ],
+            [
+                "Orwell",
+                "writer"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Orwell</entity> wrote the <entity type=\"literary genre\">book</entity> between November 1943 and February 1944 , when the <entity type=\"country\">UK</entity> was in its <entity type=\"organization\">Allies of World War II</entity> with the <entity type=\"country\">Soviet Union</entity> against <entity type=\"country\">Nazi Germany</entity> , and the <entity type=\"miscellaneous\">British people</entity> and <entity type=\"miscellaneous\">intelligentsia</entity> held <entity type=\"person\">Stalin</entity> in high esteem , a phenomenon <entity type=\"writer\">Orwell</entity> hated .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "British people",
+                    "miscellaneous",
+                    "British",
+                    "miscellaneous"
+                ]
+            ],
+            "missing": [],
+            "spurious": [
+                [
+                    "intelligentsia",
+                    "miscellaneous"
+                ],
+                [
+                    "book",
+                    "literary genre"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "She is known for her two best-selling novels , The Fountainhead and Atlas Shrugged , and for developing a philosophical system she named Objectivism .",
+        "target": "She is known for her two best-selling <entity type=\"literary genre\">novels</entity> , <entity type=\"book\">The Fountainhead</entity> and <entity type=\"book\">Atlas Shrugged</entity> , and for developing a philosophical system she named <entity type=\"miscellaneous\">Objectivism</entity> .",
+        "entities": [
+            [
+                "novels",
+                "literary genre"
+            ],
+            [
+                "The Fountainhead",
+                "book"
+            ],
+            [
+                "Atlas Shrugged",
+                "book"
+            ],
+            [
+                "Objectivism",
+                "miscellaneous"
+            ]
+        ],
+        "response": "She is known for her two best-selling <entity type=\"literary genre\">novels</entity> , <entity type=\"book\">The Fountainhead</entity> and <entity type=\"book\">Atlas Shrugged</entity> , and for developing a philosophical system she named <entity type=\"miscellaneous\">Objectivism</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "In 1980 , he published another novel featuring Harry Angstrom , Rabbit Is Rich , which won the National Book Award ,",
+        "target": "In 1980 , he published another <entity type=\"literary genre\">novel</entity> featuring <entity type=\"person\">Harry Angstrom</entity> , <entity type=\"book\">Rabbit Is Rich</entity> , which won the <entity type=\"award\">National Book Award</entity> ,",
+        "entities": [
+            [
+                "novel",
+                "literary genre"
+            ],
+            [
+                "Harry Angstrom",
+                "person"
+            ],
+            [
+                "Rabbit Is Rich",
+                "book"
+            ],
+            [
+                "National Book Award",
+                "award"
+            ]
+        ],
+        "response": "In 1980 , he published another <entity type=\"literary genre\">novel</entity> featuring <entity type=\"person\">Harry Angstrom</entity> , <entity type=\"book\">Rabbit Is Rich</entity> , which won the <entity type=\"award\">National Book Award</entity> ,",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "This acted as a prelude to the release the following year of The Whitsun Weddings , the volume which cemented his reputation ; almost immediately after its publication he was granted a Fellowship of the Royal Society of Literature .",
+        "target": "This acted as a prelude to the release the following year of <entity type=\"book\">The Whitsun Weddings</entity> , the volume which cemented his reputation ; almost immediately after its publication he was granted a Fellowship of the <entity type=\"organization\">Royal Society of Literature</entity> .",
+        "entities": [
+            [
+                "The Whitsun Weddings",
+                "book"
+            ],
+            [
+                "Royal Society of Literature",
+                "organization"
+            ]
+        ],
+        "response": "This acted as a prelude to the release the following year of <entity type=\"book\">The Whitsun Weddings</entity> , the volume which cemented his reputation ; almost immediately after its publication he was granted a Fellowship of the <entity type=\"organization\">Royal Society of Literature</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "In 2012 , when the Nobel Prize Records were opened after 50 years , it was revealed that Durrell had been on a shortlist of authors considered for the 1962 Nobel Prize in Literature , along with American John Steinbeck ( winner ) , British poet Robert Graves , French writer Jean Anouilh , and the Danish Karen Blixen .",
+        "target": "In 2012 , when the <entity type=\"miscellaneous\">Nobel Prize Records</entity> were opened after 50 years , it was revealed that <entity type=\"writer\">Durrell</entity> had been on a shortlist of authors considered for the 1962 <entity type=\"award\">Nobel Prize in Literature</entity> , along with <entity type=\"miscellaneous\">American</entity> <entity type=\"writer\">John Steinbeck</entity> ( winner ) , <entity type=\"miscellaneous\">British</entity> poet <entity type=\"writer\">Robert Graves</entity> , <entity type=\"miscellaneous\">French</entity> writer <entity type=\"writer\">Jean Anouilh</entity> , and the <entity type=\"miscellaneous\">Danish</entity> <entity type=\"writer\">Karen Blixen</entity> .",
+        "entities": [
+            [
+                "Nobel Prize Records",
+                "miscellaneous"
+            ],
+            [
+                "Durrell",
+                "writer"
+            ],
+            [
+                "Nobel Prize in Literature",
+                "award"
+            ],
+            [
+                "American",
+                "miscellaneous"
+            ],
+            [
+                "John Steinbeck",
+                "writer"
+            ],
+            [
+                "British",
+                "miscellaneous"
+            ],
+            [
+                "Robert Graves",
+                "writer"
+            ],
+            [
+                "French",
+                "miscellaneous"
+            ],
+            [
+                "Jean Anouilh",
+                "writer"
+            ],
+            [
+                "Danish",
+                "miscellaneous"
+            ],
+            [
+                "Karen Blixen",
+                "writer"
+            ]
+        ],
+        "response": "In 2012 , when the <entity type=\"award\">Nobel Prize</entity> Records were opened after 50 years , it was revealed that <entity type=\"writer\">Durrell</entity> had been on a shortlist of authors considered for the 1962 <entity type=\"award\">Nobel Prize in Literature</entity> , along with <entity type=\"miscellaneous\">American</entity> <entity type=\"writer\">John Steinbeck</entity> ( winner ) , <entity type=\"miscellaneous\">British</entity> poet <entity type=\"writer\">Robert Graves</entity> , <entity type=\"miscellaneous\">French</entity> writer <entity type=\"writer\">Jean Anouilh</entity> , and the <entity type=\"miscellaneous\">Danish</entity> <entity type=\"writer\">Karen Blixen</entity> .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "Nobel Prize",
+                    "award",
+                    "Nobel Prize Records",
+                    "miscellaneous"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Some of his biggest influences were Ralph Waldo Emerson ' s essays , Walt Whitman , H. L. Mencken ' s The American Mercury , Samuel Johnson ' s The History of Rasselas , Prince of Abissinia , Alexandre Dumas , Edgar Allan Poe , Walter Scott , and Henry David Thoreau ' s Walden .",
+        "target": "Some of his biggest influences were <entity type=\"writer\">Ralph Waldo Emerson</entity> ' s <entity type=\"literary genre\">essays</entity> , <entity type=\"writer\">Walt Whitman</entity> , <entity type=\"writer\">H. L. Mencken</entity> ' s <entity type=\"magazine\">The American Mercury</entity> , <entity type=\"writer\">Samuel Johnson</entity> ' s <entity type=\"book\">The History of Rasselas , Prince of Abissinia</entity> , <entity type=\"writer\">Alexandre Dumas</entity> , <entity type=\"writer\">Edgar Allan Poe</entity> , <entity type=\"writer\">Walter Scott</entity> , and <entity type=\"writer\">Henry David Thoreau</entity> ' s <entity type=\"book\">Walden</entity> .",
+        "entities": [
+            [
+                "Ralph Waldo Emerson",
+                "writer"
+            ],
+            [
+                "essays",
+                "literary genre"
+            ],
+            [
+                "Walt Whitman",
+                "writer"
+            ],
+            [
+                "H. L. Mencken",
+                "writer"
+            ],
+            [
+                "The American Mercury",
+                "magazine"
+            ],
+            [
+                "Samuel Johnson",
+                "writer"
+            ],
+            [
+                "The History of Rasselas , Prince of Abissinia",
+                "book"
+            ],
+            [
+                "Alexandre Dumas",
+                "writer"
+            ],
+            [
+                "Edgar Allan Poe",
+                "writer"
+            ],
+            [
+                "Walter Scott",
+                "writer"
+            ],
+            [
+                "Henry David Thoreau",
+                "writer"
+            ],
+            [
+                "Walden",
+                "book"
+            ]
+        ],
+        "response": "Some of his biggest influences were <entity type=\"writer\">Ralph Waldo Emerson</entity> ' s <entity type=\"literary genre\">essays</entity> , <entity type=\"writer\">Walt Whitman</entity> , <entity type=\"writer\">H. L. Mencken</entity> ' s <entity type=\"magazine\">The American Mercury</entity> , <entity type=\"writer\">Samuel Johnson</entity> ' s <entity type=\"book\">The History of Rasselas , Prince of Abissinia</entity> , <entity type=\"writer\">Alexandre Dumas</entity> , <entity type=\"writer\">Edgar Allan Poe</entity> , <entity type=\"writer\">Walter Scott</entity> , and <entity type=\"writer\">Henry David Thoreau</entity> ' s <entity type=\"book\">Walden</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "Former House Speaker Newt Gingrich and William R. Forstchen have written a novel , 1945 , in which the US defeated Empire of Japan but not Nazi Germany in World War II , resulting in a Cold War with Germany rather than the Soviet Union .",
+        "target": "Former <entity type=\"organization\">House</entity> Speaker <entity type=\"writer\">Newt Gingrich</entity> and <entity type=\"writer\">William R. Forstchen</entity> have written a <entity type=\"literary genre\">novel</entity> , <entity type=\"book\">1945</entity> , in which the <entity type=\"country\">US</entity> defeated <entity type=\"country\">Empire of Japan</entity> but not <entity type=\"country\">Nazi Germany</entity> in <entity type=\"event\">World War II</entity> , resulting in a <entity type=\"event\">Cold War</entity> with <entity type=\"country\">Germany</entity> rather than the <entity type=\"country\">Soviet Union</entity> .",
+        "entities": [
+            [
+                "House",
+                "organization"
+            ],
+            [
+                "Newt Gingrich",
+                "writer"
+            ],
+            [
+                "William R. Forstchen",
+                "writer"
+            ],
+            [
+                "novel",
+                "literary genre"
+            ],
+            [
+                "1945",
+                "book"
+            ],
+            [
+                "US",
+                "country"
+            ],
+            [
+                "Empire of Japan",
+                "country"
+            ],
+            [
+                "Nazi Germany",
+                "country"
+            ],
+            [
+                "World War II",
+                "event"
+            ],
+            [
+                "Cold War",
+                "event"
+            ],
+            [
+                "Germany",
+                "country"
+            ],
+            [
+                "Soviet Union",
+                "country"
+            ]
+        ],
+        "response": "<entity type=\"person\">Former House Speaker Newt Gingrich</entity> and <entity type=\"writer\">William R. Forstchen</entity> have written a <entity type=\"literary genre\">novel</entity> , <entity type=\"book\">1945</entity> , in which the <entity type=\"country\">US</entity> defeated <entity type=\"country\">Empire of Japan</entity> but not <entity type=\"country\">Nazi Germany</entity> in <entity type=\"event\">World War II</entity> , resulting in a <entity type=\"event\">Cold War</entity> with <entity type=\"country\">Germany</entity> rather than the <entity type=\"country\">Soviet Union</entity> .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "Former House Speaker Newt Gingrich",
+                    "person",
+                    "House",
+                    "organization"
+                ]
+            ],
+            "missing": [
+                [
+                    "Newt Gingrich",
+                    "writer"
+                ]
+            ],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "In 2018 , Walker was asked by an interviewer from The New York Times Book Review What books are on your nightstand ? She listed Icke 's And the Truth Shall Set You Free , a book promoting an antisemitic conspiracy theory which draws on The Protocols of the Elders of Zion and queries the Holocaust .",
+        "target": "In 2018 , <entity type=\"writer\">Walker</entity> was asked by an interviewer from <entity type=\"magazine\">The New York Times Book Review</entity> What books are on your nightstand ? She listed <entity type=\"writer\">Icke</entity> 's <entity type=\"book\">And the Truth Shall Set You Free</entity> , a book promoting an antisemitic conspiracy theory which draws on <entity type=\"book\">The Protocols of the Elders of Zion</entity> and queries <entity type=\"event\">the Holocaust</entity> .",
+        "entities": [
+            [
+                "Walker",
+                "writer"
+            ],
+            [
+                "The New York Times Book Review",
+                "magazine"
+            ],
+            [
+                "Icke",
+                "writer"
+            ],
+            [
+                "And the Truth Shall Set You Free",
+                "book"
+            ],
+            [
+                "The Protocols of the Elders of Zion",
+                "book"
+            ],
+            [
+                "the Holocaust",
+                "event"
+            ]
+        ],
+        "response": "In 2018 , <entity type=\"writer\">Walker</entity> was asked by an interviewer from <entity type=\"magazine\">The New York Times Book Review</entity> What books are on your nightstand ? She listed <entity type=\"writer\">Icke</entity> 's <entity type=\"book\">And the Truth Shall Set You Free</entity> , a book promoting an antisemitic conspiracy theory which draws on <entity type=\"book\">The Protocols of the Elders of Zion</entity> and queries the <entity type=\"event\">Holocaust</entity> .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "Holocaust",
+                    "event",
+                    "the Holocaust",
+                    "event"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "He also gave a lecture at the Beethovensaal in Berlin on 13 October 1922 , which appeared in Neue Rundschau in November 1922 in which he developed his eccentric defence of the Republic , based on extensive close readings of Novalis and Walt Whitman .",
+        "target": "He also gave a lecture at the <entity type=\"location\">Beethovensaal</entity> in <entity type=\"location\">Berlin</entity> on 13 October 1922 , which appeared in <entity type=\"magazine\">Neue Rundschau</entity> in November 1922 in which he developed his eccentric defence of the Republic , based on extensive close readings of <entity type=\"writer\">Novalis</entity> and <entity type=\"writer\">Walt Whitman</entity> .",
+        "entities": [
+            [
+                "Beethovensaal",
+                "location"
+            ],
+            [
+                "Berlin",
+                "location"
+            ],
+            [
+                "Neue Rundschau",
+                "magazine"
+            ],
+            [
+                "Novalis",
+                "writer"
+            ],
+            [
+                "Walt Whitman",
+                "writer"
+            ]
+        ],
+        "response": "He also gave a lecture at the <entity type=\"location\">Beethovensaal</entity> in <entity type=\"location\">Berlin</entity> on 13 October 1922 , which appeared in <entity type=\"magazine\">Neue Rundschau</entity> in November 1922 in which he developed his eccentric defence of the <entity type=\"organization\">Republic</entity> , based on extensive close readings of <entity type=\"writer\">Novalis</entity> and <entity type=\"writer\">Walt Whitman</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": [
+                [
+                    "Republic",
+                    "organization"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "It was nominated for seven Academy Awards and won four , including Academy Award for Best Picture and Academy Award for Best Original Screenplay .",
+        "target": "It was nominated for seven <entity type=\"award\">Academy Awards</entity> and won four , including <entity type=\"award\">Academy Award for Best Picture</entity> and <entity type=\"award\">Academy Award for Best Original Screenplay</entity> .",
+        "entities": [
+            [
+                "Academy Awards",
+                "award"
+            ],
+            [
+                "Academy Award for Best Picture",
+                "award"
+            ],
+            [
+                "Academy Award for Best Original Screenplay",
+                "award"
+            ]
+        ],
+        "response": "It was nominated for seven <entity type=\"award\">Academy Awards</entity> and won four , including <entity type=\"award\">Academy Award for Best Picture</entity> and <entity type=\"award\">Academy Award for Best Original Screenplay</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "United States poets such as John Ashbery , Marilyn Hacker , Donald Justice ( Pantoum of the Great Depression ) , and David Trinidad have done work in this form , as has Irish poet Caitriona O 'Reilly .",
+        "target": "<entity type=\"country\">United States</entity> poets such as <entity type=\"writer\">John Ashbery</entity> , <entity type=\"writer\">Marilyn Hacker</entity> , <entity type=\"writer\">Donald Justice</entity> ( <entity type=\"book\">Pantoum of the Great Depression</entity> ) , and <entity type=\"writer\">David Trinidad</entity> have done work in this form , as has <entity type=\"miscellaneous\">Irish</entity> poet <entity type=\"writer\">Caitriona O 'Reilly</entity> .",
+        "entities": [
+            [
+                "United States",
+                "country"
+            ],
+            [
+                "John Ashbery",
+                "writer"
+            ],
+            [
+                "Marilyn Hacker",
+                "writer"
+            ],
+            [
+                "Donald Justice",
+                "writer"
+            ],
+            [
+                "Pantoum of the Great Depression",
+                "book"
+            ],
+            [
+                "David Trinidad",
+                "writer"
+            ],
+            [
+                "Irish",
+                "miscellaneous"
+            ],
+            [
+                "Caitriona O 'Reilly",
+                "writer"
+            ]
+        ],
+        "response": "<entity type=\"country\">United States</entity> poets such as <entity type=\"writer\">John Ashbery</entity> , <entity type=\"writer\">Marilyn Hacker</entity> , <entity type=\"writer\">Donald Justice</entity> ( <entity type=\"poem\">Pantoum of the Great Depression</entity> ) , and <entity type=\"writer\">David Trinidad</entity> have done work in this form , as has <entity type=\"miscellaneous\">Irish</entity> poet <entity type=\"writer\">Caitriona O 'Reilly</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Pantoum of the Great Depression",
+                    "poem",
+                    "Pantoum of the Great Depression",
+                    "book"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Considered by many critics , filmmakers , and fans to be the greatest film ever made , Citizen Kane was voted as such in five consecutive British Film Institute Sight & Sound polls of critics , and it topped the American Film Institute ' s 100 Years ... 100 Movies list in 1998 , as well as its 2007 update .",
+        "target": "Considered by many critics , filmmakers , and fans to be the greatest film ever made , <entity type=\"miscellaneous\">Citizen Kane</entity> was voted as such in five consecutive <entity type=\"organization\">British Film Institute</entity> <entity type=\"magazine\">Sight & Sound</entity> polls of critics , and it topped the <entity type=\"organization\">American Film Institute</entity> ' s <entity type=\"miscellaneous\">100 Years ... 100 Movies list</entity> in 1998 , as well as its 2007 update .",
+        "entities": [
+            [
+                "Citizen Kane",
+                "miscellaneous"
+            ],
+            [
+                "British Film Institute",
+                "organization"
+            ],
+            [
+                "Sight & Sound",
+                "magazine"
+            ],
+            [
+                "American Film Institute",
+                "organization"
+            ],
+            [
+                "100 Years ... 100 Movies list",
+                "miscellaneous"
+            ]
+        ],
+        "response": "Considered by many critics , filmmakers , and fans to be the greatest film ever made , <entity type=\"miscellaneous\">Citizen Kane</entity> was voted as such in five consecutive <entity type=\"organization\">British Film Institute</entity> <entity type=\"magazine\">Sight & Sound</entity> polls of critics , and it topped the <entity type=\"organization\">American Film Institute</entity> ' s <entity type=\"miscellaneous\">100 Years ... 100 Movies</entity> list in 1998 , as well as its 2007 update .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "100 Years ... 100 Movies",
+                    "miscellaneous",
+                    "100 Years ... 100 Movies list",
+                    "miscellaneous"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "John Updike , comparing Abner to a hillbilly Candide , added that the strip 's richness of social and philosophical commentary approached the Voltairean .",
+        "target": "<entity type=\"writer\">John Updike</entity> , comparing <entity type=\"person\">Abner</entity> to a hillbilly <entity type=\"book\">Candide</entity> , added that the strip 's richness of social and philosophical commentary approached the Voltairean .",
+        "entities": [
+            [
+                "John Updike",
+                "writer"
+            ],
+            [
+                "Abner",
+                "person"
+            ],
+            [
+                "Candide",
+                "book"
+            ]
+        ],
+        "response": "<entity type=\"writer\">John Updike</entity> , comparing <entity type=\"person\">Abner</entity> to a <entity type=\"miscellaneous\">hillbilly</entity> <entity type=\"book\">Candide</entity> , added that the strip 's richness of social and philosophical commentary approached the <entity type=\"miscellaneous\">Voltairean</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": [
+                [
+                    "hillbilly",
+                    "miscellaneous"
+                ],
+                [
+                    "Voltairean",
+                    "miscellaneous"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "This strand continues in Latin accounts of the Trojan War by writers such as Dictys Cretensis and Dares Phrygius and in Beno\u00eet de Sainte-Maure ' s Roman de Troie and Guido delle Colonne ' s Historia destructionis Troiae , which remained the most widely read and retold versions of the Matter of Troy until the 17th century .",
+        "target": "This strand continues in <entity type=\"miscellaneous\">Latin</entity> accounts of the <entity type=\"event\">Trojan War</entity> by writers such as <entity type=\"writer\">Dictys Cretensis</entity> and <entity type=\"writer\">Dares Phrygius</entity> and in <entity type=\"writer\">Beno\u00eet de Sainte-Maure</entity> ' s <entity type=\"book\">Roman de Troie</entity> and <entity type=\"writer\">Guido delle Colonne</entity> ' s <entity type=\"book\">Historia destructionis Troiae</entity> , which remained the most widely read and retold versions of the <entity type=\"miscellaneous\">Matter of Troy</entity> until the 17th century .",
+        "entities": [
+            [
+                "Latin",
+                "miscellaneous"
+            ],
+            [
+                "Trojan War",
+                "event"
+            ],
+            [
+                "Dictys Cretensis",
+                "writer"
+            ],
+            [
+                "Dares Phrygius",
+                "writer"
+            ],
+            [
+                "Beno\u00eet de Sainte-Maure",
+                "writer"
+            ],
+            [
+                "Roman de Troie",
+                "book"
+            ],
+            [
+                "Guido delle Colonne",
+                "writer"
+            ],
+            [
+                "Historia destructionis Troiae",
+                "book"
+            ],
+            [
+                "Matter of Troy",
+                "miscellaneous"
+            ]
+        ],
+        "response": "This strand continues in <entity type=\"miscellaneous\">Latin</entity> accounts of the <entity type=\"event\">Trojan War</entity> by writers such as <entity type=\"writer\">Dictys Cretensis</entity> and <entity type=\"writer\">Dares Phrygius</entity> and in <entity type=\"writer\">Beno\u00eet de Sainte-Maure</entity> ' s <entity type=\"book\">Roman de Troie</entity> and <entity type=\"writer\">Guido delle Colonne</entity> ' s <entity type=\"book\">Historia destructionis Troiae</entity> , which remained the most widely read and retold versions of the <entity type=\"miscellaneous\">Matter of Troy</entity> until the 17th century .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "According to Entertainment Weekly , Raimi had expressed an interest in directing a film version of The Hobbit , the prequel to the Lord of the Rings trilogy .",
+        "target": "According to <entity type=\"magazine\">Entertainment Weekly</entity> , <entity type=\"person\">Raimi</entity> had expressed an interest in directing a film version of <entity type=\"book\">The Hobbit</entity> , the prequel to the <entity type=\"book\">Lord of the Rings</entity> <entity type=\"miscellaneous\">trilogy</entity> .",
+        "entities": [
+            [
+                "Entertainment Weekly",
+                "magazine"
+            ],
+            [
+                "Raimi",
+                "person"
+            ],
+            [
+                "The Hobbit",
+                "book"
+            ],
+            [
+                "Lord of the Rings",
+                "book"
+            ],
+            [
+                "trilogy",
+                "miscellaneous"
+            ]
+        ],
+        "response": "According to <entity type=\"magazine\">Entertainment Weekly</entity> , <entity type=\"person\">Raimi</entity> had expressed an interest in directing a film version of <entity type=\"book\">The Hobbit</entity> , the prequel to the <entity type=\"book\">Lord of the Rings</entity> trilogy .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [
+                [
+                    "trilogy",
+                    "miscellaneous"
+                ]
+            ],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "In addition to writing for The New Yorker , he has written for The Atlantic Monthly and National Geographic .",
+        "target": "In addition to writing for <entity type=\"magazine\">The New Yorker</entity> , he has written for <entity type=\"magazine\">The Atlantic Monthly</entity> and <entity type=\"magazine\">National Geographic</entity> .",
+        "entities": [
+            [
+                "The New Yorker",
+                "magazine"
+            ],
+            [
+                "The Atlantic Monthly",
+                "magazine"
+            ],
+            [
+                "National Geographic",
+                "magazine"
+            ]
+        ],
+        "response": "In addition to writing for <entity type=\"magazine\">The New Yorker</entity> , he has written for <entity type=\"magazine\">The Atlantic Monthly</entity> and <entity type=\"magazine\">National Geographic</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "He spent most of the war flying between the U.S. and India , via the Azores and North Africa or South America , Nigeria , and Central Africa .",
+        "target": "He spent most of the war flying between the <entity type=\"country\">U.S.</entity> and <entity type=\"country\">India</entity> , via the <entity type=\"location\">Azores</entity> and <entity type=\"location\">North Africa</entity> or <entity type=\"location\">South America</entity> , <entity type=\"country\">Nigeria</entity> , and <entity type=\"location\">Central Africa</entity> .",
+        "entities": [
+            [
+                "U.S.",
+                "country"
+            ],
+            [
+                "India",
+                "country"
+            ],
+            [
+                "Azores",
+                "location"
+            ],
+            [
+                "North Africa",
+                "location"
+            ],
+            [
+                "South America",
+                "location"
+            ],
+            [
+                "Nigeria",
+                "country"
+            ],
+            [
+                "Central Africa",
+                "location"
+            ]
+        ],
+        "response": "He spent most of the war flying between the <entity type=\"country\">U.S.</entity> and <entity type=\"country\">India</entity> , via the <entity type=\"location\">Azores</entity> and <entity type=\"location\">North Africa</entity> or <entity type=\"location\">South America</entity> , <entity type=\"country\">Nigeria</entity> , and <entity type=\"location\">Central Africa</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "Also in 2007 he provided consulting services to Silver Pictures on the film adaptation of Richard K. Morgan ' s hardboiled cyberpunk science-fiction novel Altered Carbon ( 2002 ) .",
+        "target": "Also in 2007 he provided consulting services to <entity type=\"organization\">Silver Pictures</entity> on the film adaptation of <entity type=\"writer\">Richard K. Morgan</entity> ' s hardboiled cyberpunk <entity type=\"literary genre\">science-fiction novel</entity> <entity type=\"book\">Altered Carbon</entity> ( 2002 ) .",
+        "entities": [
+            [
+                "Silver Pictures",
+                "organization"
+            ],
+            [
+                "Richard K. Morgan",
+                "writer"
+            ],
+            [
+                "science-fiction novel",
+                "literary genre"
+            ],
+            [
+                "Altered Carbon",
+                "book"
+            ]
+        ],
+        "response": "Also in 2007 he provided consulting services to <entity type=\"organization\">Silver Pictures</entity> on the film adaptation of <entity type=\"writer\">Richard K. Morgan</entity> ' s hardboiled <entity type=\"literary genre\">cyberpunk science-fiction</entity> <entity type=\"literary genre\">novel</entity> <entity type=\"book\">Altered Carbon</entity> ( 2002 ) .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "novel",
+                    "literary genre",
+                    "science-fiction novel",
+                    "literary genre"
+                ]
+            ],
+            "missing": [],
+            "spurious": [
+                [
+                    "cyberpunk science-fiction",
+                    "literary genre"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "Nabokov 's Lolita ( 1955 ) was ranked fourth in the list of the Modern Library 100 Best Novels in 2007 ; He was a finalist for the National Book Award for Fiction seven times .",
+        "target": "<entity type=\"writer\">Nabokov</entity> 's <entity type=\"book\">Lolita</entity> ( 1955 ) was ranked fourth in the list of the <entity type=\"miscellaneous\">Modern Library 100 Best Novels</entity> in 2007 ; He was a finalist for the <entity type=\"award\">National Book Award for Fiction</entity> seven times .",
+        "entities": [
+            [
+                "Nabokov",
+                "writer"
+            ],
+            [
+                "Lolita",
+                "book"
+            ],
+            [
+                "Modern Library 100 Best Novels",
+                "miscellaneous"
+            ],
+            [
+                "National Book Award for Fiction",
+                "award"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Nabokov</entity> 's <entity type=\"book\">Lolita</entity> ( 1955 ) was ranked fourth in the list of the <entity type=\"organization\">Modern Library</entity> <entity type=\"award\">100 Best Novels</entity> in 2007 ; <entity type=\"writer\">He</entity> was a finalist for the <entity type=\"award\">National Book Award for Fiction</entity> seven times .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "Modern Library",
+                    "organization",
+                    "Modern Library 100 Best Novels",
+                    "miscellaneous"
+                ]
+            ],
+            "missing": [],
+            "spurious": [
+                [
+                    "He",
+                    "writer"
+                ],
+                [
+                    "100 Best Novels",
+                    "award"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "On February 2 , 1966 , he made his Broadway debut as Harry Roat , Jr in Frederick Knott ' s Wait Until Dark at the Ethel Barrymore Theatre .",
+        "target": "On February 2 , 1966 , he made his <entity type=\"organization\">Broadway</entity> debut as <entity type=\"person\">Harry Roat , Jr</entity> in <entity type=\"writer\">Frederick Knott</entity> ' s <entity type=\"book\">Wait Until Dark</entity> at the <entity type=\"location\">Ethel Barrymore Theatre</entity> .",
+        "entities": [
+            [
+                "Broadway",
+                "organization"
+            ],
+            [
+                "Harry Roat , Jr",
+                "person"
+            ],
+            [
+                "Frederick Knott",
+                "writer"
+            ],
+            [
+                "Wait Until Dark",
+                "book"
+            ],
+            [
+                "Ethel Barrymore Theatre",
+                "location"
+            ]
+        ],
+        "response": "On February 2 , 1966 , he made his <entity type=\"event\">Broadway</entity> debut as <entity type=\"person\">Harry Roat , Jr</entity> in <entity type=\"writer\">Frederick Knott</entity> ' s <entity type=\"book\">Wait Until Dark</entity> at the <entity type=\"location\">Ethel Barrymore Theatre</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Broadway",
+                    "event",
+                    "Broadway",
+                    "organization"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "In 2003 , Van Sant 's film about the Columbine High School massacre , Elephant , won the Palme d 'Or at the Cannes Film Festival .",
+        "target": "In 2003 , <entity type=\"person\">Van Sant</entity> 's film about the <entity type=\"event\">Columbine High School massacre</entity> , <entity type=\"miscellaneous\">Elephant</entity> , won the <entity type=\"award\">Palme d 'Or</entity> at the <entity type=\"event\">Cannes Film Festival</entity> .",
+        "entities": [
+            [
+                "Van Sant",
+                "person"
+            ],
+            [
+                "Columbine High School massacre",
+                "event"
+            ],
+            [
+                "Elephant",
+                "miscellaneous"
+            ],
+            [
+                "Palme d 'Or",
+                "award"
+            ],
+            [
+                "Cannes Film Festival",
+                "event"
+            ]
+        ],
+        "response": "In 2003 , <entity type=\"writer\">Van Sant</entity> 's film about the <entity type=\"event\">Columbine High School massacre</entity> , <entity type=\"miscellaneous\">Elephant</entity> , won the <entity type=\"award\">Palme d 'Or</entity> at the <entity type=\"event\">Cannes Film Festival</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Van Sant",
+                    "writer",
+                    "Van Sant",
+                    "person"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Robert Caro has cited it as the strongest influence on The Power Broker , his Pulitzer Prize -winning biography of Robert Moses , though Caro does not mention Jacobs by name even once in the book despite Jacobs ' battles with Moses over his proposed Lower Manhattan Expressway .",
+        "target": "<entity type=\"writer\">Robert Caro</entity> has cited it as the strongest influence on <entity type=\"book\">The Power Broker</entity> , his <entity type=\"award\">Pulitzer Prize</entity> -winning biography of <entity type=\"person\">Robert Moses</entity> , though <entity type=\"writer\">Caro</entity> does not mention <entity type=\"writer\">Jacobs</entity> by name even once in the book despite <entity type=\"writer\">Jacobs</entity> ' battles with <entity type=\"person\">Moses</entity> over his proposed <entity type=\"miscellaneous\">Lower Manhattan Expressway</entity> .",
+        "entities": [
+            [
+                "Robert Caro",
+                "writer"
+            ],
+            [
+                "The Power Broker",
+                "book"
+            ],
+            [
+                "Pulitzer Prize",
+                "award"
+            ],
+            [
+                "Robert Moses",
+                "person"
+            ],
+            [
+                "Caro",
+                "writer"
+            ],
+            [
+                "Jacobs",
+                "writer"
+            ],
+            [
+                "Jacobs",
+                "writer"
+            ],
+            [
+                "Moses",
+                "person"
+            ],
+            [
+                "Lower Manhattan Expressway",
+                "miscellaneous"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Robert Caro</entity> has cited it as the strongest influence on <entity type=\"book\">The Power Broker</entity> , his <entity type=\"award\">Pulitzer Prize</entity> -winning biography of <entity type=\"person\">Robert Moses</entity> , though <entity type=\"writer\">Caro</entity> does not mention <entity type=\"writer\">Jacobs</entity> by name even once in the book despite <entity type=\"writer\">Jacobs</entity> ' battles with <entity type=\"person\">Moses</entity> over his proposed <entity type=\"location\">Lower Manhattan Expressway</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Lower Manhattan Expressway",
+                    "location",
+                    "Lower Manhattan Expressway",
+                    "miscellaneous"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "He also continued translating the writings of Juliusz S\u0142owacki and Pedro Calder\u00f3n de la Barca .",
+        "target": "He also continued translating the writings of <entity type=\"writer\">Juliusz S\u0142owacki</entity> and <entity type=\"writer\">Pedro Calder\u00f3n de la Barca</entity> .",
+        "entities": [
+            [
+                "Juliusz S\u0142owacki",
+                "writer"
+            ],
+            [
+                "Pedro Calder\u00f3n de la Barca",
+                "writer"
+            ]
+        ],
+        "response": "He also continued translating the writings of <entity type=\"writer\">Juliusz S\u0142owacki</entity> and <entity type=\"writer\">Pedro Calder\u00f3n de la Barca</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "He has also been nominated and won many awards from film organizations such as Screen Actors Guild , Cannes Film Festival , Golden Globes and others .",
+        "target": "He has also been nominated and won many awards from film organizations such as <entity type=\"organization\">Screen Actors Guild</entity> , <entity type=\"event\">Cannes Film Festival</entity> , <entity type=\"organization\">Golden Globes</entity> and others .",
+        "entities": [
+            [
+                "Screen Actors Guild",
+                "organization"
+            ],
+            [
+                "Cannes Film Festival",
+                "event"
+            ],
+            [
+                "Golden Globes",
+                "organization"
+            ]
+        ],
+        "response": "He has also been nominated and won many awards from film organizations such as <entity type=\"organization\">Screen Actors Guild</entity> , <entity type=\"event\">Cannes Film Festival</entity> , <entity type=\"award\">Golden Globes</entity> and others .",
+        "errors": {
+            "type": [
+                [
+                    "Golden Globes",
+                    "award",
+                    "Golden Globes",
+                    "organization"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "The main facts of his life are stated in his long poem De triumphis ecclesiae ( On the triumphs of the Church ) .",
+        "target": "The main facts of his life are stated in his <entity type=\"literary genre\">long poem</entity> <entity type=\"poem\">De triumphis ecclesiae</entity> ( <entity type=\"poem\">On the triumphs of the Church</entity> ) .",
+        "entities": [
+            [
+                "long poem",
+                "literary genre"
+            ],
+            [
+                "De triumphis ecclesiae",
+                "poem"
+            ],
+            [
+                "On the triumphs of the Church",
+                "poem"
+            ]
+        ],
+        "response": "The main facts of his life are stated in his long <entity type=\"literary genre\">poem</entity> <entity type=\"poem\">De triumphis ecclesiae</entity> ( <entity type=\"poem\">On the triumphs of the Church</entity> ) .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "poem",
+                    "literary genre",
+                    "long poem",
+                    "literary genre"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Another poem that is ambiguous in this respect is The Virgin Carrying a Lantern .",
+        "target": "Another poem that is ambiguous in this respect is <entity type=\"poem\">The Virgin Carrying a Lantern</entity> .",
+        "entities": [
+            [
+                "The Virgin Carrying a Lantern",
+                "poem"
+            ]
+        ],
+        "response": "Another <entity type=\"literary genre\">poem</entity> that is ambiguous in this respect is <entity type=\"poem\">The Virgin Carrying a Lantern</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": [
+                [
+                    "poem",
+                    "literary genre"
+                ]
+            ]
+        },
+        "correct": false
+    },
+    {
+        "text": "In 1939 , with the help of his agent Audrey Wood , Williams was awarded a $ 1,000 grant from the Rockefeller Foundation in recognition of his play Battle of Angels .",
+        "target": "In 1939 , with the help of his agent <entity type=\"writer\">Audrey Wood</entity> , <entity type=\"writer\">Williams</entity> was awarded a $ 1,000 grant from the <entity type=\"organization\">Rockefeller Foundation</entity> in recognition of his play <entity type=\"book\">Battle of Angels</entity> .",
+        "entities": [
+            [
+                "Audrey Wood",
+                "writer"
+            ],
+            [
+                "Williams",
+                "writer"
+            ],
+            [
+                "Rockefeller Foundation",
+                "organization"
+            ],
+            [
+                "Battle of Angels",
+                "book"
+            ]
+        ],
+        "response": "In 1939 , with the help of his agent <entity type=\"person\">Audrey Wood</entity> , <entity type=\"writer\">Williams</entity> was awarded a $ 1,000 grant from the <entity type=\"organization\">Rockefeller Foundation</entity> in recognition of his play <entity type=\"book\">Battle of Angels</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Audrey Wood",
+                    "person",
+                    "Audrey Wood",
+                    "writer"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "In an April 2015 interview with Billboard , Lavigne announced a new single titled Fly , which was released on April 26 in association with the 2015 Special Olympics World Summer Games .",
+        "target": "In an April 2015 interview with <entity type=\"miscellaneous\">Billboard</entity> , <entity type=\"person\">Lavigne</entity> announced a new single titled <entity type=\"miscellaneous\">Fly</entity> , which was released on April 26 in association with the <entity type=\"event\">2015 Special Olympics World Summer Games</entity> .",
+        "entities": [
+            [
+                "Billboard",
+                "miscellaneous"
+            ],
+            [
+                "Lavigne",
+                "person"
+            ],
+            [
+                "Fly",
+                "miscellaneous"
+            ],
+            [
+                "2015 Special Olympics World Summer Games",
+                "event"
+            ]
+        ],
+        "response": "In an April 2015 interview with <entity type=\"magazine\">Billboard</entity> , <entity type=\"person\">Lavigne</entity> announced a new single titled <entity type=\"miscellaneous\">Fly</entity> , which was released on April 26 in association with the <entity type=\"event\">2015 Special Olympics World Summer Games</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Billboard",
+                    "magazine",
+                    "Billboard",
+                    "miscellaneous"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Richard Henry Dana , Jr ' s new book Two Years Before the Mast , and by Jeremiah N. Reynolds ' s account in the May 1839 issue of The Knickerbocker magazine of the hunt for a great white sperm whale named Mocha Dick , Melville and Gansevoort traveled to New Bedford , where Melville signed up for a whaling voyage aboard a new ship , the Acushnet .",
+        "target": "<entity type=\"writer\">Richard Henry Dana , Jr</entity> ' s new book <entity type=\"book\">Two Years Before the Mast</entity> , and by <entity type=\"writer\">Jeremiah N. Reynolds</entity> ' s account in the May 1839 issue of <entity type=\"magazine\">The Knickerbocker</entity> magazine of the hunt for a great white sperm whale named <entity type=\"miscellaneous\">Mocha Dick</entity> , <entity type=\"writer\">Melville</entity> and <entity type=\"person\">Gansevoort</entity> traveled to <entity type=\"location\">New Bedford</entity> , where <entity type=\"writer\">Melville</entity> signed up for a whaling voyage aboard a new ship , the <entity type=\"miscellaneous\">Acushnet</entity> .",
+        "entities": [
+            [
+                "Richard Henry Dana , Jr",
+                "writer"
+            ],
+            [
+                "Two Years Before the Mast",
+                "book"
+            ],
+            [
+                "Jeremiah N. Reynolds",
+                "writer"
+            ],
+            [
+                "The Knickerbocker",
+                "magazine"
+            ],
+            [
+                "Mocha Dick",
+                "miscellaneous"
+            ],
+            [
+                "Melville",
+                "writer"
+            ],
+            [
+                "Gansevoort",
+                "person"
+            ],
+            [
+                "New Bedford",
+                "location"
+            ],
+            [
+                "Melville",
+                "writer"
+            ],
+            [
+                "Acushnet",
+                "miscellaneous"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Richard Henry Dana , Jr</entity> ' s new book <entity type=\"book\">Two Years Before the Mast</entity> , and by <entity type=\"writer\">Jeremiah N. Reynolds</entity> ' s account in the May 1839 issue of <entity type=\"magazine\">The Knickerbocker</entity> magazine of the hunt for a great white sperm whale named <entity type=\"miscellaneous\">Mocha Dick</entity> , <entity type=\"writer\">Melville</entity> and <entity type=\"person\">Gansevoort</entity> traveled to <entity type=\"location\">New Bedford</entity> , where <entity type=\"writer\">Melville</entity> signed up for a whaling voyage aboard a new ship , the <entity type=\"miscellaneous\">Acushnet</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "He was a member of the National Academy of Sciences , the National Academy of Engineering , and the American Academy of Arts and Sciences .",
+        "target": "He was a member of the <entity type=\"organization\">National Academy of Sciences</entity> , the <entity type=\"organization\">National Academy of Engineering</entity> , and the <entity type=\"organization\">American Academy of Arts and Sciences</entity> .",
+        "entities": [
+            [
+                "National Academy of Sciences",
+                "organization"
+            ],
+            [
+                "National Academy of Engineering",
+                "organization"
+            ],
+            [
+                "American Academy of Arts and Sciences",
+                "organization"
+            ]
+        ],
+        "response": "He was a member of the <entity type=\"organization\">National Academy of Sciences</entity> , the <entity type=\"organization\">National Academy of Engineering</entity> , and the <entity type=\"organization\">American Academy of Arts and Sciences</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "Modern children 's literature has been more or less influenced by Lewis 's series , such as Daniel Handler ' s A Series of Unfortunate Events , Eoin Colfer ' s Artemis Fowl , Philip Pullman ' s His Dark Materials , and J. K. Rowling ' s Harry Potter .",
+        "target": "Modern children 's literature has been more or less influenced by <entity type=\"writer\">Lewis</entity> 's series , such as <entity type=\"writer\">Daniel Handler</entity> ' s <entity type=\"book\">A Series of Unfortunate Events</entity> , <entity type=\"writer\">Eoin Colfer</entity> ' s <entity type=\"book\">Artemis Fowl</entity> , <entity type=\"writer\">Philip Pullman</entity> ' s <entity type=\"book\">His Dark Materials</entity> , and <entity type=\"writer\">J. K. Rowling</entity> ' s <entity type=\"book\">Harry Potter</entity> .",
+        "entities": [
+            [
+                "Lewis",
+                "writer"
+            ],
+            [
+                "Daniel Handler",
+                "writer"
+            ],
+            [
+                "A Series of Unfortunate Events",
+                "book"
+            ],
+            [
+                "Eoin Colfer",
+                "writer"
+            ],
+            [
+                "Artemis Fowl",
+                "book"
+            ],
+            [
+                "Philip Pullman",
+                "writer"
+            ],
+            [
+                "His Dark Materials",
+                "book"
+            ],
+            [
+                "J. K. Rowling",
+                "writer"
+            ],
+            [
+                "Harry Potter",
+                "book"
+            ]
+        ],
+        "response": "Modern children 's literature has been more or less influenced by <entity type=\"writer\">Lewis</entity> 's series , such as <entity type=\"writer\">Daniel Handler</entity> ' s <entity type=\"book\">A Series of Unfortunate Events</entity> , <entity type=\"writer\">Eoin Colfer</entity> ' s <entity type=\"book\">Artemis Fowl</entity> , <entity type=\"writer\">Philip Pullman</entity> ' s <entity type=\"book\">His Dark Materials</entity> , and <entity type=\"writer\">J. K. Rowling</entity> ' s <entity type=\"book\">Harry Potter</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "The period around World War II also saw the publication of the time travel novel Lest Darkness Fall by L. Sprague de Camp , in which an American academic travels to Italy at the time of the Byzantine invasion of the Ostrogoths .",
+        "target": "The period around <entity type=\"event\">World War II</entity> also saw the publication of the <entity type=\"literary genre\">time travel novel</entity> <entity type=\"book\">Lest Darkness Fall</entity> by <entity type=\"writer\">L. Sprague de Camp</entity> , in which an <entity type=\"miscellaneous\">American</entity> academic travels to <entity type=\"country\">Italy</entity> at the time of the <entity type=\"miscellaneous\">Byzantine</entity> invasion of the <entity type=\"miscellaneous\">Ostrogoths</entity> .",
+        "entities": [
+            [
+                "World War II",
+                "event"
+            ],
+            [
+                "time travel novel",
+                "literary genre"
+            ],
+            [
+                "Lest Darkness Fall",
+                "book"
+            ],
+            [
+                "L. Sprague de Camp",
+                "writer"
+            ],
+            [
+                "American",
+                "miscellaneous"
+            ],
+            [
+                "Italy",
+                "country"
+            ],
+            [
+                "Byzantine",
+                "miscellaneous"
+            ],
+            [
+                "Ostrogoths",
+                "miscellaneous"
+            ]
+        ],
+        "response": "The period around <entity type=\"event\">World War II</entity> also saw the publication of the <entity type=\"literary genre\">time travel novel</entity> <entity type=\"book\">Lest Darkness Fall</entity> by <entity type=\"writer\">L. Sprague de Camp</entity> , in which an <entity type=\"miscellaneous\">American</entity> academic travels to <entity type=\"country\">Italy</entity> at the time of the <entity type=\"organization\">Byzantine</entity> invasion of the <entity type=\"miscellaneous\">Ostrogoths</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Byzantine",
+                    "organization",
+                    "Byzantine",
+                    "miscellaneous"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Good Omens : The Nice and Accurate Prophecies of Agnes Nutter , Witch ( 1990 ) is a World Fantasy Award -nominated novel written as a collaboration between the English authors Terry Pratchett and Neil Gaiman .",
+        "target": "<entity type=\"book\">Good Omens : The Nice and Accurate Prophecies of Agnes Nutter , Witch</entity> ( 1990 ) is a <entity type=\"award\">World Fantasy Award</entity> -nominated <entity type=\"literary genre\">novel</entity> written as a collaboration between the <entity type=\"miscellaneous\">English</entity> authors <entity type=\"writer\">Terry Pratchett</entity> and <entity type=\"writer\">Neil Gaiman</entity> .",
+        "entities": [
+            [
+                "Good Omens : The Nice and Accurate Prophecies of Agnes Nutter , Witch",
+                "book"
+            ],
+            [
+                "World Fantasy Award",
+                "award"
+            ],
+            [
+                "novel",
+                "literary genre"
+            ],
+            [
+                "English",
+                "miscellaneous"
+            ],
+            [
+                "Terry Pratchett",
+                "writer"
+            ],
+            [
+                "Neil Gaiman",
+                "writer"
+            ]
+        ],
+        "response": "<entity type=\"book\">Good Omens : The Nice and Accurate Prophecies of Agnes Nutter , Witch</entity> ( 1990 ) is a <entity type=\"award\">World Fantasy Award</entity> -nominated <entity type=\"literary genre\">novel</entity> written as a collaboration between the <entity type=\"miscellaneous\">English</entity> authors <entity type=\"writer\">Terry Pratchett</entity> and <entity type=\"writer\">Neil Gaiman</entity> .",
+        "errors": {
+            "type": [],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": true
+    },
+    {
+        "text": "He wrote for many publications , including Rolling Stone , Esquire , The Boston Globe , Chicago Tribune , The New York Times , The San Francisco Examiner , Time , Vanity Fair , The San Juan Star , and Playboy .",
+        "target": "He wrote for many publications , including <entity type=\"magazine\">Rolling Stone</entity> , <entity type=\"magazine\">Esquire</entity> , <entity type=\"organization\">The Boston Globe</entity> , <entity type=\"organization\">Chicago Tribune</entity> , <entity type=\"organization\">The New York Times</entity> , <entity type=\"organization\">The San Francisco Examiner</entity> , <entity type=\"magazine\">Time</entity> , <entity type=\"magazine\">Vanity Fair</entity> , <entity type=\"organization\">The San Juan Star</entity> , and <entity type=\"magazine\">Playboy</entity> .",
+        "entities": [
+            [
+                "Rolling Stone",
+                "magazine"
+            ],
+            [
+                "Esquire",
+                "magazine"
+            ],
+            [
+                "The Boston Globe",
+                "organization"
+            ],
+            [
+                "Chicago Tribune",
+                "organization"
+            ],
+            [
+                "The New York Times",
+                "organization"
+            ],
+            [
+                "The San Francisco Examiner",
+                "organization"
+            ],
+            [
+                "Time",
+                "magazine"
+            ],
+            [
+                "Vanity Fair",
+                "magazine"
+            ],
+            [
+                "The San Juan Star",
+                "organization"
+            ],
+            [
+                "Playboy",
+                "magazine"
+            ]
+        ],
+        "response": "He wrote for many publications , including <entity type=\"magazine\">Rolling Stone</entity> , <entity type=\"magazine\">Esquire</entity> , <entity type=\"magazine\">The Boston Globe</entity> , <entity type=\"magazine\">Chicago Tribune</entity> , <entity type=\"magazine\">The New York Times</entity> , <entity type=\"magazine\">The San Francisco Examiner</entity> , <entity type=\"magazine\">Time</entity> , <entity type=\"magazine\">Vanity Fair</entity> , <entity type=\"magazine\">The San Juan Star</entity> , and <entity type=\"magazine\">Playboy</entity> .",
+        "errors": {
+            "type": [
+                [
+                    "Chicago Tribune",
+                    "magazine",
+                    "Chicago Tribune",
+                    "organization"
+                ],
+                [
+                    "The San Francisco Examiner",
+                    "magazine",
+                    "The San Francisco Examiner",
+                    "organization"
+                ],
+                [
+                    "The San Juan Star",
+                    "magazine",
+                    "The San Juan Star",
+                    "organization"
+                ],
+                [
+                    "The Boston Globe",
+                    "magazine",
+                    "The Boston Globe",
+                    "organization"
+                ],
+                [
+                    "The New York Times",
+                    "magazine",
+                    "The New York Times",
+                    "organization"
+                ]
+            ],
+            "span": [],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Famous Hopwood award winners include Robert Hayden , Marge Piercy , Arthur Miller , Betty Smith , Lawrence Kasdan , John Ciardi , Mary Gaitskill , Edmund White , Nancy Willard , Frank O 'Hara , and I-writer I-writer .",
+        "target": "Famous <entity type=\"award\">Hopwood award</entity> winners include <entity type=\"writer\">Robert Hayden</entity> , <entity type=\"writer\">Marge Piercy</entity> , <entity type=\"writer\">Arthur Miller</entity> , <entity type=\"writer\">Betty Smith</entity> , <entity type=\"writer\">Lawrence Kasdan</entity> , <entity type=\"writer\">John Ciardi</entity> , <entity type=\"writer\">Mary Gaitskill</entity> , <entity type=\"writer\">Edmund White</entity> , <entity type=\"writer\">Nancy Willard</entity> , <entity type=\"writer\">Frank O 'Hara</entity> , and <entity type=\"writer\">I-writer I-writer</entity> .",
+        "entities": [
+            [
+                "Hopwood award",
+                "award"
+            ],
+            [
+                "Robert Hayden",
+                "writer"
+            ],
+            [
+                "Marge Piercy",
+                "writer"
+            ],
+            [
+                "Arthur Miller",
+                "writer"
+            ],
+            [
+                "Betty Smith",
+                "writer"
+            ],
+            [
+                "Lawrence Kasdan",
+                "writer"
+            ],
+            [
+                "John Ciardi",
+                "writer"
+            ],
+            [
+                "Mary Gaitskill",
+                "writer"
+            ],
+            [
+                "Edmund White",
+                "writer"
+            ],
+            [
+                "Nancy Willard",
+                "writer"
+            ],
+            [
+                "Frank O 'Hara",
+                "writer"
+            ],
+            [
+                "I-writer I-writer",
+                "writer"
+            ]
+        ],
+        "response": "Famous <entity type=\"award\">Hopwood award</entity> winners include <entity type=\"writer\">Robert Hayden</entity> , <entity type=\"writer\">Marge Piercy</entity> , <entity type=\"writer\">Arthur Miller</entity> , <entity type=\"writer\">Betty Smith</entity> , <entity type=\"writer\">Lawrence Kasdan</entity> , <entity type=\"writer\">John Ciardi</entity> , <entity type=\"writer\">Mary Gaitskill</entity> , <entity type=\"writer\">Edmund White</entity> , <entity type=\"writer\">Nancy Willard</entity> , <entity type=\"writer\">Frank O 'Hara</entity> , and <entity type=\"writer\">I-writer</entity> <entity type=\"writer\">I-writer</entity> .",
+        "errors": {
+            "type": [],
+            "span": [
+                [
+                    "I-writer",
+                    "writer",
+                    "I-writer I-writer",
+                    "writer"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "Verne 's collaboration with the publisher Pierre-Jules Hetzel led to the creation of the Voyages extraordinaires , a widely popular series of scrupulously researched adventure novels including Journey to the Center of the Earth ( 1864 ) , Twenty Thousand Leagues Under the Sea ( 1870 ) , and Around the World in Eighty Days ( 1873 ) .",
+        "target": "<entity type=\"writer\">Verne</entity> 's collaboration with the publisher <entity type=\"writer\">Pierre-Jules Hetzel</entity> led to the creation of the <entity type=\"book\">Voyages extraordinaires</entity> , a widely popular series of scrupulously researched adventure <entity type=\"literary genre\">novels</entity> including <entity type=\"book\">Journey to the Center of the Earth</entity> ( 1864 ) , <entity type=\"book\">Twenty Thousand Leagues Under the Sea</entity> ( 1870 ) , and <entity type=\"book\">Around the World in Eighty Days</entity> ( 1873 ) .",
+        "entities": [
+            [
+                "Verne",
+                "writer"
+            ],
+            [
+                "Pierre-Jules Hetzel",
+                "writer"
+            ],
+            [
+                "Voyages extraordinaires",
+                "book"
+            ],
+            [
+                "novels",
+                "literary genre"
+            ],
+            [
+                "Journey to the Center of the Earth",
+                "book"
+            ],
+            [
+                "Twenty Thousand Leagues Under the Sea",
+                "book"
+            ],
+            [
+                "Around the World in Eighty Days",
+                "book"
+            ]
+        ],
+        "response": "<entity type=\"writer\">Verne</entity> 's collaboration with the publisher <entity type=\"person\">Pierre-Jules Hetzel</entity> led to the creation of the <entity type=\"book\">Voyages extraordinaires</entity> , a widely popular series of scrupulously researched <entity type=\"literary genre\">adventure novels</entity> including <entity type=\"book\">Journey to the Center of the Earth</entity> ( 1864 ) , <entity type=\"book\">Twenty Thousand Leagues Under the Sea</entity> ( 1870 ) , and <entity type=\"book\">Around the World in Eighty Days</entity> ( 1873 ) .",
+        "errors": {
+            "type": [
+                [
+                    "Pierre-Jules Hetzel",
+                    "person",
+                    "Pierre-Jules Hetzel",
+                    "writer"
+                ]
+            ],
+            "span": [
+                [
+                    "adventure novels",
+                    "literary genre",
+                    "novels",
+                    "literary genre"
+                ]
+            ],
+            "missing": [],
+            "spurious": []
+        },
+        "correct": false
+    },
+    {
+        "text": "He was awarded the Pulitzer Prize for poetry in 1954 for his book The Waking , and he won the annual National Book Award for Poetry twice , in 1959 for Words for the Wind",
+        "target": "He was awarded the <entity type=\"award\">Pulitzer Prize for poetry</entity> in 1954 for his book <entity type=\"poem\">The Waking</entity> , and he won the annual <entity type=\"award\">National Book Award for Poetry</entity> twice , in 1959 for <entity type=\"poem\">Words for the Wind</entity>",
+        "entities": [
+            [
+                "Pulitzer Prize for poetry",
+                "award"
+            ],
+            [
+                "The Waking",
+                "poem"
+            ],
+            [
+                "National Book Award for Poetry",
+                "award"
+            ],
+            [
+                "Words for the Wind",
+                "poem"
+            ]
+        ],
+        "response": "He was awarded the <entity type=\"award\">Pulitzer Prize</entity> for <entity type=\"literary genre\">poetry</entity> in 1954 for his book <entity type=\"book\">The Waking</entity> , and he won the annual <entity type=\"award\">National Book Award for Poetry</entity> twice , in 1959 for <entity type=\"book\">Words for the Wind</entity>",
+        "errors": {
+            "type": [
+                [
+                    "The Waking",
+                    "book",
+                    "The Waking",
+                    "poem"
+                ],
+                [
+                    "Words for the Wind",
+                    "book",
+                    "Words for the Wind",
+                    "poem"
+                ]
+            ],
+            "span": [
+                [
+                    "poetry",
+                    "literary genre",
+                    "Pulitzer Prize for poetry",
+                    "award"
+                ]
+            ],
+            "missing": [],
+            "spurious": [
+                [
+                    "Pulitzer Prize",
+                    "award"
+                ]
+            ]
+        },
+        "correct": false
+    }
+]

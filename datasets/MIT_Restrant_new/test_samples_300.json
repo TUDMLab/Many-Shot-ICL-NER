@@ -1,0 +1,4516 @@
+[
+    {
+        "text": "hi would you please find a restaurant with cheap vegan options",
+        "target": "hi would you please find a restaurant with <entity type=\"Price\">cheap</entity> <entity type=\"Cuisine\">vegan</entity> options",
+        "entities": [
+            [
+                "cheap",
+                "Price"
+            ],
+            [
+                "vegan",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 492
+    },
+    {
+        "text": "where can i find good irish food",
+        "target": "where can i find good <entity type=\"Cuisine\">irish</entity> food",
+        "entities": [
+            [
+                "irish",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1294
+    },
+    {
+        "text": "im looking for a romantic restaurant where are some near me",
+        "target": "im looking for a <entity type=\"Amenity\">romantic</entity> restaurant where are some <entity type=\"Location\">near me</entity>",
+        "entities": [
+            [
+                "romantic",
+                "Amenity"
+            ],
+            [
+                "near me",
+                "Location"
+            ]
+        ],
+        "sent_id": 739
+    },
+    {
+        "text": "find a place to eat that has a drive thru",
+        "target": "find a place to eat that has a <entity type=\"Amenity\">drive thru</entity>",
+        "entities": [
+            [
+                "drive thru",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 346
+    },
+    {
+        "text": "best chinese food in the area",
+        "target": "<entity type=\"Rating\">best</entity> <entity type=\"Cuisine\">chinese</entity> food <entity type=\"Location\">in the area</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "in the area",
+                "Location"
+            ]
+        ],
+        "sent_id": 105
+    },
+    {
+        "text": "what is the name of the restaurant within 50 miles of chatswin that was built inside a cavern",
+        "target": "what is the name of the restaurant <entity type=\"Location\">within 50 miles of chatswin</entity> that was <entity type=\"Amenity\">built inside a cavern</entity>",
+        "entities": [
+            [
+                "within 50 miles of chatswin",
+                "Location"
+            ],
+            [
+                "built inside a cavern",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1140
+    },
+    {
+        "text": "show me the moderately priced japanese restaurants in a ten mile radius",
+        "target": "show me the <entity type=\"Price\">moderately</entity> priced <entity type=\"Cuisine\">japanese</entity> restaurants in a <entity type=\"Location\">ten mile radius</entity>",
+        "entities": [
+            [
+                "moderately",
+                "Price"
+            ],
+            [
+                "japanese",
+                "Cuisine"
+            ],
+            [
+                "ten mile radius",
+                "Location"
+            ]
+        ],
+        "sent_id": 1061
+    },
+    {
+        "text": "find me a spanish restaurant where i can smoke",
+        "target": "find me a <entity type=\"Cuisine\">spanish</entity> restaurant where i <entity type=\"Amenity\">can smoke</entity>",
+        "entities": [
+            [
+                "spanish",
+                "Cuisine"
+            ],
+            [
+                "can smoke",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 406
+    },
+    {
+        "text": "are there any vegetarian restaurants that allow you to order online ahead of time",
+        "target": "are there any <entity type=\"Cuisine\">vegetarian</entity> restaurants that allow you to <entity type=\"Amenity\">order online ahead of time</entity>",
+        "entities": [
+            [
+                "vegetarian",
+                "Cuisine"
+            ],
+            [
+                "order online ahead of time",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 97
+    },
+    {
+        "text": "can you find me a not cheap lunch spot that serves pasteur",
+        "target": "can you find me a <entity type=\"Price\">not cheap</entity> <entity type=\"Hours\">lunch</entity> spot that serves <entity type=\"Dish\">pasteur</entity>",
+        "entities": [
+            [
+                "not cheap",
+                "Price"
+            ],
+            [
+                "lunch",
+                "Hours"
+            ],
+            [
+                "pasteur",
+                "Dish"
+            ]
+        ],
+        "sent_id": 159
+    },
+    {
+        "text": "please find me a child friendly diner with a tv",
+        "target": "please find me a <entity type=\"Amenity\">child friendly</entity> <entity type=\"Cuisine\">diner</entity> with a <entity type=\"Amenity\">tv</entity>",
+        "entities": [
+            [
+                "child friendly",
+                "Amenity"
+            ],
+            [
+                "diner",
+                "Cuisine"
+            ],
+            [
+                "tv",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1023
+    },
+    {
+        "text": "is there a restaurant that has a 5 star rating for it that people like",
+        "target": "is there a restaurant that has a <entity type=\"Rating\">5 star rating</entity> for it that people like",
+        "entities": [
+            [
+                "5 star rating",
+                "Rating"
+            ]
+        ],
+        "sent_id": 865
+    },
+    {
+        "text": "what fast food is near by",
+        "target": "what <entity type=\"Cuisine\">fast food</entity> is <entity type=\"Location\">near by</entity>",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ],
+            [
+                "near by",
+                "Location"
+            ]
+        ],
+        "sent_id": 1107
+    },
+    {
+        "text": "what is the price for a lobster entree at martys marina",
+        "target": "what is the price for a <entity type=\"Dish\">lobster</entity> entree at <entity type=\"Restaurant_Name\">martys marina</entity>",
+        "entities": [
+            [
+                "lobster",
+                "Dish"
+            ],
+            [
+                "martys marina",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1148
+    },
+    {
+        "text": "is there anywhere thats open past 1 am with exceptional prices",
+        "target": "is there anywhere thats <entity type=\"Hours\">open past 1 am</entity> with <entity type=\"Price\">exceptional</entity> prices",
+        "entities": [
+            [
+                "open past 1 am",
+                "Hours"
+            ],
+            [
+                "exceptional",
+                "Price"
+            ]
+        ],
+        "sent_id": 920
+    },
+    {
+        "text": "im looking for a nice place to eat for me and my girlfriends one year anniversary where i can schedule romantic candles and flowers for her",
+        "target": "im looking for a <entity type=\"Rating\">nice</entity> place to eat for me and my girlfriends one year anniversary where i can schedule <entity type=\"Amenity\">romantic candles</entity> and <entity type=\"Amenity\">flowers</entity> for her",
+        "entities": [
+            [
+                "nice",
+                "Rating"
+            ],
+            [
+                "romantic candles",
+                "Amenity"
+            ],
+            [
+                "flowers",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 736
+    },
+    {
+        "text": "danny cooks home made dinners",
+        "target": "<entity type=\"Restaurant_Name\">danny cooks</entity> <entity type=\"Amenity\">home made</entity> <entity type=\"Hours\">dinners</entity>",
+        "entities": [
+            [
+                "danny cooks",
+                "Restaurant_Name"
+            ],
+            [
+                "home made",
+                "Amenity"
+            ],
+            [
+                "dinners",
+                "Hours"
+            ]
+        ],
+        "sent_id": 225
+    },
+    {
+        "text": "i need directions to the nearest ethiopian restaurant",
+        "target": "i need directions to the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">ethiopian</entity> restaurant",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "ethiopian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 596
+    },
+    {
+        "text": "i would like a list of restaurants that are smoke free near my house",
+        "target": "i would like a list of restaurants that are <entity type=\"Amenity\">smoke free</entity> <entity type=\"Location\">near my house</entity>",
+        "entities": [
+            [
+                "smoke free",
+                "Amenity"
+            ],
+            [
+                "near my house",
+                "Location"
+            ]
+        ],
+        "sent_id": 685
+    },
+    {
+        "text": "are the portion at le bec fin large or very small",
+        "target": "are the portion at <entity type=\"Restaurant_Name\">le bec fin</entity> large or very small",
+        "entities": [
+            [
+                "le bec fin",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 19
+    },
+    {
+        "text": "what are some restaurants that serve american food that are with in one mile",
+        "target": "what are some restaurants that serve <entity type=\"Cuisine\">american</entity> food that are <entity type=\"Location\">with in one mile</entity>",
+        "entities": [
+            [
+                "american",
+                "Cuisine"
+            ],
+            [
+                "with in one mile",
+                "Location"
+            ]
+        ],
+        "sent_id": 1093
+    },
+    {
+        "text": "i am looking for sandwhiches",
+        "target": "i am looking for <entity type=\"Dish\">sandwhiches</entity>",
+        "entities": [
+            [
+                "sandwhiches",
+                "Dish"
+            ]
+        ],
+        "sent_id": 555
+    },
+    {
+        "text": "does chuck e cheeses have drive thru",
+        "target": "does <entity type=\"Restaurant_Name\">chuck e cheeses</entity> have <entity type=\"Amenity\">drive thru</entity>",
+        "entities": [
+            [
+                "chuck e cheeses",
+                "Restaurant_Name"
+            ],
+            [
+                "drive thru",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 280
+    },
+    {
+        "text": "restaurants that take visa or master card",
+        "target": "restaurants that take visa or master card",
+        "entities": [],
+        "sent_id": 1047
+    },
+    {
+        "text": "how long will it take me to drive to the band box diner from here",
+        "target": "how <entity type=\"Hours\">long</entity> will it take me to drive to the <entity type=\"Restaurant_Name\">band box diner</entity> from here",
+        "entities": [
+            [
+                "long",
+                "Hours"
+            ],
+            [
+                "band box diner",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 525
+    },
+    {
+        "text": "can you get pork in chinatown",
+        "target": "can you get <entity type=\"Dish\">pork</entity> in <entity type=\"Location\">chinatown</entity>",
+        "entities": [
+            [
+                "pork",
+                "Dish"
+            ],
+            [
+                "chinatown",
+                "Location"
+            ]
+        ],
+        "sent_id": 178
+    },
+    {
+        "text": "can i have the phone number for kfc in los angeles ca",
+        "target": "can i have the phone number for <entity type=\"Restaurant_Name\">kfc</entity> in <entity type=\"Location\">los angeles ca</entity>",
+        "entities": [
+            [
+                "kfc",
+                "Restaurant_Name"
+            ],
+            [
+                "los angeles ca",
+                "Location"
+            ]
+        ],
+        "sent_id": 128
+    },
+    {
+        "text": "where can i get some good coffee",
+        "target": "where can i get some <entity type=\"Rating\">good</entity> <entity type=\"Dish\">coffee</entity>",
+        "entities": [
+            [
+                "good",
+                "Rating"
+            ],
+            [
+                "coffee",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1336
+    },
+    {
+        "text": "whats an expensive belgian restaurant in san diego",
+        "target": "whats an <entity type=\"Price\">expensive</entity> <entity type=\"Cuisine\">belgian</entity> restaurant in <entity type=\"Location\">san diego</entity>",
+        "entities": [
+            [
+                "expensive",
+                "Price"
+            ],
+            [
+                "belgian",
+                "Cuisine"
+            ],
+            [
+                "san diego",
+                "Location"
+            ]
+        ],
+        "sent_id": 1226
+    },
+    {
+        "text": "i want a place that allows smoking and serves health food",
+        "target": "i want a place that <entity type=\"Amenity\">allows smoking</entity> and <entity type=\"Amenity\">serves</entity> <entity type=\"Cuisine\">health</entity> food",
+        "entities": [
+            [
+                "allows smoking",
+                "Amenity"
+            ],
+            [
+                "serves",
+                "Amenity"
+            ],
+            [
+                "health",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 625
+    },
+    {
+        "text": "where can i get vegan food",
+        "target": "where can i get <entity type=\"Cuisine\">vegan</entity> food",
+        "entities": [
+            [
+                "vegan",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1349
+    },
+    {
+        "text": "where can i get doughnuts right now",
+        "target": "where can i get <entity type=\"Dish\">doughnuts</entity> right <entity type=\"Hours\">now</entity>",
+        "entities": [
+            [
+                "doughnuts",
+                "Dish"
+            ],
+            [
+                "now",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1326
+    },
+    {
+        "text": "find me an italian restaurant which has received high ratings for its service",
+        "target": "find me an <entity type=\"Cuisine\">italian</entity> restaurant which has received <entity type=\"Rating\">high ratings for its service</entity>",
+        "entities": [
+            [
+                "italian",
+                "Cuisine"
+            ],
+            [
+                "high ratings for its service",
+                "Rating"
+            ]
+        ],
+        "sent_id": 421
+    },
+    {
+        "text": "which restaurant in my city has the highest reviews",
+        "target": "which restaurant in <entity type=\"Location\">my city</entity> has the <entity type=\"Rating\">highest reviews</entity>",
+        "entities": [
+            [
+                "my city",
+                "Location"
+            ],
+            [
+                "highest reviews",
+                "Rating"
+            ]
+        ],
+        "sent_id": 1493
+    },
+    {
+        "text": "find the nearest irish restaurant",
+        "target": "find the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">irish</entity> restaurant",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "irish",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 454
+    },
+    {
+        "text": "please find a high end restaurant that i can take my clients to",
+        "target": "please find a <entity type=\"Rating\">high end</entity> restaurant that i can take my <entity type=\"Amenity\">clients</entity> to",
+        "entities": [
+            [
+                "high end",
+                "Rating"
+            ],
+            [
+                "clients",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1016
+    },
+    {
+        "text": "how far is the arbys",
+        "target": "how far is the <entity type=\"Restaurant_Name\">arbys</entity>",
+        "entities": [
+            [
+                "arbys",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 515
+    },
+    {
+        "text": "will i be able to find a romantic restaurant for my date tonight",
+        "target": "will i be able to find a <entity type=\"Amenity\">romantic</entity> restaurant for my date <entity type=\"Hours\">tonight</entity>",
+        "entities": [
+            [
+                "romantic",
+                "Amenity"
+            ],
+            [
+                "tonight",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1515
+    },
+    {
+        "text": "find me the closest ihop",
+        "target": "find me the <entity type=\"Location\">closest</entity> <entity type=\"Restaurant_Name\">ihop</entity>",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "ihop",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 432
+    },
+    {
+        "text": "id like a coffee shop that serves pie",
+        "target": "id like a <entity type=\"Cuisine\">coffee</entity> shop that serves <entity type=\"Dish\">pie</entity>",
+        "entities": [
+            [
+                "coffee",
+                "Cuisine"
+            ],
+            [
+                "pie",
+                "Dish"
+            ]
+        ],
+        "sent_id": 703
+    },
+    {
+        "text": "is there a mexican restaurant near here with large portion sizes",
+        "target": "is there a <entity type=\"Cuisine\">mexican</entity> restaurant <entity type=\"Location\">near here</entity> with <entity type=\"Amenity\">large portion sizes</entity>",
+        "entities": [
+            [
+                "mexican",
+                "Cuisine"
+            ],
+            [
+                "near here",
+                "Location"
+            ],
+            [
+                "large portion sizes",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 834
+    },
+    {
+        "text": "where can i find authentic mexican cuisine at a great price",
+        "target": "where can i find <entity type=\"Cuisine\">authentic mexican</entity> cuisine at a <entity type=\"Price\">great</entity> price",
+        "entities": [
+            [
+                "authentic mexican",
+                "Cuisine"
+            ],
+            [
+                "great",
+                "Price"
+            ]
+        ],
+        "sent_id": 1291
+    },
+    {
+        "text": "find a mexican food restaurant that has a very good rating",
+        "target": "find a <entity type=\"Cuisine\">mexican</entity> food restaurant that has a <entity type=\"Rating\">very good rating</entity>",
+        "entities": [
+            [
+                "mexican",
+                "Cuisine"
+            ],
+            [
+                "very good rating",
+                "Rating"
+            ]
+        ],
+        "sent_id": 344
+    },
+    {
+        "text": "how do i get to the nearest taco bell",
+        "target": "how do i get to the <entity type=\"Location\">nearest</entity> <entity type=\"Restaurant_Name\">taco bell</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "taco bell",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 503
+    },
+    {
+        "text": "which restaurants have playgrounds in them",
+        "target": "which restaurants have <entity type=\"Amenity\">playgrounds</entity> in them",
+        "entities": [
+            [
+                "playgrounds",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1498
+    },
+    {
+        "text": "are there any vegan spots that are open after 11 at night",
+        "target": "are there any <entity type=\"Cuisine\">vegan spots</entity> that are <entity type=\"Hours\">open after 11 at night</entity>",
+        "entities": [
+            [
+                "vegan spots",
+                "Cuisine"
+            ],
+            [
+                "open after 11 at night",
+                "Hours"
+            ]
+        ],
+        "sent_id": 95
+    },
+    {
+        "text": "what is the average price range at ruby tuesday",
+        "target": "what is the <entity type=\"Price\">average</entity> price range at <entity type=\"Restaurant_Name\">ruby tuesday</entity>",
+        "entities": [
+            [
+                "average",
+                "Price"
+            ],
+            [
+                "ruby tuesday",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1117
+    },
+    {
+        "text": "car look for upscale restaurants downtown and make reservations at the best reviewed",
+        "target": "car look for <entity type=\"Price\">upscale</entity> restaurants <entity type=\"Location\">downtown</entity> and make reservations at the <entity type=\"Rating\">best reviewed</entity>",
+        "entities": [
+            [
+                "upscale",
+                "Price"
+            ],
+            [
+                "downtown",
+                "Location"
+            ],
+            [
+                "best reviewed",
+                "Rating"
+            ]
+        ],
+        "sent_id": 212
+    },
+    {
+        "text": "are there any four star restaurants in this town",
+        "target": "are there any <entity type=\"Rating\">four star</entity> restaurants in this <entity type=\"Location\">town</entity>",
+        "entities": [
+            [
+                "four star",
+                "Rating"
+            ],
+            [
+                "town",
+                "Location"
+            ]
+        ],
+        "sent_id": 41
+    },
+    {
+        "text": "does osaka sushi express have great portions",
+        "target": "does <entity type=\"Restaurant_Name\">osaka sushi express</entity> have <entity type=\"Amenity\">great portions</entity>",
+        "entities": [
+            [
+                "osaka sushi express",
+                "Restaurant_Name"
+            ],
+            [
+                "great portions",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 296
+    },
+    {
+        "text": "can you find a burger joint with a smoking section",
+        "target": "can you find a <entity type=\"Cuisine\">burger joint</entity> with a <entity type=\"Amenity\">smoking section</entity>",
+        "entities": [
+            [
+                "burger joint",
+                "Cuisine"
+            ],
+            [
+                "smoking section",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 133
+    },
+    {
+        "text": "how much is an average plate at spencers diner",
+        "target": "how much is an average plate at <entity type=\"Restaurant_Name\">spencers diner</entity>",
+        "entities": [
+            [
+                "spencers diner",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 535
+    },
+    {
+        "text": "wheres the nearest italian restaurant",
+        "target": "wheres the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">italian</entity> restaurant",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "italian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1476
+    },
+    {
+        "text": "i need a korean barbecue restaurant",
+        "target": "i need a <entity type=\"Cuisine\">korean barbecue</entity> restaurant",
+        "entities": [
+            [
+                "korean barbecue",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 577
+    },
+    {
+        "text": "is there an indian restaurant within 5 miles that has a dinner buffet",
+        "target": "is there an <entity type=\"Cuisine\">indian</entity> restaurant <entity type=\"Location\">within 5 miles</entity> that has a <entity type=\"Hours\">dinner</entity> <entity type=\"Amenity\">buffet</entity>",
+        "entities": [
+            [
+                "indian",
+                "Cuisine"
+            ],
+            [
+                "within 5 miles",
+                "Location"
+            ],
+            [
+                "dinner",
+                "Hours"
+            ],
+            [
+                "buffet",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 893
+    },
+    {
+        "text": "is izzys ice cream shop open right now",
+        "target": "is <entity type=\"Restaurant_Name\">izzys ice cream shop</entity> <entity type=\"Hours\">open right now</entity>",
+        "entities": [
+            [
+                "izzys ice cream shop",
+                "Restaurant_Name"
+            ],
+            [
+                "open right now",
+                "Hours"
+            ]
+        ],
+        "sent_id": 770
+    },
+    {
+        "text": "is there a benihana in this city",
+        "target": "is there a <entity type=\"Restaurant_Name\">benihana</entity> in <entity type=\"Location\">this city</entity>",
+        "entities": [
+            [
+                "benihana",
+                "Restaurant_Name"
+            ],
+            [
+                "this city",
+                "Location"
+            ]
+        ],
+        "sent_id": 799
+    },
+    {
+        "text": "how far for a burger place",
+        "target": "how far for a <entity type=\"Cuisine\">burger</entity> place",
+        "entities": [
+            [
+                "burger",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 513
+    },
+    {
+        "text": "i want a restaurant where i can order some carry out potato soup",
+        "target": "i want a restaurant where i can order some <entity type=\"Amenity\">carry out</entity> <entity type=\"Dish\">potato soup</entity>",
+        "entities": [
+            [
+                "carry out",
+                "Amenity"
+            ],
+            [
+                "potato soup",
+                "Dish"
+            ]
+        ],
+        "sent_id": 629
+    },
+    {
+        "text": "is there a restaurant close by that has dancing and serves scallops",
+        "target": "is there a restaurant <entity type=\"Location\">close by</entity> that has <entity type=\"Amenity\">dancing</entity> and serves <entity type=\"Dish\">scallops</entity>",
+        "entities": [
+            [
+                "close by",
+                "Location"
+            ],
+            [
+                "dancing",
+                "Amenity"
+            ],
+            [
+                "scallops",
+                "Dish"
+            ]
+        ],
+        "sent_id": 859
+    },
+    {
+        "text": "is there a restaurant on the way",
+        "target": "is there a restaurant on the <entity type=\"Location\">way</entity>",
+        "entities": [
+            [
+                "way",
+                "Location"
+            ]
+        ],
+        "sent_id": 863
+    },
+    {
+        "text": "where can i get bagels",
+        "target": "where can i get <entity type=\"Dish\">bagels</entity>",
+        "entities": [
+            [
+                "bagels",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1321
+    },
+    {
+        "text": "im looking for a diner along my route",
+        "target": "im looking for a <entity type=\"Cuisine\">diner</entity> <entity type=\"Location\">along my route</entity>",
+        "entities": [
+            [
+                "diner",
+                "Cuisine"
+            ],
+            [
+                "along my route",
+                "Location"
+            ]
+        ],
+        "sent_id": 734
+    },
+    {
+        "text": "can you find a fast food restaurant",
+        "target": "can you find a <entity type=\"Cuisine\">fast food</entity> restaurant",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 135
+    },
+    {
+        "text": "what is the highest rated thai restaurant in austin",
+        "target": "what is the <entity type=\"Rating\">highest rated</entity> <entity type=\"Cuisine\">thai</entity> restaurant in <entity type=\"Location\">austin</entity>",
+        "entities": [
+            [
+                "highest rated",
+                "Rating"
+            ],
+            [
+                "thai",
+                "Cuisine"
+            ],
+            [
+                "austin",
+                "Location"
+            ]
+        ],
+        "sent_id": 1135
+    },
+    {
+        "text": "list the nearest mcdonalds to 87 th and ashland",
+        "target": "list the <entity type=\"Location\">nearest</entity> <entity type=\"Restaurant_Name\">mcdonalds</entity> to <entity type=\"Location\">87 th and ashland</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "mcdonalds",
+                "Restaurant_Name"
+            ],
+            [
+                "87 th and ashland",
+                "Location"
+            ]
+        ],
+        "sent_id": 942
+    },
+    {
+        "text": "can i get a chefands table on north bedford street very late at night",
+        "target": "can i get a <entity type=\"Amenity\">chefands table</entity> on <entity type=\"Location\">north bedford street</entity> <entity type=\"Hours\">very late at night</entity>",
+        "entities": [
+            [
+                "chefands table",
+                "Amenity"
+            ],
+            [
+                "north bedford street",
+                "Location"
+            ],
+            [
+                "very late at night",
+                "Hours"
+            ]
+        ],
+        "sent_id": 122
+    },
+    {
+        "text": "is there anywhere near here that is open 24 hours and serves breakfast",
+        "target": "is there anywhere <entity type=\"Location\">near here</entity> that is open <entity type=\"Hours\">24 hours</entity> and serves <entity type=\"Cuisine\">breakfast</entity>",
+        "entities": [
+            [
+                "near here",
+                "Location"
+            ],
+            [
+                "24 hours",
+                "Hours"
+            ],
+            [
+                "breakfast",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 918
+    },
+    {
+        "text": "i really feel like seafood right now whats close",
+        "target": "i really feel like <entity type=\"Cuisine\">seafood</entity> right now whats <entity type=\"Location\">close</entity>",
+        "entities": [
+            [
+                "seafood",
+                "Cuisine"
+            ],
+            [
+                "close",
+                "Location"
+            ]
+        ],
+        "sent_id": 613
+    },
+    {
+        "text": "find me a sports bar that serves food",
+        "target": "find me a <entity type=\"Cuisine\">sports bar</entity> that <entity type=\"Amenity\">serves food</entity>",
+        "entities": [
+            [
+                "sports bar",
+                "Cuisine"
+            ],
+            [
+                "serves food",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 407
+    },
+    {
+        "text": "you can help me with some onion rings",
+        "target": "you can help me with some <entity type=\"Dish\">onion rings</entity>",
+        "entities": [
+            [
+                "onion rings",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1520
+    },
+    {
+        "text": "nearest fast food restaurant",
+        "target": "<entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">fast food</entity> restaurant",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "fast food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1010
+    },
+    {
+        "text": "i am looking for a restaurant that serves english food i want the price to be cheap to moderate",
+        "target": "i am looking for a restaurant that serves <entity type=\"Cuisine\">english</entity> food i want the price to be <entity type=\"Price\">cheap to moderate</entity>",
+        "entities": [
+            [
+                "english",
+                "Cuisine"
+            ],
+            [
+                "cheap to moderate",
+                "Price"
+            ]
+        ],
+        "sent_id": 552
+    },
+    {
+        "text": "how far is the taco bell",
+        "target": "how far is the <entity type=\"Restaurant_Name\">taco bell</entity>",
+        "entities": [
+            [
+                "taco bell",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 519
+    },
+    {
+        "text": "can you help me find a reasonably priced harvard chinese restaurant that lets you byob",
+        "target": "can you help me find a <entity type=\"Price\">reasonably</entity> priced <entity type=\"Location\">harvard</entity> <entity type=\"Cuisine\">chinese</entity> restaurant that lets you <entity type=\"Amenity\">byob</entity>",
+        "entities": [
+            [
+                "reasonably",
+                "Price"
+            ],
+            [
+                "harvard",
+                "Location"
+            ],
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "byob",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 184
+    },
+    {
+        "text": "are there any restaurants with valet parking and a multilingual staff near here",
+        "target": "are there any restaurants with <entity type=\"Amenity\">valet parking</entity> and a <entity type=\"Amenity\">multilingual staff</entity> <entity type=\"Location\">near here</entity>",
+        "entities": [
+            [
+                "valet parking",
+                "Amenity"
+            ],
+            [
+                "multilingual staff",
+                "Amenity"
+            ],
+            [
+                "near here",
+                "Location"
+            ]
+        ],
+        "sent_id": 85
+    },
+    {
+        "text": "is there a club diner in watertown with a bar",
+        "target": "is there a <entity type=\"Amenity\">club</entity> <entity type=\"Cuisine\">diner</entity> in <entity type=\"Location\">watertown</entity> with a <entity type=\"Amenity\">bar</entity>",
+        "entities": [
+            [
+                "club",
+                "Amenity"
+            ],
+            [
+                "diner",
+                "Cuisine"
+            ],
+            [
+                "watertown",
+                "Location"
+            ],
+            [
+                "bar",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 811
+    },
+    {
+        "text": "i want to make a reservation at an indian restaurant but i dont know the location of one around here",
+        "target": "i want to make a <entity type=\"Amenity\">reservation</entity> at an <entity type=\"Cuisine\">indian</entity> restaurant but i dont know the location of one around here",
+        "entities": [
+            [
+                "reservation",
+                "Amenity"
+            ],
+            [
+                "indian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 677
+    },
+    {
+        "text": "make me reservations for three people at devitos italian",
+        "target": "make me reservations for three people at <entity type=\"Restaurant_Name\">devitos italian</entity>",
+        "entities": [
+            [
+                "devitos italian",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 997
+    },
+    {
+        "text": "can you make me a reservation for todai for thursday for two people",
+        "target": "can you make me a <entity type=\"Cuisine\">reservation</entity> for <entity type=\"Cuisine\">todai</entity> for <entity type=\"Restaurant_Name\">thursday</entity> for two people",
+        "entities": [
+            [
+                "reservation",
+                "Cuisine"
+            ],
+            [
+                "todai",
+                "Cuisine"
+            ],
+            [
+                "thursday",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 198
+    },
+    {
+        "text": "looking for sebastians restaurant offering generous portions",
+        "target": "looking for <entity type=\"Restaurant_Name\">sebastians restaurant</entity> offering <entity type=\"Amenity\">generous portions</entity>",
+        "entities": [
+            [
+                "sebastians restaurant",
+                "Restaurant_Name"
+            ],
+            [
+                "generous portions",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 982
+    },
+    {
+        "text": "whats the best barbeque restaurant in memphis",
+        "target": "whats the <entity type=\"Rating\">best</entity> <entity type=\"Cuisine\">barbeque</entity> restaurant in <entity type=\"Location\">memphis</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "barbeque",
+                "Cuisine"
+            ],
+            [
+                "memphis",
+                "Location"
+            ]
+        ],
+        "sent_id": 1229
+    },
+    {
+        "text": "where can i eat african food for cheap",
+        "target": "where can i eat <entity type=\"Cuisine\">african</entity> food for <entity type=\"Price\">cheap</entity>",
+        "entities": [
+            [
+                "african",
+                "Cuisine"
+            ],
+            [
+                "cheap",
+                "Price"
+            ]
+        ],
+        "sent_id": 1259
+    },
+    {
+        "text": "i need to find a place that is open every day",
+        "target": "i need to find a place that is <entity type=\"Hours\">open every day</entity>",
+        "entities": [
+            [
+                "open every day",
+                "Hours"
+            ]
+        ],
+        "sent_id": 610
+    },
+    {
+        "text": "is there a diner with a patio in boxford",
+        "target": "is there a <entity type=\"Cuisine\">diner</entity> with a <entity type=\"Amenity\">patio</entity> in <entity type=\"Location\">boxford</entity>",
+        "entities": [
+            [
+                "diner",
+                "Cuisine"
+            ],
+            [
+                "patio",
+                "Amenity"
+            ],
+            [
+                "boxford",
+                "Location"
+            ]
+        ],
+        "sent_id": 813
+    },
+    {
+        "text": "find me a sudbury pizza place thats no more than 10 minutes from here",
+        "target": "find me a <entity type=\"Restaurant_Name\">sudbury pizza</entity> place thats <entity type=\"Location\">no more than 10 minutes from here</entity>",
+        "entities": [
+            [
+                "sudbury pizza",
+                "Restaurant_Name"
+            ],
+            [
+                "no more than 10 minutes from here",
+                "Location"
+            ]
+        ],
+        "sent_id": 409
+    },
+    {
+        "text": "can i get hambers at lone star",
+        "target": "can i get <entity type=\"Dish\">hambers</entity> at <entity type=\"Restaurant_Name\">lone star</entity>",
+        "entities": [
+            [
+                "hambers",
+                "Dish"
+            ],
+            [
+                "lone star",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 125
+    },
+    {
+        "text": "is there a cheap fast food restaurant nearby",
+        "target": "is there a <entity type=\"Price\">cheap</entity> <entity type=\"Cuisine\">fast food</entity> restaurant <entity type=\"Location\">nearby</entity>",
+        "entities": [
+            [
+                "cheap",
+                "Price"
+            ],
+            [
+                "fast food",
+                "Cuisine"
+            ],
+            [
+                "nearby",
+                "Location"
+            ]
+        ],
+        "sent_id": 804
+    },
+    {
+        "text": "i would like find where all the nearby food trucks are",
+        "target": "i would like find where all the <entity type=\"Location\">nearby</entity> <entity type=\"Cuisine\">food trucks</entity> are",
+        "entities": [
+            [
+                "nearby",
+                "Location"
+            ],
+            [
+                "food trucks",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 686
+    },
+    {
+        "text": "does the asian restaurant downtown has parking",
+        "target": "does the <entity type=\"Cuisine\">asian</entity> restaurant <entity type=\"Location\">downtown</entity> has <entity type=\"Amenity\">parking</entity>",
+        "entities": [
+            [
+                "asian",
+                "Cuisine"
+            ],
+            [
+                "downtown",
+                "Location"
+            ],
+            [
+                "parking",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 309
+    },
+    {
+        "text": "find us a sushi bar near brooklyn heights",
+        "target": "find us a <entity type=\"Cuisine\">sushi bar</entity> <entity type=\"Location\">near brooklyn heights</entity>",
+        "entities": [
+            [
+                "sushi bar",
+                "Cuisine"
+            ],
+            [
+                "near brooklyn heights",
+                "Location"
+            ]
+        ],
+        "sent_id": 457
+    },
+    {
+        "text": "do you know if i can find fine dining in the theater district",
+        "target": "do you know if i can find <entity type=\"Amenity\">fine dining</entity> <entity type=\"Location\">in the theater district</entity>",
+        "entities": [
+            [
+                "fine dining",
+                "Amenity"
+            ],
+            [
+                "in the theater district",
+                "Location"
+            ]
+        ],
+        "sent_id": 254
+    },
+    {
+        "text": "i want take out mexican food right now",
+        "target": "i want <entity type=\"Amenity\">take out</entity> <entity type=\"Cuisine\">mexican</entity> food right now",
+        "entities": [
+            [
+                "take out",
+                "Amenity"
+            ],
+            [
+                "mexican",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 643
+    },
+    {
+        "text": "is there a smoking section at olive garden",
+        "target": "is there a <entity type=\"Amenity\">smoking section</entity> at <entity type=\"Restaurant_Name\">olive garden</entity>",
+        "entities": [
+            [
+                "smoking section",
+                "Amenity"
+            ],
+            [
+                "olive garden",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 872
+    },
+    {
+        "text": "are there any reasonably priced restaurants on east haverhill street that serve cheese",
+        "target": "are there any <entity type=\"Price\">reasonably</entity> priced restaurants on <entity type=\"Location\">east haverhill street</entity> that serve <entity type=\"Dish\">cheese</entity>",
+        "entities": [
+            [
+                "reasonably",
+                "Price"
+            ],
+            [
+                "east haverhill street",
+                "Location"
+            ],
+            [
+                "cheese",
+                "Dish"
+            ]
+        ],
+        "sent_id": 70
+    },
+    {
+        "text": "looking for urban gourmet on bay road with great wine lists",
+        "target": "looking for <entity type=\"Cuisine\">urban gourmet</entity> on <entity type=\"Location\">bay road</entity> with <entity type=\"Rating\">great</entity> wine lists",
+        "entities": [
+            [
+                "urban gourmet",
+                "Cuisine"
+            ],
+            [
+                "bay road",
+                "Location"
+            ],
+            [
+                "great",
+                "Rating"
+            ]
+        ],
+        "sent_id": 989
+    },
+    {
+        "text": "is there a dress code and yuris dine in restaurant",
+        "target": "is there a <entity type=\"Amenity\">dress code</entity> and <entity type=\"Restaurant_Name\">yuris dine in restaurant</entity>",
+        "entities": [
+            [
+                "dress code",
+                "Amenity"
+            ],
+            [
+                "yuris dine in restaurant",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 815
+    },
+    {
+        "text": "where can i get some fast food",
+        "target": "where can i get some <entity type=\"Cuisine\">fast food</entity>",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1335
+    },
+    {
+        "text": "where there a restaurant located within 1 mile from here",
+        "target": "where there a restaurant located <entity type=\"Location\">within 1 mile from here</entity>",
+        "entities": [
+            [
+                "within 1 mile from here",
+                "Location"
+            ]
+        ],
+        "sent_id": 1462
+    },
+    {
+        "text": "find pizza places",
+        "target": "find <entity type=\"Cuisine\">pizza</entity> places",
+        "entities": [
+            [
+                "pizza",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 443
+    },
+    {
+        "text": "where is the closest chillis to my current location",
+        "target": "where is the <entity type=\"Location\">closest</entity> <entity type=\"Restaurant_Name\">chillis</entity> to <entity type=\"Location\">my current location</entity>",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "chillis",
+                "Restaurant_Name"
+            ],
+            [
+                "my current location",
+                "Location"
+            ]
+        ],
+        "sent_id": 1410
+    },
+    {
+        "text": "what are some of the locally favourite restaurants",
+        "target": "what are some of the <entity type=\"Location\">locally</entity> favourite restaurants",
+        "entities": [
+            [
+                "locally",
+                "Location"
+            ]
+        ],
+        "sent_id": 1092
+    },
+    {
+        "text": "is there a cafe that serves frog legs in fort worth",
+        "target": "is there a <entity type=\"Cuisine\">cafe</entity> that serves <entity type=\"Dish\">frog legs</entity> in <entity type=\"Location\">fort worth</entity>",
+        "entities": [
+            [
+                "cafe",
+                "Cuisine"
+            ],
+            [
+                "frog legs",
+                "Dish"
+            ],
+            [
+                "fort worth",
+                "Location"
+            ]
+        ],
+        "sent_id": 803
+    },
+    {
+        "text": "is there a restaurant on waverly street that is priced competitively",
+        "target": "is there a restaurant on <entity type=\"Location\">waverly street</entity> that is <entity type=\"Price\">priced competitively</entity>",
+        "entities": [
+            [
+                "waverly street",
+                "Location"
+            ],
+            [
+                "priced competitively",
+                "Price"
+            ]
+        ],
+        "sent_id": 864
+    },
+    {
+        "text": "i need gluten free options on the restauarant menu",
+        "target": "i need <entity type=\"Amenity\">gluten free options</entity> on the restauarant menu",
+        "entities": [
+            [
+                "gluten free options",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 598
+    },
+    {
+        "text": "what is the best ice cream parlor",
+        "target": "what is the <entity type=\"Rating\">best</entity> <entity type=\"Cuisine\">ice cream parlor</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "ice cream parlor",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1119
+    },
+    {
+        "text": "find a chinese restaurant with a large buffet",
+        "target": "find a <entity type=\"Cuisine\">chinese</entity> restaurant with a <entity type=\"Amenity\">large buffet</entity>",
+        "entities": [
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "large buffet",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 337
+    },
+    {
+        "text": "do you know of a bakery that is still open",
+        "target": "do you know of a <entity type=\"Cuisine\">bakery</entity> that is <entity type=\"Hours\">still open</entity>",
+        "entities": [
+            [
+                "bakery",
+                "Cuisine"
+            ],
+            [
+                "still open",
+                "Hours"
+            ]
+        ],
+        "sent_id": 264
+    },
+    {
+        "text": "im looking for an all you can eat mexican buffet",
+        "target": "im looking for an <entity type=\"Amenity\">all you can eat</entity> <entity type=\"Cuisine\">mexican buffet</entity>",
+        "entities": [
+            [
+                "all you can eat",
+                "Amenity"
+            ],
+            [
+                "mexican buffet",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 741
+    },
+    {
+        "text": "where can i get some macaroni and cheese",
+        "target": "where can i get some <entity type=\"Dish\">macaroni and cheese</entity>",
+        "entities": [
+            [
+                "macaroni and cheese",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1338
+    },
+    {
+        "text": "what restaurants are nearby",
+        "target": "what restaurants are <entity type=\"Location\">nearby</entity>",
+        "entities": [
+            [
+                "nearby",
+                "Location"
+            ]
+        ],
+        "sent_id": 1188
+    },
+    {
+        "text": "local mcdonalds please",
+        "target": "<entity type=\"Location\">local</entity> <entity type=\"Restaurant_Name\">mcdonalds</entity> please",
+        "entities": [
+            [
+                "local",
+                "Location"
+            ],
+            [
+                "mcdonalds",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 946
+    },
+    {
+        "text": "what is the dress code at the precinct",
+        "target": "what is the dress code at <entity type=\"Restaurant_Name\">the precinct</entity>",
+        "entities": [
+            [
+                "the precinct",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1129
+    },
+    {
+        "text": "what is the most popular italian restaurant near me",
+        "target": "what is the most popular <entity type=\"Cuisine\">italian</entity> restaurant <entity type=\"Location\">near me</entity>",
+        "entities": [
+            [
+                "italian",
+                "Cuisine"
+            ],
+            [
+                "near me",
+                "Location"
+            ]
+        ],
+        "sent_id": 1138
+    },
+    {
+        "text": "does the caranova restaurant at kendall square offer a fixed price menu",
+        "target": "does the <entity type=\"Restaurant_Name\">caranova</entity> restaurant at <entity type=\"Location\">kendall square</entity> offer a <entity type=\"Amenity\">fixed price menu</entity>",
+        "entities": [
+            [
+                "caranova",
+                "Restaurant_Name"
+            ],
+            [
+                "kendall square",
+                "Location"
+            ],
+            [
+                "fixed price menu",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 310
+    },
+    {
+        "text": "where can i find cheap vegan food",
+        "target": "where can i find <entity type=\"Price\">cheap</entity> <entity type=\"Cuisine\">vegan</entity> food",
+        "entities": [
+            [
+                "cheap",
+                "Price"
+            ],
+            [
+                "vegan",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1293
+    },
+    {
+        "text": "is there a japanese restraunt near by",
+        "target": "is there a <entity type=\"Cuisine\">japanese</entity> restraunt <entity type=\"Location\">near by</entity>",
+        "entities": [
+            [
+                "japanese",
+                "Cuisine"
+            ],
+            [
+                "near by",
+                "Location"
+            ]
+        ],
+        "sent_id": 824
+    },
+    {
+        "text": "how are the prices at donatellas",
+        "target": "how are the prices at <entity type=\"Restaurant_Name\">donatellas</entity>",
+        "entities": [
+            [
+                "donatellas",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 493
+    },
+    {
+        "text": "what is the closest bar near heidis restaurant",
+        "target": "what is the <entity type=\"Location\">closest</entity> bar near <entity type=\"Restaurant_Name\">heidis restaurant</entity>",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "heidis restaurant",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1124
+    },
+    {
+        "text": "i want to find a german restaurant on the lower east side that serves brunch on saturday and or sunday",
+        "target": "i want to find a <entity type=\"Cuisine\">german</entity> restaurant on the <entity type=\"Location\">lower east side</entity> that serves <entity type=\"Hours\">brunch</entity> on <entity type=\"Hours\">saturday and or sunday</entity>",
+        "entities": [
+            [
+                "german",
+                "Cuisine"
+            ],
+            [
+                "lower east side",
+                "Location"
+            ],
+            [
+                "brunch",
+                "Hours"
+            ],
+            [
+                "saturday and or sunday",
+                "Hours"
+            ]
+        ],
+        "sent_id": 653
+    },
+    {
+        "text": "where can i find a rainforest cafe",
+        "target": "where can i find a <entity type=\"Restaurant_Name\">rainforest cafe</entity>",
+        "entities": [
+            [
+                "rainforest cafe",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1284
+    },
+    {
+        "text": "im in the mood for mexican food",
+        "target": "im in the mood for <entity type=\"Cuisine\">mexican</entity> food",
+        "entities": [
+            [
+                "mexican",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 728
+    },
+    {
+        "text": "locate an all you can eat buffet",
+        "target": "locate an <entity type=\"Amenity\">all you can eat buffet</entity>",
+        "entities": [
+            [
+                "all you can eat buffet",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 953
+    },
+    {
+        "text": "locate bar with alcohol",
+        "target": "locate bar with <entity type=\"Dish\">alcohol</entity>",
+        "entities": [
+            [
+                "alcohol",
+                "Dish"
+            ]
+        ],
+        "sent_id": 954
+    },
+    {
+        "text": "is there a nice place in the theater district that wont drain my wallet",
+        "target": "is there a <entity type=\"Rating\">nice</entity> place in the <entity type=\"Location\">theater district</entity> that <entity type=\"Price\">wont drain my wallet</entity>",
+        "entities": [
+            [
+                "nice",
+                "Rating"
+            ],
+            [
+                "theater district",
+                "Location"
+            ],
+            [
+                "wont drain my wallet",
+                "Price"
+            ]
+        ],
+        "sent_id": 836
+    },
+    {
+        "text": "where in beverly can i bring a group to an italys little kitchen",
+        "target": "where in <entity type=\"Location\">beverly</entity> can i bring a group to an <entity type=\"Restaurant_Name\">italys little kitchen</entity>",
+        "entities": [
+            [
+                "beverly",
+                "Location"
+            ],
+            [
+                "italys little kitchen",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1370
+    },
+    {
+        "text": "can you give me the phone number for the nearest mexican restaurant that is both affordable and has good quality food",
+        "target": "can you give me the phone number for the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">mexican</entity> restaurant that is both <entity type=\"Price\">affordable</entity> and has <entity type=\"Rating\">good quality</entity> food",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "mexican",
+                "Cuisine"
+            ],
+            [
+                "affordable",
+                "Price"
+            ],
+            [
+                "good quality",
+                "Rating"
+            ]
+        ],
+        "sent_id": 180
+    },
+    {
+        "text": "give me directions to an arbys",
+        "target": "give me directions to an <entity type=\"Restaurant_Name\">arbys</entity>",
+        "entities": [
+            [
+                "arbys",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 466
+    },
+    {
+        "text": "i want to get to a coffee shop that serves breakfast after 11 am",
+        "target": "i want to get to a <entity type=\"Cuisine\">coffee</entity> shop that serves <entity type=\"Hours\">breakfast after 11 am</entity>",
+        "entities": [
+            [
+                "coffee",
+                "Cuisine"
+            ],
+            [
+                "breakfast after 11 am",
+                "Hours"
+            ]
+        ],
+        "sent_id": 668
+    },
+    {
+        "text": "i am looking for a mediterranean restaurant that delivers",
+        "target": "i am looking for a <entity type=\"Cuisine\">mediterranean</entity> restaurant that <entity type=\"Amenity\">delivers</entity>",
+        "entities": [
+            [
+                "mediterranean",
+                "Cuisine"
+            ],
+            [
+                "delivers",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 548
+    },
+    {
+        "text": "can you tell me where the nearest wendys is",
+        "target": "can you tell me where the <entity type=\"Location\">nearest</entity> <entity type=\"Restaurant_Name\">wendys</entity> is",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "wendys",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 210
+    },
+    {
+        "text": "i want to try something new for dinner tonight",
+        "target": "i want to try something <entity type=\"Cuisine\">new</entity> for <entity type=\"Cuisine\">dinner</entity> <entity type=\"Hours\">tonight</entity>",
+        "entities": [
+            [
+                "new",
+                "Cuisine"
+            ],
+            [
+                "dinner",
+                "Cuisine"
+            ],
+            [
+                "tonight",
+                "Hours"
+            ]
+        ],
+        "sent_id": 682
+    },
+    {
+        "text": "beer and hot wings in town",
+        "target": "<entity type=\"Dish\">beer</entity> and <entity type=\"Dish\">hot wings</entity> <entity type=\"Location\">in town</entity>",
+        "entities": [
+            [
+                "beer",
+                "Dish"
+            ],
+            [
+                "hot wings",
+                "Dish"
+            ],
+            [
+                "in town",
+                "Location"
+            ]
+        ],
+        "sent_id": 104
+    },
+    {
+        "text": "i want to find an italian restaurant",
+        "target": "i want to find an <entity type=\"Cuisine\">italian</entity> restaurant",
+        "entities": [
+            [
+                "italian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 663
+    },
+    {
+        "text": "is there a portuguese restaurant nearby",
+        "target": "is there a <entity type=\"Cuisine\">portuguese</entity> restaurant <entity type=\"Location\">nearby</entity>",
+        "entities": [
+            [
+                "portuguese",
+                "Cuisine"
+            ],
+            [
+                "nearby",
+                "Location"
+            ]
+        ],
+        "sent_id": 852
+    },
+    {
+        "text": "cafes on ashlannd street",
+        "target": "<entity type=\"Cuisine\">cafes</entity> on <entity type=\"Location\">ashlannd street</entity>",
+        "entities": [
+            [
+                "cafes",
+                "Cuisine"
+            ],
+            [
+                "ashlannd street",
+                "Location"
+            ]
+        ],
+        "sent_id": 110
+    },
+    {
+        "text": "where can i go to eat",
+        "target": "where can i go to eat",
+        "entities": [],
+        "sent_id": 1351
+    },
+    {
+        "text": "any good ice cream parlors around",
+        "target": "any <entity type=\"Rating\">good</entity> <entity type=\"Cuisine\">ice cream parlors</entity> <entity type=\"Location\">around</entity>",
+        "entities": [
+            [
+                "good",
+                "Rating"
+            ],
+            [
+                "ice cream parlors",
+                "Cuisine"
+            ],
+            [
+                "around",
+                "Location"
+            ]
+        ],
+        "sent_id": 5
+    },
+    {
+        "text": "im in the mood for some texas chili",
+        "target": "im in the mood for some <entity type=\"Dish\">texas chili</entity>",
+        "entities": [
+            [
+                "texas chili",
+                "Dish"
+            ]
+        ],
+        "sent_id": 729
+    },
+    {
+        "text": "where can i get a cheap slice of pizza in huntington ny",
+        "target": "where can i get a <entity type=\"Price\">cheap</entity> <entity type=\"Dish\">slice of pizza</entity> in <entity type=\"Location\">huntington ny</entity>",
+        "entities": [
+            [
+                "cheap",
+                "Price"
+            ],
+            [
+                "slice of pizza",
+                "Dish"
+            ],
+            [
+                "huntington ny",
+                "Location"
+            ]
+        ],
+        "sent_id": 1308
+    },
+    {
+        "text": "are there any steak houses within 3 miles of me",
+        "target": "are there any <entity type=\"Dish\">steak</entity> houses <entity type=\"Location\">within 3 miles</entity> of me",
+        "entities": [
+            [
+                "steak",
+                "Dish"
+            ],
+            [
+                "within 3 miles",
+                "Location"
+            ]
+        ],
+        "sent_id": 90
+    },
+    {
+        "text": "i need the closest chic fil a that is still serving the peach shake",
+        "target": "i need the <entity type=\"Location\">closest</entity> <entity type=\"Restaurant_Name\">chic fil a</entity> that is still serving the <entity type=\"Dish\">peach shake</entity>",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "chic fil a",
+                "Restaurant_Name"
+            ],
+            [
+                "peach shake",
+                "Dish"
+            ]
+        ],
+        "sent_id": 606
+    },
+    {
+        "text": "where can i find a cracker barrel near miami",
+        "target": "where can i find a <entity type=\"Restaurant_Name\">cracker barrel</entity> near <entity type=\"Location\">miami</entity>",
+        "entities": [
+            [
+                "cracker barrel",
+                "Restaurant_Name"
+            ],
+            [
+                "miami",
+                "Location"
+            ]
+        ],
+        "sent_id": 1271
+    },
+    {
+        "text": "how much is small box of fries at jack in the box",
+        "target": "how much is small box of <entity type=\"Dish\">fries</entity> at <entity type=\"Restaurant_Name\">jack in the box</entity>",
+        "entities": [
+            [
+                "fries",
+                "Dish"
+            ],
+            [
+                "jack in the box",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 536
+    },
+    {
+        "text": "is there a halal place downtown where i could eat outside",
+        "target": "is there a <entity type=\"Cuisine\">halal</entity> place <entity type=\"Location\">downtown</entity> where i could <entity type=\"Amenity\">eat outside</entity>",
+        "entities": [
+            [
+                "halal",
+                "Cuisine"
+            ],
+            [
+                "downtown",
+                "Location"
+            ],
+            [
+                "eat outside",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 820
+    },
+    {
+        "text": "find me a restaurant with burgers on the menu and large portions that offers business dining",
+        "target": "find me a restaurant with <entity type=\"Dish\">burgers</entity> on the menu and <entity type=\"Amenity\">large portions</entity> that offers <entity type=\"Amenity\">business dining</entity>",
+        "entities": [
+            [
+                "burgers",
+                "Dish"
+            ],
+            [
+                "large portions",
+                "Amenity"
+            ],
+            [
+                "business dining",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 397
+    },
+    {
+        "text": "today is a good day for some tacos off to taco bell",
+        "target": "today is a good day for some <entity type=\"Dish\">tacos</entity> off to <entity type=\"Restaurant_Name\">taco bell</entity>",
+        "entities": [
+            [
+                "tacos",
+                "Dish"
+            ],
+            [
+                "taco bell",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1084
+    },
+    {
+        "text": "can you find me a restaurant that has entrees priced between 15 and 20 dollars",
+        "target": "can you find me a restaurant that has entrees priced <entity type=\"Price\">between 15 and 20 dollars</entity>",
+        "entities": [
+            [
+                "between 15 and 20 dollars",
+                "Price"
+            ]
+        ],
+        "sent_id": 165
+    },
+    {
+        "text": "is there an italian place nearby",
+        "target": "is there an <entity type=\"Cuisine\">italian</entity> place <entity type=\"Location\">nearby</entity>",
+        "entities": [
+            [
+                "italian",
+                "Cuisine"
+            ],
+            [
+                "nearby",
+                "Location"
+            ]
+        ],
+        "sent_id": 895
+    },
+    {
+        "text": "whats the nearest pizza place that serves anchovies",
+        "target": "whats the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">pizza</entity> place that serves <entity type=\"Dish\">anchovies</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "pizza",
+                "Cuisine"
+            ],
+            [
+                "anchovies",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1241
+    },
+    {
+        "text": "is quiznos open for breakfast",
+        "target": "is <entity type=\"Restaurant_Name\">quiznos</entity> open for <entity type=\"Hours\">breakfast</entity>",
+        "entities": [
+            [
+                "quiznos",
+                "Restaurant_Name"
+            ],
+            [
+                "breakfast",
+                "Hours"
+            ]
+        ],
+        "sent_id": 776
+    },
+    {
+        "text": "is there a mcdonalds within two miles of here",
+        "target": "is there a <entity type=\"Restaurant_Name\">mcdonalds</entity> <entity type=\"Location\">within two miles</entity> of here",
+        "entities": [
+            [
+                "mcdonalds",
+                "Restaurant_Name"
+            ],
+            [
+                "within two miles",
+                "Location"
+            ]
+        ],
+        "sent_id": 833
+    },
+    {
+        "text": "looking for breakfast restaurants with byob",
+        "target": "looking for <entity type=\"Cuisine\">breakfast</entity> restaurants with <entity type=\"Amenity\">byob</entity>",
+        "entities": [
+            [
+                "breakfast",
+                "Cuisine"
+            ],
+            [
+                "byob",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 972
+    },
+    {
+        "text": "whats the closest restaurant with a full salad bar",
+        "target": "whats the <entity type=\"Location\">closest</entity> restaurant with a <entity type=\"Cuisine\">full salad bar</entity>",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "full salad bar",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1238
+    },
+    {
+        "text": "i want a taco from a taco truck",
+        "target": "i want a <entity type=\"Dish\">taco</entity> from a <entity type=\"Cuisine\">taco truck</entity>",
+        "entities": [
+            [
+                "taco",
+                "Dish"
+            ],
+            [
+                "taco truck",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 630
+    },
+    {
+        "text": "find the closest sea food restaurant",
+        "target": "find the <entity type=\"Location\">closest</entity> <entity type=\"Cuisine\">sea food</entity> restaurant",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "sea food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 452
+    },
+    {
+        "text": "find me the best rated chinese restaurant in the twin cities",
+        "target": "find me the <entity type=\"Rating\">best rated</entity> <entity type=\"Cuisine\">chinese</entity> restaurant in the <entity type=\"Location\">twin cities</entity>",
+        "entities": [
+            [
+                "best rated",
+                "Rating"
+            ],
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "twin cities",
+                "Location"
+            ]
+        ],
+        "sent_id": 430
+    },
+    {
+        "text": "can you find me a moderately priced italian restaurant",
+        "target": "can you find me a <entity type=\"Price\">moderately</entity> priced <entity type=\"Cuisine\">italian</entity> restaurant",
+        "entities": [
+            [
+                "moderately",
+                "Price"
+            ],
+            [
+                "italian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 157
+    },
+    {
+        "text": "where can i find the cheapest pizza",
+        "target": "where can i find the <entity type=\"Price\">cheapest</entity> <entity type=\"Dish\">pizza</entity>",
+        "entities": [
+            [
+                "cheapest",
+                "Price"
+            ],
+            [
+                "pizza",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1300
+    },
+    {
+        "text": "i want to get some chinese food",
+        "target": "i want to get some <entity type=\"Cuisine\">chinese</entity> food",
+        "entities": [
+            [
+                "chinese",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 667
+    },
+    {
+        "text": "can i get gluten free pizza within 10 miles of here",
+        "target": "can i get <entity type=\"Dish\">gluten free pizza</entity> <entity type=\"Location\">within 10 miles of here</entity>",
+        "entities": [
+            [
+                "gluten free pizza",
+                "Dish"
+            ],
+            [
+                "within 10 miles of here",
+                "Location"
+            ]
+        ],
+        "sent_id": 124
+    },
+    {
+        "text": "hello would you please take me to sushi stop",
+        "target": "hello would you please take me to <entity type=\"Restaurant_Name\">sushi stop</entity>",
+        "entities": [
+            [
+                "sushi stop",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 475
+    },
+    {
+        "text": "is there more than one fatty fish restaurant on long island",
+        "target": "is there more than one <entity type=\"Restaurant_Name\">fatty fish</entity> restaurant on <entity type=\"Location\">long island</entity>",
+        "entities": [
+            [
+                "fatty fish",
+                "Restaurant_Name"
+            ],
+            [
+                "long island",
+                "Location"
+            ]
+        ],
+        "sent_id": 925
+    },
+    {
+        "text": "find the number of the best barbecue joint in town",
+        "target": "find the number of the <entity type=\"Rating\">best</entity> <entity type=\"Cuisine\">barbecue</entity> joint <entity type=\"Location\">in town</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "barbecue",
+                "Cuisine"
+            ],
+            [
+                "in town",
+                "Location"
+            ]
+        ],
+        "sent_id": 455
+    },
+    {
+        "text": "is there a seafood restaurant around here",
+        "target": "is there a <entity type=\"Cuisine\">seafood</entity> restaurant around here",
+        "entities": [
+            [
+                "seafood",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 870
+    },
+    {
+        "text": "is there a restaurant with a bar scene nearby that serves small portioned meals and snacks",
+        "target": "is there a restaurant with a <entity type=\"Amenity\">bar scene</entity> <entity type=\"Location\">nearby</entity> that serves <entity type=\"Cuisine\">small portioned meals and snacks</entity>",
+        "entities": [
+            [
+                "bar scene",
+                "Amenity"
+            ],
+            [
+                "nearby",
+                "Location"
+            ],
+            [
+                "small portioned meals and snacks",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 867
+    },
+    {
+        "text": "is there a place that serves breakfast this late",
+        "target": "is there a place that serves <entity type=\"Cuisine\">breakfast</entity> this <entity type=\"Hours\">late</entity>",
+        "entities": [
+            [
+                "breakfast",
+                "Cuisine"
+            ],
+            [
+                "late",
+                "Hours"
+            ]
+        ],
+        "sent_id": 842
+    },
+    {
+        "text": "i need a cheap restaurant for brunch",
+        "target": "i need a <entity type=\"Price\">cheap</entity> restaurant for <entity type=\"Hours\">brunch</entity>",
+        "entities": [
+            [
+                "cheap",
+                "Price"
+            ],
+            [
+                "brunch",
+                "Hours"
+            ]
+        ],
+        "sent_id": 571
+    },
+    {
+        "text": "pub",
+        "target": "<entity type=\"Cuisine\">pub</entity>",
+        "entities": [
+            [
+                "pub",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1040
+    },
+    {
+        "text": "find me a local outdoors shop that sells fire wood",
+        "target": "find me a <entity type=\"Location\">local</entity> <entity type=\"Amenity\">outdoors shop</entity> that <entity type=\"Amenity\">sells fire wood</entity>",
+        "entities": [
+            [
+                "local",
+                "Location"
+            ],
+            [
+                "outdoors shop",
+                "Amenity"
+            ],
+            [
+                "sells fire wood",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 379
+    },
+    {
+        "text": "please find a restaurant where i can order cocktails with lunch",
+        "target": "please find a restaurant where i can order <entity type=\"Amenity\">cocktails</entity> with <entity type=\"Amenity\">lunch</entity>",
+        "entities": [
+            [
+                "cocktails",
+                "Amenity"
+            ],
+            [
+                "lunch",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1019
+    },
+    {
+        "text": "i want some taco bell",
+        "target": "i want some <entity type=\"Restaurant_Name\">taco bell</entity>",
+        "entities": [
+            [
+                "taco bell",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 638
+    },
+    {
+        "text": "find me a causal bar and grill",
+        "target": "find me a <entity type=\"Amenity\">causal</entity> <entity type=\"Cuisine\">bar and grill</entity>",
+        "entities": [
+            [
+                "causal",
+                "Amenity"
+            ],
+            [
+                "bar and grill",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 357
+    },
+    {
+        "text": "id like to find a breakfast place",
+        "target": "id like to find a <entity type=\"Cuisine\">breakfast</entity> place",
+        "entities": [
+            [
+                "breakfast",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 708
+    },
+    {
+        "text": "find me an indian restaurant that serves lamb",
+        "target": "find me an <entity type=\"Cuisine\">indian</entity> restaurant that serves <entity type=\"Dish\">lamb</entity>",
+        "entities": [
+            [
+                "indian",
+                "Cuisine"
+            ],
+            [
+                "lamb",
+                "Dish"
+            ]
+        ],
+        "sent_id": 420
+    },
+    {
+        "text": "which five star italian restaurants in manattan have the best reviews",
+        "target": "which <entity type=\"Rating\">five star</entity> <entity type=\"Cuisine\">italian</entity> restaurants in <entity type=\"Location\">manattan</entity> have the <entity type=\"Rating\">best reviews</entity>",
+        "entities": [
+            [
+                "five star",
+                "Rating"
+            ],
+            [
+                "italian",
+                "Cuisine"
+            ],
+            [
+                "manattan",
+                "Location"
+            ],
+            [
+                "best reviews",
+                "Rating"
+            ]
+        ],
+        "sent_id": 1483
+    },
+    {
+        "text": "i need a kid friendly lunch place",
+        "target": "i need a <entity type=\"Amenity\">kid friendly</entity> <entity type=\"Hours\">lunch</entity> place",
+        "entities": [
+            [
+                "kid friendly",
+                "Amenity"
+            ],
+            [
+                "lunch",
+                "Hours"
+            ]
+        ],
+        "sent_id": 575
+    },
+    {
+        "text": "im looking for some nearby brazilian food for a special occasion",
+        "target": "im looking for some <entity type=\"Location\">nearby</entity> <entity type=\"Cuisine\">brazilian</entity> food for a <entity type=\"Amenity\">special occasion</entity>",
+        "entities": [
+            [
+                "nearby",
+                "Location"
+            ],
+            [
+                "brazilian",
+                "Cuisine"
+            ],
+            [
+                "special occasion",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 744
+    },
+    {
+        "text": "can you find me a kid friendly sushi restaurant",
+        "target": "can you find me a <entity type=\"Amenity\">kid friendly</entity> <entity type=\"Cuisine\">sushi</entity> restaurant",
+        "entities": [
+            [
+                "kid friendly",
+                "Amenity"
+            ],
+            [
+                "sushi",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 156
+    },
+    {
+        "text": "huges bar and brill thanks",
+        "target": "<entity type=\"Restaurant_Name\">huges bar and brill</entity> thanks",
+        "entities": [
+            [
+                "huges bar and brill",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 539
+    },
+    {
+        "text": "i would like to find a vegan restaurant",
+        "target": "i would like to find a <entity type=\"Cuisine\">vegan</entity> restaurant",
+        "entities": [
+            [
+                "vegan",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 695
+    },
+    {
+        "text": "where can i eat by the water close by",
+        "target": "where can i eat <entity type=\"Amenity\">by the water</entity> <entity type=\"Location\">close by</entity>",
+        "entities": [
+            [
+                "by the water",
+                "Amenity"
+            ],
+            [
+                "close by",
+                "Location"
+            ]
+        ],
+        "sent_id": 1261
+    },
+    {
+        "text": "i need phone numbers to carry out pizza places within 2 miles",
+        "target": "i need phone numbers to <entity type=\"Amenity\">carry out</entity> <entity type=\"Cuisine\">pizza</entity> places <entity type=\"Location\">within 2 miles</entity>",
+        "entities": [
+            [
+                "carry out",
+                "Amenity"
+            ],
+            [
+                "pizza",
+                "Cuisine"
+            ],
+            [
+                "within 2 miles",
+                "Location"
+            ]
+        ],
+        "sent_id": 601
+    },
+    {
+        "text": "does texas roadhouse open for lunch every day",
+        "target": "does <entity type=\"Restaurant_Name\">texas roadhouse</entity> <entity type=\"Hours\">open for lunch every day</entity>",
+        "entities": [
+            [
+                "texas roadhouse",
+                "Restaurant_Name"
+            ],
+            [
+                "open for lunch every day",
+                "Hours"
+            ]
+        ],
+        "sent_id": 306
+    },
+    {
+        "text": "i want to find a place that serves pizza by the slice",
+        "target": "i want to find a place that serves <entity type=\"Dish\">pizza by the slice</entity>",
+        "entities": [
+            [
+                "pizza by the slice",
+                "Dish"
+            ]
+        ],
+        "sent_id": 658
+    },
+    {
+        "text": "help me find a burger joint",
+        "target": "help me find a <entity type=\"Cuisine\">burger joint</entity>",
+        "entities": [
+            [
+                "burger joint",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 477
+    },
+    {
+        "text": "what would be an impressive restaurant for me to take a future business partner to",
+        "target": "what would be an <entity type=\"Rating\">impressive</entity> restaurant for me to take a future <entity type=\"Amenity\">business</entity> partner to",
+        "entities": [
+            [
+                "impressive",
+                "Rating"
+            ],
+            [
+                "business",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1221
+    },
+    {
+        "text": "find me a good pho restaurant in portland or",
+        "target": "find me a <entity type=\"Rating\">good</entity> <entity type=\"Cuisine\">pho</entity> restaurant in <entity type=\"Location\">portland or</entity>",
+        "entities": [
+            [
+                "good",
+                "Rating"
+            ],
+            [
+                "pho",
+                "Cuisine"
+            ],
+            [
+                "portland or",
+                "Location"
+            ]
+        ],
+        "sent_id": 374
+    },
+    {
+        "text": "can you find an italian restaurant that serves brunch on sunday",
+        "target": "can you find an <entity type=\"Cuisine\">italian</entity> restaurant that serves <entity type=\"Hours\">brunch</entity> on <entity type=\"Hours\">sunday</entity>",
+        "entities": [
+            [
+                "italian",
+                "Cuisine"
+            ],
+            [
+                "brunch",
+                "Hours"
+            ],
+            [
+                "sunday",
+                "Hours"
+            ]
+        ],
+        "sent_id": 148
+    },
+    {
+        "text": "i am looking for a good place to eat",
+        "target": "i am looking for a <entity type=\"Rating\">good</entity> place to eat",
+        "entities": [
+            [
+                "good",
+                "Rating"
+            ]
+        ],
+        "sent_id": 546
+    },
+    {
+        "text": "which authentic mexican restaurants offer complementary chips and salsa",
+        "target": "which <entity type=\"Cuisine\">authentic mexican</entity> restaurants offer <entity type=\"Dish\">complementary chips and salsa</entity>",
+        "entities": [
+            [
+                "authentic mexican",
+                "Cuisine"
+            ],
+            [
+                "complementary chips and salsa",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1482
+    },
+    {
+        "text": "id like to eat in a reasonably priced restaurant that is not part of chain and that serves american food",
+        "target": "id like to eat in a <entity type=\"Price\">reasonably</entity> priced restaurant that is <entity type=\"Amenity\">not part of chain</entity> and that serves <entity type=\"Cuisine\">american</entity> food",
+        "entities": [
+            [
+                "reasonably",
+                "Price"
+            ],
+            [
+                "not part of chain",
+                "Amenity"
+            ],
+            [
+                "american",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 706
+    },
+    {
+        "text": "find me a jack in the box thats open",
+        "target": "find me a <entity type=\"Restaurant_Name\">jack in the box</entity> thats <entity type=\"Hours\">open</entity>",
+        "entities": [
+            [
+                "jack in the box",
+                "Restaurant_Name"
+            ],
+            [
+                "open",
+                "Hours"
+            ]
+        ],
+        "sent_id": 377
+    },
+    {
+        "text": "find me a cheaply priced thai restaurant",
+        "target": "find me a <entity type=\"Price\">cheaply</entity> priced <entity type=\"Cuisine\">thai</entity> restaurant",
+        "entities": [
+            [
+                "cheaply",
+                "Price"
+            ],
+            [
+                "thai",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 360
+    },
+    {
+        "text": "where can i get cheap food at 5 pm in alston",
+        "target": "where can i get <entity type=\"Price\">cheap</entity> food at <entity type=\"Hours\">5 pm</entity> <entity type=\"Location\">in alston</entity>",
+        "entities": [
+            [
+                "cheap",
+                "Price"
+            ],
+            [
+                "5 pm",
+                "Hours"
+            ],
+            [
+                "in alston",
+                "Location"
+            ]
+        ],
+        "sent_id": 1324
+    },
+    {
+        "text": "which restaurants serving grass fed beef steaks have the best prices",
+        "target": "which restaurants serving <entity type=\"Dish\">grass fed beef steaks</entity> have the <entity type=\"Price\">best</entity> prices",
+        "entities": [
+            [
+                "grass fed beef steaks",
+                "Dish"
+            ],
+            [
+                "best",
+                "Price"
+            ]
+        ],
+        "sent_id": 1501
+    },
+    {
+        "text": "whats the closest pizza restaurant",
+        "target": "whats the <entity type=\"Location\">closest</entity> <entity type=\"Dish\">pizza</entity> restaurant",
+        "entities": [
+            [
+                "closest",
+                "Location"
+            ],
+            [
+                "pizza",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1237
+    },
+    {
+        "text": "is there a korean restaurant with nice decor and open late",
+        "target": "is there a <entity type=\"Cuisine\">korean</entity> restaurant with <entity type=\"Amenity\">nice decor</entity> and <entity type=\"Hours\">open late</entity>",
+        "entities": [
+            [
+                "korean",
+                "Cuisine"
+            ],
+            [
+                "nice decor",
+                "Amenity"
+            ],
+            [
+                "open late",
+                "Hours"
+            ]
+        ],
+        "sent_id": 826
+    },
+    {
+        "text": "tacos stand near my location",
+        "target": "<entity type=\"Cuisine\">tacos stand</entity> <entity type=\"Location\">near my location</entity>",
+        "entities": [
+            [
+                "tacos stand",
+                "Cuisine"
+            ],
+            [
+                "near my location",
+                "Location"
+            ]
+        ],
+        "sent_id": 1070
+    },
+    {
+        "text": "where is an italos bakery along this route that has waterfront dining",
+        "target": "where is an <entity type=\"Restaurant_Name\">italos bakery</entity> <entity type=\"Location\">along this route</entity> that has <entity type=\"Amenity\">waterfront dining</entity>",
+        "entities": [
+            [
+                "italos bakery",
+                "Restaurant_Name"
+            ],
+            [
+                "along this route",
+                "Location"
+            ],
+            [
+                "waterfront dining",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1385
+    },
+    {
+        "text": "how much is a plate at the olive garden",
+        "target": "how much is a plate at the <entity type=\"Restaurant_Name\">olive garden</entity>",
+        "entities": [
+            [
+                "olive garden",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 534
+    },
+    {
+        "text": "what time does little johns open on sunday",
+        "target": "what time does <entity type=\"Restaurant_Name\">little johns</entity> open <entity type=\"Hours\">on sunday</entity>",
+        "entities": [
+            [
+                "little johns",
+                "Restaurant_Name"
+            ],
+            [
+                "on sunday",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1205
+    },
+    {
+        "text": "do you know where they sell hummus",
+        "target": "do you know where they sell <entity type=\"Dish\">hummus</entity>",
+        "entities": [
+            [
+                "hummus",
+                "Dish"
+            ]
+        ],
+        "sent_id": 270
+    },
+    {
+        "text": "can you get me a list of chinese food places in great neck ny",
+        "target": "can you get me a list of <entity type=\"Cuisine\">chinese</entity> food places in <entity type=\"Location\">great neck ny</entity>",
+        "entities": [
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "great neck ny",
+                "Location"
+            ]
+        ],
+        "sent_id": 177
+    },
+    {
+        "text": "i would like to find a vegeterian restaurant",
+        "target": "i would like to find a <entity type=\"Cuisine\">vegeterian</entity> restaurant",
+        "entities": [
+            [
+                "vegeterian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 696
+    },
+    {
+        "text": "where can i eat that isnt cheap",
+        "target": "where can i eat that <entity type=\"Price\">isnt cheap</entity>",
+        "entities": [
+            [
+                "isnt cheap",
+                "Price"
+            ]
+        ],
+        "sent_id": 1265
+    },
+    {
+        "text": "i hate smoke so list off some eateries i can go relax at",
+        "target": "i <entity type=\"Amenity\">hate smoke</entity> so list off some eateries i can go <entity type=\"Amenity\">relax</entity> at",
+        "entities": [
+            [
+                "hate smoke",
+                "Amenity"
+            ],
+            [
+                "relax",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 560
+    },
+    {
+        "text": "how many restaurants near me have bathrooms",
+        "target": "how many restaurants <entity type=\"Location\">near me</entity> <entity type=\"Amenity\">have bathrooms</entity>",
+        "entities": [
+            [
+                "near me",
+                "Location"
+            ],
+            [
+                "have bathrooms",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 532
+    },
+    {
+        "text": "list all restaurants that cater to families within a ten mile location of my current location",
+        "target": "list all restaurants that <entity type=\"Amenity\">cater to families</entity> <entity type=\"Location\">within a ten mile</entity> <entity type=\"Amenity\">location</entity> of my <entity type=\"Location\">current location</entity>",
+        "entities": [
+            [
+                "cater to families",
+                "Amenity"
+            ],
+            [
+                "within a ten mile",
+                "Location"
+            ],
+            [
+                "location",
+                "Amenity"
+            ],
+            [
+                "current location",
+                "Location"
+            ]
+        ],
+        "sent_id": 940
+    },
+    {
+        "text": "i need a place to get enchiladas thats open every day",
+        "target": "i need a place to get <entity type=\"Dish\">enchiladas</entity> thats <entity type=\"Hours\">open every day</entity>",
+        "entities": [
+            [
+                "enchiladas",
+                "Dish"
+            ],
+            [
+                "open every day",
+                "Hours"
+            ]
+        ],
+        "sent_id": 583
+    },
+    {
+        "text": "is there a restaurant that serves tacos before noon in charlestown",
+        "target": "is there a restaurant that serves <entity type=\"Dish\">tacos</entity> <entity type=\"Hours\">before noon</entity> <entity type=\"Location\">in charlestown</entity>",
+        "entities": [
+            [
+                "tacos",
+                "Dish"
+            ],
+            [
+                "before noon",
+                "Hours"
+            ],
+            [
+                "in charlestown",
+                "Location"
+            ]
+        ],
+        "sent_id": 866
+    },
+    {
+        "text": "what is the best mexican restaurant in town",
+        "target": "what is the <entity type=\"Rating\">best</entity> <entity type=\"Cuisine\">mexican</entity> restaurant <entity type=\"Location\">in town</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "mexican",
+                "Cuisine"
+            ],
+            [
+                "in town",
+                "Location"
+            ]
+        ],
+        "sent_id": 1120
+    },
+    {
+        "text": "what restaurant sells crab close by",
+        "target": "what restaurant sells <entity type=\"Dish\">crab</entity> <entity type=\"Location\">close by</entity>",
+        "entities": [
+            [
+                "crab",
+                "Dish"
+            ],
+            [
+                "close by",
+                "Location"
+            ]
+        ],
+        "sent_id": 1183
+    },
+    {
+        "text": "i want to reserve the back room at bensons grill for my daughters birthday party next friday night is it available",
+        "target": "i want to reserve the back room at <entity type=\"Restaurant_Name\">bensons grill</entity> for my daughters birthday party next <entity type=\"Hours\">friday night</entity> is it available",
+        "entities": [
+            [
+                "bensons grill",
+                "Restaurant_Name"
+            ],
+            [
+                "friday night",
+                "Hours"
+            ]
+        ],
+        "sent_id": 679
+    },
+    {
+        "text": "where could i go for a roast beef sandwich right now",
+        "target": "where could i go for a <entity type=\"Dish\">roast beef sandwich</entity> <entity type=\"Hours\">right now</entity>",
+        "entities": [
+            [
+                "roast beef sandwich",
+                "Dish"
+            ],
+            [
+                "right now",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1367
+    },
+    {
+        "text": "who serves the best wings in this town",
+        "target": "<entity type=\"Cuisine\">who serves</entity> the <entity type=\"Cuisine\">best</entity> <entity type=\"Dish\">wings</entity> <entity type=\"Location\">in this town</entity>",
+        "entities": [
+            [
+                "who serves",
+                "Cuisine"
+            ],
+            [
+                "best",
+                "Cuisine"
+            ],
+            [
+                "wings",
+                "Dish"
+            ],
+            [
+                "in this town",
+                "Location"
+            ]
+        ],
+        "sent_id": 1513
+    },
+    {
+        "text": "search for fast food places that also have a kid play area",
+        "target": "search for <entity type=\"Cuisine\">fast food</entity> places that also have a <entity type=\"Amenity\">kid play area</entity>",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ],
+            [
+                "kid play area",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1052
+    },
+    {
+        "text": "locate a place to eat that serves milk shakes",
+        "target": "locate a place to eat that serves <entity type=\"Dish\">milk shakes</entity>",
+        "entities": [
+            [
+                "milk shakes",
+                "Dish"
+            ]
+        ],
+        "sent_id": 950
+    },
+    {
+        "text": "i am in the mood for some chinese food can you find me a place",
+        "target": "i am in the mood for some <entity type=\"Cuisine\">chinese</entity> food can you find me a place",
+        "entities": [
+            [
+                "chinese",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 544
+    },
+    {
+        "text": "can you find the nearest health food store and bar",
+        "target": "can you find the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">health food store</entity> and <entity type=\"Cuisine\">bar</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "health food store",
+                "Cuisine"
+            ],
+            [
+                "bar",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 174
+    },
+    {
+        "text": "can you give me the name of the restaurant on green st",
+        "target": "can you give me the <entity type=\"Restaurant_Name\">name</entity> of the restaurant on <entity type=\"Location\">green st</entity>",
+        "entities": [
+            [
+                "name",
+                "Restaurant_Name"
+            ],
+            [
+                "green st",
+                "Location"
+            ]
+        ],
+        "sent_id": 179
+    },
+    {
+        "text": "find a reasonably priced restaurant on highwood drive called oriental kitchen",
+        "target": "find a <entity type=\"Price\">reasonably</entity> priced restaurant on <entity type=\"Location\">highwood drive</entity> called <entity type=\"Restaurant_Name\">oriental kitchen</entity>",
+        "entities": [
+            [
+                "reasonably",
+                "Price"
+            ],
+            [
+                "highwood drive",
+                "Location"
+            ],
+            [
+                "oriental kitchen",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 348
+    },
+    {
+        "text": "what has the best dumplings in town",
+        "target": "what has the <entity type=\"Rating\">best</entity> <entity type=\"Dish\">dumplings</entity> <entity type=\"Location\">in town</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "dumplings",
+                "Dish"
+            ],
+            [
+                "in town",
+                "Location"
+            ]
+        ],
+        "sent_id": 1108
+    },
+    {
+        "text": "is there an english style restaurant open until midnight in north weymouth",
+        "target": "is there an <entity type=\"Cuisine\">english</entity> style restaurant <entity type=\"Hours\">open until midnight</entity> <entity type=\"Location\">in north weymouth</entity>",
+        "entities": [
+            [
+                "english",
+                "Cuisine"
+            ],
+            [
+                "open until midnight",
+                "Hours"
+            ],
+            [
+                "in north weymouth",
+                "Location"
+            ]
+        ],
+        "sent_id": 888
+    },
+    {
+        "text": "where is the nearest shell gas station",
+        "target": "where is the <entity type=\"Location\">nearest</entity> shell gas station",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ]
+        ],
+        "sent_id": 1446
+    },
+    {
+        "text": "what places have great selections of beer",
+        "target": "what places have great selections of <entity type=\"Dish\">beer</entity>",
+        "entities": [
+            [
+                "beer",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1171
+    },
+    {
+        "text": "which restaurant can i get to within 5 minutes which serves healthy portions",
+        "target": "which restaurant can i get to <entity type=\"Location\">within 5 minutes</entity> which serves <entity type=\"Amenity\">healthy portions</entity>",
+        "entities": [
+            [
+                "within 5 minutes",
+                "Location"
+            ],
+            [
+                "healthy portions",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1489
+    },
+    {
+        "text": "take me to the nearest tex mex restaurant",
+        "target": "take me to the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">tex mex</entity> restaurant",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "tex mex",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1077
+    },
+    {
+        "text": "at which french restaurant can i dine outdoors",
+        "target": "at which <entity type=\"Cuisine\">french</entity> restaurant can i <entity type=\"Amenity\">dine outdoors</entity>",
+        "entities": [
+            [
+                "french",
+                "Cuisine"
+            ],
+            [
+                "dine outdoors",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 103
+    },
+    {
+        "text": "could you make a reservation for me at a nice italian restaurant",
+        "target": "could you make a reservation for me at a <entity type=\"Rating\">nice</entity> <entity type=\"Cuisine\">italian</entity> restaurant",
+        "entities": [
+            [
+                "nice",
+                "Rating"
+            ],
+            [
+                "italian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 223
+    },
+    {
+        "text": "where can i get a pho king sized bowl",
+        "target": "where can i get a <entity type=\"Dish\">pho king sized bowl</entity>",
+        "entities": [
+            [
+                "pho king sized bowl",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1317
+    },
+    {
+        "text": "i want a pad thai place around here thats open all day",
+        "target": "i want a <entity type=\"Dish\">pad thai</entity> place <entity type=\"Location\">around here</entity> thats <entity type=\"Hours\">open all day</entity>",
+        "entities": [
+            [
+                "pad thai",
+                "Dish"
+            ],
+            [
+                "around here",
+                "Location"
+            ],
+            [
+                "open all day",
+                "Hours"
+            ]
+        ],
+        "sent_id": 624
+    },
+    {
+        "text": "i need to book a business breakfast at the right price",
+        "target": "i need to book a <entity type=\"Amenity\">business</entity> breakfast at the <entity type=\"Price\">right</entity> price",
+        "entities": [
+            [
+                "business",
+                "Amenity"
+            ],
+            [
+                "right",
+                "Price"
+            ]
+        ],
+        "sent_id": 608
+    },
+    {
+        "text": "can i dine at the barat a nossa casa",
+        "target": "can i dine at the <entity type=\"Restaurant_Name\">barat a nossa casa</entity>",
+        "entities": [
+            [
+                "barat a nossa casa",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 117
+    },
+    {
+        "text": "where can i go for expensive gelato for carry out",
+        "target": "where can i go for <entity type=\"Price\">expensive</entity> <entity type=\"Dish\">gelato</entity> for <entity type=\"Amenity\">carry out</entity>",
+        "entities": [
+            [
+                "expensive",
+                "Price"
+            ],
+            [
+                "gelato",
+                "Dish"
+            ],
+            [
+                "carry out",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1350
+    },
+    {
+        "text": "please give me directions to the nearest made to order place where i can get a cheeseburger",
+        "target": "please give me directions to the <entity type=\"Location\">nearest</entity> <entity type=\"Dish\">made to order</entity> place where i can get a <entity type=\"Dish\">cheeseburger</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "made to order",
+                "Dish"
+            ],
+            [
+                "cheeseburger",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1029
+    },
+    {
+        "text": "i have alcohol where can i find a good appetizer",
+        "target": "i have alcohol where can i find a <entity type=\"Rating\">good</entity> <entity type=\"Cuisine\">appetizer</entity>",
+        "entities": [
+            [
+                "good",
+                "Rating"
+            ],
+            [
+                "appetizer",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 564
+    },
+    {
+        "text": "does pedros mexican restaurant accept credit cards",
+        "target": "does <entity type=\"Restaurant_Name\">pedros</entity> <entity type=\"Cuisine\">mexican</entity> restaurant <entity type=\"Amenity\">accept credit cards</entity>",
+        "entities": [
+            [
+                "pedros",
+                "Restaurant_Name"
+            ],
+            [
+                "mexican",
+                "Cuisine"
+            ],
+            [
+                "accept credit cards",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 298
+    },
+    {
+        "text": "i want to try something exotic",
+        "target": "i want to try something <entity type=\"Cuisine\">exotic</entity>",
+        "entities": [
+            [
+                "exotic",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 681
+    },
+    {
+        "text": "im in the mood for chinese food",
+        "target": "im in the mood for <entity type=\"Cuisine\">chinese</entity> food",
+        "entities": [
+            [
+                "chinese",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 726
+    },
+    {
+        "text": "find me a restaurant with truck parking and good ratings",
+        "target": "find me a restaurant with <entity type=\"Amenity\">truck parking</entity> and <entity type=\"Rating\">good ratings</entity>",
+        "entities": [
+            [
+                "truck parking",
+                "Amenity"
+            ],
+            [
+                "good ratings",
+                "Rating"
+            ]
+        ],
+        "sent_id": 398
+    },
+    {
+        "text": "where can i get a healthy lunch",
+        "target": "where can i get a <entity type=\"Amenity\">healthy</entity> <entity type=\"Hours\">lunch</entity>",
+        "entities": [
+            [
+                "healthy",
+                "Amenity"
+            ],
+            [
+                "lunch",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1315
+    },
+    {
+        "text": "how far to the nearest fast food",
+        "target": "how far to the nearest <entity type=\"Cuisine\">fast food</entity>",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 520
+    },
+    {
+        "text": "where is the nearest asia express restaurant",
+        "target": "where is the <entity type=\"Location\">nearest</entity> <entity type=\"Restaurant_Name\">asia express restaurant</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "asia express restaurant",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1427
+    },
+    {
+        "text": "do you know if elmos have a dress code",
+        "target": "do you know if <entity type=\"Restaurant_Name\">elmos</entity> have a <entity type=\"Amenity\">dress code</entity>",
+        "entities": [
+            [
+                "elmos",
+                "Restaurant_Name"
+            ],
+            [
+                "dress code",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 253
+    },
+    {
+        "text": "what restaurants have nice family friendly brunch on weekends",
+        "target": "what restaurants have <entity type=\"Amenity\">nice family friendly</entity> <entity type=\"Hours\">brunch</entity> on <entity type=\"Hours\">weekends</entity>",
+        "entities": [
+            [
+                "nice family friendly",
+                "Amenity"
+            ],
+            [
+                "brunch",
+                "Hours"
+            ],
+            [
+                "weekends",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1196
+    },
+    {
+        "text": "can you find me a fredas thats not too busy",
+        "target": "can you find me a <entity type=\"Restaurant_Name\">fredas</entity> thats <entity type=\"Amenity\">not too busy</entity>",
+        "entities": [
+            [
+                "fredas",
+                "Restaurant_Name"
+            ],
+            [
+                "not too busy",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 153
+    },
+    {
+        "text": "id like to find a chinese restaurant nearby",
+        "target": "id like to find a <entity type=\"Cuisine\">chinese</entity> restaurant <entity type=\"Location\">nearby</entity>",
+        "entities": [
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "nearby",
+                "Location"
+            ]
+        ],
+        "sent_id": 710
+    },
+    {
+        "text": "find me a place to get pizza nearby",
+        "target": "find me a place to get <entity type=\"Dish\">pizza</entity> <entity type=\"Location\">nearby</entity>",
+        "entities": [
+            [
+                "pizza",
+                "Dish"
+            ],
+            [
+                "nearby",
+                "Location"
+            ]
+        ],
+        "sent_id": 388
+    },
+    {
+        "text": "does midys have takeout",
+        "target": "does <entity type=\"Restaurant_Name\">midys</entity> have <entity type=\"Amenity\">takeout</entity>",
+        "entities": [
+            [
+                "midys",
+                "Restaurant_Name"
+            ],
+            [
+                "takeout",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 290
+    },
+    {
+        "text": "could you find me some restaurants located along the way to the airport that are open late",
+        "target": "could you find me some restaurants located <entity type=\"Location\">along the way to the airport</entity> that are <entity type=\"Hours\">open late</entity>",
+        "entities": [
+            [
+                "along the way to the airport",
+                "Location"
+            ],
+            [
+                "open late",
+                "Hours"
+            ]
+        ],
+        "sent_id": 219
+    },
+    {
+        "text": "where can i find naugles",
+        "target": "where can i find <entity type=\"Restaurant_Name\">naugles</entity>",
+        "entities": [
+            [
+                "naugles",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1296
+    },
+    {
+        "text": "do you know if the burrito place is open this late",
+        "target": "do you know if the <entity type=\"Cuisine\">burrito</entity> place is <entity type=\"Hours\">open this late</entity>",
+        "entities": [
+            [
+                "burrito",
+                "Cuisine"
+            ],
+            [
+                "open this late",
+                "Hours"
+            ]
+        ],
+        "sent_id": 256
+    },
+    {
+        "text": "whats a popular place to east",
+        "target": "whats a <entity type=\"Rating\">popular</entity> place to east",
+        "entities": [
+            [
+                "popular",
+                "Rating"
+            ]
+        ],
+        "sent_id": 1225
+    },
+    {
+        "text": "where can i get some chicken nuggets",
+        "target": "where can i get some <entity type=\"Dish\">chicken nuggets</entity>",
+        "entities": [
+            [
+                "chicken nuggets",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1332
+    },
+    {
+        "text": "find me a fast food restaurant",
+        "target": "find me a <entity type=\"Cuisine\">fast food</entity> restaurant",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 369
+    },
+    {
+        "text": "does logans serve hamburgers",
+        "target": "does <entity type=\"Restaurant_Name\">logans</entity> serve <entity type=\"Dish\">hamburgers</entity>",
+        "entities": [
+            [
+                "logans",
+                "Restaurant_Name"
+            ],
+            [
+                "hamburgers",
+                "Dish"
+            ]
+        ],
+        "sent_id": 288
+    },
+    {
+        "text": "can you help me find a restaurant that has fast service and is open before 11 am",
+        "target": "can you help me find a restaurant that has <entity type=\"Amenity\">fast service</entity> and is <entity type=\"Hours\">open before 11 am</entity>",
+        "entities": [
+            [
+                "fast service",
+                "Amenity"
+            ],
+            [
+                "open before 11 am",
+                "Hours"
+            ]
+        ],
+        "sent_id": 185
+    },
+    {
+        "text": "can you make me a reservation for 4 at the nearest upscale steakhouse",
+        "target": "can you make me a reservation for 4 at the <entity type=\"Location\">nearest</entity> <entity type=\"Price\">upscale</entity> <entity type=\"Cuisine\">steakhouse</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "upscale",
+                "Price"
+            ],
+            [
+                "steakhouse",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 197
+    },
+    {
+        "text": "are there any restaurants around with a smoking area",
+        "target": "are there any restaurants around with a <entity type=\"Amenity\">smoking area</entity>",
+        "entities": [
+            [
+                "smoking area",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 72
+    },
+    {
+        "text": "find somewhere to eat that is open before 7 am with average pricing along the route",
+        "target": "find somewhere to eat that is <entity type=\"Hours\">open before 7 am</entity> with <entity type=\"Price\">average</entity> pricing <entity type=\"Location\">along the route</entity>",
+        "entities": [
+            [
+                "open before 7 am",
+                "Hours"
+            ],
+            [
+                "average",
+                "Price"
+            ],
+            [
+                "along the route",
+                "Location"
+            ]
+        ],
+        "sent_id": 447
+    },
+    {
+        "text": "whats open after noon",
+        "target": "whats <entity type=\"Hours\">open after noon</entity>",
+        "entities": [
+            [
+                "open after noon",
+                "Hours"
+            ]
+        ],
+        "sent_id": 1227
+    },
+    {
+        "text": "what kind of fondue does the magic kettle have",
+        "target": "what kind of <entity type=\"Dish\">fondue</entity> does the <entity type=\"Restaurant_Name\">magic kettle</entity> have",
+        "entities": [
+            [
+                "fondue",
+                "Dish"
+            ],
+            [
+                "magic kettle",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1157
+    },
+    {
+        "text": "is golden house restaurant kids friendly",
+        "target": "is <entity type=\"Restaurant_Name\">golden house restaurant</entity> <entity type=\"Amenity\">kids friendly</entity>",
+        "entities": [
+            [
+                "golden house restaurant",
+                "Restaurant_Name"
+            ],
+            [
+                "kids friendly",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 769
+    },
+    {
+        "text": "are there any child friendly restaurants within ten miles",
+        "target": "are there any <entity type=\"Amenity\">child friendly</entity> restaurants <entity type=\"Location\">within ten miles</entity>",
+        "entities": [
+            [
+                "child friendly",
+                "Amenity"
+            ],
+            [
+                "within ten miles",
+                "Location"
+            ]
+        ],
+        "sent_id": 29
+    },
+    {
+        "text": "where is the nearest restaurant that serves steak",
+        "target": "where is the <entity type=\"Location\">nearest</entity> restaurant that serves <entity type=\"Dish\">steak</entity>",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "steak",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1444
+    },
+    {
+        "text": "where is the nearest chinese restaurant with more than 3 stars that is under 10 an entree",
+        "target": "where is the <entity type=\"Location\">nearest</entity> <entity type=\"Cuisine\">chinese</entity> restaurant with <entity type=\"Rating\">more than 3 stars</entity> that is <entity type=\"Price\">under 10</entity> an entree",
+        "entities": [
+            [
+                "nearest",
+                "Location"
+            ],
+            [
+                "chinese",
+                "Cuisine"
+            ],
+            [
+                "more than 3 stars",
+                "Rating"
+            ],
+            [
+                "under 10",
+                "Price"
+            ]
+        ],
+        "sent_id": 1432
+    },
+    {
+        "text": "where can i get some spaghetti",
+        "target": "where can i get some <entity type=\"Dish\">spaghetti</entity>",
+        "entities": [
+            [
+                "spaghetti",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1342
+    },
+    {
+        "text": "find me a close by meat market which sells produce",
+        "target": "find me a <entity type=\"Location\">close by</entity> <entity type=\"Cuisine\">meat</entity> market which sells <entity type=\"Dish\">produce</entity>",
+        "entities": [
+            [
+                "close by",
+                "Location"
+            ],
+            [
+                "meat",
+                "Cuisine"
+            ],
+            [
+                "produce",
+                "Dish"
+            ]
+        ],
+        "sent_id": 363
+    },
+    {
+        "text": "where can i get a banana split",
+        "target": "where can i get a <entity type=\"Dish\">banana split</entity>",
+        "entities": [
+            [
+                "banana split",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1305
+    },
+    {
+        "text": "any restaurants that still allow smoking",
+        "target": "any restaurants that still allow <entity type=\"Amenity\">smoking</entity>",
+        "entities": [
+            [
+                "smoking",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 13
+    },
+    {
+        "text": "whats the best indian restaurant in the area",
+        "target": "whats the <entity type=\"Rating\">best</entity> <entity type=\"Cuisine\">indian</entity> restaurant <entity type=\"Location\">in the area</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "indian",
+                "Cuisine"
+            ],
+            [
+                "in the area",
+                "Location"
+            ]
+        ],
+        "sent_id": 1231
+    },
+    {
+        "text": "can you order me a pizza",
+        "target": "can you order me a <entity type=\"Dish\">pizza</entity>",
+        "entities": [
+            [
+                "pizza",
+                "Dish"
+            ]
+        ],
+        "sent_id": 200
+    },
+    {
+        "text": "im looking for a top of the line steak place with valet parking",
+        "target": "im looking for a <entity type=\"Rating\">top of the line</entity> <entity type=\"Cuisine\">steak</entity> place with <entity type=\"Amenity\">valet parking</entity>",
+        "entities": [
+            [
+                "top of the line",
+                "Rating"
+            ],
+            [
+                "steak",
+                "Cuisine"
+            ],
+            [
+                "valet parking",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 740
+    },
+    {
+        "text": "whats the best place around here to get cheese",
+        "target": "whats the <entity type=\"Rating\">best</entity> place around here to get <entity type=\"Dish\">cheese</entity>",
+        "entities": [
+            [
+                "best",
+                "Rating"
+            ],
+            [
+                "cheese",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1232
+    },
+    {
+        "text": "which restaurants offer outdoor dining",
+        "target": "which restaurants offer <entity type=\"Amenity\">outdoor dining</entity>",
+        "entities": [
+            [
+                "outdoor dining",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1500
+    },
+    {
+        "text": "wheres the serborn inn located",
+        "target": "wheres the <entity type=\"Restaurant_Name\">serborn inn</entity> located",
+        "entities": [
+            [
+                "serborn inn",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1481
+    },
+    {
+        "text": "is there a sbarro in the galleria mall",
+        "target": "is there a <entity type=\"Restaurant_Name\">sbarro</entity> in the <entity type=\"Location\">galleria mall</entity>",
+        "entities": [
+            [
+                "sbarro",
+                "Restaurant_Name"
+            ],
+            [
+                "galleria mall",
+                "Location"
+            ]
+        ],
+        "sent_id": 868
+    },
+    {
+        "text": "where can i take coworkers for excellent priced food",
+        "target": "where can i take <entity type=\"Amenity\">coworkers</entity> for <entity type=\"Price\">excellent</entity> priced food",
+        "entities": [
+            [
+                "coworkers",
+                "Amenity"
+            ],
+            [
+                "excellent",
+                "Price"
+            ]
+        ],
+        "sent_id": 1356
+    },
+    {
+        "text": "is there a place to eat that has a friendly and cheerful atmosphere and offers steak on the menu",
+        "target": "is there a place to eat that has a <entity type=\"Amenity\">friendly and cheerful atmosphere</entity> and offers <entity type=\"Dish\">steak</entity> on the menu",
+        "entities": [
+            [
+                "friendly and cheerful atmosphere",
+                "Amenity"
+            ],
+            [
+                "steak",
+                "Dish"
+            ]
+        ],
+        "sent_id": 845
+    },
+    {
+        "text": "where can i find a place that serves gelato",
+        "target": "where can i find a place that serves <entity type=\"Dish\">gelato</entity>",
+        "entities": [
+            [
+                "gelato",
+                "Dish"
+            ]
+        ],
+        "sent_id": 1280
+    },
+    {
+        "text": "where is the next mcdonald",
+        "target": "where is the <entity type=\"Location\">next</entity> <entity type=\"Restaurant_Name\">mcdonald</entity>",
+        "entities": [
+            [
+                "next",
+                "Location"
+            ],
+            [
+                "mcdonald",
+                "Restaurant_Name"
+            ]
+        ],
+        "sent_id": 1453
+    },
+    {
+        "text": "navigate me to a thai restaurant thats 4 stars or higher",
+        "target": "navigate me to a <entity type=\"Cuisine\">thai</entity> restaurant thats <entity type=\"Rating\">4 stars or higher</entity>",
+        "entities": [
+            [
+                "thai",
+                "Cuisine"
+            ],
+            [
+                "4 stars or higher",
+                "Rating"
+            ]
+        ],
+        "sent_id": 1009
+    },
+    {
+        "text": "is there a donut and donuts restaurant within 5 miles with a beer list",
+        "target": "is there a <entity type=\"Restaurant_Name\">donut and donuts restaurant</entity> <entity type=\"Location\">within 5 miles</entity> with a <entity type=\"Amenity\">beer list</entity>",
+        "entities": [
+            [
+                "donut and donuts restaurant",
+                "Restaurant_Name"
+            ],
+            [
+                "within 5 miles",
+                "Location"
+            ],
+            [
+                "beer list",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 814
+    },
+    {
+        "text": "does the wildhorse saloon restaurant have a museum or gift shop",
+        "target": "does the <entity type=\"Restaurant_Name\">wildhorse saloon restaurant</entity> have a <entity type=\"Amenity\">museum or gift shop</entity>",
+        "entities": [
+            [
+                "wildhorse saloon restaurant",
+                "Restaurant_Name"
+            ],
+            [
+                "museum or gift shop",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 325
+    },
+    {
+        "text": "can i bring my kid to any of the restaurants down town that have bars attached",
+        "target": "can i bring <entity type=\"Amenity\">my kid</entity> to any of the restaurants <entity type=\"Location\">down town</entity> that have <entity type=\"Amenity\">bars attached</entity>",
+        "entities": [
+            [
+                "my kid",
+                "Amenity"
+            ],
+            [
+                "down town",
+                "Location"
+            ],
+            [
+                "bars attached",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 115
+    },
+    {
+        "text": "what are the reviews on this italian restaurant",
+        "target": "what are the reviews on this <entity type=\"Cuisine\">italian</entity> restaurant",
+        "entities": [
+            [
+                "italian",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 1101
+    },
+    {
+        "text": "where can i find a sports bar in nassau county new york",
+        "target": "where can i find a <entity type=\"Amenity\">sports bar</entity> in <entity type=\"Location\">nassau county new york</entity>",
+        "entities": [
+            [
+                "sports bar",
+                "Amenity"
+            ],
+            [
+                "nassau county new york",
+                "Location"
+            ]
+        ],
+        "sent_id": 1289
+    },
+    {
+        "text": "does the pho 2000 on state park rd have online reservation options",
+        "target": "does the <entity type=\"Restaurant_Name\">pho 2000</entity> on <entity type=\"Location\">state park rd</entity> have <entity type=\"Amenity\">online reservation</entity> options",
+        "entities": [
+            [
+                "pho 2000",
+                "Restaurant_Name"
+            ],
+            [
+                "state park rd",
+                "Location"
+            ],
+            [
+                "online reservation",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 322
+    },
+    {
+        "text": "im on a budget but i want to eat can you suggest something",
+        "target": "im on a <entity type=\"Price\">budget</entity> but i want to eat can you suggest something",
+        "entities": [
+            [
+                "budget",
+                "Price"
+            ]
+        ],
+        "sent_id": 749
+    },
+    {
+        "text": "find me a vegan restaurant not more than 5 miles away",
+        "target": "find me a <entity type=\"Cuisine\">vegan</entity> restaurant <entity type=\"Location\">not more than 5 miles away</entity>",
+        "entities": [
+            [
+                "vegan",
+                "Cuisine"
+            ],
+            [
+                "not more than 5 miles away",
+                "Location"
+            ]
+        ],
+        "sent_id": 414
+    },
+    {
+        "text": "are there any fine dining options within 5 miles of my location",
+        "target": "are there any <entity type=\"Amenity\">fine dining</entity> options <entity type=\"Location\">within 5 miles</entity> of my location",
+        "entities": [
+            [
+                "fine dining",
+                "Amenity"
+            ],
+            [
+                "within 5 miles",
+                "Location"
+            ]
+        ],
+        "sent_id": 39
+    },
+    {
+        "text": "is there any place where i can take my pet",
+        "target": "is there any place where i can take my <entity type=\"Amenity\">pet</entity>",
+        "entities": [
+            [
+                "pet",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 910
+    },
+    {
+        "text": "please list restaurants that serve alcohol within 5 miles",
+        "target": "please list restaurants that serve <entity type=\"Dish\">alcohol</entity> <entity type=\"Location\">within 5 miles</entity>",
+        "entities": [
+            [
+                "alcohol",
+                "Dish"
+            ],
+            [
+                "within 5 miles",
+                "Location"
+            ]
+        ],
+        "sent_id": 1032
+    },
+    {
+        "text": "can you take me to roosevelts restaurant and sin in framingham",
+        "target": "can you take me to <entity type=\"Restaurant_Name\">roosevelts restaurant and sin</entity> in <entity type=\"Location\">framingham</entity>",
+        "entities": [
+            [
+                "roosevelts restaurant and sin",
+                "Restaurant_Name"
+            ],
+            [
+                "framingham",
+                "Location"
+            ]
+        ],
+        "sent_id": 205
+    },
+    {
+        "text": "looking for a drive through restaurant close by opened 24 7",
+        "target": "looking for a <entity type=\"Location\">drive</entity> through restaurant <entity type=\"Location\">close by</entity> <entity type=\"Hours\">opened 24 7</entity>",
+        "entities": [
+            [
+                "drive",
+                "Location"
+            ],
+            [
+                "close by",
+                "Location"
+            ],
+            [
+                "opened 24 7",
+                "Hours"
+            ]
+        ],
+        "sent_id": 961
+    },
+    {
+        "text": "find me an expensive american restaurant",
+        "target": "find me an <entity type=\"Price\">expensive</entity> <entity type=\"Cuisine\">american</entity> restaurant",
+        "entities": [
+            [
+                "expensive",
+                "Price"
+            ],
+            [
+                "american",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 419
+    },
+    {
+        "text": "is there any sandwich shop by the high school",
+        "target": "is there any <entity type=\"Cuisine\">sandwich</entity> shop <entity type=\"Location\">by the high school</entity>",
+        "entities": [
+            [
+                "sandwich",
+                "Cuisine"
+            ],
+            [
+                "by the high school",
+                "Location"
+            ]
+        ],
+        "sent_id": 916
+    },
+    {
+        "text": "what do you know about restaurants that have impressive wine lists",
+        "target": "what do you know about restaurants that have <entity type=\"Amenity\">impressive wine lists</entity>",
+        "entities": [
+            [
+                "impressive wine lists",
+                "Amenity"
+            ]
+        ],
+        "sent_id": 1106
+    },
+    {
+        "text": "im starving so fast food will do",
+        "target": "im starving so <entity type=\"Cuisine\">fast food</entity> will do",
+        "entities": [
+            [
+                "fast food",
+                "Cuisine"
+            ]
+        ],
+        "sent_id": 754
+    }
+]

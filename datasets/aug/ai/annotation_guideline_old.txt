@@ -1,0 +1,7 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks. Identify and tag entities in the input text by wrapping them with XML-like tag <entity type="[TYPE]">...</entity> tags. Replace [TYPE] with the correct entity category. Make sure that you only wrap text that corresponds to an entity and leave the rest of the text unchanged. Tag all valid entities, even if they repeat.
+
+The target text domain is AI.
+
+The interested entity types are: ['algorithm', 'conference', 'country', 'field', 'location', 'metrics', 'miscellaneous', 'organization', 'person', 'product', 'programming language', 'researcher', 'task', 'university']

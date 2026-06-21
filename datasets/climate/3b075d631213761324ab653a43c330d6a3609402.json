@@ -1,0 +1,3111 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nBecause deep water in the Southern Ocean is cold, centuries old, and rich in nutrients, its circulation exerts an outsized influence on Earth's heat balance, the carbon cycle, and much of ocean biology.\n<heading>C</heading>\nold, dense water continually sinks from the surface into the depths of the North Atlantic Ocean and the highlatitude Southern Ocean-the circumpolar waters surrounding Antarctica. Although the processes and pathways by which that water enters the deep ocean are not completely understood, it's clear that denser surface water must descend into the abyss to replace lighter water below. That's because ocean waters tend to be stratified into progressively denser layers. A puzzling challenge has been to determine how that dense water returns from the deep. Without an exit pathway back to the surface, the entire ocean would fill up with cold, dense water.\nOceanographers used to think that drainage of the deep ocean occurs primarily by the vertical mixing of the density layers throughout the global ocean. 1 According to this theory, downward turbulent fluxes of heat warm the deep water, which allows it to be displaced upward and replaced with newly cooled, dense water. But observations do not support that as the sole mechanism for transporting deep water back to the surface. Indeed, measurements using dye tracers suggest that vertical mixing in the upper 2 km of the ocean is an order of magnitude too small to account for the requisite warming.",
+        "span": [
+            0,
+            1506
+        ],
+        "entities": [
+            {
+                "begin": 36,
+                "end": 46,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 54,
+                "end": 68,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 190,
+                "end": 202,
+                "label": "variable",
+                "substring": "carbon cycle",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/640d703f-9312-4f11-8367-30a8bd8fc508"
+            },
+            {
+                "begin": 257,
+                "end": 268,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 327,
+                "end": 347,
+                "label": "location",
+                "substring": "North Atlantic Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 356,
+                "end": 368,
+                "label": "location",
+                "substring": "highlatitude",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+            },
+            {
+                "begin": 369,
+                "end": 383,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 400,
+                "end": 406,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 419,
+                "end": 429,
+                "label": "location",
+                "substring": "Antarctica",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 481,
+                "end": 486,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 498,
+                "end": 508,
+                "label": "location",
+                "substring": "deep ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 563,
+                "end": 576,
+                "label": "variable",
+                "substring": "surface water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 616,
+                "end": 629,
+                "label": "variable",
+                "substring": "lighter water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 652,
+                "end": 664,
+                "label": "variable",
+                "substring": "ocean waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 773,
+                "end": 784,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 895,
+                "end": 906,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 958,
+                "end": 968,
+                "label": "variable",
+                "substring": "deep ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1046,
+                "end": 1058,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 1097,
+                "end": 1113,
+                "label": "variable",
+                "substring": "turbulent fluxes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7ee32363-7c39-40c3-95b3-4f24e284abb6"
+            },
+            {
+                "begin": 1117,
+                "end": 1121,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 1131,
+                "end": 1141,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1214,
+                "end": 1225,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1303,
+                "end": 1313,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1366,
+                "end": 1373,
+                "label": "variable",
+                "substring": "tracers",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4f9f5ca4-24c0-49a6-950f-991e0ee827bf"
+            },
+            {
+                "begin": 216,
+                "end": 221,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 172,
+                "end": 176,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "2 An alternative theory, which has gained wide acceptance over the past two decades, is that the primary return pathway for deep water is in the Southern Ocean (see the article by J. Robert Toggweiler, PHYSICS TODAY, November 1994, page 45). The westerly winds in the Southern Hemisphere drive a strongly divergent surface flow that draws up water from below in a wide ring circling the Antarctic continent. Observations indicate that as much as 80% of deep water resurfaces in the Southern Ocean. 2 The majority of the dense water upwells from a depth of roughly 2-3 km along sloping density layers with little heat input or mixing required. 3 (Box 1 describes the circulation through the global overturning loop.)\nThe upwelling exerts a huge influence on Earth's atmosphere and climate. Because the newly exposed water is cold, it absorbs a vast amount of excess heat from the atmosphere. Thanks to the decomposition of organic matter that rains into the oceans, the upwelled water is a rich source of the nutrients that supply most biological production in the global ocean. Because the upwelled water continually replaces surface water, it absorbs a significant amount of excess carbon from the atmosphere.\n<heading>What comes around</heading>\nA key driver of the Southern Ocean circulation is the westerly winds-the strongest mean sea-surface winds on Earth.",
+        "span": [
+            1507,
+            2870
+        ],
+        "entities": [
+            {
+                "begin": 124,
+                "end": 134,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 145,
+                "end": 159,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 246,
+                "end": 260,
+                "label": "variable",
+                "substring": "westerly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 268,
+                "end": 287,
+                "label": "location",
+                "substring": "Southern Hemisphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/417235ba-103a-443c-bb43-75a1a772a2e2"
+            },
+            {
+                "begin": 342,
+                "end": 347,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 387,
+                "end": 406,
+                "label": "location",
+                "substring": "Antarctic continent",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 453,
+                "end": 463,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 482,
+                "end": 496,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 520,
+                "end": 531,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 720,
+                "end": 729,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 765,
+                "end": 775,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 815,
+                "end": 820,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 879,
+                "end": 889,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 942,
+                "end": 947,
+                "label": "variable",
+                "substring": "rains",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 957,
+                "end": 963,
+                "label": "location",
+                "substring": "oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 969,
+                "end": 983,
+                "label": "variable",
+                "substring": "upwelled water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1064,
+                "end": 1076,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 1090,
+                "end": 1104,
+                "label": "variable",
+                "substring": "upwelled water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1126,
+                "end": 1139,
+                "label": "variable",
+                "substring": "surface water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1183,
+                "end": 1189,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1199,
+                "end": 1209,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 1268,
+                "end": 1294,
+                "label": "ocean circulation",
+                "substring": "Southern Ocean circulation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1302,
+                "end": 1316,
+                "label": "variable",
+                "substring": "westerly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 1336,
+                "end": 1353,
+                "label": "variable",
+                "substring": "sea-surface winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 612,
+                "end": 616,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 865,
+                "end": 869,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Because the planet rotates, momentum transferred from the atmosphere to the upper hundred meters of the ocean produces a flow not in the direction of the winds but to the left of them (in the Southern Hemisphere). That flow, shown in figure 1 and known as the Ekman transport, moves lighter surface water northward and draws large quantities of deep, dense water to the surface in the south.\nSimple volume conservation explains why the upwelling occurs. The strength of the westerly winds, and therefore the Ekman transport, varies with latitude-the maximum northward surface transport occurs at about 50° S and decreases south of that. Water must be drawn up from below in order to balance the difference between the larger northward transport at 50° S, say, compared with the smaller northward transport at 60° S. The broad ring of upwelling shown in figure 2a starts close to the Antarctic continent and extends all the way to roughly 50° S.\nIn isolation, the wind-driven flow would eventually expel all light water from the Southern Ocean The westerly winds combine with the Coriolis force to drive a northward flow, known as the Ekman transport, at the ocean's surface. The Ekman transport shifts the light surface waters northward, thereby tilting the density contours-shown as colors ranging from red (surface light water) through blue (deep dense water)-up from the horizontal.",
+        "span": [
+            2871,
+            4256
+        ],
+        "entities": [
+            {
+                "begin": 58,
+                "end": 68,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 104,
+                "end": 109,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+            },
+            {
+                "begin": 154,
+                "end": 159,
+                "label": "variable",
+                "substring": "winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 192,
+                "end": 211,
+                "label": "location",
+                "substring": "Southern Hemisphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/417235ba-103a-443c-bb43-75a1a772a2e2"
+            },
+            {
+                "begin": 291,
+                "end": 304,
+                "label": "variable",
+                "substring": "surface water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5debb283-51e4-435e-b2a2-e8e2a977220d"
+            },
+            {
+                "begin": 351,
+                "end": 362,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 436,
+                "end": 445,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 474,
+                "end": 488,
+                "label": "variable",
+                "substring": "westerly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 537,
+                "end": 545,
+                "label": "variable",
+                "substring": "latitude",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+            },
+            {
+                "begin": 637,
+                "end": 642,
+                "label": "variable",
+                "substring": "Water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 834,
+                "end": 843,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 883,
+                "end": 902,
+                "label": "location",
+                "substring": "Antarctic continent",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 963,
+                "end": 979,
+                "label": "variable",
+                "substring": "wind-driven flow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 1007,
+                "end": 1018,
+                "label": "variable",
+                "substring": "light water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1028,
+                "end": 1042,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1047,
+                "end": 1061,
+                "label": "variable",
+                "substring": "westerly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 1158,
+                "end": 1173,
+                "label": "location",
+                "substring": "ocean's surface",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 1206,
+                "end": 1226,
+                "label": "variable",
+                "substring": "light surface waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5debb283-51e4-435e-b2a2-e8e2a977220d"
+            },
+            {
+                "begin": 1309,
+                "end": 1328,
+                "label": "variable",
+                "substring": "surface light water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1344,
+                "end": 1364,
+                "label": "variable",
+                "substring": "deep dense water)-up",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            }
+        ]
+    },
+    {
+        "text": "The latitudinal variation in the westerlies creates a divergence in the Ekman transport, which causes water to upwell along the sloping density layers from the deep ocean to the surface. (Eddies and the flow of the strong eastward Antarctic circumpolar current over topographic ridges also influence the upwelling, as outlined in box 2.) Upon reaching the upper ocean, the upwelled waters split into two pathways: Water that reaches the surface close to Antarctica's sea ice is cooled, sinks along the continental shelf, and is transformed into dense bottom water; water that surfaces north of the sea-ice edge is warmed and flows northward with the Ekman layer. 4 and thereby increasingly steepen the tilt of its density layers. However, two key processes limit that steepening. First, rainfall and warming by the atmosphere reduce the density of the upwelled water as it flows northward along the surface. Second, mesoscale eddies, vortices about 10 km across, move light surface water southward-box 2 explains how-and partially flatten the density layers. The net effect of the competition between the Ekman transport, the eddies, and the surface buoyancy flux is an equilibrium in which the deep, dense layers of the world ocean slope upwards and intersect the surface in the Southern Ocean. 4 The primary reason that the upwelling in the Southern Ocean dominates on a global scale is due to the steep slope of its density layers, which provide a route for dense waters to resurface with minimal heat input.",
+        "span": [
+            4257,
+            5768
+        ],
+        "entities": [
+            {
+                "begin": 102,
+                "end": 107,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 160,
+                "end": 170,
+                "label": "location",
+                "substring": "deep ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 231,
+                "end": 240,
+                "label": "variable",
+                "substring": "Antarctic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/931794d1-639f-453f-ac24-81584faf8de6"
+            },
+            {
+                "begin": 266,
+                "end": 284,
+                "label": "location",
+                "substring": "topographic ridges",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/97298feb-6991-4d68-8337-177460e436ad"
+            },
+            {
+                "begin": 304,
+                "end": 313,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 356,
+                "end": 367,
+                "label": "location",
+                "substring": "upper ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 373,
+                "end": 388,
+                "label": "variable",
+                "substring": "upwelled waters",
+                "identifier": null
+            },
+            {
+                "begin": 414,
+                "end": 419,
+                "label": "variable",
+                "substring": "Water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 454,
+                "end": 474,
+                "label": "location",
+                "substring": "Antarctica's sea ice",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/67cc1cc2-04b9-4763-8e73-fb028f45baab"
+            },
+            {
+                "begin": 502,
+                "end": 519,
+                "label": "location",
+                "substring": "continental shelf",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a672f19-dad5-4114-819a-2eb55bdbb56a"
+            },
+            {
+                "begin": 558,
+                "end": 563,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 565,
+                "end": 570,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 598,
+                "end": 610,
+                "label": "location",
+                "substring": "sea-ice edge",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/67cc1cc2-04b9-4763-8e73-fb028f45baab"
+            },
+            {
+                "begin": 787,
+                "end": 795,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 815,
+                "end": 825,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 852,
+                "end": 866,
+                "label": "variable",
+                "substring": "upwelled water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 916,
+                "end": 932,
+                "label": "variable",
+                "substring": "mesoscale eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc95c990-47cb-4087-a08f-235dd1eb1260"
+            },
+            {
+                "begin": 974,
+                "end": 987,
+                "label": "variable",
+                "substring": "surface water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5debb283-51e4-435e-b2a2-e8e2a977220d"
+            },
+            {
+                "begin": 1126,
+                "end": 1132,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1221,
+                "end": 1232,
+                "label": "location",
+                "substring": "world ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 1280,
+                "end": 1294,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1326,
+                "end": 1335,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1343,
+                "end": 1357,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1461,
+                "end": 1473,
+                "label": "variable",
+                "substring": "dense waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 4,
+                "end": 15,
+                "label": "location",
+                "substring": "latitudinal",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+            },
+            {
+                "begin": 1500,
+                "end": 1504,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The upwelling water is up to 1000 years old. 5 The dissolved carbon dioxide content and temperature of deep water in the Southern Ocean thus reflect a preindustrial world that no longer exists-one with an atmospheric CO 2 concentration some 120 ppm lower than its current value near 400 ppm, and a 0.8 °C cooler global surface atmospheric temperature.\n<heading>Rapid heat uptake</heading>\nAs a result of the increased radiative trapping of greenhouse gases in recent decades, Earth is no longer in radiative equilibrium; more energy enters the top of the atmosphere than is emitted back to space. (See the article by Raymond Pierrehumbert, PHYSICS TODAY, January 2011, page 33.) Of the excess energy that has been absorbed by the climate system over the past 50 years, more than 90% has gone into warming the world's oceans. 6 Historical observations of Southern Ocean temperature are scarce, which makes it difficult to estimate the distribution of anthropogenic heat the ocean has absorbed. Results from climate-model simulations, though, suggest that the Southern Ocean dominates the global oceanic heat uptake, 7 with up to three quarters of the additional heat flux occurring south of 30°S. Although the heat uptake has been crucial in limiting atmospheric warming, it has also been, through thermal expansion, the major contributor to sealevel rise.\nIt is the upwelling of cold, deep waters in the Southern Ocean and their exposure to the now warmer atmosphere that has led to the rapid heat uptake there (see figure 2b).",
+        "span": [
+            5769,
+            7296
+        ],
+        "entities": [
+            {
+                "begin": 4,
+                "end": 19,
+                "label": "variable",
+                "substring": "upwelling water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 51,
+                "end": 83,
+                "label": "variable",
+                "substring": "dissolved carbon dioxide content",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b53939ae-1264-409d-8434-3bb3d22b2848"
+            },
+            {
+                "begin": 88,
+                "end": 99,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 103,
+                "end": 113,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 121,
+                "end": 135,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 205,
+                "end": 235,
+                "label": "variable",
+                "substring": "atmospheric CO 2 concentration",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 312,
+                "end": 350,
+                "label": "variable",
+                "substring": "global surface atmospheric temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 440,
+                "end": 456,
+                "label": "variable",
+                "substring": "greenhouse gases",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 555,
+                "end": 565,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 809,
+                "end": 823,
+                "label": "location",
+                "substring": "world's oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 854,
+                "end": 880,
+                "label": "variable",
+                "substring": "Southern Ocean temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1058,
+                "end": 1072,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1087,
+                "end": 1113,
+                "label": "variable",
+                "substring": "global oceanic heat uptake",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ee2cb9eb-f960-4e23-9e7c-be64d44a64e7"
+            },
+            {
+                "begin": 1366,
+                "end": 1375,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1385,
+                "end": 1396,
+                "label": "variable",
+                "substring": "deep waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1404,
+                "end": 1418,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1456,
+                "end": 1466,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 1250,
+                "end": 1261,
+                "label": "location",
+                "substring": "atmospheric",
+                "identifier": null
+            },
+            {
+                "begin": 367,
+                "end": 371,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 964,
+                "end": 968,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 1161,
+                "end": 1165,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 1209,
+                "end": 1213,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 1493,
+                "end": 1497,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "8 The strongest warming is concentrated in the upper 1 km and penetrates much deeper than elsewhere in the global ocean. 7 Greater wind speeds have also likely contributed to the anomalously large heat uptake. The westerly winds have increased by some 10-20% in recent decades due to the combined effects of the Antarctic ozone hole-see the article by Anne Douglass, Paul Newman, and Susan Solomon, PHYSICS TODAY, July 2014, page 42-and greenhouse gas warming. And although it is impossible to directly measure the strength of the upwelling, changes in the distribution of chlorofluorocarbons in the ocean suggest that upwelling may have increased in response to the wind increase. 9 In addition to those changes in the upper ocean, Antarctic bottom water-the deepest water mass in the Southern Ocean-has also warmed rapidly in recent decades. 10 It's not clear what's causing the abyssal warming, which is strongest in the south and concentrated along the northward pathways. But possible causes include a reduced rate at which dense water forms, due to a freshening of the surface water as the Antarctic ice sheet melts, or an enhanced mixing between Antarctic bottom water and the overlying warmer water masses.\n<heading>Nutrient supply</heading>\nThe surface of the global ocean between 40°S and 40°N is nearly devoid of nutrients.",
+        "span": [
+            7297,
+            8631
+        ],
+        "entities": [
+            {
+                "begin": 107,
+                "end": 119,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 131,
+                "end": 142,
+                "label": "variable",
+                "substring": "wind speeds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ccaa2ec0-1c28-4171-b1dd-fcb38d2edd3a"
+            },
+            {
+                "begin": 214,
+                "end": 228,
+                "label": "variable",
+                "substring": "westerly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 312,
+                "end": 332,
+                "label": "location",
+                "substring": "Antarctic ozone hole",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 437,
+                "end": 451,
+                "label": "variable",
+                "substring": "greenhouse gas",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 531,
+                "end": 540,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 573,
+                "end": 592,
+                "label": "variable",
+                "substring": "chlorofluorocarbons",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d5fb7b66-3e80-43f3-a673-2793546c3c82"
+            },
+            {
+                "begin": 600,
+                "end": 605,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+            },
+            {
+                "begin": 619,
+                "end": 628,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 667,
+                "end": 671,
+                "label": "variable",
+                "substring": "wind",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 720,
+                "end": 731,
+                "label": "location",
+                "substring": "upper ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 733,
+                "end": 755,
+                "label": "location",
+                "substring": "Antarctic bottom water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 768,
+                "end": 773,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 786,
+                "end": 800,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1029,
+                "end": 1040,
+                "label": "variable",
+                "substring": "dense water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1075,
+                "end": 1088,
+                "label": "variable",
+                "substring": "surface water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1096,
+                "end": 1115,
+                "label": "location",
+                "substring": "Antarctic ice sheet",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 1153,
+                "end": 1175,
+                "label": "location",
+                "substring": "Antarctic bottom water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1201,
+                "end": 1206,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 1269,
+                "end": 1281,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 197,
+                "end": 201,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The scarcity is a consequence of the biological pump, discussed in box 3, that exports organic material from the ocean's www.physicstoday.org January 2015 Physics Today 29 surface, where it forms by photosynthesis, to the deep interior, where it decomposes. Without a return pathway, the continual loss of nutrients from the upper layers would pose a serious threat to marine life. Fortunately, nutrients do find their way back into the ocean's upper reaches for two reasons, both involving the Southern Ocean. The first reason is that the Southern Ocean, as we've discussed, is the part of the global ocean where deep waters, enriched in nutrients by the biological pump, upwell to the surface. The second, more subtle reason is that surface nutrients are not as efficiently stripped from the Southern Ocean surface by the biological pump. Iron and light, both necessary for phytoplankton growth, are simply too scarce in that part of the world. A decade ago one of us (Sarmiento) and colleagues estimated from model simulations that three-quarters of the global ocean's biological production outside the Southern Ocean is maintained by nutrients originating from the Southern Ocean's upwelling supply. 11 \n<heading>Carbon sink</heading>\nThe global ocean is the largest reservoir of carbon in the climate system. Prior to any anthropogenic influence, it contained around 60 times the amount of carbon stored in the atmosphere.",
+        "span": [
+            8632,
+            10059
+        ],
+        "entities": [
+            {
+                "begin": 199,
+                "end": 213,
+                "label": "variable",
+                "substring": "photosynthesis",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/07b53dde-6fea-4662-9d03-ccfd617ca710"
+            },
+            {
+                "begin": 495,
+                "end": 509,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 540,
+                "end": 554,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 595,
+                "end": 607,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 614,
+                "end": 625,
+                "label": "variable",
+                "substring": "deep waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 794,
+                "end": 808,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 876,
+                "end": 889,
+                "label": "variable",
+                "substring": "phytoplankton",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/235996b1-b1a8-4c20-bb1f-711fb1a0c952"
+            },
+            {
+                "begin": 1057,
+                "end": 1069,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 1106,
+                "end": 1120,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1169,
+                "end": 1202,
+                "label": "variable",
+                "substring": "Southern Ocean's upwelling supply",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1217,
+                "end": 1223,
+                "label": "variable",
+                "substring": "Carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1243,
+                "end": 1255,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 1284,
+                "end": 1290,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1395,
+                "end": 1401,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1416,
+                "end": 1426,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 437,
+                "end": 444,
+                "label": "location",
+                "substring": "ocean's",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 113,
+                "end": 120,
+                "label": "location",
+                "substring": "ocean's",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The ocean therefore is a central player in Earth's carbon cycle and affects climate by either absorbing CO 2 from the atmosphere or releasing it. Whereas absorption cools the climate, the release of CO 2 warms it, a process oceanographers believe happened during Earth's many glacial to interglacial transitions. 12 In preindustrial times, the Southern Ocean released large quantities of carbon into the atmosphere, and that amount was balanced by uptake elsewhere in the global ocean, as shown in figure 2c. Box 3 explains how the variation in CO 2 solubility 30 January 2015 Physics Today www.physicstoday.org\n<heading>Southern Ocean</heading>\nAbout 60% of the cold, dense waters that fill Earth's deep oceans are formed primarily in the Southern Ocean, with the other 40% formed in the North Atlantic Ocean. The figure here, adapted from Lynne Talley's masterful summary of global tracer observations and ocean circulation estimates, 2 depicts the average pathways that those waters follow over the roughly 1000 years it takes them to complete the circuit. The pathways are intertwined between three great ocean basins and over the full depth of the global ocean.\nThe water that cools and sinks in the Southern Ocean is the densest water mass in the world, and it spreads northward (shown here as blue ribbons) to occupy the abyss of the three ocean basins. The deep water formed in the North Atlantic (green) is less dense and therefore lies above the Antarctic-sourced bottom water in the Atlantic Ocean.",
+        "span": [
+            10060,
+            11569
+        ],
+        "entities": [
+            {
+                "begin": 51,
+                "end": 57,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 104,
+                "end": 108,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 118,
+                "end": 128,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 199,
+                "end": 203,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 344,
+                "end": 358,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 388,
+                "end": 394,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 404,
+                "end": 414,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 472,
+                "end": 484,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 545,
+                "end": 549,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 621,
+                "end": 644,
+                "label": "location",
+                "substring": "Southern Ocean</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 669,
+                "end": 681,
+                "label": "variable",
+                "substring": "dense waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 692,
+                "end": 711,
+                "label": "location",
+                "substring": "Earth's deep oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 740,
+                "end": 754,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 789,
+                "end": 809,
+                "label": "location",
+                "substring": "North Atlantic Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 979,
+                "end": 985,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1153,
+                "end": 1165,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 1171,
+                "end": 1176,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 1205,
+                "end": 1219,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1235,
+                "end": 1240,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1365,
+                "end": 1375,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1390,
+                "end": 1404,
+                "label": "location",
+                "substring": "North Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 1456,
+                "end": 1465,
+                "label": "location",
+                "substring": "Antarctic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/931794d1-639f-453f-ac24-81584faf8de6"
+            },
+            {
+                "begin": 1481,
+                "end": 1486,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 1494,
+                "end": 1508,
+                "label": "location",
+                "substring": "Atlantic Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e391b10-0ed5-4742-9224-023d0d3f1a68"
+            }
+        ]
+    },
+    {
+        "text": "Vertical mixing in the upper 2 km, roughly half the ocean's depth, is insufficient for the bottom water to upwell all the way to the surface as it spreads into the Northern Hemisphere. However, the interaction of the abyssal flow with seamounts and mid-ocean ridges, which are more plentiful below 2 km, can vigorously mix the bottom water and higher layers enough to transform them into less dense deep water (orange and green). The wind-driven upwelling in the Southern Ocean is sufficiently powerful to drain around 80% of those deep waters. 2 Two distinct flavors of deep water upwell in the Southern Ocean: One originates from the North Atlantic (green), the other from the Pacific and Indian Oceans (orange). The densest of these can be traced back to the North Atlantic by the high salinity content that is a signature of the larger evaporation compared with rainfall in the Atlantic. Overlying the North Atlanticsourced deep water are the deep waters that upwell from the Pacific and Indian Oceans. They are about 1000 years old 5 and can thus be distinguished by their low oxygen concentration, which is depleted over time by deep-sea bacteria as they decompose organic matter.\nBecause the deep waters from the Pacific and Indian Oceans lie on top of the North Atlantic-sourced deep water, they upwell in the northern part of the Southern Ocean.",
+        "span": [
+            11570,
+            12924
+        ],
+        "entities": [
+            {
+                "begin": 98,
+                "end": 103,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 164,
+                "end": 183,
+                "label": "location",
+                "substring": "Northern Hemisphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/507794a1-9563-49a4-b2d3-8a28347c1fd7"
+            },
+            {
+                "begin": 249,
+                "end": 265,
+                "label": "location",
+                "substring": "mid-ocean ridges",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f345294c-36e6-4c76-b484-2204cc0bc3a2"
+            },
+            {
+                "begin": 399,
+                "end": 409,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 434,
+                "end": 455,
+                "label": "variable",
+                "substring": "wind-driven upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 463,
+                "end": 477,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 532,
+                "end": 543,
+                "label": "variable",
+                "substring": "deep waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 571,
+                "end": 581,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 596,
+                "end": 610,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 636,
+                "end": 650,
+                "label": "location",
+                "substring": "North Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 679,
+                "end": 686,
+                "label": "location",
+                "substring": "Pacific",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+            },
+            {
+                "begin": 691,
+                "end": 704,
+                "label": "location",
+                "substring": "Indian Oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8"
+            },
+            {
+                "begin": 762,
+                "end": 776,
+                "label": "location",
+                "substring": "North Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 789,
+                "end": 797,
+                "label": "variable",
+                "substring": "salinity",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/04fa9023-ab68-4dd0-a82e-abe685105a53"
+            },
+            {
+                "begin": 840,
+                "end": 851,
+                "label": "variable",
+                "substring": "evaporation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/881eea51-e32c-4174-a73f-d56c94122c2e"
+            },
+            {
+                "begin": 866,
+                "end": 874,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 882,
+                "end": 890,
+                "label": "location",
+                "substring": "Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 906,
+                "end": 938,
+                "label": "variable",
+                "substring": "North Atlanticsourced deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 947,
+                "end": 958,
+                "label": "variable",
+                "substring": "deep waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 980,
+                "end": 987,
+                "label": null,
+                "substring": "Pacific",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+            },
+            {
+                "begin": 992,
+                "end": 1005,
+                "label": "location",
+                "substring": "Indian Oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8"
+            },
+            {
+                "begin": 1082,
+                "end": 1088,
+                "label": "variable",
+                "substring": "oxygen",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/90aa8838-79bd-4b28-b518-8217e863c385"
+            },
+            {
+                "begin": 1135,
+                "end": 1143,
+                "label": "location",
+                "substring": "deep-sea",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/309eb110-b4cd-45f2-9722-b4041d669ed8"
+            },
+            {
+                "begin": 1199,
+                "end": 1210,
+                "label": "variable",
+                "substring": "deep waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1220,
+                "end": 1227,
+                "label": "location",
+                "substring": "Pacific",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+            },
+            {
+                "begin": 1232,
+                "end": 1245,
+                "label": "location",
+                "substring": "Indian Oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8"
+            },
+            {
+                "begin": 1264,
+                "end": 1297,
+                "label": "variable",
+                "substring": "North Atlantic-sourced deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1339,
+                "end": 1353,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 52,
+                "end": 59,
+                "label": "location",
+                "substring": "ocean's",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Approximately half of that flavor of deep water is freshened and warmed at the surface, which turns it into two other major water masses-the lighter so-called mode and intermediate waters (red)-that eventually make their way to the North Atlantic via surface and upper-ocean pathways (purple), only to sink again. The remainder, including nearly all the North Atlantic-sourced deep water, flows to the south under the influence of the easterly winds near Antarctica and is again converted to very dense Antarctic bottom water through cooling.\nHence the global overturning may be crudely represented by a figure-eight loop in which surface water (purple) sinks in the North Atlantic (green), upwells in the Southern Ocean, sinks again around Antarctica (blue), and upwells again in the Southern Ocean via the Pacific and Indian Oceans (orange) before finally returning northward (red) along the surface (purple) to the North Atlantic (green).\n<heading>Box 1. Draining the deep ocean</heading>\nwith temperature, the decomposition of organic matter, and physical upwelling combine to determine the net air-sea CO 2 flux. South of about 45° S, CO 2 degassing from the upwelling of carbon-rich deep water used to exceed the uptake of carbon by phytoplankton.\nSince 1750 the global ocean has absorbed nearly 30% of anthropogenic CO 2 emissions. 13 Observational and model-based estimates suggest that the Southern Ocean may be responsible for up to half of that uptake.",
+        "span": [
+            12925,
+            14388
+        ],
+        "entities": [
+            {
+                "begin": 37,
+                "end": 47,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 124,
+                "end": 129,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 181,
+                "end": 187,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 232,
+                "end": 246,
+                "label": "location",
+                "substring": "North Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 263,
+                "end": 283,
+                "label": "location",
+                "substring": "upper-ocean pathways",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 354,
+                "end": 387,
+                "label": "variable",
+                "substring": "North Atlantic-sourced deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 435,
+                "end": 449,
+                "label": "variable",
+                "substring": "easterly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 455,
+                "end": 465,
+                "label": "location",
+                "substring": "Antarctica",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 503,
+                "end": 512,
+                "label": "location",
+                "substring": "Antarctic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/931794d1-639f-453f-ac24-81584faf8de6"
+            },
+            {
+                "begin": 631,
+                "end": 644,
+                "label": "location",
+                "substring": "surface water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5debb283-51e4-435e-b2a2-e8e2a977220d"
+            },
+            {
+                "begin": 667,
+                "end": 681,
+                "label": "location",
+                "substring": "North Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 706,
+                "end": 720,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 741,
+                "end": 751,
+                "label": "location",
+                "substring": "Antarctica",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 785,
+                "end": 799,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 808,
+                "end": 815,
+                "label": "location",
+                "substring": "Pacific",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+            },
+            {
+                "begin": 820,
+                "end": 833,
+                "label": "location",
+                "substring": "Indian Oceans",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8"
+            },
+            {
+                "begin": 918,
+                "end": 932,
+                "label": "location",
+                "substring": "North Atlantic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 971,
+                "end": 990,
+                "label": "location",
+                "substring": "deep ocean</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 997,
+                "end": 1008,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1060,
+                "end": 1069,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1095,
+                "end": 1116,
+                "label": "variable",
+                "substring": "net air-sea CO 2 flux",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1140,
+                "end": 1144,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1164,
+                "end": 1173,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1177,
+                "end": 1183,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1189,
+                "end": 1199,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1229,
+                "end": 1235,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1239,
+                "end": 1252,
+                "label": "variable",
+                "substring": "phytoplankton",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/235996b1-b1a8-4c20-bb1f-711fb1a0c952"
+            },
+            {
+                "begin": 1269,
+                "end": 1281,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 1309,
+                "end": 1327,
+                "label": "variable",
+                "substring": "anthropogenic CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1399,
+                "end": 1413,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            }
+        ]
+    },
+    {
+        "text": "7,14 South of 45° S, the elevated atmospheric CO 2 concentration has reduced the difference between atmospheric and oceanic CO 2 partial pressures and thereby decreased the amount of degassing from the carbon-rich upwelled waters. A comparison between figures 2c and 2d illustrates the point. North of 45° S, the flux of carbon into the ocean has increased, because the partial pressure of CO 2 in the atmosphere is increasing faster than in the ocean.\nAlthough the Southern Ocean has taken up a major fraction of anthropogenic carbon in recent decades, whether it will continue to absorb CO 2 so rapidly is unclear. The change in the air-sea CO 2 flux has so far been dominated by the substantial increases in atmospheric CO 2 . However, changing ocean circulation and chemistry will likely impact the future rate of ocean carbon uptake.\nThe ocean is able to act like a sponge for anthropogenic CO 2 because of the high concentration of carbonate ions, which react with excess CO 2 to form bicarbonate. That process keeps the oceanic CO 2 concentration low, and thus allows for more uptake. But as the ocean takes up more carbon, the carbonate ions are reduced, which reduces the ocean's ability to absorb CO 2 . As ocean surface temperature increases in the future, the solubility of CO 2 will decrease, which will, in turn, increase the oceanic partial pressure of CO 2 and decrease the rate of ocean carbon uptake.",
+        "span": [
+            14389,
+            15807
+        ],
+        "entities": [
+            {
+                "begin": 46,
+                "end": 50,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 202,
+                "end": 208,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 214,
+                "end": 229,
+                "label": "variable",
+                "substring": "upwelled waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 321,
+                "end": 327,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 378,
+                "end": 386,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1c3fa118-3130-4951-ada1-755fcf0776f9"
+            },
+            {
+                "begin": 390,
+                "end": 394,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 402,
+                "end": 412,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a"
+            },
+            {
+                "begin": 446,
+                "end": 451,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 466,
+                "end": 480,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 514,
+                "end": 534,
+                "label": "variable",
+                "substring": "anthropogenic carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 589,
+                "end": 593,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 635,
+                "end": 647,
+                "label": "variable",
+                "substring": "air-sea CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 711,
+                "end": 727,
+                "label": "variable",
+                "substring": "atmospheric CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 824,
+                "end": 837,
+                "label": "variable",
+                "substring": "carbon uptake",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 882,
+                "end": 900,
+                "label": "variable",
+                "substring": "anthropogenic CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 938,
+                "end": 952,
+                "label": "variable",
+                "substring": "carbonate ions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/68f7ba1b-a2f9-41b6-9bc1-fd187942fbed"
+            },
+            {
+                "begin": 978,
+                "end": 982,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1027,
+                "end": 1053,
+                "label": "variable",
+                "substring": "oceanic CO 2 concentration",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1123,
+                "end": 1129,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1135,
+                "end": 1149,
+                "label": "variable",
+                "substring": "carbonate ions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/68f7ba1b-a2f9-41b6-9bc1-fd187942fbed"
+            },
+            {
+                "begin": 1207,
+                "end": 1211,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1217,
+                "end": 1242,
+                "label": "variable",
+                "substring": "ocean surface temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1286,
+                "end": 1290,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 1356,
+                "end": 1364,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1c3fa118-3130-4951-ada1-755fcf0776f9"
+            },
+            {
+                "begin": 1368,
+                "end": 1372,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 1398,
+                "end": 1410,
+                "label": "variable",
+                "substring": "ocean carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 34,
+                "end": 45,
+                "label": "location",
+                "substring": "atmospheric",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a"
+            },
+            {
+                "begin": 100,
+                "end": 128,
+                "label": "variable",
+                "substring": "atmospheric and oceanic CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1181,
+                "end": 1188,
+                "label": "location",
+                "substring": "ocean's",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "In short, those two processes lead to a positive feedback on global warming: As the ocean warms, it removes less CO 2 from the atmosphere, which leads to increased warming.\nAnother feedback could arise from the projected wind-driven increase in Southern Ocean upwelling due to a complex interplay of processes. 9,15 First, the delivery of more carbon-rich water to the surface increases the degassing of CO 2 . Second, the greater nutrient delivery and changed surfacewater properties alter the efficiency of the biological pump. And third, a greater volume of deep water exposed to the atmosphere increases the uptake of anthropogenic carbon.\n<heading>New tools</heading>\nThe Southern Ocean's remoteness and hostile environment make observations difficult. Few measurements of carbon, nutrients, surface buoyancy fluxes, and in situ current speeds exist, and those that do were mainly taken during summer months. Furthermore, model simulations of the region are complicated by the extremely high resolution required to resolve small-scale eddies, which are crucial for understanding how the Southern Ocean will respond to climate change.\nIn one of the most impressive oceanographic achievements of the past decade, physical oceanographers have developed autonomous, free-drifting Argo floats equipped with sensors for temperature, salinity, and pressure (see PHYSICS TODAY July 2000, page 50).",
+        "span": [
+            15808,
+            17202
+        ],
+        "entities": [
+            {
+                "begin": 113,
+                "end": 117,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 127,
+                "end": 137,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a"
+            },
+            {
+                "begin": 221,
+                "end": 225,
+                "label": "variable",
+                "substring": "wind",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 245,
+                "end": 269,
+                "label": "variable",
+                "substring": "Southern Ocean upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 344,
+                "end": 350,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 356,
+                "end": 361,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 404,
+                "end": 408,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 461,
+                "end": 473,
+                "label": "variable",
+                "substring": "surfacewater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5debb283-51e4-435e-b2a2-e8e2a977220d"
+            },
+            {
+                "begin": 561,
+                "end": 571,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 587,
+                "end": 597,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 622,
+                "end": 642,
+                "label": "variable",
+                "substring": "anthropogenic carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 677,
+                "end": 691,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 778,
+                "end": 784,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 1040,
+                "end": 1046,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1092,
+                "end": 1106,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1319,
+                "end": 1330,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1332,
+                "end": 1340,
+                "label": "variable",
+                "substring": "salinity",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/04fa9023-ab68-4dd0-a82e-abe685105a53"
+            },
+            {
+                "begin": 1346,
+                "end": 1354,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1c3fa118-3130-4951-ada1-755fcf0776f9"
+            },
+            {
+                "begin": 1281,
+                "end": 1292,
+                "label": "instrument",
+                "substring": "Argo floats",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f9fd6f89-9a67-4ece-9514-3803e7787520"
+            }
+        ]
+    },
+    {
+        "text": "As a result of a highly successful international collaboration, there are currently more than 3500 Argo floats throughout the upper 2 km of the global ocean. Although the floats provide invaluable insights into the ocean's heat storage and circulation, measurements of the Southern Ocean carbon uptake and nutrient resupply are still restricted to sparse, summer-biased, ship-based observations. Earlier this year, however, the first 10 of a newly developed set of Argo floats equipped with sensors to measure pH and concentrations of nutrients and chlorophyll have been released into the Southern Ocean. Another 200 or so are planned to be deployed in the region over the next six years under the www.physicstoday.org January 2015 Physics Today 31\nThe steady blowing of winds over the Southern Ocean tends to tilt the otherwise flat density layers in the ocean and increases the ocean's potential energy. That potential energy is released as kinetic energy through a process known as baroclinic instability, which causes eddies about 10 km in size to form. The eddies move light, upper-ocean water southward and dense, lower-ocean water northward, which acts to flatten the density levels. In the surface layer the southward eddy advection directly opposes the northward, wind-driven Ekman transport, as shown in figure 1. Hence, the eddies reduce the magnitude of the upwelling.",
+        "span": [
+            17203,
+            18583
+        ],
+        "entities": [
+            {
+                "begin": 144,
+                "end": 156,
+                "label": "location",
+                "substring": "global ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3d4e44c4-5d99-4a9b-8388-43c63533ee97"
+            },
+            {
+                "begin": 273,
+                "end": 301,
+                "label": "variable",
+                "substring": "Southern Ocean carbon uptake",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 549,
+                "end": 560,
+                "label": "variable",
+                "substring": "chlorophyll",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5e3999ec-d864-43fd-8d84-bd23630c405f"
+            },
+            {
+                "begin": 589,
+                "end": 603,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 771,
+                "end": 776,
+                "label": "variable",
+                "substring": "winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 786,
+                "end": 800,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 880,
+                "end": 904,
+                "label": "variable",
+                "substring": "ocean's potential energy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/356e018f-f15d-462f-8403-887b726a4372"
+            },
+            {
+                "begin": 1022,
+                "end": 1028,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1062,
+                "end": 1068,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1081,
+                "end": 1098,
+                "label": "variable",
+                "substring": "upper-ocean water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1126,
+                "end": 1137,
+                "label": "variable",
+                "substring": "ocean water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1273,
+                "end": 1277,
+                "label": "variable",
+                "substring": "wind",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 1335,
+                "end": 1341,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1370,
+                "end": 1379,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1226,
+                "end": 1230,
+                "label": "variable",
+                "substring": "eddy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 99,
+                "end": 110,
+                "label": "instrument",
+                "substring": "Argo floats",
+                "identifier": null
+            },
+            {
+                "begin": 465,
+                "end": 476,
+                "label": "instrument",
+                "substring": "Argo floats",
+                "identifier": null
+            },
+            {
+                "begin": 215,
+                "end": 222,
+                "label": "location",
+                "substring": "ocean's",
+                "identifier": null
+            },
+            {
+                "begin": 223,
+                "end": 227,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "3 For steady-state flow in the ocean's interior, the Coriolis force in the east-west direction is balanced by east-west pressure gradients:\nwhere ρ is water density, ƒ is the Coriolis parameter (a function of Earth's rotation rate and latitude), v is the water's velocity in the north-south direction, and p is pressure. The flow of the strong eastward Antarctic circumpolar current over topographic ridges sets up east-west pressure gradients that drive the southward upwelling flow.\nHowever, in the latitudes between Antarctica and South America, the highest topography reaches only to about 2 km below the surface. In the absence of topographic pressure gradients above that depth to drive the transport along density layers, the southward eddy advection is crucial. Specifically, it allows the deep southward flow to upwell past the reach of topography to the surface. 3 In short, eddies contribute to steady-state upwelling dynamics in the Southern Ocean in two significant and seemingly conflicting ways. At the surface, their southward flow opposes the northward Ekman transport and thus reduces the upwelling. But below the surface, down to some 2000 m, the eddies enhance the upwelling. And in the latitude range unblocked by topography, it would not be possible for the southward flow to reach the surface in their absence.\nIn addition to being a controlling factor for steady-state upwelling transport, eddies also influence the response of upwelling to changing winds.",
+        "span": [
+            18584,
+            20064
+        ],
+        "entities": [
+            {
+                "begin": 235,
+                "end": 243,
+                "label": "variable",
+                "substring": "latitude",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+            },
+            {
+                "begin": 311,
+                "end": 319,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1c3fa118-3130-4951-ada1-755fcf0776f9"
+            },
+            {
+                "begin": 353,
+                "end": 362,
+                "label": "location",
+                "substring": "Antarctic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/931794d1-639f-453f-ac24-81584faf8de6"
+            },
+            {
+                "begin": 388,
+                "end": 406,
+                "label": "location",
+                "substring": "topographic ridges",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/97298feb-6991-4d68-8337-177460e436ad"
+            },
+            {
+                "begin": 469,
+                "end": 478,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 519,
+                "end": 529,
+                "label": "location",
+                "substring": "Antarctica",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 534,
+                "end": 547,
+                "label": "location",
+                "substring": "South America",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+            },
+            {
+                "begin": 561,
+                "end": 571,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 648,
+                "end": 656,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1c3fa118-3130-4951-ada1-755fcf0776f9"
+            },
+            {
+                "begin": 846,
+                "end": 856,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 885,
+                "end": 891,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 919,
+                "end": 928,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 945,
+                "end": 959,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1107,
+                "end": 1116,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1166,
+                "end": 1172,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1185,
+                "end": 1194,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1207,
+                "end": 1215,
+                "label": "variable",
+                "substring": "latitude",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+            },
+            {
+                "begin": 1235,
+                "end": 1245,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 1393,
+                "end": 1402,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1414,
+                "end": 1420,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1452,
+                "end": 1461,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1474,
+                "end": 1479,
+                "label": "variable",
+                "substring": "winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 31,
+                "end": 38,
+                "label": "location",
+                "substring": "ocean's",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6b5d8bdc-0c23-4571-8f34-3404ed9e5b6d"
+            },
+            {
+                "begin": 120,
+                "end": 128,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": null
+            },
+            {
+                "begin": 425,
+                "end": 433,
+                "label": "variable",
+                "substring": "pressure",
+                "identifier": null
+            },
+            {
+                "begin": 743,
+                "end": 747,
+                "label": "variable",
+                "substring": "eddy",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Enhanced westerly winds increase the northward Ekman transport and the divergence of surface currents. In isolation, that would lead to a matching increase in the upwelling of deep water. The eddies' kinetic energy, however, also scales linearly with wind stress, which results in an increase in the opposing southward eddy flow at the surface. New eddy-resolving numerical models suggest that net upwelling transport may increase by about 60% for a doubling of wind stress. 15  The second recent advance in Southern Ocean research is the ability of computational models to resolve the small-scale eddies, which, as outlined in box 2, directly affect the upwelling strength and its sensitivity to climate change. A decade ago the best climate models were limited to a horizontal resolution on the scale of 100 km in the Southern Ocean, an order of magnitude greater than the roughly 10-km length scale of an eddy. But thanks to faster, more powerful computers, climate simulations, such as the ones shown in figure 2, can now resolve features smaller than 10 km in that part of the world. 15,17 Accurate predictions for how the upwelling is likely to respond to climate change and changes in wind speeds are crucial for quantifying heat uptake, carbon uptake, and changes in nutrient supply. The next generation of climate models is likely to be greatly improved in that regard.",
+        "span": [
+            20065,
+            21443
+        ],
+        "entities": [
+            {
+                "begin": 9,
+                "end": 23,
+                "label": "variable",
+                "substring": "westerly winds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0aad04f5-5438-4800-a0c9-6155656a720e"
+            },
+            {
+                "begin": 163,
+                "end": 172,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 176,
+                "end": 186,
+                "label": "variable",
+                "substring": "deep water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 192,
+                "end": 198,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 251,
+                "end": 262,
+                "label": "variable",
+                "substring": "wind stress",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef034881-8bf4-403f-a4ee-c68771769c93"
+            },
+            {
+                "begin": 398,
+                "end": 407,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 462,
+                "end": 473,
+                "label": "variable",
+                "substring": "wind stress",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef034881-8bf4-403f-a4ee-c68771769c93"
+            },
+            {
+                "begin": 508,
+                "end": 522,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 598,
+                "end": 604,
+                "label": "variable",
+                "substring": "eddies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 655,
+                "end": 664,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 820,
+                "end": 834,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 1128,
+                "end": 1137,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1192,
+                "end": 1203,
+                "label": "variable",
+                "substring": "wind speeds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ccaa2ec0-1c28-4171-b1dd-fcb38d2edd3a"
+            },
+            {
+                "begin": 1245,
+                "end": 1258,
+                "label": "variable",
+                "substring": "carbon uptake",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 319,
+                "end": 323,
+                "label": "variable",
+                "substring": "eddy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d"
+            },
+            {
+                "begin": 1232,
+                "end": 1236,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 349,
+                "end": 353,
+                "label": "variable",
+                "substring": "eddy",
+                "identifier": null
+            },
+            {
+                "begin": 908,
+                "end": 912,
+                "label": "variable",
+                "substring": "eddy",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The Southern Ocean's prominent influence on the global heat balance and nutrient and carbon cycles stems from the fact that it is the primary gateway through which Earth's deep and bottom waters interact with the atmosphere. But although oceanographers are beginning to understand the basic processes leading to heat and carbon uptake in the Southern Ocean, quantifying the changes precisely remains difficult. Observational uncertainties 6,13 are roughly 20-30%. The hope is that they will sharply decrease during the coming decades as records from the Argo floats accumulate and the resolution of simulations sharpens.\nWe thank Lynne Talley for her valuable feedback.\n<heading>Southern Ocean</heading>\nThe concentration of carbon dioxide dissolved in the deep and bottom waters of the ocean is higher than it is in upper ocean waters because of two processes referred to as pumps (see the article by Jorge Sarmiento and Nicolas Gruber, PHYSICS TODAY, August 2002, page 30). The first is the solubility pump: CO 2 is more soluble in cold water than in warm, and the deep and bottom waters are colder than upper ocean waters. At the air-sea interface of the ocean, the solubility pump manifests itself as a response to warming and cooling by the atmospheric fluxes: Warming of the surface ocean leads to a degassing of CO 2 , and cooling leads to its uptake.",
+        "span": [
+            21444,
+            22802
+        ],
+        "entities": [
+            {
+                "begin": 4,
+                "end": 18,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 85,
+                "end": 98,
+                "label": "variable",
+                "substring": "carbon cycles",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 188,
+                "end": 194,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 213,
+                "end": 223,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a"
+            },
+            {
+                "begin": 321,
+                "end": 334,
+                "label": "variable",
+                "substring": "carbon uptake",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 342,
+                "end": 356,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 679,
+                "end": 702,
+                "label": "location",
+                "substring": "Southern Ocean</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 725,
+                "end": 739,
+                "label": "variable",
+                "substring": "carbon dioxide",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/37dac8df-b04b-4561-91fb-886e1bded2c1"
+            },
+            {
+                "begin": 773,
+                "end": 779,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 817,
+                "end": 835,
+                "label": "variable",
+                "substring": "upper ocean waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1010,
+                "end": 1014,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 1034,
+                "end": 1044,
+                "label": "variable",
+                "substring": "cold water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1083,
+                "end": 1089,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1106,
+                "end": 1124,
+                "label": "variable",
+                "substring": "upper ocean waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1133,
+                "end": 1140,
+                "label": "variable",
+                "substring": "air-sea",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/881b1087-512b-4f4a-a3c5-dca4da248000"
+            },
+            {
+                "begin": 1158,
+                "end": 1163,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 1281,
+                "end": 1294,
+                "label": "location",
+                "substring": "surface ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 1319,
+                "end": 1323,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 787,
+                "end": 792,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 1246,
+                "end": 1264,
+                "label": "location",
+                "substring": "atmospheric fluxes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a"
+            },
+            {
+                "begin": 554,
+                "end": 565,
+                "label": "instrument",
+                "substring": "Argo floats",
+                "identifier": null
+            },
+            {
+                "begin": 55,
+                "end": 59,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            },
+            {
+                "begin": 312,
+                "end": 316,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "In the Southern Ocean, the northward-flowing Ekman transport is warmed at the surface, as shown in figure 1, and thus releases CO 2 ; conversely, the southward-flowing waters near Antarctica and off the eastern coasts of South America, Africa, and Australia are cooled at the surface and thus take up CO 2 .\nThe second pump is the biological pump: Photosynthesis in the ocean surface results in a downward flux of organic matter and calcium carbonate. In the deep ocean most of the organic matter decomposes and the CaCO 3 dissolves, thereby enriching the deep with carbon. The biological pump lowers the CO 2 concentration in the surface waters, which leads to CO 2 uptake from the atmosphere.\nTogether, the biological and solubility pumps fill the deep and bottom waters with carbon. In a steady state, the excess carbon returns to the upper ocean by the upwelling of deep and bottom waters, primarily in the Southern Ocean. In places where those deep, carbon-enriched waters upwell, a large ex-cess of CO 2 exists at the surface and is released as gas into the atmosphere.\nThe net effect of the three processes-the two pumps and upwelling of water-on the concentration of CO 2 at the ocean surface gives us the preindustrial air-sea CO 2 flux illustrated here by the green arrows and line. During that era, CO 2 was released south of about 45°S, due principally to the upwelling of carbonrich waters; north of that latitude, CO 2 entered the ocean due to the combined influence of the biological and solubility pumps.",
+        "span": [
+            22803,
+            24323
+        ],
+        "entities": [
+            {
+                "begin": 7,
+                "end": 21,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 127,
+                "end": 131,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 168,
+                "end": 174,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 180,
+                "end": 190,
+                "label": "location",
+                "substring": "Antarctica",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+            },
+            {
+                "begin": 221,
+                "end": 234,
+                "label": "location",
+                "substring": "South America",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+            },
+            {
+                "begin": 236,
+                "end": 242,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 248,
+                "end": 257,
+                "label": "location",
+                "substring": "Australia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+            },
+            {
+                "begin": 301,
+                "end": 305,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 348,
+                "end": 362,
+                "label": "variable",
+                "substring": "Photosynthesis",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/07b53dde-6fea-4662-9d03-ccfd617ca710"
+            },
+            {
+                "begin": 433,
+                "end": 450,
+                "label": "variable",
+                "substring": "calcium carbonate",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/68f7ba1b-a2f9-41b6-9bc1-fd187942fbed"
+            },
+            {
+                "begin": 459,
+                "end": 469,
+                "label": "variable",
+                "substring": "deep ocean",
+                "identifier": null
+            },
+            {
+                "begin": 516,
+                "end": 522,
+                "label": "variable",
+                "substring": "CaCO 3",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/605aa1b9-b523-402e-9631-0930cf824b3e"
+            },
+            {
+                "begin": 566,
+                "end": 572,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 605,
+                "end": 609,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 631,
+                "end": 645,
+                "label": "variable",
+                "substring": "surface waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5debb283-51e4-435e-b2a2-e8e2a977220d"
+            },
+            {
+                "begin": 662,
+                "end": 666,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 683,
+                "end": 693,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 766,
+                "end": 772,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 778,
+                "end": 784,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 816,
+                "end": 822,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 844,
+                "end": 849,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+            },
+            {
+                "begin": 857,
+                "end": 866,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 886,
+                "end": 892,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 911,
+                "end": 925,
+                "label": "location",
+                "substring": "Southern Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2485e9d2-fa9d-48d9-b6f3-03154b8148bc"
+            },
+            {
+                "begin": 955,
+                "end": 961,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 971,
+                "end": 977,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1005,
+                "end": 1009,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 1064,
+                "end": 1074,
+                "label": "location",
+                "substring": "atmosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fac06b86-cd69-418f-86f6-b14d60d37cfd"
+            },
+            {
+                "begin": 1132,
+                "end": 1141,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1145,
+                "end": 1150,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 1175,
+                "end": 1179,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 1228,
+                "end": 1240,
+                "label": "variable",
+                "substring": "air-sea CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 1310,
+                "end": 1314,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            },
+            {
+                "begin": 1372,
+                "end": 1381,
+                "label": "variable",
+                "substring": "upwelling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba"
+            },
+            {
+                "begin": 1396,
+                "end": 1402,
+                "label": "variable",
+                "substring": "waters",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1418,
+                "end": 1426,
+                "label": "variable",
+                "substring": "latitude",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/abfb741a-1c8b-4bf0-b536-0b097d973821"
+            },
+            {
+                "begin": 1428,
+                "end": 1432,
+                "label": "variable",
+                "substring": "CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1cb7ed55-f2cf-4b5a-a934-54d43167ae37"
+            }
+        ]
+    },
+    {
+        "text": "18 Since then, rising levels of atmospheric CO 2 have driven anthropogenic carbon into the ocean, a perturbation (illustrated by red arrows) to the preindustrial air-sea flux. 12 Accordingly, the contemporary CO 2 flux (black line) is the sum of the preindustrial and anthropogenic fluxes. In the region around 45°-55°S, the atmospheric CO 2 concentration is now higher than the surface ocean CO 2 concentration. That is, there's now uptake where there used to be release. 7,13",
+        "span": [
+            24324,
+            24801
+        ],
+        "entities": [
+            {
+                "begin": 32,
+                "end": 48,
+                "label": "variable",
+                "substring": "atmospheric CO 2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 75,
+                "end": 81,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 91,
+                "end": 96,
+                "label": "location",
+                "substring": "ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 162,
+                "end": 169,
+                "label": "location",
+                "substring": "air-sea",
+                "identifier": null
+            },
+            {
+                "begin": 196,
+                "end": 218,
+                "label": "variable",
+                "substring": "contemporary CO 2 flux",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 325,
+                "end": 355,
+                "label": "variable",
+                "substring": "atmospheric CO 2 concentration",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            },
+            {
+                "begin": 379,
+                "end": 392,
+                "label": "location",
+                "substring": "surface ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+            },
+            {
+                "begin": 393,
+                "end": 411,
+                "label": "variable",
+                "substring": "CO 2 concentration",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e0784f1-4c74-4e59-adc9-1245ae47db1e"
+            }
+        ]
+    }
+]

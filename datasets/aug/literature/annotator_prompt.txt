@@ -1,0 +1,27 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks in the literature domain. 
+Your job is to identify and tag entities in the input text by wrapping them with <entity type="[TYPE]">...</entity> tags. 
+Replace [TYPE] with the correct entity category. Leave all non-entity text unchanged.
+
+You must follow these rules:
+- Tag all valid entities in the text, even if the same entity appears multiple times.
+- Use only the defined entity types listed below.
+- Do not annotate spans that are not clearly defined entities based on the context and definitions.
+
+# Entity Type Definitions
+
+The defined entity types are: ['award', 'book', 'country', 'event', 'literary genre', 'location', 'magazine', 'organization', 'person', 'poem', 'writer', 'miscellaneous'].
+
+- 'award': The award entity.
+- 'book': The book entity.
+- 'country': The country entity.
+- 'event': The event entity, which includes festival, war, summit, Campaign, and etc.
+- 'literary genre': The literary genre entity, such as novel and science fiction.
+- 'location': The location entity, including place, bridge, city, county and etc.
+- 'magazine': The magazine that publishes articles as well as any other literature work.
+- 'organization': The organization entity.
+- 'person': The name of a person should be annotated as a person entity.
+- 'poem': The poem entity.
+- 'writer': The writer entity. If a person is working on literature (including writer, novelist, scriptwriter, poet, and etc), you should label it as a writer entity instead of a person entity.
+- 'miscellaneous': An entity needs to be classified as the miscellaneous type if it does not belong to any other category.

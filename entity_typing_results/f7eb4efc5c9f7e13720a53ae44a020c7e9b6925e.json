@@ -1,0 +1,376 @@
+[
+    {
+        "text": "Population expansion, economic growth, shifts in the sectoral composition of economies, behavior of individuals and organizations, and the pace of technological development are multiple sources of uncertainty that will interact to determine future demand of different energy sources across regions 7 . Layered on top of this are the additional uncertainties in the timing and intensity of future temperature changes-both at the global level, driven by trajectories of global greenhouse gas emissions and radiative forcing, and at finer geographic scales, determined by the effects on future regional climates.\nIdentifying the relative magnitudes of these uncertainties, their shapes, and interactions is very relevant to policy makers, who need to make decisions with decadal consequences today. To characterize the interactions among these multiple sources of uncertainty, we leverage on the new socioeconomic (Shared Socioeconomic Pathway, SSPs) and climate scenarios (Representative Concentration Pathways, RCPs) 8 , and combine empirically derived reduced-form responses of sectoral energy demand by fuel with climatological exposures and socioeconomic variables. The Shared Socioeconomic Pathways and Representative Concentration Pathways are a set of socioeconomic and GHG emission scenarios that have been developed by the research community at the request of the Intergovernmental Panel on Climate Change (IPCC) and that are used to make scenario-based mitigation and impacts studies more comparable across the literature.",
+        "entities": [
+            {
+                "begin": 396,
+                "end": 407,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 504,
+                "end": 521,
+                "label": "variable",
+                "substring": "radiative forcing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+            },
+            {
+                "begin": 1371,
+                "end": 1412,
+                "label": "project",
+                "substring": "Intergovernmental Panel on Climate Change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fbcf679-578f-4f06-bd33-9fac85df2c58"
+            },
+            {
+                "begin": 1414,
+                "end": 1418,
+                "label": "project",
+                "substring": "IPCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fbcf679-578f-4f06-bd33-9fac85df2c58"
+            },
+            {
+                "begin": 971,
+                "end": 1008,
+                "label": "experiment",
+                "substring": "Representative Concentration Pathways",
+                "identifier": null
+            },
+            {
+                "begin": 1206,
+                "end": 1243,
+                "label": "experiment",
+                "substring": "Representative Concentration Pathways",
+                "identifier": null
+            },
+            {
+                "begin": 1172,
+                "end": 1201,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathways",
+                "identifier": null
+            },
+            {
+                "begin": 912,
+                "end": 940,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathway",
+                "identifier": null
+            },
+            {
+                "begin": 1010,
+                "end": 1014,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": null
+            },
+            {
+                "begin": 942,
+                "end": 946,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"radiative forcing\", \"type\": \"variable\"},\n    {\"entity\": \"Intergovernmental Panel on Climate Change\", \"type\": \"provider\"},\n    {\"entity\": \"IPCC\", \"type\": \"provider\"},\n    {\"entity\": \"Representative Concentration Pathways\", \"type\": \"experiment\"},\n    {\"entity\": \"RCPs\", \"type\": \"experiment\"},\n    {\"entity\": \"Shared Socioeconomic Pathways\", \"type\": \"experiment\"},\n    {\"entity\": \"Shared Socioeconomic Pathway\", \"type\": \"experiment\"},\n    {\"entity\": \"SSPs\", \"type\": \"experiment\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "project",
+            "project",
+            "experiment",
+            "experiment",
+            "experiment",
+            "experiment",
+            "experiment",
+            "experiment"
+        ]
+    },
+    {
+        "text": "We follow a top-down methodology as described in Swan and Ugursal (2009) 9 , increasingly being used as a computationally efficient alternative [10][11][12][13] to process-based simulation models [14][15][16][17] . Engineering bottom-up models are generally applied to specific countries or regions to simulate energy performance of specific buildings or building archetypes, and to forecast specific end uses in the near term 18 . Top-down models do not articulate end-use services, but rely on aggregate national statistics and macroeconomic drivers. When extending the time horizon to the long term, bottom-up models also face the issue of technological and behavioral uncertainty, often being addressed through stylized assumptions or reduced-form relationships between the parameter of interest and income 7 . When aiming at depicting global trends, the much greater complexity and data requirements make it difficult to develop high-quality global bottom-up models 19,20 , and more aggregated or statistical approaches are often preferred 18 . Top-down approaches can capture the joint influence of uncertain future climatic and socioeconomic conditions. Acknowledging parameter uncertainty and stability over time 21,22 , they are increasingly being used as computationally efficient alternatives [10][11][12][13]21 to characterize global or aggregate patterns over the long run.",
+        "entities": [],
+        "response": "```json\n[]\n```",
+        "labels": []
+    },
+    {
+        "text": "A top-down method makes it possible to develop ex ante climate-induced potential impacts prior to any direct or indirect adjustment induced by market interactions between future technological or behavioral changes with energy supplies and the rest of the economy through price changes 23 .\nOur contribution is to develop climate-induced shocks that can be subsequently included in Integrated Assessment Models (IAMs) or Computable General Equilibrium (CGE) models to derive actual ex post energy consumption, which could be substantially moderated by substitution and price adjustments across multiple markets 14 . These intervening adjustments ultimately drive the economic impacts, such as changes in household incomes and welfare. Their scale and scope depend on future changes in structural, technological, and market characteristics that top-down, empirically based approaches imperfectly reflect, and that can be better analyzed using IAM or CGE frameworks [14][15][16][17] .\nWe employ econometric estimates of the per-capita demand for three different final energy carriers associated with heating and cooling (electricity, petroleum products, and natural gas, see specific definition in Supplementary Note 1.) in four economic sectors (agriculture, industry, residential, and commercial) for tropical and temperate countries as a function of percapita gross domestic product (GDP) and exposure to hot (>27.5\u00b0C) and cold (<12.5\u00b0C) days obtained from De Cian and Sue Wing (2018) 24 -hereafter DCSW.",
+        "entities": [
+            {
+                "begin": 1300,
+                "end": 1308,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 411,
+                "end": 415,
+                "label": "model",
+                "substring": "IAMs",
+                "identifier": null
+            },
+            {
+                "begin": 941,
+                "end": 944,
+                "label": "model",
+                "substring": "IAM",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"tropical\", \"type\": \"location\"}, {\"entity\": \"IAMs\", \"type\": \"model\"}, {\"entity\": \"IAM\", \"type\": \"model\"}]\n```",
+        "labels": [
+            "location",
+            "model",
+            "model"
+        ]
+    },
+    {
+        "text": "We use cold and hot days as an alternative indicator to heating and cooling degree days, commonly computed using 18\u00b0C as the comfort threshold, a value suitable to temperate regions, but not to tropical countries. The cutoff values for defining hot and cold days in our study are based on the distribution of daily average temperature across all world regions in temperate and tropical countries and meet the need to capture low and high extremes while guaranteeing a sufficient number of observations. See Fig. 2 in DCSW 24 . We combine the income elasticities for energy consumption with GDP per-capita projections from the SSPs. We determine the climatic shocks by combining temperature elasticities with the change in the number of hot and cold days between now and 2050 from 21 Earth System Models (ESMs) and two emission scenarios: RCPs 4.5 and 8.5 [25][26][27] . Finally, we combine the baseline projections for energy consumption with the impacts from temperature change and spatial population projections to derive the spatial patterns of changes in energy demand.\nWe find that vigorous (moderate) warming increases global climate-exposed energy demand before adaptation around 2050 by 25-58% (11-27%), on top of the expansion due to socioeconomic development. We find broad agreement among ESMs that energy demand increases by more than 25% in the tropics and southern regions of the United States, Europe, and China. The number of low-income people exposed to increased energy needs varies greatly across SSPs.",
+        "entities": [
+            {
+                "begin": 194,
+                "end": 202,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 323,
+                "end": 334,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 377,
+                "end": 385,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 678,
+                "end": 689,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 783,
+                "end": 802,
+                "label": "model",
+                "substring": "Earth System Models",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 804,
+                "end": 808,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 838,
+                "end": 842,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 960,
+                "end": 971,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1300,
+                "end": 1304,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 1358,
+                "end": 1365,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1394,
+                "end": 1407,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 253,
+                "end": 262,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": null
+            },
+            {
+                "begin": 744,
+                "end": 753,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": null
+            },
+            {
+                "begin": 16,
+                "end": 24,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": null
+            },
+            {
+                "begin": 1409,
+                "end": 1415,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": null
+            },
+            {
+                "begin": 1421,
+                "end": 1426,
+                "label": "location",
+                "substring": "China",
+                "identifier": null
+            },
+            {
+                "begin": 626,
+                "end": 630,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            },
+            {
+                "begin": 1516,
+                "end": 1520,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"tropical\", \"type\": \"location\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"tropical\", \"type\": \"location\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"Earth System Models\", \"type\": \"model\"},\n    {\"entity\": \"ESMs\", \"type\": \"model\"},\n    {\"entity\": \"RCPs\", \"type\": \"experiment\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"ESMs\", \"type\": \"model\"},\n    {\"entity\": \"tropics\", \"type\": \"location\"},\n    {\"entity\": \"United States\", \"type\": \"location\"},\n    {\"entity\": \"cold days\", \"type\": \"weather event\"},\n    {\"entity\": \"cold days\", \"type\": \"weather event\"},\n    {\"entity\": \"hot days\", \"type\": \"weather event\"},\n    {\"entity\": \"Europe\", \"type\": \"location\"},\n    {\"entity\": \"China\", \"type\": \"location\"},\n    {\"entity\": \"SSPs\", \"type\": \"experiment\"},\n    {\"entity\": \"SSPs\", \"type\": \"experiment\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "model",
+            "model",
+            "experiment",
+            "variable",
+            "model",
+            "location",
+            "location",
+            "natural hazard",
+            "natural hazard",
+            "weather event",
+            "location",
+            "location",
+            "experiment",
+            "experiment"
+        ]
+    },
+    {
+        "text": "<heading>Results</heading>\nBaseline energy demand around 2050. We first combined the income elasticities for energy consumption from DCSW 24 with GDP per-capita projections from the Shared Socioeconomic Pathway 8,28,29 to construct five scenarios of baseline energy demand in 2050 without climate-change impacts, based on projections of future spatially disaggregated population 30,31 and GDP growth for 183 countries 32 .\nAcross SSP scenarios, global population around 2050 ranges between 8.4 and 10 billion people, with modestly varying geographic distribution that concentrates the bulk of future population change in northern mid-to-low latitudes (Fig. 1a). Per-capita GDP increases from 2010's global average of $9763 to between 18,000 and $42,000, with geographic patterns of economic development differing by SSP-especially latitudinally (cf SSP4 in Fig. 1b). Combining these spatial patterns with the income elasticities (specified by energy carrier, sector, and climatic zone) results in a northwardshifted and peaked latitudinal distribution of baseline future energy demand (Fig. 1c). Across SSPs, energy demand is more sensitive to income growth as compared to population expansion, with the largest energy demand increases occurring in the rapid economic growth SSP1 and SSP5 scenarios.\nCurrent global energy demand is concentrated in the high percapita income, high-population density areas of temperate regions, especially Western Europe, United States, Japan, and China.",
+        "entities": [
+            {
+                "begin": 1469,
+                "end": 1474,
+                "label": "location",
+                "substring": "Japan",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9ae108db-2d76-44a1-b381-eba2df9554ad"
+            },
+            {
+                "begin": 1103,
+                "end": 1107,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            },
+            {
+                "begin": 1284,
+                "end": 1288,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 1438,
+                "end": 1452,
+                "label": "location",
+                "substring": "Western Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 1454,
+                "end": 1467,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1480,
+                "end": 1485,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1275,
+                "end": 1279,
+                "label": "experiment",
+                "substring": "SSP1",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c0308d3-89ba-40b7-8ea8-539d8f744a97"
+            },
+            {
+                "begin": 182,
+                "end": 210,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathway",
+                "identifier": null
+            },
+            {
+                "begin": 430,
+                "end": 443,
+                "label": "experiment",
+                "substring": "SSP scenarios",
+                "identifier": null
+            },
+            {
+                "begin": 849,
+                "end": 853,
+                "label": "experiment",
+                "substring": "SSP4",
+                "identifier": null
+            },
+            {
+                "begin": 816,
+                "end": 819,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Japan\", \"type\": \"location\"},\n    {\"entity\": \"SSPs\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP5\", \"type\": \"experiment\"},\n    {\"entity\": \"Western Europe\", \"type\": \"location\"},\n    {\"entity\": \"United States\", \"type\": \"location\"},\n    {\"entity\": \"China\", \"type\": \"location\"},\n    {\"entity\": \"SSP1\", \"type\": \"experiment\"},\n    {\"entity\": \"Shared Socioeconomic Pathway\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP scenarios\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP4\", \"type\": \"experiment\"},\n    {\"entity\": \"SSP\", \"type\": \"experiment\"}\n]\n```",
+        "labels": [
+            "location",
+            "experiment",
+            "experiment",
+            "location",
+            "location",
+            "location",
+            "experiment",
+            "experiment",
+            "experiment",
+            "experiment",
+            "experiment"
+        ]
+    }
+]

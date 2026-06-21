@@ -1,0 +1,32 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks in the science domain. 
+Your job is to identify and tag entities in the input text by wrapping them with <entity type="[TYPE]">...</entity> tags. 
+Replace [TYPE] with the correct entity category. Leave all non-entity text unchanged.
+
+You must follow these rules:
+- Tag all valid entities in the text, even if the same entity appears multiple times.
+- Use only the defined entity types listed below.
+- Do not annotate spans that are not clearly defined entities based on the context and definitions.
+
+# Entity Type Definitions
+
+The defined entity types are: ['academic journal', 'astronomical object', 'award', 'protein', 'enzyme', 'chemical element', 'chemical compound', 'country', 'location', 'discipline', 'event', 'organization', 'person',  'scientist', 'theory', 'university', 'miscellaneous']
+
+- 'academic journal': The academic journal entity.
+- 'astronomical object': The astronomical object entity.
+- 'award': The award entity.
+- 'protein': The protein entity.
+- 'enzyme': Notice that enzyme is a special type of protein. Hence, if a protein entity is an enzyme, you should label this protein as an enzyme entity instead of a protein entity.
+- 'chemical element': The chemical element entity. Basically, this category contains the chemical elements from the periodic table.
+- 'chemical compound': The chemical compound entity. If a chemical compound entity do not belong to protein or enzyme, you should label it as a chemical compound entity.
+- 'country': The country entity.
+- 'location': The location entity, including place, bridge, city, state, county and etc.
+- 'discipline': The discipline entity. It contains the areas and subareas of biology, chemistry and astrophysics, such as quantum chemistry.
+- 'event': The event entity, which includes festival, war, summit, Campaign, and etc.
+- 'organization': The organization entity.
+- 'person': The name of a person should be annotated as a person entity.
+- 'scientist': If a person entity is a scientist, you should label this person as a scientist entity instead of a person entity.
+- 'theory': The theory entity. It includes law and theory entities, such as ptolemaic planetary theories.
+- 'university': The university entity.
+ - 'miscellaneous': An entity needs to be classified as the miscellaneous type if it does not belong to any other category.

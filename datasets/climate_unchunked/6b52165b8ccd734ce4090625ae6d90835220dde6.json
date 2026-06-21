@@ -1,0 +1,4325 @@
+{
+    "entities": {
+        "111164": {
+            "begin": 75,
+            "end": 81,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111170": {
+            "begin": 103,
+            "end": 151,
+            "label": "model",
+            "substring": "NCAR's Community Climate System Model, version 4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111176": {
+            "begin": 153,
+            "end": 158,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111182": {
+            "begin": 176,
+            "end": 193,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "111188": {
+            "begin": 270,
+            "end": 276,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111194": {
+            "begin": 308,
+            "end": 315,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111200": {
+            "begin": 330,
+            "end": 342,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ed45273-3e2b-4586-b852-05578c04041b"
+        },
+        "111206": {
+            "begin": 409,
+            "end": 420,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/622048a9-42c3-4a81-b097-9a69397b40a3"
+        },
+        "111212": {
+            "begin": 422,
+            "end": 435,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "111218": {
+            "begin": 449,
+            "end": 467,
+            "label": "variable",
+            "substring": "sea level pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5bca08d-ecb3-4b85-8acd-fed782875aa2"
+        },
+        "111224": {
+            "begin": 469,
+            "end": 472,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "111230": {
+            "begin": 630,
+            "end": 635,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111236": {
+            "begin": 681,
+            "end": 685,
+            "label": "model",
+            "substring": "GCMs",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "111242": {
+            "begin": 762,
+            "end": 767,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111248": {
+            "begin": 769,
+            "end": 775,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111254": {
+            "begin": 825,
+            "end": 843,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "111260": {
+            "begin": 872,
+            "end": 878,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111266": {
+            "begin": 944,
+            "end": 956,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111272": {
+            "begin": 1146,
+            "end": 1149,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "111278": {
+            "begin": 1197,
+            "end": 1200,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "111284": {
+            "begin": 1263,
+            "end": 1278,
+            "label": "natural hazard",
+            "substring": "Arctic cyclones",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0720043d-4d31-45ae-a37c-9ba5959bf97d"
+        },
+        "111290": {
+            "begin": 1330,
+            "end": 1345,
+            "label": "variable",
+            "substring": "coastal erosion",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b6fd22ab-dca7-4dfa-8812-913453b5695b"
+        },
+        "111296": {
+            "begin": 1390,
+            "end": 1396,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111302": {
+            "begin": 1635,
+            "end": 1640,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111308": {
+            "begin": 1675,
+            "end": 1681,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111314": {
+            "begin": 1902,
+            "end": 1919,
+            "label": "variable",
+            "substring": "greenhouseforcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "111320": {
+            "begin": 2075,
+            "end": 2081,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111326": {
+            "begin": 2266,
+            "end": 2276,
+            "label": "variable",
+            "substring": "snow cover",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a08f79f-a621-4f8c-b5d5-e1335f9cbcec"
+        },
+        "111332": {
+            "begin": 2292,
+            "end": 2299,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111338": {
+            "begin": 2636,
+            "end": 2642,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111344": {
+            "begin": 2657,
+            "end": 2675,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "111350": {
+            "begin": 2796,
+            "end": 2819,
+            "label": "natural hazard",
+            "substring": "regional climate change",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+        },
+        "111356": {
+            "begin": 2868,
+            "end": 2874,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111362": {
+            "begin": 3156,
+            "end": 3161,
+            "label": "location",
+            "substring": "polar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "111368": {
+            "begin": 3273,
+            "end": 3294,
+            "label": "natural hazard",
+            "substring": "Arctic climate change",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+        },
+        "111374": {
+            "begin": 3503,
+            "end": 3526,
+            "label": "natural hazard",
+            "substring": "regional climate change",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+        },
+        "111380": {
+            "begin": 3623,
+            "end": 3660,
+            "label": "project",
+            "substring": "Coupled Model Intercomparison Project",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a04c8fb-53aa-465d-803d-d0aaad32be12"
+        },
+        "111386": {
+            "begin": 3673,
+            "end": 3678,
+            "label": "project",
+            "substring": "CMIP3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a04c8fb-53aa-465d-803d-d0aaad32be12"
+        },
+        "111392": {
+            "begin": 3738,
+            "end": 3744,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111398": {
+            "begin": 3820,
+            "end": 3827,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111404": {
+            "begin": 3829,
+            "end": 3835,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111410": {
+            "begin": 3837,
+            "end": 3847,
+            "label": "location",
+            "substring": "permafrost",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1f4cdbc4-0f65-4384-83c9-9422c280717d"
+        },
+        "111416": {
+            "begin": 4087,
+            "end": 4093,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111422": {
+            "begin": 4241,
+            "end": 4247,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111428": {
+            "begin": 4290,
+            "end": 4295,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111434": {
+            "begin": 4494,
+            "end": 4505,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "111440": {
+            "begin": 4507,
+            "end": 4514,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111446": {
+            "begin": 4516,
+            "end": 4529,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "111452": {
+            "begin": 4531,
+            "end": 4543,
+            "label": "variable",
+            "substring": "cloud amount",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70f5b8a3-3f52-467c-957c-7ca98e1c6184"
+        },
+        "111458": {
+            "begin": 4545,
+            "end": 4563,
+            "label": "variable",
+            "substring": "sea level pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5bca08d-ecb3-4b85-8acd-fed782875aa2"
+        },
+        "111464": {
+            "begin": 4626,
+            "end": 4631,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111470": {
+            "begin": 4656,
+            "end": 4662,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111476": {
+            "begin": 4792,
+            "end": 4810,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "111482": {
+            "begin": 4888,
+            "end": 4925,
+            "label": "project",
+            "substring": "Coupled Model Intercomparison Project",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "111488": {
+            "begin": 4938,
+            "end": 4943,
+            "label": "project",
+            "substring": "CMIP5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+        },
+        "111494": {
+            "begin": 4979,
+            "end": 4985,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "111500": {
+            "begin": 4998,
+            "end": 5023,
+            "label": "variable",
+            "substring": "radiative forcing anomaly",
+            "identifier": null
+        },
+        "111506": {
+            "begin": 5118,
+            "end": 5148,
+            "label": "variable",
+            "substring": "atmospheric CO 2 concentration",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b53939ae-1264-409d-8434-3bb3d22b2848"
+        },
+        "111512": {
+            "begin": 5380,
+            "end": 5397,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "111518": {
+            "begin": 5553,
+            "end": 5558,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111524": {
+            "begin": 5708,
+            "end": 5713,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111530": {
+            "begin": 5972,
+            "end": 5987,
+            "label": "variable",
+            "substring": "deep convection",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/10a9c153-f37d-48fe-920d-c790d946ab07"
+        },
+        "111536": {
+            "begin": 6087,
+            "end": 6093,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111542": {
+            "begin": 6098,
+            "end": 6109,
+            "label": "variable",
+            "substring": "cloud cover",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c9e429cb-eff0-4dd3-9eca-527e0081f65c"
+        },
+        "111548": {
+            "begin": 6269,
+            "end": 6274,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111554": {
+            "begin": 6346,
+            "end": 6351,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111560": {
+            "begin": 6558,
+            "end": 6563,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111566": {
+            "begin": 6663,
+            "end": 6670,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111572": {
+            "begin": 6829,
+            "end": 6837,
+            "label": "variable",
+            "substring": "aerosols",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e5a401b-1507-4f57-82b8-36557c13b154"
+        },
+        "111578": {
+            "begin": 6846,
+            "end": 6858,
+            "label": "variable",
+            "substring": "black carbon",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c0288cc-864d-40f7-93af-6df413b404f5"
+        },
+        "111584": {
+            "begin": 7116,
+            "end": 7121,
+            "label": "location",
+            "substring": "ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+        },
+        "111590": {
+            "begin": 7294,
+            "end": 7308,
+            "label": "location",
+            "substring": "North Atlantic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4202721-0cba-4fa1-853f-890f146b04f9"
+        },
+        "111596": {
+            "begin": 7345,
+            "end": 7350,
+            "label": "location",
+            "substring": "ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+        },
+        "111602": {
+            "begin": 7376,
+            "end": 7383,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111608": {
+            "begin": 7468,
+            "end": 7475,
+            "label": "location",
+            "substring": "equator",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7c5c3754-7b3d-4c08-9ea3-670ed82629ec"
+        },
+        "111614": {
+            "begin": 7512,
+            "end": 7521,
+            "label": "location",
+            "substring": "Greenland",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9d15e288-95cd-476e-acdd-5e31add3ca32"
+        },
+        "111620": {
+            "begin": 7569,
+            "end": 7574,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111626": {
+            "begin": 7721,
+            "end": 7728,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111632": {
+            "begin": 7812,
+            "end": 7817,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111638": {
+            "begin": 7881,
+            "end": 7888,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111644": {
+            "begin": 8059,
+            "end": 8069,
+            "label": "variable",
+            "substring": "ice extent",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/87feb47e-aee3-42f1-8c39-5109d9d5422e"
+        },
+        "111650": {
+            "begin": 8179,
+            "end": 8186,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111656": {
+            "begin": 8205,
+            "end": 8221,
+            "label": "variable",
+            "substring": "ice motion field",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cee7ed2f-3ed1-44ad-b48b-513a68bb3244"
+        },
+        "111662": {
+            "begin": 8232,
+            "end": 8245,
+            "label": "location",
+            "substring": "Beaufort Gyre",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/86ed3782-8e30-4547-a774-35100b224d5a"
+        },
+        "111668": {
+            "begin": 8264,
+            "end": 8269,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111674": {
+            "begin": 8314,
+            "end": 8332,
+            "label": "location",
+            "substring": "upper Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ed45273-3e2b-4586-b852-05578c04041b"
+        },
+        "111680": {
+            "begin": 8362,
+            "end": 8376,
+            "label": "location",
+            "substring": "Atlantic layer",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+        },
+        "111686": {
+            "begin": 8406,
+            "end": 8419,
+            "label": "location",
+            "substring": "surface layer",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8ea93d94-9a95-4dc0-8ad9-08896541fea9"
+        },
+        "111692": {
+            "begin": 8455,
+            "end": 8469,
+            "label": "location",
+            "substring": "Atlantic layer",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+        },
+        "111698": {
+            "begin": 8505,
+            "end": 8517,
+            "label": "variable",
+            "substring": "temperatures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+        },
+        "111704": {
+            "begin": 8557,
+            "end": 8567,
+            "label": "location",
+            "substring": "atmosphere",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a"
+        },
+        "111710": {
+            "begin": 8581,
+            "end": 8604,
+            "label": "variable",
+            "substring": "surface air temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5a7bb095-4d12-4232-bc75-b8e82197cb92"
+        },
+        "111716": {
+            "begin": 8635,
+            "end": 8641,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111722": {
+            "begin": 8680,
+            "end": 8730,
+            "label": "provider",
+            "substring": "European Centre for Medium-Range Weather Forecasts",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cdc27449-f9f7-4da2-83ec-f1071b5d4bab"
+        },
+        "111728": {
+            "begin": 8732,
+            "end": 8737,
+            "label": "provider",
+            "substring": "ECMWF",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/eb6ac42f-7c8d-4e3f-9f80-e6334c463d26"
+        },
+        "111734": {
+            "begin": 8752,
+            "end": 8758,
+            "label": "model",
+            "substring": "ERA-40",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3658db7a-74a2-4614-bb3c-7d0eef569aa5"
+        },
+        "111740": {
+            "begin": 8851,
+            "end": 8870,
+            "label": "variable",
+            "substring": "sea level pressures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/07ce145c-9936-4675-b4a7-8710e39aa391"
+        },
+        "111746": {
+            "begin": 8893,
+            "end": 8899,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111752": {
+            "begin": 8943,
+            "end": 8956,
+            "label": "location",
+            "substring": "Beaufort high",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/86ed3782-8e30-4547-a774-35100b224d5a"
+        },
+        "111758": {
+            "begin": 9090,
+            "end": 9096,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111764": {
+            "begin": 9186,
+            "end": 9198,
+            "label": "variable",
+            "substring": "Cloud amount",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70f5b8a3-3f52-467c-957c-7ca98e1c6184"
+        },
+        "111770": {
+            "begin": 9208,
+            "end": 9214,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111776": {
+            "begin": 9218,
+            "end": 9223,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111782": {
+            "begin": 9269,
+            "end": 9275,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111788": {
+            "begin": 9411,
+            "end": 9417,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111794": {
+            "begin": 9425,
+            "end": 9431,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111800": {
+            "begin": 9474,
+            "end": 9484,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111806": {
+            "begin": 9574,
+            "end": 9584,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111812": {
+            "begin": 9599,
+            "end": 9605,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111818": {
+            "begin": 9613,
+            "end": 9654,
+            "label": "variable",
+            "substring": "model's excessive cloud liquid water path",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/db0ff132-48ed-429b-b7e7-6a173b380421"
+        },
+        "111824": {
+            "begin": 9675,
+            "end": 9705,
+            "label": "variable",
+            "substring": "downwelling longwave radiation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd6270d3-dd4d-41ed-a6c2-58abe926017c"
+        },
+        "111830": {
+            "begin": 9722,
+            "end": 9737,
+            "label": "variable",
+            "substring": "solar radiation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a0f3474e-9a54-4a82-97c4-43864b48df4c"
+        },
+        "111836": {
+            "begin": 9794,
+            "end": 9804,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111842": {
+            "begin": 9818,
+            "end": 9824,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111848": {
+            "begin": 9825,
+            "end": 9838,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "111854": {
+            "begin": 9942,
+            "end": 9954,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ed45273-3e2b-4586-b852-05578c04041b"
+        },
+        "111860": {
+            "begin": 9965,
+            "end": 9974,
+            "label": "location",
+            "substring": "Greenland",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9d15e288-95cd-476e-acdd-5e31add3ca32"
+        },
+        "111866": {
+            "begin": 9989,
+            "end": 10002,
+            "label": "location",
+            "substring": "North America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88bc8b39-ad19-4415-b426-e7d37450341a"
+        },
+        "111872": {
+            "begin": 10080,
+            "end": 10084,
+            "label": "model",
+            "substring": "GCMs",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "111878": {
+            "begin": 10154,
+            "end": 10160,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111884": {
+            "begin": 10172,
+            "end": 10177,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111890": {
+            "begin": 10250,
+            "end": 10257,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "111896": {
+            "begin": 10262,
+            "end": 10292,
+            "label": "variable",
+            "substring": "atmospheric sea level pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/07ce145c-9936-4675-b4a7-8710e39aa391"
+        },
+        "111902": {
+            "begin": 10294,
+            "end": 10297,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/07ce145c-9936-4675-b4a7-8710e39aa391"
+        },
+        "111908": {
+            "begin": 10514,
+            "end": 10520,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111914": {
+            "begin": 10714,
+            "end": 10719,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "111920": {
+            "begin": 10722,
+            "end": 10728,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111926": {
+            "begin": 10783,
+            "end": 10789,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "111932": {
+            "begin": 10790,
+            "end": 10808,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "111938": {
+            "begin": 11252,
+            "end": 11270,
+            "label": "variable",
+            "substring": "radiative forcings",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "111944": {
+            "begin": 11418,
+            "end": 11429,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "111950": {
+            "begin": 11431,
+            "end": 11444,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "111956": {
+            "begin": 11446,
+            "end": 11452,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "111962": {
+            "begin": 11454,
+            "end": 11462,
+            "label": "variable",
+            "substring": "salinity",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/04fa9023-ab68-4dd0-a82e-abe685105a53"
+        },
+        "111968": {
+            "begin": 11468,
+            "end": 11471,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "111974": {
+            "begin": 11569,
+            "end": 11585,
+            "label": "variable",
+            "substring": "polar ecosystems",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fedcf7c-7b0c-4b51-abd2-2c54de713061"
+        },
+        "111980": {
+            "begin": 11752,
+            "end": 11758,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "111986": {
+            "begin": 11800,
+            "end": 11804,
+            "label": "model",
+            "substring": "GCMs",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+        },
+        "111992": {
+            "begin": 11838,
+            "end": 11856,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "111998": {
+            "begin": 12027,
+            "end": 12033,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "112004": {
+            "begin": 12044,
+            "end": 12049,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112010": {
+            "begin": 12083,
+            "end": 12089,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112016": {
+            "begin": 12355,
+            "end": 12362,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112022": {
+            "begin": 12650,
+            "end": 12665,
+            "label": "variable",
+            "substring": "Arctic ice pack",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112028": {
+            "begin": 12821,
+            "end": 12829,
+            "label": "location",
+            "substring": "Svalbard",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/706ae2c4-750c-4a96-a7af-5133c357ae5c"
+        },
+        "112034": {
+            "begin": 12913,
+            "end": 12924,
+            "label": "location",
+            "substring": "Chukchi Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7e35ea67-a0c9-49fa-97de-e5f8f5b9ee6d"
+        },
+        "112040": {
+            "begin": 12967,
+            "end": 12973,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112046": {
+            "begin": 13374,
+            "end": 13386,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ed45273-3e2b-4586-b852-05578c04041b"
+        },
+        "112052": {
+            "begin": 13588,
+            "end": 13614,
+            "label": "variable",
+            "substring": "hemispheric sea ice extent",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6e2f1371-05b1-41db-a6d9-bccd7cc2b3da"
+        },
+        "112058": {
+            "begin": 13635,
+            "end": 13640,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112064": {
+            "begin": 13702,
+            "end": 13708,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+        },
+        "112070": {
+            "begin": 14187,
+            "end": 14196,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "112076": {
+            "begin": 14437,
+            "end": 14442,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "112082": {
+            "begin": 14457,
+            "end": 14467,
+            "label": "variable",
+            "substring": "permafrost",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1f4cdbc4-0f65-4384-83c9-9422c280717d"
+        },
+        "112088": {
+            "begin": 14611,
+            "end": 14616,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112094": {
+            "begin": 14945,
+            "end": 14950,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112100": {
+            "begin": 15035,
+            "end": 15041,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112106": {
+            "begin": 15084,
+            "end": 15092,
+            "label": "variable",
+            "substring": "ice melt",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112112": {
+            "begin": 15094,
+            "end": 15104,
+            "label": "variable",
+            "substring": "ice growth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112118": {
+            "begin": 15164,
+            "end": 15170,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112124": {
+            "begin": 15252,
+            "end": 15262,
+            "label": "variable",
+            "substring": "ice growth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112130": {
+            "begin": 15397,
+            "end": 15407,
+            "label": "variable",
+            "substring": "ice growth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112136": {
+            "begin": 15489,
+            "end": 15497,
+            "label": "variable",
+            "substring": "ice melt",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112142": {
+            "begin": 15544,
+            "end": 15552,
+            "label": "variable",
+            "substring": "ice melt",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112148": {
+            "begin": 15581,
+            "end": 15591,
+            "label": "variable",
+            "substring": "ice growth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112154": {
+            "begin": 15633,
+            "end": 15639,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112160": {
+            "begin": 15727,
+            "end": 15735,
+            "label": "variable",
+            "substring": "ice melt",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112166": {
+            "begin": 15794,
+            "end": 15811,
+            "label": "location",
+            "substring": "ocean mixed layer",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/64074461-95d0-4538-869a-0114e39216aa"
+        },
+        "112172": {
+            "begin": 15812,
+            "end": 15824,
+            "label": "variable",
+            "substring": "temperatures",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+        },
+        "112178": {
+            "begin": 15867,
+            "end": 15877,
+            "label": "variable",
+            "substring": "ice growth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/89fc22ca-326e-468c-ad3d-171c4ad34977"
+        },
+        "112184": {
+            "begin": 16177,
+            "end": 16191,
+            "label": "variable",
+            "substring": "sea ice extent",
+            "identifier": null
+        },
+        "112190": {
+            "begin": 16380,
+            "end": 16406,
+            "label": "variable",
+            "substring": "hemispheric sea ice extent",
+            "identifier": null
+        },
+        "112196": {
+            "begin": 16765,
+            "end": 16771,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112202": {
+            "begin": 16947,
+            "end": 16960,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "112208": {
+            "begin": 17014,
+            "end": 17025,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112214": {
+            "begin": 17144,
+            "end": 17155,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112220": {
+            "begin": 17349,
+            "end": 17355,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112226": {
+            "begin": 17665,
+            "end": 17671,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112232": {
+            "begin": 17862,
+            "end": 17887,
+            "label": "variable",
+            "substring": "maximum temperature gains",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/622048a9-42c3-4a81-b097-9a69397b40a3"
+        },
+        "112238": {
+            "begin": 17905,
+            "end": 17917,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ed45273-3e2b-4586-b852-05578c04041b"
+        },
+        "112244": {
+            "begin": 18001,
+            "end": 18028,
+            "label": "location",
+            "substring": "Greenland-Iceland-Norwegian",
+            "identifier": null
+        },
+        "112250": {
+            "begin": 18045,
+            "end": 18056,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112256": {
+            "begin": 18129,
+            "end": 18138,
+            "label": "location",
+            "substring": "Greenland",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9d15e288-95cd-476e-acdd-5e31add3ca32"
+        },
+        "112262": {
+            "begin": 18268,
+            "end": 18281,
+            "label": "location",
+            "substring": "Norwegian Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/91dd3935-a1ae-48ca-b263-9b10ac732372"
+        },
+        "112268": {
+            "begin": 18404,
+            "end": 18422,
+            "label": "variable",
+            "substring": "Arctic temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+        },
+        "112274": {
+            "begin": 18630,
+            "end": 18653,
+            "label": "variable",
+            "substring": "surface air temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5a7bb095-4d12-4232-bc75-b8e82197cb92"
+        },
+        "112280": {
+            "begin": 18659,
+            "end": 18666,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112286": {
+            "begin": 18713,
+            "end": 18732,
+            "label": "variable",
+            "substring": "seasonal variations",
+            "identifier": null
+        },
+        "112292": {
+            "begin": 18767,
+            "end": 18809,
+            "label": "variable",
+            "substring": "surface-atmosphere temperature differences",
+            "identifier": null
+        },
+        "112298": {
+            "begin": 18817,
+            "end": 18823,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112304": {
+            "begin": 18871,
+            "end": 18890,
+            "label": "variable",
+            "substring": "surface heat fluxes",
+            "identifier": null
+        },
+        "112310": {
+            "begin": 18957,
+            "end": 18975,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0867ff5-2eb4-4959-b874-ac37c1b407e0"
+        },
+        "112316": {
+            "begin": 19144,
+            "end": 19168,
+            "label": "variable",
+            "substring": "near-surface temperature",
+            "identifier": null
+        },
+        "112322": {
+            "begin": 19402,
+            "end": 19417,
+            "label": "location",
+            "substring": "oceanic regions",
+            "identifier": null
+        },
+        "112328": {
+            "begin": 19443,
+            "end": 19450,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112334": {
+            "begin": 19547,
+            "end": 19558,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112340": {
+            "begin": 19638,
+            "end": 19643,
+            "label": "location",
+            "substring": "ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b4b554fb-8a4f-44e0-b23f-8bd7efa6ae3f"
+        },
+        "112346": {
+            "begin": 19673,
+            "end": 19679,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112352": {
+            "begin": 19688,
+            "end": 19699,
+            "label": "natural hazard",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112358": {
+            "begin": 19762,
+            "end": 19777,
+            "label": "variable",
+            "substring": "air temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb"
+        },
+        "112364": {
+            "begin": 19997,
+            "end": 20002,
+            "label": "location",
+            "substring": "ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff03e9fc-9882-4a5e-ad0b-830d8f1186cb"
+        },
+        "112370": {
+            "begin": 20121,
+            "end": 20132,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112376": {
+            "begin": 20196,
+            "end": 20201,
+            "label": "variable",
+            "substring": "Cloud",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "112382": {
+            "begin": 20271,
+            "end": 20277,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112388": {
+            "begin": 20298,
+            "end": 20303,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112394": {
+            "begin": 20309,
+            "end": 20339,
+            "label": "variable",
+            "substring": "annual-mean total cloud amount",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "112400": {
+            "begin": 20493,
+            "end": 20499,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/162e2243-3266-4999-b352-d8a1a9dc82ac"
+        },
+        "112406": {
+            "begin": 20546,
+            "end": 20556,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "112412": {
+            "begin": 20575,
+            "end": 20586,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112418": {
+            "begin": 20592,
+            "end": 20599,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112424": {
+            "begin": 20692,
+            "end": 20697,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "112430": {
+            "begin": 20790,
+            "end": 20806,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "112436": {
+            "begin": 20822,
+            "end": 20827,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "112442": {
+            "begin": 20861,
+            "end": 20867,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112448": {
+            "begin": 20957,
+            "end": 20964,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112454": {
+            "begin": 21003,
+            "end": 21008,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "112460": {
+            "begin": 21023,
+            "end": 21026,
+            "label": "variable",
+            "substring": "sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7e46d6ae-5358-45c7-94e8-148604ba328b"
+        },
+        "112466": {
+            "begin": 21057,
+            "end": 21071,
+            "label": "variable",
+            "substring": "cloud fraction",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b296b688-0ff0-4212-9b30-30e9fe413709"
+        },
+        "112472": {
+            "begin": 21115,
+            "end": 21120,
+            "label": "project",
+            "substring": "CMIP3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a04c8fb-53aa-465d-803d-d0aaad32be12"
+        },
+        "112478": {
+            "begin": 21121,
+            "end": 21125,
+            "label": "model",
+            "substring": "GCMs",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3ce7f4f0-d2db-4352-8762-d88296f7aa15"
+        },
+        "112484": {
+            "begin": 21201,
+            "end": 21213,
+            "label": "variable",
+            "substring": "polar clouds",
+            "identifier": null
+        },
+        "112490": {
+            "begin": 21323,
+            "end": 21328,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "112496": {
+            "begin": 21375,
+            "end": 21382,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112502": {
+            "begin": 21462,
+            "end": 21471,
+            "label": "variable",
+            "substring": "magnitude",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d73c7668-2353-4e8a-a8e2-d6d0d302a3a4"
+        },
+        "112508": {
+            "begin": 21649,
+            "end": 21658,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "112514": {
+            "begin": 21688,
+            "end": 21707,
+            "label": "variable",
+            "substring": "surface evaporation",
+            "identifier": null
+        },
+        "112520": {
+            "begin": 21721,
+            "end": 21734,
+            "label": "variable",
+            "substring": "Arctic clouds",
+            "identifier": null
+        },
+        "112526": {
+            "begin": 21763,
+            "end": 21780,
+            "label": "variable",
+            "substring": "radiative warming",
+            "identifier": null
+        },
+        "112532": {
+            "begin": 21825,
+            "end": 21835,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "112538": {
+            "begin": 21914,
+            "end": 21919,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "112544": {
+            "begin": 21933,
+            "end": 21938,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112550": {
+            "begin": 21998,
+            "end": 22020,
+            "label": "variable",
+            "substring": "Precipitation</heading",
+            "identifier": null
+        },
+        "112556": {
+            "begin": 22026,
+            "end": 22044,
+            "label": "location",
+            "substring": "moister atmosphere",
+            "identifier": null
+        },
+        "112562": {
+            "begin": 22071,
+            "end": 22084,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112568": {
+            "begin": 22118,
+            "end": 22124,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112574": {
+            "begin": 22262,
+            "end": 22275,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112580": {
+            "begin": 22331,
+            "end": 22338,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112586": {
+            "begin": 22340,
+            "end": 22351,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112592": {
+            "begin": 22357,
+            "end": 22367,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "112598": {
+            "begin": 22419,
+            "end": 22438,
+            "label": "variable",
+            "substring": "precipitation field",
+            "identifier": null
+        },
+        "112604": {
+            "begin": 22652,
+            "end": 22665,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112610": {
+            "begin": 22901,
+            "end": 22909,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "112616": {
+            "begin": 23078,
+            "end": 23091,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112622": {
+            "begin": 23222,
+            "end": 23234,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "112628": {
+            "begin": 23334,
+            "end": 23343,
+            "label": "location",
+            "substring": "Greenland",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9d15e288-95cd-476e-acdd-5e31add3ca32"
+        },
+        "112634": {
+            "begin": 23357,
+            "end": 23364,
+            "label": "location",
+            "substring": "Siberia",
+            "identifier": null
+        },
+        "112640": {
+            "begin": 23381,
+            "end": 23387,
+            "label": "location",
+            "substring": "Alaska",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/315e7128-e8c5-4035-af7c-9394b68fd1dd"
+        },
+        "112646": {
+            "begin": 23419,
+            "end": 23432,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112652": {
+            "begin": 23515,
+            "end": 23528,
+            "label": "variable",
+            "substring": "polar climate",
+            "identifier": null
+        },
+        "112658": {
+            "begin": 23557,
+            "end": 23569,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "112664": {
+            "begin": 23577,
+            "end": 23590,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112670": {
+            "begin": 23665,
+            "end": 23671,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112676": {
+            "begin": 23672,
+            "end": 23685,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112682": {
+            "begin": 23896,
+            "end": 23909,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112688": {
+            "begin": 23937,
+            "end": 23950,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112694": {
+            "begin": 24083,
+            "end": 24089,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112700": {
+            "begin": 24090,
+            "end": 24103,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112706": {
+            "begin": 24256,
+            "end": 24265,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "112712": {
+            "begin": 24267,
+            "end": 24278,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "112718": {
+            "begin": 24284,
+            "end": 24290,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": null
+        },
+        "112724": {
+            "begin": 24301,
+            "end": 24314,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112730": {
+            "begin": 24399,
+            "end": 24413,
+            "label": "location",
+            "substring": "Arctic sea ice",
+            "identifier": null
+        },
+        "112736": {
+            "begin": 24431,
+            "end": 24441,
+            "label": "variable",
+            "substring": "snow depth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5575125b-7f15-4d46-ba47-f86de96a1a25"
+        },
+        "112742": {
+            "begin": 24551,
+            "end": 24567,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "112748": {
+            "begin": 24594,
+            "end": 24604,
+            "label": "variable",
+            "substring": "snow cover",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a08f79f-a621-4f8c-b5d5-e1335f9cbcec"
+        },
+        "112754": {
+            "begin": 24662,
+            "end": 24677,
+            "label": "location",
+            "substring": "Arctic ice pack",
+            "identifier": null
+        },
+        "112760": {
+            "begin": 24724,
+            "end": 24739,
+            "label": "weather event",
+            "substring": "snowfall events",
+            "identifier": null
+        },
+        "112766": {
+            "begin": 24819,
+            "end": 24832,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "112772": {
+            "begin": 24874,
+            "end": 24884,
+            "label": "variable",
+            "substring": "snow depth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5575125b-7f15-4d46-ba47-f86de96a1a25"
+        },
+        "112778": {
+            "begin": 25173,
+            "end": 25183,
+            "label": "variable",
+            "substring": "snow depth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5575125b-7f15-4d46-ba47-f86de96a1a25"
+        },
+        "112784": {
+            "begin": 25200,
+            "end": 25216,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "112790": {
+            "begin": 25247,
+            "end": 25253,
+            "label": "variable",
+            "substring": "albedo",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/48c16952-b6e0-40cd-b6dd-7cdbf5a443a1"
+        },
+        "112796": {
+            "begin": 25320,
+            "end": 25326,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112802": {
+            "begin": 25421,
+            "end": 25431,
+            "label": "variable",
+            "substring": "snow depth",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5575125b-7f15-4d46-ba47-f86de96a1a25"
+        },
+        "112808": {
+            "begin": 25459,
+            "end": 25466,
+            "label": "location",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112814": {
+            "begin": 25602,
+            "end": 25612,
+            "label": "variable",
+            "substring": "snow cover",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a08f79f-a621-4f8c-b5d5-e1335f9cbcec"
+        },
+        "112820": {
+            "begin": 25673,
+            "end": 25693,
+            "label": "location",
+            "substring": "near-coastal regions",
+            "identifier": null
+        },
+        "112826": {
+            "begin": 25697,
+            "end": 25712,
+            "label": "location",
+            "substring": "eastern Siberia",
+            "identifier": null
+        },
+        "112832": {
+            "begin": 25730,
+            "end": 25743,
+            "label": "location",
+            "substring": "North America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef38f589-f506-4d62-af59-d9006c622d26"
+        },
+        "112838": {
+            "begin": 25831,
+            "end": 25851,
+            "label": "location",
+            "substring": "northeastern Siberia",
+            "identifier": null
+        },
+        "112844": {
+            "begin": 25936,
+            "end": 25941,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "112850": {
+            "begin": 25957,
+            "end": 25984,
+            "label": "model",
+            "substring": "SRES A1B emissions scenario",
+            "identifier": null
+        },
+        "112856": {
+            "begin": 26022,
+            "end": 26049,
+            "label": "variable",
+            "substring": "Sea level pressure</heading",
+            "identifier": null
+        },
+        "112862": {
+            "begin": 26089,
+            "end": 26092,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "112868": {
+            "begin": 26131,
+            "end": 26137,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112874": {
+            "begin": 26258,
+            "end": 26274,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "112880": {
+            "begin": 26291,
+            "end": 26299,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "112886": {
+            "begin": 26409,
+            "end": 26415,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "112892": {
+            "begin": 26430,
+            "end": 26433,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "112898": {
+            "begin": 26665,
+            "end": 26668,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "112904": {
+            "begin": 26756,
+            "end": 26768,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "112910": {
+            "begin": 26815,
+            "end": 26822,
+            "label": "location",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112916": {
+            "begin": 26843,
+            "end": 26846,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "112922": {
+            "begin": 27019,
+            "end": 27031,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "112928": {
+            "begin": 27215,
+            "end": 27224,
+            "label": "location",
+            "substring": "Greenland",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9d15e288-95cd-476e-acdd-5e31add3ca32"
+        },
+        "112934": {
+            "begin": 27250,
+            "end": 27263,
+            "label": "location",
+            "substring": "North America",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef38f589-f506-4d62-af59-d9006c622d26"
+        },
+        "112940": {
+            "begin": 27296,
+            "end": 27303,
+            "label": "location",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "112946": {
+            "begin": 27343,
+            "end": 27346,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "112952": {
+            "begin": 27397,
+            "end": 27400,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "112958": {
+            "begin": 27456,
+            "end": 27464,
+            "label": "variable",
+            "substring": "November",
+            "identifier": null
+        },
+        "112964": {
+            "begin": 27488,
+            "end": 27496,
+            "label": "variable",
+            "substring": "December",
+            "identifier": null
+        },
+        "112970": {
+            "begin": 27529,
+            "end": 27536,
+            "label": "variable",
+            "substring": "October",
+            "identifier": null
+        },
+        "112976": {
+            "begin": 27653,
+            "end": 27672,
+            "label": "variable",
+            "substring": "air-sea temperature",
+            "identifier": null
+        },
+        "112982": {
+            "begin": 27725,
+            "end": 27738,
+            "label": "variable",
+            "substring": "cyclonic flow",
+            "identifier": null
+        },
+        "112988": {
+            "begin": 27759,
+            "end": 27764,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "112994": {
+            "begin": 27790,
+            "end": 27793,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113000": {
+            "begin": 27802,
+            "end": 27811,
+            "label": "variable",
+            "substring": "pressures",
+            "identifier": null
+        },
+        "113006": {
+            "begin": 27837,
+            "end": 27843,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113012": {
+            "begin": 27958,
+            "end": 27961,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113018": {
+            "begin": 28003,
+            "end": 28019,
+            "label": "variable",
+            "substring": "extreme cyclones",
+            "identifier": null
+        },
+        "113024": {
+            "begin": 28024,
+            "end": 28036,
+            "label": "variable",
+            "substring": "anticyclones",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/178694aa-5f0a-4de5-a193-74e323dc6aa9"
+        },
+        "113030": {
+            "begin": 28048,
+            "end": 28054,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113036": {
+            "begin": 28110,
+            "end": 28113,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113042": {
+            "begin": 28198,
+            "end": 28225,
+            "label": "teleconnection",
+            "substring": "Icelandic and Aleutian lows",
+            "identifier": null
+        },
+        "113048": {
+            "begin": 28234,
+            "end": 28247,
+            "label": "location",
+            "substring": "Siberian high",
+            "identifier": null
+        },
+        "113054": {
+            "begin": 28373,
+            "end": 28376,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113060": {
+            "begin": 28394,
+            "end": 28400,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113066": {
+            "begin": 28431,
+            "end": 28453,
+            "label": "variable",
+            "substring": "terrestrial snow depth",
+            "identifier": null
+        },
+        "113072": {
+            "begin": 28700,
+            "end": 28716,
+            "label": "natural hazard",
+            "substring": "extreme cyclones",
+            "identifier": null
+        },
+        "113078": {
+            "begin": 28771,
+            "end": 28774,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113084": {
+            "begin": 28817,
+            "end": 28837,
+            "label": "natural hazard",
+            "substring": "extreme anticyclones",
+            "identifier": null
+        },
+        "113090": {
+            "begin": 28893,
+            "end": 28909,
+            "label": "natural hazard",
+            "substring": "extreme cyclones",
+            "identifier": null
+        },
+        "113096": {
+            "begin": 28956,
+            "end": 28965,
+            "label": "variable",
+            "substring": "magnitude",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d73c7668-2353-4e8a-a8e2-d6d0d302a3a4"
+        },
+        "113102": {
+            "begin": 29252,
+            "end": 29273,
+            "label": "location",
+            "substring": "Arctic Ocean</heading",
+            "identifier": null
+        },
+        "113108": {
+            "begin": 29300,
+            "end": 29313,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "113114": {
+            "begin": 29317,
+            "end": 29322,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113120": {
+            "begin": 29340,
+            "end": 29354,
+            "label": "location",
+            "substring": "world's oceans",
+            "identifier": null
+        },
+        "113126": {
+            "begin": 29400,
+            "end": 29405,
+            "label": "variable",
+            "substring": "depth",
+            "identifier": null
+        },
+        "113132": {
+            "begin": 29428,
+            "end": 29440,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "113138": {
+            "begin": 29461,
+            "end": 29472,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "113144": {
+            "begin": 29547,
+            "end": 29552,
+            "label": "variable",
+            "substring": "depth",
+            "identifier": null
+        },
+        "113150": {
+            "begin": 29556,
+            "end": 29571,
+            "label": "variable",
+            "substring": "Atlantic inflow",
+            "identifier": null
+        },
+        "113156": {
+            "begin": 29728,
+            "end": 29756,
+            "label": "location",
+            "substring": "Arctic Ocean's surface layer",
+            "identifier": null
+        },
+        "113162": {
+            "begin": 29770,
+            "end": 29781,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "113168": {
+            "begin": 29854,
+            "end": 29864,
+            "label": "location",
+            "substring": "subsurface",
+            "identifier": null
+        },
+        "113174": {
+            "begin": 29919,
+            "end": 29926,
+            "label": "location",
+            "substring": "tropics",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+        },
+        "113180": {
+            "begin": 29931,
+            "end": 29943,
+            "label": "location",
+            "substring": "midlatitudes",
+            "identifier": null
+        },
+        "113186": {
+            "begin": 29987,
+            "end": 30005,
+            "label": "location",
+            "substring": "southern latitudes",
+            "identifier": null
+        },
+        "113192": {
+            "begin": 30011,
+            "end": 30021,
+            "label": "location",
+            "substring": "Antarctica",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f36c803-a972-4191-a345-faad9f6cf813"
+        },
+        "113198": {
+            "begin": 30070,
+            "end": 30088,
+            "label": "variable",
+            "substring": "sea level pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5bca08d-ecb3-4b85-8acd-fed782875aa2"
+        },
+        "113204": {
+            "begin": 30122,
+            "end": 30128,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113210": {
+            "begin": 30129,
+            "end": 30147,
+            "label": "variable",
+            "substring": "sea level pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5bca08d-ecb3-4b85-8acd-fed782875aa2"
+        },
+        "113216": {
+            "begin": 30200,
+            "end": 30203,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113222": {
+            "begin": 30224,
+            "end": 30227,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113228": {
+            "begin": 30384,
+            "end": 30390,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113234": {
+            "begin": 30470,
+            "end": 30484,
+            "label": "variable",
+            "substring": "Atlantic water",
+            "identifier": null
+        },
+        "113240": {
+            "begin": 30505,
+            "end": 30517,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "113246": {
+            "begin": 30619,
+            "end": 30633,
+            "label": "variable",
+            "substring": "Atlantic water",
+            "identifier": null
+        },
+        "113252": {
+            "begin": 30689,
+            "end": 30707,
+            "label": "location",
+            "substring": "upper Arctic Ocean",
+            "identifier": null
+        },
+        "113258": {
+            "begin": 30784,
+            "end": 30794,
+            "label": "variable",
+            "substring": "freshwater",
+            "identifier": null
+        },
+        "113264": {
+            "begin": 30816,
+            "end": 30829,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "113270": {
+            "begin": 30853,
+            "end": 30866,
+            "label": "location",
+            "substring": "Pacific water",
+            "identifier": null
+        },
+        "113276": {
+            "begin": 30887,
+            "end": 30894,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "113282": {
+            "begin": 30919,
+            "end": 30931,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "113288": {
+            "begin": 31037,
+            "end": 31047,
+            "label": "variable",
+            "substring": "ice volume",
+            "identifier": null
+        },
+        "113294": {
+            "begin": 31078,
+            "end": 31092,
+            "label": "variable",
+            "substring": "Arctic sea ice",
+            "identifier": null
+        },
+        "113300": {
+            "begin": 31148,
+            "end": 31160,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "113306": {
+            "begin": 31247,
+            "end": 31259,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "113312": {
+            "begin": 31341,
+            "end": 31352,
+            "label": "location",
+            "substring": "Fram Strait",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/aae8d964-6870-45ea-9fff-8c1b580d614d"
+        },
+        "113318": {
+            "begin": 31417,
+            "end": 31444,
+            "label": "location",
+            "substring": "Canadian Arctic Archipelago",
+            "identifier": null
+        },
+        "113324": {
+            "begin": 31446,
+            "end": 31449,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113330": {
+            "begin": 31555,
+            "end": 31566,
+            "label": "location",
+            "substring": "Fram Strait",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/aae8d964-6870-45ea-9fff-8c1b580d614d"
+        },
+        "113336": {
+            "begin": 31619,
+            "end": 31630,
+            "label": "location",
+            "substring": "Fram Strait",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/aae8d964-6870-45ea-9fff-8c1b580d614d"
+        },
+        "113342": {
+            "begin": 31692,
+            "end": 31695,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113348": {
+            "begin": 31806,
+            "end": 31809,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113354": {
+            "begin": 31932,
+            "end": 31935,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113360": {
+            "begin": 32002,
+            "end": 32013,
+            "label": "location",
+            "substring": "Fram Strait",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/aae8d964-6870-45ea-9fff-8c1b580d614d"
+        },
+        "113366": {
+            "begin": 32145,
+            "end": 32155,
+            "label": "variable",
+            "substring": "freshwater",
+            "identifier": null
+        },
+        "113372": {
+            "begin": 32274,
+            "end": 32286,
+            "label": "location",
+            "substring": "Labrador Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0006e246-4296-448c-9b81-a0831cad7f1c"
+        },
+        "113378": {
+            "begin": 32309,
+            "end": 32322,
+            "label": "location",
+            "substring": "Greenland Sea",
+            "identifier": null
+        },
+        "113384": {
+            "begin": 32336,
+            "end": 32348,
+            "label": "location",
+            "substring": "Labrador Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0006e246-4296-448c-9b81-a0831cad7f1c"
+        },
+        "113390": {
+            "begin": 32475,
+            "end": 32500,
+            "label": "variable",
+            "substring": "maximum mixed layer depth",
+            "identifier": null
+        },
+        "113396": {
+            "begin": 32508,
+            "end": 32520,
+            "label": "location",
+            "substring": "Labrador Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0006e246-4296-448c-9b81-a0831cad7f1c"
+        },
+        "113402": {
+            "begin": 32724,
+            "end": 32736,
+            "label": "location",
+            "substring": "Labrador Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0006e246-4296-448c-9b81-a0831cad7f1c"
+        },
+        "113408": {
+            "begin": 32737,
+            "end": 32747,
+            "label": "variable",
+            "substring": "convection",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ebce0874-7635-4094-8ef4-968851873771"
+        },
+        "113414": {
+            "begin": 32837,
+            "end": 32848,
+            "label": "variable",
+            "substring": "volume flux",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/23be936b-4614-4f9b-a2ef-efe3a4725cc5"
+        },
+        "113420": {
+            "begin": 32861,
+            "end": 32864,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113426": {
+            "begin": 32934,
+            "end": 32937,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113432": {
+            "begin": 32975,
+            "end": 32993,
+            "label": "variable",
+            "substring": "sea surface height",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1ed24fe1-d0d5-46d1-8d22-8ac25d289c75"
+        },
+        "113438": {
+            "begin": 32997,
+            "end": 33007,
+            "label": "location",
+            "substring": "Baffin Bay",
+            "identifier": null
+        },
+        "113444": {
+            "begin": 33080,
+            "end": 33083,
+            "label": "location",
+            "substring": "CAA",
+            "identifier": null
+        },
+        "113450": {
+            "begin": 33084,
+            "end": 33095,
+            "label": "variable",
+            "substring": "volume flux",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/23be936b-4614-4f9b-a2ef-efe3a4725cc5"
+        },
+        "113456": {
+            "begin": 33114,
+            "end": 33124,
+            "label": "variable",
+            "substring": "convection",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ebce0874-7635-4094-8ef4-968851873771"
+        },
+        "113462": {
+            "begin": 33132,
+            "end": 33144,
+            "label": "location",
+            "substring": "Labrador Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0006e246-4296-448c-9b81-a0831cad7f1c"
+        },
+        "113468": {
+            "begin": 33210,
+            "end": 33215,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113474": {
+            "begin": 33266,
+            "end": 33280,
+            "label": "model",
+            "substring": "CCSM3</heading",
+            "identifier": null
+        },
+        "113480": {
+            "begin": 33289,
+            "end": 33294,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113486": {
+            "begin": 33297,
+            "end": 33303,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113492": {
+            "begin": 33382,
+            "end": 33387,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113498": {
+            "begin": 33445,
+            "end": 33448,
+            "label": "model",
+            "substring": "RCP",
+            "identifier": null
+        },
+        "113504": {
+            "begin": 33494,
+            "end": 33499,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113510": {
+            "begin": 33518,
+            "end": 33542,
+            "label": "model",
+            "substring": "SRES emissions scenarios",
+            "identifier": null
+        },
+        "113516": {
+            "begin": 33591,
+            "end": 33608,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "113522": {
+            "begin": 33693,
+            "end": 33706,
+            "label": "model",
+            "substring": "SRES scenario",
+            "identifier": null
+        },
+        "113528": {
+            "begin": 33724,
+            "end": 33729,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113534": {
+            "begin": 33761,
+            "end": 33767,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": null
+        },
+        "113540": {
+            "begin": 33792,
+            "end": 33799,
+            "label": "model",
+            "substring": "SRES A2",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/666b0926-b509-4680-b551-530d8aaca9ec"
+        },
+        "113546": {
+            "begin": 33839,
+            "end": 33857,
+            "label": "variable",
+            "substring": "CO 2 concentration",
+            "identifier": null
+        },
+        "113552": {
+            "begin": 33926,
+            "end": 33932,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": null
+        },
+        "113558": {
+            "begin": 33940,
+            "end": 33957,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "113564": {
+            "begin": 34001,
+            "end": 34007,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": null
+        },
+        "113570": {
+            "begin": 34162,
+            "end": 34167,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113576": {
+            "begin": 34170,
+            "end": 34176,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": null
+        },
+        "113582": {
+            "begin": 34221,
+            "end": 34226,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113588": {
+            "begin": 34229,
+            "end": 34231,
+            "label": "model",
+            "substring": "A2",
+            "identifier": null
+        },
+        "113594": {
+            "begin": 34337,
+            "end": 34346,
+            "label": "variable",
+            "substring": "magnitude",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d73c7668-2353-4e8a-a8e2-d6d0d302a3a4"
+        },
+        "113600": {
+            "begin": 34361,
+            "end": 34366,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113606": {
+            "begin": 34624,
+            "end": 34629,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113612": {
+            "begin": 34645,
+            "end": 34650,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113618": {
+            "begin": 34794,
+            "end": 34800,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113624": {
+            "begin": 34801,
+            "end": 34808,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "113630": {
+            "begin": 34856,
+            "end": 34859,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113636": {
+            "begin": 34880,
+            "end": 34886,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113642": {
+            "begin": 34976,
+            "end": 34981,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113648": {
+            "begin": 34992,
+            "end": 35005,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "113654": {
+            "begin": 35017,
+            "end": 35022,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113660": {
+            "begin": 35027,
+            "end": 35032,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113666": {
+            "begin": 35081,
+            "end": 35091,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "113672": {
+            "begin": 35108,
+            "end": 35113,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113678": {
+            "begin": 35153,
+            "end": 35159,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113684": {
+            "begin": 35160,
+            "end": 35165,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "113690": {
+            "begin": 35185,
+            "end": 35190,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113696": {
+            "begin": 35201,
+            "end": 35206,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113702": {
+            "begin": 35255,
+            "end": 35260,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "113708": {
+            "begin": 35350,
+            "end": 35355,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "113714": {
+            "begin": 35419,
+            "end": 35424,
+            "label": "location",
+            "substring": "polar",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c2ad4c0-d1ee-4940-85c7-53d903b500ab"
+        },
+        "113720": {
+            "begin": 35468,
+            "end": 35473,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113726": {
+            "begin": 35497,
+            "end": 35503,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113732": {
+            "begin": 35504,
+            "end": 35510,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": null
+        },
+        "113738": {
+            "begin": 35536,
+            "end": 35546,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "113744": {
+            "begin": 35567,
+            "end": 35572,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113750": {
+            "begin": 35623,
+            "end": 35628,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "113756": {
+            "begin": 35673,
+            "end": 35678,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113762": {
+            "begin": 35707,
+            "end": 35713,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113768": {
+            "begin": 35778,
+            "end": 35791,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "113774": {
+            "begin": 35797,
+            "end": 35812,
+            "label": "variable",
+            "substring": "air temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb"
+        },
+        "113780": {
+            "begin": 35817,
+            "end": 35822,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113786": {
+            "begin": 35847,
+            "end": 35852,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113792": {
+            "begin": 35858,
+            "end": 35881,
+            "label": "variable",
+            "substring": "Arctic-mean temperature",
+            "identifier": null
+        },
+        "113798": {
+            "begin": 35938,
+            "end": 35944,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113804": {
+            "begin": 36075,
+            "end": 36084,
+            "label": "variable",
+            "substring": "magnitude",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d73c7668-2353-4e8a-a8e2-d6d0d302a3a4"
+        },
+        "113810": {
+            "begin": 36113,
+            "end": 36118,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113816": {
+            "begin": 36130,
+            "end": 36140,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "113822": {
+            "begin": 36179,
+            "end": 36203,
+            "label": "variable",
+            "substring": "Arctic ice concentration",
+            "identifier": null
+        },
+        "113828": {
+            "begin": 36230,
+            "end": 36236,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113834": {
+            "begin": 36262,
+            "end": 36275,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "113840": {
+            "begin": 36315,
+            "end": 36320,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113846": {
+            "begin": 36338,
+            "end": 36344,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113852": {
+            "begin": 36358,
+            "end": 36376,
+            "label": "variable",
+            "substring": "sea level pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5bca08d-ecb3-4b85-8acd-fed782875aa2"
+        },
+        "113858": {
+            "begin": 36424,
+            "end": 36434,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "113864": {
+            "begin": 36480,
+            "end": 36485,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "113870": {
+            "begin": 36498,
+            "end": 36503,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113876": {
+            "begin": 36545,
+            "end": 36550,
+            "label": "variable",
+            "substring": "cloud",
+            "identifier": null
+        },
+        "113882": {
+            "begin": 36600,
+            "end": 36618,
+            "label": "natural hazard",
+            "substring": "greenhouse warming",
+            "identifier": null
+        },
+        "113888": {
+            "begin": 36657,
+            "end": 36673,
+            "label": "location",
+            "substring": "polar atmosphere",
+            "identifier": null
+        },
+        "113894": {
+            "begin": 36754,
+            "end": 36766,
+            "label": "variable",
+            "substring": "cloud amount",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70f5b8a3-3f52-467c-957c-7ca98e1c6184"
+        },
+        "113900": {
+            "begin": 36821,
+            "end": 36846,
+            "label": "variable",
+            "substring": "ambient relative humidity",
+            "identifier": null
+        },
+        "113906": {
+            "begin": 36869,
+            "end": 36874,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113912": {
+            "begin": 36914,
+            "end": 36930,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "113918": {
+            "begin": 36988,
+            "end": 36991,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "113924": {
+            "begin": 37068,
+            "end": 37083,
+            "label": "variable",
+            "substring": "deep convection",
+            "identifier": null
+        },
+        "113930": {
+            "begin": 37116,
+            "end": 37121,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "113936": {
+            "begin": 37186,
+            "end": 37198,
+            "label": "location",
+            "substring": "Nares Strait",
+            "identifier": null
+        },
+        "113942": {
+            "begin": 37202,
+            "end": 37207,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113948": {
+            "begin": 37241,
+            "end": 37268,
+            "label": "location",
+            "substring": "Canadian Arctic Archipelago",
+            "identifier": null
+        },
+        "113954": {
+            "begin": 37405,
+            "end": 37411,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113960": {
+            "begin": 37420,
+            "end": 37431,
+            "label": "location",
+            "substring": "Fram Strait",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/aae8d964-6870-45ea-9fff-8c1b580d614d"
+        },
+        "113966": {
+            "begin": 37512,
+            "end": 37517,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "113972": {
+            "begin": 37520,
+            "end": 37526,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "113978": {
+            "begin": 37554,
+            "end": 37572,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": null
+        },
+        "113984": {
+            "begin": 37585,
+            "end": 37602,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "113990": {
+            "begin": 37700,
+            "end": 37705,
+            "label": "project",
+            "substring": "CMIP3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a04c8fb-53aa-465d-803d-d0aaad32be12"
+        },
+        "113996": {
+            "begin": 37706,
+            "end": 37710,
+            "label": "model",
+            "substring": "GCMs",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3ce7f4f0-d2db-4352-8762-d88296f7aa15"
+        },
+        "114002": {
+            "begin": 37870,
+            "end": 37877,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "114008": {
+            "begin": 37945,
+            "end": 37956,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "114014": {
+            "begin": 37958,
+            "end": 37971,
+            "label": "variable",
+            "substring": "precipitation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+        },
+        "114020": {
+            "begin": 37973,
+            "end": 37983,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "114026": {
+            "begin": 37985,
+            "end": 37997,
+            "label": "variable",
+            "substring": "air pressure",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/001fe2af-7b28-47fb-abf8-e60f9038c1c2"
+        },
+        "114032": {
+            "begin": 38096,
+            "end": 38117,
+            "label": "natural hazard",
+            "substring": "Arctic climate change",
+            "identifier": null
+        },
+        "114038": {
+            "begin": 38187,
+            "end": 38205,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": null
+        },
+        "114044": {
+            "begin": 38206,
+            "end": 38215,
+            "label": "variable",
+            "substring": "magnitude",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d73c7668-2353-4e8a-a8e2-d6d0d302a3a4"
+        },
+        "114050": {
+            "begin": 38275,
+            "end": 38281,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": null
+        },
+        "114056": {
+            "begin": 38327,
+            "end": 38332,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "114062": {
+            "begin": 38363,
+            "end": 38369,
+            "label": "model",
+            "substring": "RCP2.5",
+            "identifier": null
+        },
+        "114068": {
+            "begin": 38470,
+            "end": 38476,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114074": {
+            "begin": 38497,
+            "end": 38500,
+            "label": "model",
+            "substring": "RCP",
+            "identifier": null
+        },
+        "114080": {
+            "begin": 38594,
+            "end": 38611,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "114086": {
+            "begin": 38691,
+            "end": 38708,
+            "label": "variable",
+            "substring": "radiative forcing",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+        },
+        "114092": {
+            "begin": 38739,
+            "end": 38754,
+            "label": "variable",
+            "substring": "air temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb"
+        },
+        "114098": {
+            "begin": 38894,
+            "end": 38899,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "114104": {
+            "begin": 39359,
+            "end": 39366,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+        },
+        "114110": {
+            "begin": 39391,
+            "end": 39402,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "114116": {
+            "begin": 39429,
+            "end": 39442,
+            "label": "variable",
+            "substring": "energy fluxes",
+            "identifier": null
+        },
+        "114122": {
+            "begin": 39472,
+            "end": 39478,
+            "label": "variable",
+            "substring": "clouds",
+            "identifier": null
+        },
+        "114128": {
+            "begin": 39645,
+            "end": 39661,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114134": {
+            "begin": 39667,
+            "end": 39670,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "114140": {
+            "begin": 39753,
+            "end": 39756,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "114146": {
+            "begin": 39804,
+            "end": 39820,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114152": {
+            "begin": 39828,
+            "end": 39834,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114158": {
+            "begin": 39886,
+            "end": 39898,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "114164": {
+            "begin": 39946,
+            "end": 39952,
+            "label": "model",
+            "substring": "RCP8.5",
+            "identifier": null
+        },
+        "114170": {
+            "begin": 39953,
+            "end": 39961,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114176": {
+            "begin": 40047,
+            "end": 40061,
+            "label": "model",
+            "substring": "sea ice extent",
+            "identifier": null
+        },
+        "114182": {
+            "begin": 40176,
+            "end": 40181,
+            "label": "project",
+            "substring": "CMIP3",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6a04c8fb-53aa-465d-803d-d0aaad32be12"
+        },
+        "114188": {
+            "begin": 40254,
+            "end": 40262,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114194": {
+            "begin": 40288,
+            "end": 40293,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114200": {
+            "begin": 40365,
+            "end": 40378,
+            "label": "location",
+            "substring": "Arctic region",
+            "identifier": null
+        },
+        "114206": {
+            "begin": 40415,
+            "end": 40438,
+            "label": "variable",
+            "substring": "surface air temperature",
+            "identifier": null
+        },
+        "114212": {
+            "begin": 40452,
+            "end": 40458,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114218": {
+            "begin": 40768,
+            "end": 40781,
+            "label": "location",
+            "substring": "ocean regions",
+            "identifier": null
+        },
+        "114224": {
+            "begin": 40798,
+            "end": 40808,
+            "label": "location",
+            "substring": "Bering Sea",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d85ae1ed-4b5f-440d-aaf0-7f9d605fec3b"
+        },
+        "114230": {
+            "begin": 40813,
+            "end": 40827,
+            "label": "location",
+            "substring": "Sea of Okhotsk",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a63a576-6ceb-43d7-a606-b7a924881000"
+        },
+        "114236": {
+            "begin": 40956,
+            "end": 40969,
+            "label": "location",
+            "substring": "Bering Strait",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd16fdb1-ead7-41bc-981b-9ed725dd8f7f"
+        },
+        "114242": {
+            "begin": 41041,
+            "end": 41055,
+            "label": "variable",
+            "substring": "sea ice extent",
+            "identifier": null
+        },
+        "114248": {
+            "begin": 41373,
+            "end": 41389,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114254": {
+            "begin": 41415,
+            "end": 41426,
+            "label": "variable",
+            "substring": "temperature",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+        },
+        "114260": {
+            "begin": 41428,
+            "end": 41445,
+            "label": "variable",
+            "substring": "ice concentration",
+            "identifier": null
+        },
+        "114266": {
+            "begin": 41451,
+            "end": 41461,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "114272": {
+            "begin": 41649,
+            "end": 41655,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114278": {
+            "begin": 41711,
+            "end": 41714,
+            "label": "model",
+            "substring": "RCP",
+            "identifier": null
+        },
+        "114284": {
+            "begin": 41715,
+            "end": 41733,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": null
+        },
+        "114290": {
+            "begin": 41845,
+            "end": 41864,
+            "label": "variable",
+            "substring": "decadal variability",
+            "identifier": null
+        },
+        "114296": {
+            "begin": 41901,
+            "end": 41907,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114302": {
+            "begin": 41908,
+            "end": 41921,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "114308": {
+            "begin": 41980,
+            "end": 41998,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": null
+        },
+        "114314": {
+            "begin": 42038,
+            "end": 42061,
+            "label": "natural hazard",
+            "substring": "extreme Arctic cyclones",
+            "identifier": null
+        },
+        "114320": {
+            "begin": 42236,
+            "end": 42239,
+            "label": "variable",
+            "substring": "SLP",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4ea1b3cc-d4d2-4803-a416-753cdd1ec451"
+        },
+        "114326": {
+            "begin": 42276,
+            "end": 42289,
+            "label": "variable",
+            "substring": "sea ice cover",
+            "identifier": null
+        },
+        "114332": {
+            "begin": 42348,
+            "end": 42354,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114338": {
+            "begin": 42391,
+            "end": 42406,
+            "label": "variable",
+            "substring": "coastal erosion",
+            "identifier": null
+        },
+        "114344": {
+            "begin": 42420,
+            "end": 42435,
+            "label": "variable",
+            "substring": "coastal erosion",
+            "identifier": null
+        },
+        "114350": {
+            "begin": 42471,
+            "end": 42477,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114356": {
+            "begin": 42507,
+            "end": 42511,
+            "label": "project",
+            "substring": "ACIA",
+            "identifier": null
+        },
+        "114362": {
+            "begin": 42542,
+            "end": 42554,
+            "label": "location",
+            "substring": "Arctic Ocean",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4e009e27-aa50-423e-8407-6cba81ff5f2c"
+        },
+        "114368": {
+            "begin": 42577,
+            "end": 42582,
+            "label": "variable",
+            "substring": "depth",
+            "identifier": null
+        },
+        "114374": {
+            "begin": 42690,
+            "end": 42704,
+            "label": "location",
+            "substring": "Atlantic water",
+            "identifier": null
+        },
+        "114380": {
+            "begin": 42732,
+            "end": 42753,
+            "label": "variable",
+            "substring": "temperature increases",
+            "identifier": null
+        },
+        "114386": {
+            "begin": 42763,
+            "end": 42770,
+            "label": "location",
+            "substring": "surface",
+            "identifier": null
+        },
+        "114392": {
+            "begin": 42784,
+            "end": 42800,
+            "label": "variable",
+            "substring": "salinity changes",
+            "identifier": null
+        },
+        "114398": {
+            "begin": 42861,
+            "end": 42868,
+            "label": "location",
+            "substring": "surface",
+            "identifier": null
+        },
+        "114404": {
+            "begin": 42925,
+            "end": 42931,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114410": {
+            "begin": 42978,
+            "end": 42984,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114416": {
+            "begin": 43072,
+            "end": 43091,
+            "label": "variable",
+            "substring": "decadal variability",
+            "identifier": null
+        },
+        "114422": {
+            "begin": 43096,
+            "end": 43112,
+            "label": "variable",
+            "substring": "extreme cyclones",
+            "identifier": null
+        },
+        "114428": {
+            "begin": 43174,
+            "end": 43192,
+            "label": "variable",
+            "substring": "Arctic Oscillation",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/98e5a7e4-b946-474a-8214-c1b7b3e5f976"
+        },
+        "114434": {
+            "begin": 43226,
+            "end": 43244,
+            "label": "variable",
+            "substring": "greenhouse forcing",
+            "identifier": null
+        },
+        "114440": {
+            "begin": 43326,
+            "end": 43332,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d40d9651-aa19-4b2c-9764-7371bb64b9a7"
+        },
+        "114446": {
+            "begin": 43398,
+            "end": 43403,
+            "label": "model",
+            "substring": "CCSM4",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c266a473-338f-4fe9-965c-f8ae853ff57b"
+        },
+        "114452": {
+            "begin": 43478,
+            "end": 43505,
+            "label": "provider",
+            "substring": "National Science Foundation",
+            "identifier": null
+        },
+        "114458": {
+            "begin": 43557,
+            "end": 43574,
+            "label": "provider",
+            "substring": "Office of Science",
+            "identifier": null
+        },
+        "114464": {
+            "begin": 43576,
+            "end": 43579,
+            "label": "provider",
+            "substring": "BER",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/34cb53af-f2cd-4b04-8357-25503e34b92a"
+        },
+        "114470": {
+            "begin": 43588,
+            "end": 43613,
+            "label": "provider",
+            "substring": "U.S. Department of Energy",
+            "identifier": null
+        },
+        "114476": {
+            "begin": 43641,
+            "end": 43653,
+            "label": "project",
+            "substring": "CESM project",
+            "identifier": null
+        },
+        "114482": {
+            "begin": 43668,
+            "end": 43716,
+            "label": "provider",
+            "substring": "Computational and Information Systems Laboratory",
+            "identifier": null
+        },
+        "114488": {
+            "begin": 43718,
+            "end": 43722,
+            "label": "provider",
+            "substring": "CISL",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7bd27ea3-f09d-47ca-8659-bbf0a4d17144"
+        },
+        "114494": {
+            "begin": 43731,
+            "end": 43771,
+            "label": "provider",
+            "substring": "National Center for Atmospheric Research",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6ebec28f-5920-492b-856e-7fe9a9d7eca3"
+        },
+        "114500": {
+            "begin": 43802,
+            "end": 43816,
+            "label": "instrument",
+            "substring": "CISL computing",
+            "identifier": null
+        },
+        "114506": {
+            "begin": 43821,
+            "end": 43828,
+            "label": "variable",
+            "substring": "storage",
+            "identifier": null
+        },
+        "114512": {
+            "begin": 43840,
+            "end": 43848,
+            "label": "instrument",
+            "substring": "Bluefire",
+            "identifier": null
+        },
+        "114518": {
+            "begin": 43868,
+            "end": 43878,
+            "label": "instrument",
+            "substring": "IBM Power6",
+            "identifier": null
+        },
+        "114524": {
+            "begin": 43968,
+            "end": 43973,
+            "label": "instrument",
+            "substring": "GLADE",
+            "identifier": null
+        },
+        "114530": {
+            "begin": 44045,
+            "end": 44049,
+            "label": "variable",
+            "substring": "CISL",
+            "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7bd27ea3-f09d-47ca-8659-bbf0a4d17144"
+        },
+        "114536": {
+            "begin": 44058,
+            "end": 44070,
+            "label": "instrument",
+            "substring": "HPSS archive",
+            "identifier": null
+        },
+        "114537": {
+            "begin": 13866,
+            "end": 13893,
+            "label": "model",
+            "substring": "SRES A1B emissions scenario",
+            "identifier": null
+        },
+        "114538": {
+            "begin": 573,
+            "end": 594,
+            "label": "natural hazard",
+            "substring": "Arctic climate change",
+            "identifier": null
+        },
+        "114539": {
+            "begin": 1019,
+            "end": 1040,
+            "label": "natural hazard",
+            "substring": "Arctic climate change",
+            "identifier": null
+        },
+        "114540": {
+            "begin": 17734,
+            "end": 17755,
+            "label": "variable",
+            "substring": "temperature increases",
+            "identifier": null
+        },
+        "114541": {
+            "begin": 17607,
+            "end": 17625,
+            "label": "natural hazard",
+            "substring": "greenhouse warming",
+            "identifier": null
+        },
+        "114542": {
+            "begin": 20235,
+            "end": 20253,
+            "label": "natural hazard",
+            "substring": "greenhouse warming",
+            "identifier": null
+        },
+        "114543": {
+            "begin": 479,
+            "end": 496,
+            "label": "variable",
+            "substring": "ice concentration",
+            "identifier": null
+        },
+        "114544": {
+            "begin": 7947,
+            "end": 7964,
+            "label": "variable",
+            "substring": "ice concentration",
+            "identifier": null
+        },
+        "114545": {
+            "begin": 13202,
+            "end": 13219,
+            "label": "variable",
+            "substring": "ice concentration",
+            "identifier": null
+        },
+        "114546": {
+            "begin": 1119,
+            "end": 1135,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114547": {
+            "begin": 1823,
+            "end": 1839,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114548": {
+            "begin": 8137,
+            "end": 8153,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114549": {
+            "begin": 10872,
+            "end": 10888,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114550": {
+            "begin": 16878,
+            "end": 16894,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114551": {
+            "begin": 16925,
+            "end": 16941,
+            "label": "model",
+            "substring": "ensemble members",
+            "identifier": null
+        },
+        "114552": {
+            "begin": 11624,
+            "end": 11639,
+            "label": "variable",
+            "substring": "coastal erosion",
+            "identifier": null
+        },
+        "114553": {
+            "begin": 1434,
+            "end": 1449,
+            "label": "variable",
+            "substring": "air temperature",
+            "identifier": null
+        },
+        "114554": {
+            "begin": 1560,
+            "end": 1573,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "114555": {
+            "begin": 2114,
+            "end": 2127,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "114556": {
+            "begin": 17228,
+            "end": 17241,
+            "label": "variable",
+            "substring": "warming trend",
+            "identifier": null
+        },
+        "114557": {
+            "begin": 9112,
+            "end": 9125,
+            "label": "location",
+            "substring": "Siberian high",
+            "identifier": null
+        },
+        "114558": {
+            "begin": 7625,
+            "end": 7635,
+            "label": "location",
+            "substring": "atmosphere",
+            "identifier": null
+        },
+        "114559": {
+            "begin": 437,
+            "end": 447,
+            "label": "variable",
+            "substring": "cloudiness",
+            "identifier": null
+        },
+        "114560": {
+            "begin": 11822,
+            "end": 11831,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "114561": {
+            "begin": 12544,
+            "end": 12553,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "114562": {
+            "begin": 15331,
+            "end": 15340,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "114563": {
+            "begin": 15930,
+            "end": 15939,
+            "label": "variable",
+            "substring": "ice cover",
+            "identifier": null
+        },
+        "114564": {
+            "begin": 12940,
+            "end": 12949,
+            "label": "variable",
+            "substring": "magnitude",
+            "identifier": null
+        },
+        "114565": {
+            "begin": 12264,
+            "end": 12272,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114566": {
+            "begin": 13667,
+            "end": 13675,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114567": {
+            "begin": 14204,
+            "end": 14212,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114568": {
+            "begin": 15972,
+            "end": 15980,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114569": {
+            "begin": 17091,
+            "end": 17099,
+            "label": "model",
+            "substring": "ensemble",
+            "identifier": null
+        },
+        "114570": {
+            "begin": 12979,
+            "end": 12986,
+            "label": "variable",
+            "substring": "sea ice",
+            "identifier": null
+        },
+        "114571": {
+            "begin": 7618,
+            "end": 7624,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": null
+        },
+        "114572": {
+            "begin": 10087,
+            "end": 10093,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": null
+        },
+        "114573": {
+            "begin": 14886,
+            "end": 14892,
+            "label": "location",
+            "substring": "Arctic",
+            "identifier": null
+        },
+        "114574": {
+            "begin": 847,
+            "end": 852,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114575": {
+            "begin": 3572,
+            "end": 3577,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114576": {
+            "begin": 3718,
+            "end": 3723,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114577": {
+            "begin": 3951,
+            "end": 3956,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114578": {
+            "begin": 5594,
+            "end": 5599,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114579": {
+            "begin": 10435,
+            "end": 10440,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114580": {
+            "begin": 10752,
+            "end": 10757,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114581": {
+            "begin": 13777,
+            "end": 13782,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114582": {
+            "begin": 13977,
+            "end": 13982,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114583": {
+            "begin": 14333,
+            "end": 14338,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114584": {
+            "begin": 14758,
+            "end": 14763,
+            "label": "model",
+            "substring": "CCSM3",
+            "identifier": null
+        },
+        "114585": {
+            "begin": 8490,
+            "end": 8495,
+            "label": "variable",
+            "substring": "depth",
+            "identifier": null
+        },
+        "114586": {
+            "begin": 10121,
+            "end": 10125,
+            "label": "project",
+            "substring": "ACIA",
+            "identifier": null
+        },
+        "114587": {
+            "begin": 11671,
+            "end": 11675,
+            "label": "project",
+            "substring": "ACIA",
+            "identifier": null
+        },
+        "114588": {
+            "begin": 17270,
+            "end": 17273,
+            "label": "model",
+            "substring": "RCP",
+            "identifier": null
+        },
+        "114589": {
+            "begin": 5346,
+            "end": 5348,
+            "label": "model",
+            "substring": "A2",
+            "identifier": null
+        },
+        "114590": {
+            "begin": 13927,
+            "end": 13929,
+            "label": "model",
+            "substring": "A2",
+            "identifier": null
+        }
+    },
+    "relations": {},
+    "text": "<heading>ABSTRACT</heading>\nThe authors summarize the twenty-first-century Arctic climate simulated by NCAR's Community Climate System Model, version 4 (CCSM4). Under a strong radiative forcing scenario, the model simulates a much warmer, wetter, cloudier, and stormier Arctic climate with considerably less sea ice and a fresher Arctic Ocean. The high correlation among the variables composing these changes-temperature, precipitation, cloudiness, sea level pressure (SLP), and ice concentration-suggests that their close coupling collectively represents a fingerprint of Arctic climate change. Although the projected changes in CCSM4 are generally consistent with those in other GCMs, several noteworthy features are identified. Despite more global warming in CCSM4, Arctic changes are generally less than under comparable greenhouse forcing in CCSM3, as represented by Arctic amplification (16% weaker) and the date of a seasonally ice-free Arctic Ocean (20 years later). Autumn is the season of the most pronounced Arctic climate change among all the primary variables. The changes are very similar across the five ensemble members, although SLP displays the largest internal variability. The SLP response exhibits a significant trend toward stronger extreme Arctic cyclones, implying greater wave activity that would promote coastal erosion. Based on a commonly used definition of the Arctic (the area encompassing the 108C July air temperature isotherm), the region shrinks by about 40% during the twenty-first century, in conjunction with a nearly 10-K warming trend poleward of 708N. Despite this pronounced long-term warming, CCSM4 simulates a hiatus in the secular Arctic climate trends during a decade-long stretch in the 2040s and to a lesser extent in the 2090s. These pauses occur despite averaging over five ensemble members and are remarkable because they happen under the most extreme greenhouseforcing scenario and in the most climatically sensitive region of the world.\n<heading>Introduction</heading>\nNoticeable climate change has recently emerged in the Arctic, as evidenced by a decades-long warming trend that has triggered a number of pronounced environmental changes, including expanded vegetation, altered ecosystems, reduced spring-summer snow cover, and declining sea ice (Stroeve et al. 2007;Hegseth and Sundfjord 2008;Bhatt et al. 2010;Brown et al. 2010). The retreat of the ice pack has been particularly dramatic during summer, culminating in the melt seasons of 2007-10 having the four lowest ice extents on record (Perovich et al. 2010). Because these kinds of observed changes are consistent with the Arctic's response to greenhouse forcing projected by climate models, there is widespread concern that the recent behavior is a harbinger of more transformative regional climate change this century that may reverberate globally. The Arctic is considered to be the most climatically sensitive area in the world (Solomon et al. 2007), and there is both observational and modeling evidence that its secular climate trends are punctuated by episodes of abrupt change (Alley et al. 1993;Holland et al. 2006). Accordingly, the polar and global change communities need the most reliable, up-to-date information on model projections of impending Arctic climate change, so that decision makers can responsibly assess the threats and opportunities emerging in the near future.\nVersions of the Community Climate System Model (CCSM) have been used widely in studies of global and regional climate change for a number of years, especially version 3 (CCSM3), which was an important contribution to the Coupled Model Intercomparison Project, version 3 (CMIP3). Many research projects have utilized CCSM3 for analyzing Arctic climate, including the region's greenhouse-forced response with respect to sea ice, clouds, permafrost, etc. (Bhatt et al. 2008;Lawrence et al. 2008;Vavrus et al. 2011). Although several overview papers on CCSM3's performance and sensitivity appeared in a previous Journal of Climate special issue in 2006, no article devoted specifically to Arctic climate change was included.\nThe present paper aims to remedy that absence by providing the major characteristics of projected twentyfirst-century Arctic climate change in version 4 of the model (CCSM4). Our intention is to provide an overview of the major climatic features that would be of greatest interest to the global climate change community. As such, we focus in this study on projections of temperature, sea ice, precipitation, cloud amount, sea level pressure, and the upper ocean, while leaving most of the assessment of CCSM4's simulated present-day Arctic climate for two related papers (de Boer et al. 2012;Jahn et al. 2012). We also only consider the model response to the strongest greenhouse forcing among the representative concentration pathways (RCPs) being used in the new Coupled Model Intercomparison Project, version 5 (CMIP5). This high-end scenario is called RCP8.5 to denote a radiative forcing anomaly of 8.5 W m 22 by the year 2100, relative to preindustrial conditions, caused primarily by the atmospheric CO 2 concentration rising to slightly over 900 ppm by the end of this century. Compared with the more familiar Special Report on Emissions Scenarios (SRES; Nakicenovic et al. 2000), this trajectory is similar to the A2 scenario, which consisted of a radiative forcing of 8.0 W m 22 by the year 2100 (CO 2 rise to 830 ppm; Meehl et al. 2007;Meinshausen et al. 2011).\n<heading>Model description and performance</heading>\nThe CCSM4 is a considerable advancement from CCSM3 (Collins et al. 2006), with major enhancements in all of the component models. The atmospheric component of CCSM4 is the Community Atmosphere Model, version 4 (CAM4). This component uses the Lin-Rood finite-volume dynamical core (Lin 2004), employing an atmospheric model resolution of 18 horizontally and 26 levels in the vertical. The model includes improvements to the deep convection scheme (Richter and Rasch 2008;Neale et al. 2008) and a ''freeze dry'' parameterization to improve Arctic low cloud cover (Vavrus and Waliser 2008). The CAM4 model is described more fully in Neale et al. (2011, manuscript submitted to J. Climate), and coupled simulations from the CCSM4 model are presented in Gent et al. (2011).\nThe land model component of CCSM4 is the Community Land Model 4.0. New improvements include modifications to the hydrology and canopy integrations, as discussed in Lawrence et al. (2010, manuscript submitted to J. Adv. Model. Earth Syst.). CCSM4 uses the Los Alamos National Laboratory Community Ice CodE (CICE4.0; Hunke and Lipscomb 2004). New sea ice model physics and capabilities include a shortwave radiative transfer scheme that incorporates a melt pond parameterization and the deposition and cycling of aerosols such as black carbon. These improvements are described in Holland et al. (2012). The ocean model component uses the Parallel Ocean Program, version 2 (POP2; Smith et al. 2010) and is described more fully in Danabasoglu et al. (2012). Numerous improvements have been made to the ocean mixing parameterizations and a new ocean overflow parameterization has been incorporated to simulate the dense flow over the Denmark Strait and Faroe-Scotland Ridge in the North Atlantic (Danabasoglu et al. 2010). Both the ocean (60 vertical levels) and sea ice model use a nominally 18 grid, which includes higher meridional resolution near the equator and has a North Pole displaced into Greenland.\nA comprehensive description and assessment of CCSM4's late twentieth-century simulation of the Arctic atmosphere can be found in de Boer et al. (2012), while a similar presentation of the simulated sea ice is provided in Jahn et al. (2012). We summarize here some of the major features of CCSM4's control run that have relevance for our study. The simulated sea ice is very realistic with respect to the spatial patterns of ice concentration, extent, thickness, and multiyear ice coverage. In addition, the observed decreasing trend in ice extent at the end of summer since the early 1980s is within the spread of ensemble members. The largest bias in the sea ice simulation is the ice motion field, due to a Beaufort Gyre that is too weak. CCSM4 captures the observed stratification of the upper Arctic Ocean, producing a warm and saline Atlantic layer overlain by a cold and fresh surface layer. The main oceanic bias is that the Atlantic layer is too extensive at depth, causing temperatures to be too high below 400 m. Within the atmosphere, the model's surface air temperature is slightly too cold over the Arctic in all months compared with the 40-yr European Centre for Medium-Range Weather Forecasts (ECMWF) Re-Analysis (ERA-40; generally ,2 K), but the spatial patterns and temporal variability are well simulated. The sea level pressures are generally too low Arctic-wide, with a severe undersimulation of the Beaufort high during spring and autumn. However, the model does a reasonable job of simulating other semipermanent pressure features impacting the Arctic, including the Siberian high and Aleutian low, although the Icelandic low is too strong. Cloud amount over the Arctic in CCSM4 is too low during most months (primarily low clouds), with coverage only 30%-40% during winter, resulting in an amplified annual cycle compared with observations. The model's shortage of clouds in the Arctic is an extension of its underproduction of cloudiness over the vast majority of the world (Kay et al. 2012). Partially offsetting the negative cloudiness bias over the Arctic is the model's excessive cloud liquid water path, which enhances the downwelling longwave radiation and reduces the solar radiation reaching the surface. In spite of generating too little cloudiness, the model's Arctic precipitation totals are greater than estimates from observations and reanalysis, with excesses of 40%-150% over the Arctic Ocean, northern Greenland, and northern North America.\n<heading>Results of future simulations</heading>\nConsistent with most other GCMs [(Arctic Climate Impact Assessment) ACIA 2005], the simulated future Arctic climate in CCSM4 becomes much warmer, wetter, and cloudier, accompanied by a decrease in sea ice and atmospheric sea level pressure (SLP). All of these climate trends are statistically significant (95% level) over the course of the twenty-first century and also occurred in CCSM3 (Higgins and Cassano 2009;Deser et al. 2010;Vavrus et al. 2011), but the Arctic response in this newer version is somewhat weaker. In this section we describe the simulated twenty-first-century changes among major climatic variables, how they relate to each other, and how CCSM4's Arctic response compares with CCSM3's, based on the high-end RCP8.5 greenhouse forcing scenario (section 1). The simulations consist of a set of five ensemble members spanning the years 2005-2100, which were initialized from the end of five ''twentieth century'' simulations driven by transiently varying anthropogenic forcing between the years 1850 and 2005 (details in Gent et al. 2011). The twentieth-century integrations were initialized from randomly selected years near the end of a 1000-yr control run that used stationary radiative forcings corresponding to the year 1850.\n<heading>a. Sea ice</heading>\nThe ice pack represents an integrative climatic variable that is closely linked with temperature, precipitation, clouds, salinity, and SLP (Vavrus et al. 2009;Higgins and Cassano 2009;Deser et al. 2010). It also has tangible impacts on polar ecosystems, navigation, mineral exploration, and coastal erosion-as described in more detail in ACIA ( 2005)-in addition to serving as perhaps the most visible manifestation of Arctic climate change. Although essentially all GCMs simulate reduced ice cover under greenhouse forcing, models differ considerably in their projected rates and magnitudes of twenty-first-century ice loss (Stroeve et al. 2007;Zhang and Walsh 2006;Arzel et al. 2006). In the RCP8.5 scenario, CCSM4 simulates that a majority of the Arctic (708-908N) will remain ice covered in the annual mean until around 2040, followed by a dwindling ice pack to around 30% coverage (annual average) by year 2100 (Fig. 1a). The ensemble-mean time series-and the individual realizations-shows that the rate of projected sea ice decline is relatively slow and linear until 2030, but it increases during the rest of the century before slowing down again in the 2090s. Also apparent is a nearly steady decade of ice cover during the 2040s and a relatively rapid decrease in the 2080s.\nThe concentration of most of the Arctic ice pack declines 0.3 or more annually by the late twenty-first century, but much larger ice losses (up to 0.6) occur in a triangular region between Novaya Zemlya, Svalbard, and Franz Josef Land, as well as substantial reductions of up to 0.5 north of the Chukchi Sea (Fig. 1b). The magnitude of the projected Arctic-wide sea ice loss varies dramatically over the course of the year, with minimal reductions of under 0.1 during the spring and maximum declines in autumn. The most extreme absolute changes occur during October and November, when ice concentration is simulated to fall by 0.4 to 0.5 from late twentieth to early twenty-first-century conditions (Fig. 1c).\nThere has been widespread interest in when the Arctic Ocean might become seasonally ice free, amid suggestions that this transition is likely to occur within a few decades (Wang and Overland 2009). Based on a commonly used metric to define ice-free conditions (hemispheric sea ice extent , 1 million km 2 ), CCSM4 reaches this point in its ensemble average around 2070 under RCP8.5 forcing (Fig. 2). This transition occurs considerably later than in CCSM3, which became seasonally ice-free by 2050 (Holland et al. 2006) when forced by the SRES A1B emissions scenario, which is almost the same as the A2 scenario through 2050. However, similar to the CCSM3 model, the September ice loss is punctuated by instances of very rapid retreat [i.e., rapid ice loss events (RILEs)]. Applying the definition used in Holland et al. (2006) to identify rapid reductions in ice cover, every ensemble member exhibits RILEs that last from 3 to 5 yr. As discussed by Lawrence et al. (2008) and Vavrus et al. (2010) for the CCSM3 model, these types of events are accompanied by large changes in other climate variables, such as cloud increases and permafrost degradation. While a diagnosis of these relationships is beyond the scope of the current manuscript, we expect that similar behavior occurs in CCSM4. We also point out that establishing the origin of RILEs is difficult, based on the study of Holland et al. (2006), who found no evidence in CCSM3 of a common precursor state that could be linked to an ensuing event.\nAs discussed by Jahn et al. (2012), the present-day Arctic ice thickness and distribution is well simulated by CCSM4 compared to observations. Over the twenty-first century, large changes occur in the Arctic ice mass budget terms, including changing ice melt, ice growth, and net divergence (transport to lower latitudes). As the Arctic climate warms, enhanced melting is initially compensated in part by enhanced sea ice growth, which results from the reduced insulating capacity of the thinning ice cover (Bitz and Roe 2004). However, after approximately 2065, ice growth declines below late twentiethcentury values while at the same time, the negative ice melt anomalies become smaller. The transition from ice melt-driven volume reductions to ice growth-driven volume reductions occurs when the Arctic has reached a near-seasonally ice-free state (around 2070). At this point, the maximum ice melt is realized and further summer warming goes to increasing ocean mixed layer temperatures, delaying the fall freeze-up and reducing ice growth. These changes are reflected in the date of minimum ice cover in one of the twentieth-century ensemble simulations initialized in the year 1850 (Fig. 3a), which becomes later as increased melting occurs into the fall until seasonally ice-free conditions emerge. Interestingly, the timing of maximum sea ice extent during late winter shows no trend (until very late century), but displays considerable interannual variability (Fig. 3b). These seasonal differences are consistent with the sensitivity of hemispheric sea ice extent: the annual minimum falls from around 7.5 3 10 6 km 2 in the late twentieth century (Jahn et al. 2012) to essentially 0 by the end of the twenty-first century, whereas the annual maximum extent only declines from 15.5 3 10 6 km 2 to 11 3 10 6 km 2 (24.5 3 10 6 km 2 or 29%).\n<heading>b. Temperature</heading>\nThe model produces an annual-mean, area-averaged Arctic warming of around 8 K between 2005 and 2100 (Fig. 4a; linear trend 5 9.6 K) that is similar among all the ensemble members. Even when averaged over five ensemble members, the warming trend is not monotonic throughout the century. There is no temperature increase during the entire decade of the 2040s and only a slight ensemble-mean warming in the 2090s. By contrast, the temperature rises relatively rapidly during the 2030s and 2080s. This highly uneven warming trend even under the most extreme RCP greenhouse-forcing scenario underscores the strong internal variability of Arctic climate and demonstrates that a decade-long warming hiatus in the future should not be surprising. Recent work has identified a similar behavior in global-mean conditions (Easterling and Wehner 2009), but the finding here indicates that anthropogenic greenhouse warming may also pause temporarily even in the Arctic, the region expected to experience the most rapid and extreme temperature increases.\nThe spatial pattern of warming by the end of the twenty-first century consists of a widespread area with maximum temperature gains of 10 K over the Arctic Ocean, as the warming strengthens poleward across most of the region (Fig. 4b). Over the Greenland-Iceland-Norwegian (GIN) Seas, the temperature increases exhibit an east-west gradient: maximum warming of 8 K east of Greenland (a location currently ice covered but with large projected ice losses) and minimum warming of 3 K above the perennially ice-free Norwegian Sea. This mean-annual thermal response is comprised of highly varying seasonal changes (Fig. 4c). Although the areal-averaged Arctic temperature rises in all months, the warming is strongest in late autumn-early winter (November-January), when very large gains of 12-15 K occur. By contrast, warming is less than 4 K during all summer months, when the surface air temperature over sea ice is constrained near the freezing point. These seasonal variations are consistent with the timing of surface-atmosphere temperature differences in the Arctic and the annual cycle of ice-related changes in surface heat fluxes, which typically maximize (minimize) during autumn (summer) under greenhouse forcing (Sorteberg et al. 2007;Vavrus et al. 2009).\nThe warming during winter [December-February (DJF)] leads to a very substantial reduction in the extent and strength of the near-surface temperature inversion. The area poleward of 608N experiencing a wintertime inversion shrinks from 84% in the late twentieth century to 71% in the late twenty-first century. This area-averaged change is affected much more by the contraction over oceanic regions (from 69% to 44%), where sea ice loss plays a dominant role, than over land (94%-89%). Similarly, the strength of the wintertime temperature inversion also responds dramatically as the climate warms, especially over the ocean. Defined here as the model's Arctic-average temperature difference between the warmest tropospheric level and the 2-m air temperature, the inversion strength during DJF declines from 9.47 K in the late twentieth century to 5.07 K by the late twentyfirst century (46% reduction). As expected, this areaaveraged weakening is much more pronounced over the ocean (9.57-2.74 K 5 271%) than over land (9.44-5.87 K 5 238%; this calculation only includes grid points that experience a temperature inversion, thereby omitting much of the GIN Seas).\n<heading>c. Cloud cover</heading>\nAs is typical in greenhouse warming simulations, the Arctic becomes cloudier in CCSM4. The annual-mean total cloud amount rises substantially from just under 0.48 to around 0.60 (25%) between the start and end of the twenty-first century (Fig. 5a), primarily due to more low clouds (not shown). The time evolution of increasing cloudiness is similar to the temperature (and sea ice) time series, in that the secular trend is broken up by decadelong intervals with nearly no cloud change during the 2040s and 2090s and that the trend shows little difference among the five ensemble members.\nThe projected cloud changes vary strongly across the Arctic, exhibiting a general poleward increase that is strongly associated with the location of sea ice (Fig. 5b). This tight linkage between cloud increases and sea FIG. 5. As in Fig. 1, but for cloud fraction. ice decreases was a common feature in the CMIP3 GCMs and may represent a positive feedback due to the overall warming effect of polar clouds (Vavrus et al. 2009(Vavrus et al. , 2010. Notice that the two small regions with the very largest fractional cloud gains of 0.20 are collocated with the maximum sea ice reductions (Fig. 1b).\nCloudier conditions are simulated in all months, but the magnitude of the change varies greatly by season (Fig. 5c). The most pronounced increases happen during the autumn, particularly November and October, coinciding with the maximum loss of ice cover and the largest increases in surface evaporation (not shown). Arctic clouds are known to provide strong radiative warming to the surface during the three months when cloudiness increases the most (October-December); therefore, the timing of the simulated cloud increases in CCSM4 may be important for enhancing climate change.\n<heading>d. Precipitation</heading>\nThe moister atmosphere is also more conducive to precipitation, which increases annually in the Arctic by over one-third during the course of the twenty-first century (Fig. 6a). Similar to the transient response of the other variables, the precipitation rise is not steady. Although the muted changes seen in sea ice, temperature, and cloudiness during the 2040s and 2090s are less evident in the precipitation field, this variable displays an apparent step jump in the mid-2050s that separates two similar rates of increase during the early and late halves of the century. A scanning t test (Jiang and You 1996) on the detrended precipitation time series using a 10-yr window confirms a statistically significant increase during the mid-2050s (peak at year 2056), but no other significant transition at any other time in the record. All of the five realizations comprising this ensemble average exhibit positive t scores around this time, and three show pronounced peaks, presumably due to a coincidental superposition of internal variability.\nThe annual precipitation response also differs from the other variables in terms of its spatial pattern, in that the largest changes do not occur over the Arctic Ocean, but rather over land (Fig. 6b). The greatest increases of over 0.6 mm day 21 are found in western Greenland, far eastern Siberia, and especially Alaska, which experiences the maximum precipitation gain of more than 0.8 mm day 21 along its southern coast. By contrast, the wetter polar climate is less pronounced over the Arctic Ocean, where precipitation increases generally range from 0.2 to 0.4 mm day 21 .\nThe annual cycle of Arctic precipitation change shows a distinct seasonal variation (Fig. 6c). Relatively small and consistent increases between 0.2 and 0.25 mm day 21 (25%-35%) occur from March to July, after which time FIG. 6. As in Fig. 1, but for precipitation (mm day 21 ).\nthe enhanced precipitation signal gradually strengthens to a peak in November and secondarily in October (0.5-0.55 mm day 21 , 50%-70%). Thus, even though the Arctic precipitation response differs in certain ways from other climatic variables, we find that the seasonal timing of its maximum change during autumn is the same as for ice cover, temperature, and clouds.\nAlthough precipitation increases year-round, this does not translate to an increased snow thickness on the Arctic sea ice. The mean-annual snow depth on ice decreases 65% from 2005 to 2100, as the snowpack thins from an early century value of 19-21 cm across ensemble members to 6-8 cm. The decreasing snow cover may be caused by the increasingly seasonal nature of the Arctic ice pack. Sea ice is present for a smaller fraction of snowfall events, in particular during early fall and winter, when the largest seasonal gain in precipitation occurs. For example, twentyfirst-century snow depth during October-December declines substantially from 16 to 2-3 cm (85% decrease). This thinning reduces the insulation ability of the snowpack during the ice-growth period, thereby favoring greater ice formation (negative feedback). During summer, however, the similarly large decrease in snow depth, 80%-100% among ensemble members, causes a substantial drop in albedo during the melt season and thus acts as a positive feedback.\nOver Arctic land areas (poleward of 708N) the areaaveraged, mean-annual reduction in twenty-first-century snow depth (23%) is smaller than over sea ice, consisting of declines that are greatest during autumn (40%) and smallest during winter (,5%). However, the overall trend toward less snow cover exhibits high spatial variability. Some places, such as the near-coastal regions of eastern Siberia and northwestern North America, experience annual decreases of over 25 cm, whereas the snowpack thickens over much of northeastern Siberia by up to 15 cm (Fig. 7). This area of increase is very similar to that simulated by CCSM3 when driven by SRES A1B emissions scenario (Alexander et al. 2010).\n<heading>e. Sea level pressure</heading>\nRelated to the wetter future climate, SLP is projected to fall over most of the Arctic. This variable, however, exhibits the noisiest response and weakest signal, with high interannual variability among the ensemble members and even in the ensemble mean time series (Fig. 8a). Despite this large internal variability, the area-averaged downward trend in the Arctic's annual-mean SLP (21.5 hPa century 21 ) is statistically significant at the 95% level, as are the trends in the other four featured variables described above.\nDespite the high temporal variability in the Arcticmean response, the spatial pattern of SLP change by late century displays a fairly coherent structure of pressure falls over the Arctic Ocean (Fig. 8b), which appear to be associated with sea ice coverage. Decreased SLP of at least 1 hPa mostly encompasses the late twentiethcentury ice pack (.50% mean-annual concentration), while even greater reductions of 1.5 hPa span the majority of the Arctic Ocean and largely overlap with the late twenty-first-century, mean-annual ice pack (not shown). The only prominent regions with increased pressure (up to 1 hPa) are at high elevations over Greenland and extreme northwestern North America.\nAlso bearing a similarity with sea ice and the other variables, the strongest SLP response occurs during autumn (Fig. 8c). Although SLP declines in all months, the pressure falls by 3 hPa in November (and almost as much in December) and also drops considerably in October (1.6 hPa). These are times of the year with a favorable combination of large fractional ice loss (Fig. 1c) and high air-sea temperature contrast that fosters upward motion associated with cyclonic flow. One caveat is that CCSM4 has substantial seasonal SLP biases: pressures are far too low over the Arctic in most months, particularly during spring (de Boer et al. 2012).\nWe also examined how these time-mean changes in SLP relate to differences in the tendency of extreme cyclones and anticyclones within the Arctic. For this analysis, we selected the highest and lowest SLP at any grid point poleward of 508N-an expanded domain to include the climatological Icelandic and Aleutian lows and the Siberian high-at four different time scales: daily, monthly, seasonal, and annual. Using this approach we identify the maximum and minimum SLP over the greater Arctic FIG. 7. Mean annual change in terrestrial snow depth (cm) between the late twenty-first century (2081-2100) and late twentieth century .\ndomain for each day, month, season, and year in the simulation spanning the years 2005-2100. The summary in Fig. 9 illustrates an interesting nonlinear response: extreme cyclones become even stronger, at a rate exceeding the average SLP trend in each time scale (not shown), but extreme anticyclones also become stronger during the century. The trends in extreme cyclones are more robust, however, exhibiting a larger magnitude and more consistency in sign across time scales. These cyclone changes are also more statistically significant: all trends are significant at the 95% confidence level (accounting for serial autocorrelation) except the springtime change, which still meets the 90% threshold.\n<heading>f. Arctic Ocean</heading>\nThe twenty-first-century warming trend in CCSM4 over most of the world's oceans is strongest at the surface and weakens with depth. The exception is the Arctic Ocean, where the greatest temperature increases occur in a layer between 100 and 1000 m that corresponds to the depth of Atlantic inflow (Fig. 10). Here the warming reaches a maximum of 2.5 K around 400 m in the late twenty-first century. Conversely, the rate of warming is much slower in the Arctic Ocean's surface layer, with a peak temperature gain of less than 0.5 K in the upper 50 m. This enhanced heating of the subsurface is unique in the zonally averaged response across the tropics and midlatitudes, but a weak form of it also occurs at high southern latitudes near Antarctica. The cause of the FIG. 8. As in Fig. 1, but for sea level pressure (hPa). FIG. 9. Trends in extreme Arctic sea level pressure during the twenty-first century for (white) maximum SLP and (black) minimum SLP (hPa century 21 ) over the entire 508-908N domain. All trends are statistically significant at the 95% confidence level, except those denoted by asterisks.\nArctic's strong thermal expression at intermediate depths is a substantial warming of Atlantic water masses entering the Arctic Ocean (more than 2.5 K over the twenty-first century), rather than an increase in the volumetric import of Atlantic water (not shown).\nIn addition to the simulated warming, the upper Arctic Ocean also becomes fresher (by up to 1.4 PSU; Fig. 10), due to increased input of freshwater (FW) from runoff and precipitation, the inflow of fresher Pacific water, and the melting of sea ice. This freshening of the Arctic Ocean translates to a 28% increase in the liquid FW storage over the upper 250 m. At the same time, decreasing ice volume causes 80% less FW storage in Arctic sea ice, so that the net (solid plus liquid) FW storage in the Arctic Ocean increases by 9%.\nIn addition to this gain in FW storage, the total FW export from the Arctic Ocean also increases (by 17%; Fig. 11). The increase of the liquid FW exported through Fram Strait is larger than the increase of the liquid FW export through the Canadian Arctic Archipelago (CAA), but these changes are partially balanced by a strong decrease in the solid FW export, primarily though Fram Strait (Figs. 11a,b). While the volume export increases in Fram Strait over the twenty-first century, the volume export through the CAA decreases over the twentyfirst century, especially after 2070. As the FW content of the exported water in the CAA is increasing over the same period, these competing influences lead to a net increase in the liquid FW export through the CAA until around 2070 with a slow decrease thereafter (Fig. 11a). The Fram Strait liquid FW export, on the other hand, is still increasing at the end of the twenty-first century, as both the volume export and the freshwater content of the exported water continue to increase. Overall, the changes in the FW export lead to a freshening of the Labrador Sea, but not the interior Greenland Sea. The fresher Labrador Sea is one factor that has the potential to decrease deep-water formation in that region, and the model indeed indicates that the maximum mixed layer depth in the Labrador Sea is reduced by over 500 m by the end of the twenty-first century compared to 1981-2005 (not shown), with the largest changes occurring during the second half of the twentyfirst century. This weakening of Labrador Sea convection over the twenty-first century might well be the reason for the simulated decrease of the volume flux through the CAA after 2070, as studies have shown that the volume export through the CAA is strongly influenced by changes in sea surface height in Baffin Bay (Jahn et al. 2010;Houssais and Herbaut 2011). A similar response of the CAA volume flux to a weakening of convection in the Labrador Sea is also seen in a glacial inception paleoclimate simulation with CCSM4 (Jochum et al. 2012).\n<heading>g. Comparison with CCSM3</heading>\nTo put CCSM4's Arctic response into perspective, we now compare it with its previous model version, CCSM3. Unfortunately, an exact comparison using any of the new RCP radiative scenarios is not possible, because CCSM3 was driven by the SRES emissions scenarios (Nakicenovic et al. 2000), which have different radiative forcing trajectories. We can, however, make an approximate comparison by choosing a similar SRES scenario for an available CCSM3 simulation. In the case of the RCP8.5 used in this study, the SRES A2 scenario comes closest by exhibiting a CO 2 concentration of 830 ppm in the year 2100, compared with slightly over 900 ppm in RCP8.5, and a radiative forcing of 8.0 W m 22 by 2100 versus 8.5 W m 22 in RCP8.5 (relative to preindustrial values; Meehl et al. 2007;Meinshausen et al. 2011). In this section we compare the twenty-first-century climate trends between CCSM4's RCP8.5 simulation spanning the years 2005-2100 and CCSM3's A2 simulation from 2000 to 2100. All quantities are given by the linear trends per century by prorating the magnitude of changes in CCSM4's 95-yr run. A comparison between model versions is provided in Table 1.\nWe mention here a few noteworthy differences in the late twentieth-century control simulations between the two versions that should be borne in mind in interpreting the future trends. CCSM4 is colder than CCSM3 in the annual mean by almost 3 K, primarily because of a colder winter climate. This difference is consistent with a slightly larger amount of Arctic sea ice coverage (;10% more annually). The annual-mean SLP averaged across the Arctic is several hectopascals too low in both versions, but this bias is mitigated somewhat in CCSM4. Although precipitation amounts in CCSM4 and CCSM3 are nearly the same and exhibit a wet bias, the cloudiness is much less in CCSM4, especially during winter (mean annual Arctic cloud coverage of 47% in CCSM4 vs 65% in CCSM3). The new model version contains the freeze-dry cloud parameterization (Vavrus and Waliser 2008), which lowers the model's standard prognostic cloud concentration under very dry atmospheric conditions typical of polar winter. This scheme was designed to remedy CCSM3's excessive wintertime Arctic clouds, but promotes too little cloudiness over this region in CCSM4 when combined with the new version's negative low cloud bias (Kay et al. 2012). More information on CCSM4's atmospheric biases in the Arctic can be found in de Boer et al. (2012).\nAlthough the global-mean warming trend (2-m air temperature) in CCSM4 is 0.5 K larger than in CCSM3, the Arctic-mean temperature rises slightly less (0.17 K), resulting in a 16% weaker Arctic amplification. The sign of the twenty-first-century changes among all the variables is consistent between model versions, but the magnitude of the trends is smaller in CCSM4 except for cloudiness (Table 1). The 16% weaker response of Arctic ice concentration matches the difference in Arctic amplification, while the precipitation increase is only slightly less (8%) in CCSM4. Conversely, the Arctic-wide fall in sea level pressure is much less (about half), but the increase in cloudiness is much larger (over 80% more). The stronger cloud response in CCSM4 is probably caused by its new freeze-dry cloud parameterization,  (Vavrus and Waliser 2008). As greenhouse warming increases the moisture content of the polar atmosphere, the freeze-dry parameterization is activated less often and thus the predicted cloud amount more often reaches the higher value determined by the ambient relative humidity. As shown in Table 1, CCSM4's future trends are very similar among ensemble members, except for the expected greater internal variability of SLP (coefficient of variation 5 0.67).\nThe changes in FW export and storage and deep convection generally agree with those from CCSM3 reported by Holland et al. (2006), except that the newly opened Nares Strait in CCSM4 allows the FW export through the Canadian Arctic Archipelago to be larger (the previous version had only one idealized channel opening through the archipelago and therefore too much FW leaving the Arctic through Fram Strait).\n<heading>Discussion and conclusions</heading>\nIn presenting the highlights of CCSM4's Arctic climate response to strong greenhouse forcing (8.5 W m 22 radiative forcing by year 2100), we find no major surprises. In keeping with the changes commonly simulated by the CMIP3 GCMs (e.g., Chapman and Walsh 2007;Kattsov et al. 2007;Holland et al. 2010), this new model projects a warmer, wetter, cloudier, and stormier future with much less sea ice. The high correlation among the variables comprising these changes-temperature, precipitation, cloudiness, air pressure, and ice concentrationsuggests that their close coupling collectively represents a fingerprint of Arctic climate change. We expect that this fingerprint is qualitatively independent of the greenhouse forcing magnitude, but the climatic response presented here for the high-end RCP8.5 scenario is undoubtedly more pronounced than CCSM4's simulation with the low-end RCP2.5 or the moderate 4.5 cases. Although space and time constraints precluded a complete analysis of the Arctic's response to every RCP scenario, the climate changes described here are probably roughly proportional to the weaker radiative forcing in the other cases. We base this assumption on the linear relationship between radiative forcing and the transient global mean air temperature response in observations and simulations (Gregory and Forster 2008).\nDespite the generally expected greenhouse-induced trends simulated by CCSM4, several noteworthy points emerge from our analysis, as summarized below. Among all the primary variables featured in this study, the largest changes by late century occur during autumn. November is the single most responsive month, when four the five variables show their strongest signal and October is second highest. Other greenhousewarming studies have also reported a heightened sensitivity of individual climatic components during that season, such as sea ice (Zhang and Walsh 2006), temperature (Chapman and Walsh 2007), energy fluxes (Sorteberg et al. 2007), and clouds (Vavrus et al. 2009), but our study synthesizes and compares these changes among multiple variables.  d The changes in most variables are very similar among the five ensemble members, but SLP displays considerable variability from one realization to another (Fig. 8a). Even SLP, however, exhibits a downward trend across all ensemble members in the Arctic-mean response over the twenty-first century.\nd The Arctic Ocean becomes seasonally ice free around 2070 in the RCP8.5 ensemble mean, if we base the date on the commonly used threshold of less than 1 million km 2 sea ice extent in September. This transition occurs considerably later than the late 2030s estimate derived from a collection of CMIP3 models (Wang and Overland 2009) and also delayed in comparison with the ensemble-mean date around 2050 in CCSM3 (Holland et al. 2006).\nd Based on a commonly used metric to define the Arctic region-the area encompassing the 108C July surface air temperature isotherm-the Arctic becomes about 40% smaller during the twenty-first century. Using a linear trend for this metric, the decrease is 44% between 2005 and 2100, while comparing the average area during the first and last decade of this interval (2091-2100 vs 2005-14) yields a drop of 38%. Almost all of this shrinkage occurs over ocean regions, especially the Bering Sea and Sea of Okhotsk. The 108C July isotherm completely encloses these two seas in the early twenty-first century, but retreats to just north of the Bering Strait by the 2090s, probably as a consequence of the dramatic contraction in sea ice extent in these regions.\nd An important finding is a simulated pause in the secular climate trends during decade-long stretches in the 2040s and to a lesser extent in the 2090s, a manifestation of climatic ''noise'' that occurs without any attributable external forcing. This behavior occurs in spite of averaging over five ensemble members and is most apparent for temperature, ice concentration, and cloudiness. Although other decadal warming hiatuses on a global scale have been observed in recent years and simulated for future conditions (Easterling and Wehner 2009), its manifestation over the Arctic is remarkable because it occurs under the most extreme RCP greenhouse forcing and in the most climatically responsive region of the world. This result underscores the importance of natural decadal variability; therefore, the absence of a future Arctic warming trend on this time scale should not be taken as a refutation of greenhouse forcing.\nd The simulated trend toward stronger extreme Arctic cyclones is a robust result, statistically significant on all relevant time scales (daily, monthly, seasonal, and annual). In combination with the long-term simulated decline in mean SLP and the large projected decrease in sea ice cover, the enhanced storminess implies greater wave activity in Arctic seas that should lead to increasing coastal erosion. The rate of coastal erosion has already been increasing in the Arctic during the past few decades (ACIA 2005).\nd The structure of the Arctic Ocean changes in a strongly depth-dependent manner. Pronounced warming of 2 K in intermediate layers, due to an upstream warming of imported Atlantic water, is overlain by only small temperature increases near the surface. Conversely, salinity changes are minimal at intermediate depths but substantial near the surface, where freshening of over 1.0 PSU occurs in the central Arctic.\nd The primary focus of this study is on mean Arctic climate changes during the rest of the century. Although we have discussed the role of decadal variability and extreme cyclones, we have not explored major modes of variability such as the Arctic Oscillation and how these might change under greenhouse forcing. While such questions are important and bear on the precise trajectory of future Arctic climatic conditions, we leave this topic for future studies with CCSM4.\n<heading></heading>\nAcknowledgments. This work has been supported by the National Science Foundation (ARC-0652838, ARC-0628910, ARC-0902068) and by the Office of Science (BER) of the U.S. Department of Energy through its support of the CESM project. We thank the Computational and Information Systems Laboratory (CISL) at the National Center for Atmospheric Research. This research was enabled by CISL computing and storage resources. Bluefire, a 4,064-processor IBM Power6 resource with a peak of 77 TeraFLOPS provided more than 7.5 million computing hours, the GLADE highspeed disk resources provided 0.4 PetaBytes of dedicated disk, and CISL's 12-PB HPSS archive provided over 1 PetaByte of storage in support of this research project.\n"
+}

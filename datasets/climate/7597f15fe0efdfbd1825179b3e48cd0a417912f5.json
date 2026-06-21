@@ -1,0 +1,2388 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nUrban social-ecological-technological systems (SETS) are dynamic and respond to climate pressures. Change involves alterations to land and resource management, social organization, infrastructure, and design. Research often focuses on how climate change impacts urban SETS or on the characteristics of urban SETS that promote climate resilience. Yet passive approaches to urban climate change adaptation may disregard active SETS change by urban residents, planners, and policymakers that could be opportunities for adaptation. Here, we use evidence of urban social, ecological, and technological change to address how SETS change opens windows of opportunity to improve climate change adaptation.\n<heading>INTRODUCTION: DYNAMIC CITIES IN CHANGING CLIMATES</heading>\nChange in social-ecological-technological systems (SETS) transforms and reconfigures urban systems as a continuous, dynamic, and inevitable process 1,2 . Drivers of urban SETS change are intrinsically multidimensional and multiscalar, driving change at both temporal (i.e., short to long) and spatial (i.e., local to global) scales 1,3 . SETS change involves feedback across and between social, ecological, and technological systems (Fig. 1). The heterogeneity, hybridity, and dynamism of urban systems affect the intrinsic ecological-biophysical, social-economic-governance, and technological-infrastructure makeup of cities [4][5][6][7] .",
+        "span": [
+            0,
+            1435
+        ],
+        "entities": [
+            {
+                "begin": 28,
+                "end": 73,
+                "label": "project",
+                "substring": "Urban social-ecological-technological systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 75,
+                "end": 79,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 290,
+                "end": 300,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 330,
+                "end": 340,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 406,
+                "end": 431,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 453,
+                "end": 457,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 647,
+                "end": 651,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 699,
+                "end": 724,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 846,
+                "end": 850,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 805,
+                "end": 844,
+                "label": "project",
+                "substring": "social-ecological-technological systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 960,
+                "end": 970,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1133,
+                "end": 1137,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "Social change, including changes in demographics, governance, and economics, occurs at the level of individual human perceptions and behaviors, as well as at the higher level of society and its institutions 8 . Ecological and evolutionary change occurs at the scale of urban species populations to the urban macroecosystem and global scale through urban environmental and human-mediated filters [9][10][11] . Technological change can occur at individual resident and city-scale from adoption and use of technological innovations to the global scale through innovation journeys, new technology adoption via IT, ample digital innovations, and social media networks 6,12 .\nClimate change is a global driver of SETS change 4 . From continental hubs to coastal megacities, climate change drives social transformation and migration, triggers new behaviors and actions, and motivates investments in new infrastructure, but also affects species composition and ecological interactions 13 . Urban infrastructure is increasingly designed to respond to the challenges posed by future climates 3,[14][15][16] . In this evolving climatic context, SETS change is often considered the end product and outcome of contemporary urban societies driven by the need for economic growth and emancipation from poverty 17,18 . SETS change is also a driver of climate change itself and feeds back over time and space to influence urban livability, in terms of human well-being as well as ecosystem health.",
+        "span": [
+            1436,
+            2916
+        ],
+        "entities": [
+            {
+                "begin": 707,
+                "end": 711,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 748,
+                "end": 766,
+                "label": "location",
+                "substring": "coastal megacities",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b1f63bf1-a547-4189-9c7e-66a8d11facc4"
+            },
+            {
+                "begin": 1134,
+                "end": 1138,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1303,
+                "end": 1307,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1463,
+                "end": 1472,
+                "label": "variable",
+                "substring": "ecosystem",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 327,
+                "end": 339,
+                "label": "location",
+                "substring": "global scale",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/51e3593f-4b42-4141-972e-96666c479f9c"
+            },
+            {
+                "begin": 536,
+                "end": 548,
+                "label": "location",
+                "substring": "global scale",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/51e3593f-4b42-4141-972e-96666c479f9c"
+            },
+            {
+                "begin": 1210,
+                "end": 1225,
+                "label": "location",
+                "substring": "urban societies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            }
+        ]
+    },
+    {
+        "text": "While city residents and governing bodies are seeking SETS strategies to proactively improve the capacity to cope with and adapt to climate change [19][20][21] , SETS change is still often only identified as a driver, provoker, or a reinforcer of climate change impacts, rather than as an opportunity to ameliorate or mitigate impacts. For example, urbanization increases urban populations, energy consumption, and therefore exacerbates climate change 22 , setting in motion perverse reinforcing loops and vicious cycles 23 . In turn, climate change can cause massive migrations of people to and from urban areas, and population displacement and vulnerability, causing a further change in urban SETS now and in the future 24 . Yet, we know relatively little about how we can leverage, guide, embed, or even design system-level SETS change, both as a driver and mitigator, to increase urban climate change adaptation. Though specific and limited transformation within SET subsystems is achievable and active, we are still missing holistic strategies that cut across SETS and strategies fundamentally anchored in SETS thinking.\nTo enable explicit SETS strategies and thinking for urban climate adaptation requires moving beyond the cause-effect climate change adaptation narrative to a more proactive approach that acknowledges hybridity and interrelations across SETS.",
+        "span": [
+            2917,
+            4284
+        ],
+        "entities": [
+            {
+                "begin": 1111,
+                "end": 1115,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1243,
+                "end": 1268,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 162,
+                "end": 166,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 54,
+                "end": 58,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 391,
+                "end": 409,
+                "label": "variable",
+                "substring": "energy consumption",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/356e018f-f15d-462f-8403-887b726a4372"
+            },
+            {
+                "begin": 695,
+                "end": 699,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 827,
+                "end": 831,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1065,
+                "end": 1069,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1145,
+                "end": 1149,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1362,
+                "end": 1366,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 890,
+                "end": 915,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 967,
+                "end": 970,
+                "label": "project",
+                "substring": "SET",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "With a better understanding of urban complexity, we argue that there is ample opportunity to steer change in places where plans, strategies, and instruments are already developed and ready to use. If triggers and opportunities of SETS change are recognized, interacting properties of urban SETS can be utilized for immediateto long-term systemic climate change adaptation. Actions can vary from people's everyday actions to broad-sweeping government programs. A SETS understanding should support and align such institutional diversity across scales by recognizing the need to include multiple actors with diverse capacities and power in contributing to and identifying multiple pathways toward climate adaptation 25 . In moving to a SETS-based adaptation policy and planning approach, it is important to (1) ensure openness and inclusivity of different cultures, ages/generations, viewpoints, and knowledge, and (2) support novel combinations of social, ecological, and technological subsystems into adaptation pathways that offer opportunities for broad participation and empowerment, provided public support.\nIn this perspective, we advocate for channeling current adaptation actions through ongoing urban SETS change processes. Doing so can create opportunities to proactively design and build adaptive capacity in towns, cities, and urban regions overall.",
+        "span": [
+            4285,
+            5644
+        ],
+        "entities": [
+            {
+                "begin": 346,
+                "end": 371,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 230,
+                "end": 234,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 290,
+                "end": 294,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 462,
+                "end": 466,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 733,
+                "end": 737,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1202,
+                "end": 1219,
+                "label": "project",
+                "substring": "urban SETS change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1337,
+                "end": 1350,
+                "label": "location",
+                "substring": "urban regions",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "SETS change can be purposefully designed and actively embedded in both individual-and societal-level changes by using institutional design 19,26 , cocreation, and coproduction 27,28 . Within a framework that embraces SETS change across various social agencies as a means for climate change adaptation, we discuss where we see opportunity while simultaneously acknowledging the hyperdiversity of cities, the context dependence of urban SETS, and that everyday human actions range from selfish to altruistic. These complexities ultimately create challenges in how such a perspective is adopted and leveraged, and likely explain why existing frameworks often subscribe to reactive rather than proactive paradigms for transition 27,29 , namely, a perception that deliberate SETS change cannot be planned, designed, or actively (co)produced. Active SETS change calls for acknowledging urban complexity and diversity, recognizing triggers of change, the variety of pathways that enable agency, and being prepared for change at the individual to the institutional level. We focus on constructive approaches to advocate for a paradigm shift, one that sees SETS change not as a monolithic and undesirable outcome caused by climate change, but rather as a dynamic opportunity to willingly and proactively harness and nudge systemic change for urban transformations toward more desirable, inclusive, and resilient urban futures.",
+        "span": [
+            5645,
+            7062
+        ],
+        "entities": [
+            {
+                "begin": 0,
+                "end": 4,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 217,
+                "end": 221,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 429,
+                "end": 439,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 770,
+                "end": 774,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 844,
+                "end": 848,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1148,
+                "end": 1152,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 275,
+                "end": 300,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "We do not position this framework as a solve-all panacea to foreseen climate change impacts across all urban contexts, but rather, such an approach can be implemented alongside existing adaptation frameworks to expand their scope, reach, and effectiveness.\n<heading>SETS CHANGE AS AN OPPORTUNITY FOR URBAN CLIMATE ADAPTATION</heading>\nKnowledge coproduction and uptake of new technology are examples of different ways through which individuals and institutions at various levels navigate and, often proactively, take advantage of SETS change 1,16 . Climate change can trigger nonlinear positive tipping points from society and technology that, through feedback, create different-ideally improvedsystem states (Fig. 2) 3,30 . For example, in urban forestry plans, forecasted future climate envelopes can offer an opportunity to redesign planting strategies around species more likely to withstand future temperature and rainfall extremes and replace those likely to struggle or fail 23 . For urban communities to acknowledge such changes and strategically steer SETS change requires systems' thinking to accelerate actions for sustainable urban transitions 29 . Changes in urban contexts that are proactive and that harness shared learning among individuals (e.g., among neighborhood residents) or governing bodies (e.g., among regional city climate councils) have optimal potential to further increase urban climate change adaptation through positive feedback 3 .",
+        "span": [
+            7063,
+            8526
+        ],
+        "entities": [
+            {
+                "begin": 896,
+                "end": 914,
+                "label": "variable",
+                "substring": "future temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 919,
+                "end": 936,
+                "label": "weather event",
+                "substring": "rainfall extremes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 1408,
+                "end": 1433,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 530,
+                "end": 534,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1172,
+                "end": 1186,
+                "label": "location",
+                "substring": "urban contexts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            },
+            {
+                "begin": 991,
+                "end": 1008,
+                "label": "location",
+                "substring": "urban communities",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            },
+            {
+                "begin": 103,
+                "end": 117,
+                "label": "location",
+                "substring": "urban contexts",
+                "identifier": null
+            },
+            {
+                "begin": 266,
+                "end": 270,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": null
+            },
+            {
+                "begin": 1061,
+                "end": 1065,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "An important consideration is who is included or excluded from these learning and change processes, and therefore which social group adaptation may benefit the most. For instance, tree planting may be a more likely adaptation strategy for wealthier neighborhoods, but difficult to implement in densely packed informal settlements where there is little open space for tree plantings, leaving such communities even more vulnerable. Individual and institutional action and learning across sociodemographic gradients that is experience-based, knowledge-rich, solution-driven, and stakeholder-diverse, are best suited to meet the needs for urban climate change adaptation in a warmer and more extreme world [31][32][33] .\nUrban social, ecological, and technological adaptations to climate change, happening at various levels of social organization, can be embedded in and enabled by SETS change (and vice versa) in different urban contexts. We provide selected evidence from urban green and blue, food and technology systems, all of which are at the epicenter of climate change impacts and are expected to experience more extreme and frequent impacts in the future 34 .",
+        "span": [
+            8527,
+            9691
+        ],
+        "entities": [
+            {
+                "begin": 641,
+                "end": 666,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 992,
+                "end": 996,
+                "label": "variable",
+                "substring": "food",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c2c4a55-5576-4811-9daf-ac981d68e14d"
+            },
+            {
+                "begin": 920,
+                "end": 934,
+                "label": "location",
+                "substring": "urban contexts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            },
+            {
+                "begin": 878,
+                "end": 882,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The examples illustrate (1) how SETS change may offer more holistic adaptation to new climate regimes, (2) how different pathways for diverse actors can expand the scope of social, ecological, and technological changes to thereby support SET change, and (3) how a SETS perspective may guide urban climate change adaptation and help residents and governing bodies overcome current barriers and limitations. We do not advocate for a linear pathway nor a one-size-fits-all model in which the mechanisms creating change are identical and predictable, but rather we conceptualize nonlinear pathways that acknowledge Fig. 1 Reactive actions for climate change adaptation within SETS. A Because of high unemployment, the city of Alcaldía de Medellín, Colombia, trained people from disadvantaged backgrounds to work as gardeners and technicians to implement the Green Corridor program (in green in the map, courtesy Medellin Open Data portal) to cool the city by up to 3°C by planting more than 358,000 shrubs and trees, while reducing crime and improving public health. B The town of Lami in the Republic of the Fiji Islands is evaluating adaptation scenarios for climate change and sea-level rise. Economic costs of integrated nature-based and technical solutions are often far lower than those related to traditional engineered approaches (https://ian.umces.edu/pdfs/ian_report_392. pdf). C The increasing need to protect vulnerable communities living in slums in Ahmedabad prompted the local government to start a Cool Roof program in 2013.",
+        "span": [
+            9692,
+            11228
+        ],
+        "entities": [
+            {
+                "begin": 291,
+                "end": 311,
+                "label": "natural hazard",
+                "substring": "urban climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 639,
+                "end": 664,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 744,
+                "end": 752,
+                "label": "location",
+                "substring": "Colombia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/452b929e-ffdb-48c8-b3a2-bddd1ab2bf97"
+            },
+            {
+                "begin": 1089,
+                "end": 1117,
+                "label": "location",
+                "substring": "Republic of the Fiji Islands",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3c6073a8-432d-4cf9-9d48-1963cc5290ff"
+            },
+            {
+                "begin": 1176,
+                "end": 1190,
+                "label": "natural hazard",
+                "substring": "sea-level rise",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0afaaa5e-f88c-4c1f-95c1-1faa0148885a"
+            },
+            {
+                "begin": 264,
+                "end": 268,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 238,
+                "end": 241,
+                "label": "project",
+                "substring": "SET",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 32,
+                "end": 36,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1459,
+                "end": 1468,
+                "label": "location",
+                "substring": "Ahmedabad",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/60b17f24-cf23-4209-91c4-975a87a7acb0"
+            },
+            {
+                "begin": 1077,
+                "end": 1081,
+                "label": "location",
+                "substring": "Lami",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3c6073a8-432d-4cf9-9d48-1963cc5290ff"
+            },
+            {
+                "begin": 722,
+                "end": 742,
+                "label": "location",
+                "substring": "Alcaldía de Medellín",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/90142975-a93e-4de6-b634-2ca884b71b81"
+            },
+            {
+                "begin": 672,
+                "end": 676,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "Building upon that program, the city has released a more comprehensive Heat Action Plan tapping into several initiatives involving both local communities and infrastructure (https://www.nrdc.org/sites/default/files/ahmedabadheat-action-plan-2019-update.pdf). SETS framework sensu Depietri and McPhearson (2017). urban contexts and cultural backgrounds (e.g., Global North and South). Nonlinearity and complexity are fundamental properties of SETS tipping points and transitions 35 . In urban SETS, change in one subsystem may have unforeseen impacts on another subsystem, and this is most likely location-or context-dependent. Acknowledging urban complexity and diversity 36 , we highlight principles that urban strategic planners may apply into a specific urban context to design effective policies and planning interventions.\nThrough these interventions, we show how SETS change can occur at different spatial and temporal scales in cities, from local ecosystems (e.g., yard parcel) to the urban macrosystem scale, from post-disaster abrupt interventions by the city government to progressive behavioral changes by residents (Fig. 2). For example, rebuilding cities struck by wildfires or hurricanes triggered by or exacerbated by climate change (e.g., Paradise, CA; New Orleans, LA) can provide a blank canvas and opportunity to design SETS change with elements known to enhance urban climate change adaptation.",
+        "span": [
+            11229,
+            12643
+        ],
+        "entities": [
+            {
+                "begin": 1178,
+                "end": 1187,
+                "label": "natural hazard",
+                "substring": "wildfires",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/855dc9f5-ccbf-4972-8828-41e11f2aca7a"
+            },
+            {
+                "begin": 1191,
+                "end": 1201,
+                "label": "natural hazard",
+                "substring": "hurricanes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6314f68a-1f00-4e6d-9f06-b3e2ce4348e8"
+            },
+            {
+                "begin": 1388,
+                "end": 1413,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 259,
+                "end": 263,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 312,
+                "end": 326,
+                "label": "location",
+                "substring": "urban contexts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            },
+            {
+                "begin": 442,
+                "end": 446,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 869,
+                "end": 873,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 486,
+                "end": 496,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1255,
+                "end": 1267,
+                "label": "location",
+                "substring": "Paradise, CA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc4f2acd-ace7-452b-a540-4162f9e9ddb0"
+            },
+            {
+                "begin": 1269,
+                "end": 1284,
+                "label": "location",
+                "substring": "New Orleans, LA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1339,
+                "end": 1343,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 71,
+                "end": 87,
+                "label": "project",
+                "substring": "Heat Action Plan",
+                "identifier": null
+            },
+            {
+                "begin": 954,
+                "end": 964,
+                "label": "variable",
+                "substring": "ecosystems",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "In older, more developed cities, on the other hand, smaller SETS changes at an individual or community social level can be further promoted to compound smaller interventions over time, potentially positively stimulating climate change adaptation 16,30 .\nBelow, we draw examples from several cities across the Global North and South, from the United States, Latin America, East Asia, Africa, Australia, and Europe that represent different patterns of urbanization, historical development, urban growth, and renewal. Furthermore, these cities represent a diverse range of social-ecological, technical, biophysical and institutional constraints, and contexts. For example, residents' attitudes on environmental stewardship, and government policies toward urban greening differ with city contexts 37 . Cities differ in society, climate, and ecology. Thus, triggers of change and contingency plans to prepare for change differ across urban and cultural contexts as demonstrated in the recent COVID-19 pandemic 38 . As climate change has no borders, we take a broad geographic perspective to highlight promising examples of change across a diverse range of urban SETS. Although we structure the following examples into social, ecological, and technological systems, this is an artificial divide, as these spheres are interrelated and interdependent. We describe changes by highlighting their main intervention typologies and characteristics.",
+        "span": [
+            12644,
+            14079
+        ],
+        "entities": [
+            {
+                "begin": 220,
+                "end": 245,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 342,
+                "end": 355,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 391,
+                "end": 400,
+                "label": "location",
+                "substring": "Australia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+            },
+            {
+                "begin": 60,
+                "end": 64,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 372,
+                "end": 381,
+                "label": "location",
+                "substring": "East Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9e29690c-079c-4429-afed-ef061ab0c41e"
+            },
+            {
+                "begin": 383,
+                "end": 389,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 357,
+                "end": 370,
+                "label": "location",
+                "substring": "Latin America",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+            },
+            {
+                "begin": 406,
+                "end": 412,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 987,
+                "end": 1004,
+                "label": "natural hazard",
+                "substring": "COVID-19 pandemic",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cc052a0-314a-408d-8c2d-c8245bab2465"
+            },
+            {
+                "begin": 1151,
+                "end": 1161,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "<heading>Social change</heading>\nUrban social climate change adaptation involves learning-focused interventions like experimentation, governance initiatives that test and showcase sustainable solutions, and social networks and movements that enhance knowledge exchange. Social learning occurs at the individual resident, community, and city to international institutional levels 25 and enables deeper transformations across social classes, communities of interest, and practice. We discuss some urban social changes at various levels to showcase examples where social change has harnessed ecological and technological opportunities to achieve active and deliberate SETS change for climate adaptation. Furthermore, we show how enabling social agency at appropriate scales can promote deliberate SETS changes for climate action 25 . Here, agency is intended as the capacity of individuals and groups to act independently and have freedom of choice and can be enabled through institutional spaces, settings, and environmental policy 36 . We support acknowledging and including diverse individuals, groups, and their partnerships involved in urban SETS change. Because cities are deeply unequal social, cultural, and economic environments, and social change needs to keep social justice principles at its core to advance urban sustainability.",
+        "span": [
+            14080,
+            15418
+        ],
+        "entities": [
+            {
+                "begin": 46,
+                "end": 71,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 665,
+                "end": 669,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 794,
+                "end": 798,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1138,
+                "end": 1155,
+                "label": "project",
+                "substring": "urban SETS change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "At the city resident level, enabling and nurturing city residentlevel agency for climate change adaptation planning can foster ownership of change implementation and stewardship of change over the long term, making climate change adaptation under urban SET change a reality now and in the future. While everyday human behavior is inherently complex and contradictory particularly around environmental stewardship and climate change (e.g., choice of transportation and food purchasing) 39,40 , there are promising social movements and political mobilization of urban citizens (e.g., Fridays for Future) 41 . Urban social change can be scaled to address the challenge of climate adaptation by trialing and showcasing sustainable solutions across many places 29,42,43 . Heightened stewardship may in turn increase interest in change or a reorientation to how SET change is perceived as an opportunity for climate change adaptation.\nUrban agriculture highlights social change at the city resident level and can demonstrate the value and diversity of resident actions and choices in climate change adaptation. Agricultural practices involve knowledge coproduction and action around climate change impacts to plant production 44,45 .",
+        "span": [
+            15419,
+            16646
+        ],
+        "entities": [
+            {
+                "begin": 81,
+                "end": 106,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 215,
+                "end": 240,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 902,
+                "end": 927,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1078,
+                "end": 1103,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 253,
+                "end": 256,
+                "label": "project",
+                "substring": "SET",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 856,
+                "end": 859,
+                "label": "project",
+                "substring": "SET",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "For example, when experiencing acute climate shocks (e.g., plant mortality, crop loss, and water scarcity), community gardeners in drought-stricken areas like Australia and California learn individually and through communication with the gardening community what certain crop plants will not survive under present and future climate conditions 46,47 . Gardeners experiment with combinations of plant species and varieties, sharing and learning with one another the observations on what species survived extremes to redesign resilient urban garden systems. This suggests that, on a small scale, urban gardeners make systemic changes to garden plots Fig. 2 SETS changes that could introduce elements for climate change adaptation. Urban systems vary in how SETS change occurs, specifically how fast or slow, and how small or large the opportunity for climate change adaptation is. Furthermore, in relation to time, change varies in its predictability-represented here by a fulcrum where the ability to foresee and plan for change in the present is high (+++), whereas the ability to foresee and plan for change moving into the future is low (---). A Relatively small changes, such as the opportunity to paint rooftops white for increasing solar reflectance and reducing urban heat, can occur rapidly; though small, these opportunities may compound the effects over time and space to generate the greater capacity to adapt to climate change (Photo: MO, USA; Courtesy: Patriot Roof Coating, www.pxfuel.com/ en/free-photo-owshf; CC BY-SA 2.0).",
+        "span": [
+            16647,
+            18185
+        ],
+        "entities": [
+            {
+                "begin": 131,
+                "end": 138,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 159,
+                "end": 168,
+                "label": "location",
+                "substring": "Australia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+            },
+            {
+                "begin": 173,
+                "end": 183,
+                "label": "location",
+                "substring": "California",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc4f2acd-ace7-452b-a540-4162f9e9ddb0"
+            },
+            {
+                "begin": 702,
+                "end": 727,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1450,
+                "end": 1453,
+                "label": "location",
+                "substring": "USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 91,
+                "end": 105,
+                "label": "natural hazard",
+                "substring": "water scarcity",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 271,
+                "end": 282,
+                "label": "variable",
+                "substring": "crop plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 59,
+                "end": 74,
+                "label": "natural hazard",
+                "substring": "plant mortality",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 76,
+                "end": 85,
+                "label": "natural hazard",
+                "substring": "crop loss",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c74f390-9d82-4903-98e0-bddf0d3247fb"
+            },
+            {
+                "begin": 655,
+                "end": 659,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 755,
+                "end": 759,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 849,
+                "end": 874,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": null
+            },
+            {
+                "begin": 1274,
+                "end": 1278,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            }
+        ]
+    },
+    {
+        "text": "B Ecological change, such as from extreme weather, may produce tipping points that can provide new windows of opportunity for residents and cities to, e.g., plant more resilient tree species (Photo: post storm Hurricane Sandy, Queens, New York City, USA; Courtesy: Arlington County; https:// www.flickr.com/photos/arlingtonva/; CC BY-SA 2.0). C Other SETS might exhibit a large opportunity to adapt to climate change, such as adapting housing developments for future climate change in rapidly developing arid cities, though this change may be relatively slow (Photo: Thorton, CO, USA; Courtesy: Doc Surls, www.flickr.com/ photos/infrastructure/; CC BY-SA 2.0). and to their behaviors, building up their adaptation capacity to a changing climate through knowledge coproduction. Gardens can also highlight the interrelations among SETS subsystems in adaptation where plants and people interact within a changing climate context 46 . Local government policy and action may assist in climate change adaptation in urban agriculture by enabling resident-level agency at the appropriate scale and context. In Quito, Ecuador, city-funded local environmental NGOs train urban farmers to shift and diversify crop plants to native species, and train in water conservation management 48 .",
+        "span": [
+            18186,
+            19462
+        ],
+        "entities": [
+            {
+                "begin": 34,
+                "end": 49,
+                "label": "weather event",
+                "substring": "extreme weather",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 235,
+                "end": 248,
+                "label": "location",
+                "substring": "New York City",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/854d0bb3-dcc3-48eb-a65a-2d26a8b87394"
+            },
+            {
+                "begin": 250,
+                "end": 253,
+                "label": "location",
+                "substring": "USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 580,
+                "end": 583,
+                "label": "location",
+                "substring": "USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 980,
+                "end": 1005,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1109,
+                "end": 1116,
+                "label": "location",
+                "substring": "Ecuador",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7eb8278-0dc3-4121-87ea-14173279dfb4"
+            },
+            {
+                "begin": 1198,
+                "end": 1209,
+                "label": "variable",
+                "substring": "crop plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1213,
+                "end": 1227,
+                "label": "variable",
+                "substring": "native species",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cd9f44da-b3b4-4f9c-a21f-89b59a29b235"
+            },
+            {
+                "begin": 204,
+                "end": 209,
+                "label": "natural hazard",
+                "substring": "storm",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c71937f9-532b-466f-89b6-725f26e776dd"
+            },
+            {
+                "begin": 210,
+                "end": 225,
+                "label": "natural hazard",
+                "substring": "Hurricane Sandy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6314f68a-1f00-4e6d-9f06-b3e2ce4348e8"
+            },
+            {
+                "begin": 227,
+                "end": 233,
+                "label": "location",
+                "substring": "Queens",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/854d0bb3-dcc3-48eb-a65a-2d26a8b87394"
+            },
+            {
+                "begin": 351,
+                "end": 355,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 567,
+                "end": 574,
+                "label": null,
+                "substring": "Thorton",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 576,
+                "end": 578,
+                "label": null,
+                "substring": "CO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 829,
+                "end": 833,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1102,
+                "end": 1107,
+                "label": "location",
+                "substring": "Quito",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1408bc4b-874e-4dc4-a452-19a4f67a7196"
+            },
+            {
+                "begin": 1242,
+                "end": 1260,
+                "label": "variable",
+                "substring": "water conservation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ee3e296f-fdc0-4695-95af-dbe63f43b679"
+            }
+        ]
+    },
+    {
+        "text": "In Durban, South Africa, agronomists are piloting crops popular with urban residents to test the survival of and learn about the palatability of crop varieties more resilient to water shortage and increased temperatures and creating community-based adaptation plans for improved implementation 48 . In Gorakhpur, India, nonprofit groups are working with urban farmers to leverage nature-based adaptation to implement climate-resilient farming strategies (including crop rotations) and mainstreaming climate risk information via weather advisory text messages to guide changes to irrigation and harvesting 49 . Informal settlements in South African and Indian cities forage and cook with wild plants based on knowledge transmitted by older residents and migrants from other areas but adapted to changing conditions. These climate change adaptations at the household to community level have boosted crop yield and incomes. Engagement of city government with local partners and urban citizens reflects how we may find sweet spots for enhancing climate change adaptation through collaboration and agency creation across social levels 25 .\nAt the local city to urban region level. Most cities are implementing plans and policies for climate change adaptation. In Ahmedabad, India, the Municipal Corporation and civil society groups implemented a Heat Action Plan (HAP) designed with public health and NGO institutions to prepare residents for extreme heat (Fig. 1).",
+        "span": [
+            19463,
+            20923
+        ],
+        "entities": [
+            {
+                "begin": 11,
+                "end": 23,
+                "label": "location",
+                "substring": "South Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb6d9fe3-10b5-4a75-be97-521d4058a4a9"
+            },
+            {
+                "begin": 197,
+                "end": 219,
+                "label": "weather event",
+                "substring": "increased temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 313,
+                "end": 318,
+                "label": "location",
+                "substring": "India",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+            },
+            {
+                "begin": 634,
+                "end": 647,
+                "label": "location",
+                "substring": "South African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8097e76e-e265-4105-8cd9-729e2fde36ac"
+            },
+            {
+                "begin": 652,
+                "end": 658,
+                "label": "location",
+                "substring": "Indian",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+            },
+            {
+                "begin": 687,
+                "end": 698,
+                "label": "variable",
+                "substring": "wild plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1041,
+                "end": 1066,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1228,
+                "end": 1253,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1269,
+                "end": 1274,
+                "label": "location",
+                "substring": "India",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+            },
+            {
+                "begin": 1438,
+                "end": 1450,
+                "label": "weather event",
+                "substring": "extreme heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 3,
+                "end": 9,
+                "label": "location",
+                "substring": "Durban",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8097e76e-e265-4105-8cd9-729e2fde36ac"
+            },
+            {
+                "begin": 178,
+                "end": 192,
+                "label": "natural hazard",
+                "substring": "water shortage",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/948dea97-9843-4895-b59b-cb55f07a41b4"
+            },
+            {
+                "begin": 1258,
+                "end": 1267,
+                "label": "location",
+                "substring": "Ahmedabad",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+            },
+            {
+                "begin": 1341,
+                "end": 1357,
+                "label": "project",
+                "substring": "Heat Action Plan",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/446c1b9a-cee6-46e6-99be-3db5fbb798fb"
+            },
+            {
+                "begin": 145,
+                "end": 159,
+                "label": "variable",
+                "substring": "crop varieties",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c74f390-9d82-4903-98e0-bddf0d3247fb"
+            }
+        ]
+    },
+    {
+        "text": "The Plan-a SETS change triggered by an extreme heat wave-implemented mapping and alerting of highrisk heat areas, a heat warning system for residents, and training for healthcare professionals. Now influencing heat action plans in many other cities, HAP exemplifies how responsive governance change in one city can catalyze change in cities nationwide. This shows how governance changes at the local city level trickle down to individual/community behavior change by urban residents, but also shows how current adaptation approaches follow reactive paradigms and could be pushed to interactively and proactively approach change. To use another example, cool roofs (e.g., in Fig. 2A) are implemented both reactively-actions to immediately mitigate extremely high temperatures-and proactively-climate contingency legislation to prepare for future change 50 .\nFrom learning-and stewardship-focused changes, urban social changes also include establishing regional city-to-city networks and platforms with evidence on effective solutions. Networks can catalyze peer-to-peer learning and knowledge transfer among city officials on efficacy and potential of solutions and approaches beyond geographical boundaries 19,51 . Activation, mobilization, and the creation of city networks through, e.g., citizen-led initiatives, NGOs, and technology, could collectively respond to climate change adaptation and may accelerate the lessons learnt and practices or solutions that work across geographies and scales.",
+        "span": [
+            20924,
+            22422
+        ],
+        "entities": [
+            {
+                "begin": 47,
+                "end": 56,
+                "label": "weather event",
+                "substring": "heat wave",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ca820557-401e-4e5e-ac32-29fdbc0628b3"
+            },
+            {
+                "begin": 93,
+                "end": 112,
+                "label": "location",
+                "substring": "highrisk heat areas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 116,
+                "end": 135,
+                "label": "natural hazard",
+                "substring": "heat warning system",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 1367,
+                "end": 1392,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 11,
+                "end": 15,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 762,
+                "end": 774,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 210,
+                "end": 214,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Such networks could facilitate horizontal, nontraditional, and new types of collaboration among individual to global agents, moving beyond traditional top-down and bottom-up initiatives 52,53 . Indeed, the role of governments and the role of scientists in city networks remain important, but at most, research has showcased how social change is a multi-actor and multi-issue response and driver to SETS change 19,54 .\nAt the global scale. Civil movements and initiatives at the larger international level are also important governing bodies for promoting change. The Sustainable Cities platform in Brazil, the OPPLA and ClimateAdapt solutions' platforms in the European Union (see https://climate-adapt.eea.europa.eu/eu-adaptationpolicy/sector-policies/urban), thematic global networks such as 100 Resilient Cities and NATURA (see www.nature-net.org), and an emerging number of urban-focused solutions are platforms for sharing economy, nature-based solutions and circular cities among policymakers and government officials. These organizations are well positioned to retrofit change on global governance structures with elements aimed at building climate change adaptation. For instance, The Asian Cities Climate Change Resilience Network (ACCCRN) connects city governments, NGOs, and funding agencies across six countries (India, Indonesia, Thailand, Vietnam, Bangladesh, and the Philippines) to support and invest in knowledge and community to regional capacity building for urban climate change adaptation.",
+        "span": [
+            22423,
+            23933
+        ],
+        "entities": [
+            {
+                "begin": 598,
+                "end": 604,
+                "label": "location",
+                "substring": "Brazil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2a65dfd1-83e7-4886-a732-316b170522a1"
+            },
+            {
+                "begin": 1148,
+                "end": 1173,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1325,
+                "end": 1330,
+                "label": "location",
+                "substring": "India",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b900c8c7-e4dc-4eab-aed5-5ea42500fc72"
+            },
+            {
+                "begin": 1332,
+                "end": 1341,
+                "label": "location",
+                "substring": "Indonesia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/84aeedd2-6093-4252-9895-8dc063a9ad97"
+            },
+            {
+                "begin": 1343,
+                "end": 1351,
+                "label": "location",
+                "substring": "Thailand",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6af5848c-db4b-4dd0-a6fb-1b9c904ef21b"
+            },
+            {
+                "begin": 1353,
+                "end": 1360,
+                "label": "location",
+                "substring": "Vietnam",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8f4b20b4-633c-4a2e-941d-49e4b5ab3374"
+            },
+            {
+                "begin": 1362,
+                "end": 1372,
+                "label": "location",
+                "substring": "Bangladesh",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/28761db9-82fe-4a24-9a89-0fd6047fa1ea"
+            },
+            {
+                "begin": 1382,
+                "end": 1393,
+                "label": "location",
+                "substring": "Philippines",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9f78dabd-0540-4724-b093-8c0fc05afd3f"
+            },
+            {
+                "begin": 1484,
+                "end": 1509,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 425,
+                "end": 437,
+                "label": "location",
+                "substring": "global scale",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/51e3593f-4b42-4141-972e-96666c479f9c"
+            },
+            {
+                "begin": 398,
+                "end": 402,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1193,
+                "end": 1239,
+                "label": "project",
+                "substring": "Asian Cities Climate Change Resilience Network",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5366ab82-ff8b-46a4-85d1-672c8bb23480"
+            },
+            {
+                "begin": 1241,
+                "end": 1247,
+                "label": "project",
+                "substring": "ACCCRN",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5366ab82-ff8b-46a4-85d1-672c8bb23480"
+            }
+        ]
+    },
+    {
+        "text": "With the mantra 'Building Community of Inclusive Urban Climate Change Resilience,' the ACCCRN works at the global scale but the community level with a strong focus on amplifying local resident and community voices, particularly of women and low-income urban populations (see acccrn.net) 55 . One recent project in Dong Ha City, Vietnam, provides low-interest credit loans to poverty households to retrofit homes for flood and storm resistance. Overseen by the ACCCRN, the credit fund will be locally managed by the provincial Women's Union. Retrofitting and redevelopment is one example of planned changes that could be leveraged for climate change adaptation at a city-wide scale.\nSuch international-level governance changes aim to open and share knowledge on solutions and approaches to implement and \"make these solutions to work on the ground\" of cities searching for information for valid alternatives 56 . Important, however, is that such continent-wide and global commons governance initiatives should be maintained and even strengthened beyond calm conditions to prevent superficial initiatives that do not withstand nor come to the fore during crises.\n<heading>Ecological change</heading>\nCities are re-envisioning urban planning to start shifting away from engineered solutions (e.g., hard paving and channeling) toward solutions that use fewer resources (e.g., water or nutrients) 57 , incorporate nature-based solutions 58 , and ultimately mitigate future negative climate change impacts 59 .",
+        "span": [
+            23934,
+            25438
+        ],
+        "entities": [
+            {
+                "begin": 328,
+                "end": 335,
+                "label": "location",
+                "substring": "Vietnam",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8f4b20b4-633c-4a2e-941d-49e4b5ab3374"
+            },
+            {
+                "begin": 634,
+                "end": 659,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 314,
+                "end": 326,
+                "label": "location",
+                "substring": "Dong Ha City",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8f4b20b4-633c-4a2e-941d-49e4b5ab3374"
+            },
+            {
+                "begin": 416,
+                "end": 421,
+                "label": "natural hazard",
+                "substring": "flood",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fd03d204-4391-4e98-8142-8b8efa235231"
+            },
+            {
+                "begin": 426,
+                "end": 431,
+                "label": "weather event",
+                "substring": "storm",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8b85871f-7851-4320-9eec-6aa26b9310f7"
+            },
+            {
+                "begin": 107,
+                "end": 119,
+                "label": "location",
+                "substring": "global scale",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/51e3593f-4b42-4141-972e-96666c479f9c"
+            },
+            {
+                "begin": 87,
+                "end": 93,
+                "label": "project",
+                "substring": "ACCCRN",
+                "identifier": null
+            },
+            {
+                "begin": 460,
+                "end": 466,
+                "label": "project",
+                "substring": "ACCCRN",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Concerns for urban biodiversity conservation and extinction of human-nature experiences in cities may shape ecological changes that create novel ecosystems and promote human-nature connections (e.g., through biophilic design) 60 . Ecological systems, both in cities and in the wild, are dynamic and in the perpetual status of the change. Thus, urban ecosystems, under thoughtful and proactive human intervention and management, can offer opportunities to retrofit climate change elements under planned change.\nThe rapid rates of projected climate change and particularly in cities mean that many plant and animal species will not be able to adapt to new conditions 23 . This warrants creative ecological climate change adaptation changes to support urban biodiversity and associated ecological functions, while ideally promoting climate change mitigation. Many cities are harnessing ecological changes, for example in urban forests, to synergistically promote ecological function and climate mitigation. In Berlin, Germany, city greening and conservation programs are harnessing forecasted climate change conditions, temperature, and drought extremes to guide their urban tree species selection for both pollinators and climate mitigation 61 . Here, selecting trees that, though novel in the city, will bloom at different times to maintain floral resources for wild pollinators in the short annual term, and over the long term, as such, plant species will more likely withstand future weather extremes.",
+        "span": [
+            25439,
+            26941
+        ],
+        "entities": [
+            {
+                "begin": 704,
+                "end": 729,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 918,
+                "end": 931,
+                "label": "location",
+                "substring": "urban forests",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 1015,
+                "end": 1022,
+                "label": "location",
+                "substring": "Germany",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/953ea5cb-cd34-4ffc-a18b-f93173f2c7f6"
+            },
+            {
+                "begin": 1134,
+                "end": 1150,
+                "label": "natural hazard",
+                "substring": "drought extremes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 1117,
+                "end": 1128,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1007,
+                "end": 1013,
+                "label": "location",
+                "substring": "Berlin",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d780c4ea-4b39-4fda-a0d3-4f5bee42530d"
+            },
+            {
+                "begin": 350,
+                "end": 360,
+                "label": "variable",
+                "substring": "ecosystems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 139,
+                "end": 155,
+                "label": "location",
+                "substring": "novel ecosystems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            }
+        ]
+    },
+    {
+        "text": "Incorporating novel ecological elements can simultaneously maintain ecological functions and adapt cities to climate change impacts. Yet, though such urban tree planting initiatives are aimed to build climate resilience and prepare for climate change, there are still many reactive examples where drought-or pest-stricken trees are often replaced with nonclimate-ready species that continue to dominate tree nurseries 23 . New technologies, including drones and hyperspectral remote sensing, could also be implemented to monitor \"climate-ready\" urban forests to better safeguard ecosystem services.\nBringing nature back in the city combined with climate change adaptation is motivating designing with nature-based solutions 19,58,62 . Solutions employ living plants and soils along with green and blue landscape elements to reduce negative climate change impacts and to make cities more climate-resilient. Green roofs are one popular strategy that can be retrofitted onto buildings to increase climate adaptation of urban assets. The ecological concepts embedded in such nature-based solutions include biodiversity conservation, ecosystem multifunctionality, and multiple ecosystem service provision 63 . For example, green roofs planted across cities by residents and businesses promote various climate-related ecosystem services, including carbon storage and stormwater retention, for climate change adaptation 64 .",
+        "span": [
+            26942,
+            28359
+        ],
+        "entities": [
+            {
+                "begin": 297,
+                "end": 304,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 545,
+                "end": 558,
+                "label": "location",
+                "substring": "urban forests",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 579,
+                "end": 597,
+                "label": "variable",
+                "substring": "ecosystem services",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 1129,
+                "end": 1138,
+                "label": "variable",
+                "substring": "ecosystem",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 1172,
+                "end": 1181,
+                "label": "variable",
+                "substring": "ecosystem",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 1342,
+                "end": 1356,
+                "label": "variable",
+                "substring": "carbon storage",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6f6537f5-773f-4df1-862b-d9ab80eb5e04"
+            },
+            {
+                "begin": 1387,
+                "end": 1412,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 770,
+                "end": 775,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 1361,
+                "end": 1381,
+                "label": "variable",
+                "substring": "stormwater retention",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8b85871f-7851-4320-9eec-6aa26b9310f7"
+            },
+            {
+                "begin": 646,
+                "end": 671,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1312,
+                "end": 1330,
+                "label": "variable",
+                "substring": "ecosystem services",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            }
+        ]
+    },
+    {
+        "text": "Rain gardens, such as the 100-m-long rain gardens in Rotterdam, The Netherlands, show innovative collaboration with urban architects and designers to improve water retention and flooding mitigation 65 . These examples highlight cocreation processes (among citizens, designers, and businesses) and the interactions between ecological and social systems in different urban design frameworks that can inform and guide such socioecological transitions. Biophilic design is another ecological design intervention for climate change adaptation. In Singapore, citizens and institutions are combating both biodiversity loss and climate change challenges through deliberate biophilic design strategies, including biodiverse and heat-mitigating street trees, green roofs, and walls 66 . Here, the Cooling Singapore initiative uses climate change as an opportunity to accelerate adaptation via biophilic design, focusing on biodiversity-rich infrastructure. The Singapore Botanical Garden Learning Forest contains 700 plant species and contributes to heat island adaptation by integrating biophilic design strategies that increase shade cover, vegetation cover, species diversity, and wind flow.\nEcological changes for urban climate change adaptation do and should involve a mix of city stakeholders, including policymakers and planners, citizens, environmental organizations, and private businesses. Ecological adaptations should support cocreation processes and strengthen synergistic interactions between social and ecological systems.",
+        "span": [
+            28360,
+            29887
+        ],
+        "entities": [
+            {
+                "begin": 68,
+                "end": 79,
+                "label": "variable",
+                "substring": "Netherlands",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4ff980e-6edd-400f-9c99-951fa0d0c887"
+            },
+            {
+                "begin": 512,
+                "end": 537,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 542,
+                "end": 551,
+                "label": "location",
+                "substring": "Singapore",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6364bdbb-cdec-4059-a2b5-6b873c09fc7d"
+            },
+            {
+                "begin": 795,
+                "end": 804,
+                "label": "location",
+                "substring": "Singapore",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6364bdbb-cdec-4059-a2b5-6b873c09fc7d"
+            },
+            {
+                "begin": 1133,
+                "end": 1149,
+                "label": "variable",
+                "substring": "vegetation cover",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5bdb3251-4811-439c-b172-9bbcd98e84b3"
+            },
+            {
+                "begin": 1214,
+                "end": 1239,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 53,
+                "end": 62,
+                "label": "location",
+                "substring": "Rotterdam",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4ff980e-6edd-400f-9c99-951fa0d0c887"
+            },
+            {
+                "begin": 178,
+                "end": 186,
+                "label": "natural hazard",
+                "substring": "flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7fdc339e-017f-4e4b-89a3-12e441a40bad"
+            },
+            {
+                "begin": 158,
+                "end": 163,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 719,
+                "end": 723,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 951,
+                "end": 993,
+                "label": "location",
+                "substring": "Singapore Botanical Garden Learning Forest",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6364bdbb-cdec-4059-a2b5-6b873c09fc7d"
+            },
+            {
+                "begin": 1040,
+                "end": 1044,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "City and academic partnership projects are linking ecological components of cities with data-driven technological innovations for climate change adaptation (see below). In Bendigo, Australia, the Shadeways Project leverages fine-grained heat and vegetation/shade data derived from satellite imagery to provide residents with an accessible and easy mapping tool to plan the most thermally comfortable traveling route (https://www.shadeways.net/). Such small localized solutionswhere residents can adapt to extreme temperatures by avoiding urban temperature hotspots-can help build regional climate change adaptation, especially if they can be compounded at larger scales. Providing access to and encouraging the use of novel ecosystems for biophilic interactions and new technology among all urban communities-from low-to high-income, longterm residents to new urban migrants-is critical to make ecological innovations equitable and just. Thus, ecological changes coproduced through city or academic partnerships should consider socioenvironmental justice and engage with all community members in diverse ways to be truly effective in change implementation 67 . Stakeholder engagements may involve new transdisciplinary and cocreation models of, for example, citizen science that create inclusive climate policy change, transform citizen behavior to positively compound ecological climate change adaptation, and support citizens as key agents driving urban climate change adaptation 68 .",
+        "span": [
+            29888,
+            31374
+        ],
+        "entities": [
+            {
+                "begin": 130,
+                "end": 155,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 181,
+                "end": 190,
+                "label": "location",
+                "substring": "Australia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+            },
+            {
+                "begin": 538,
+                "end": 564,
+                "label": "weather event",
+                "substring": "urban temperature hotspots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 589,
+                "end": 614,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 718,
+                "end": 734,
+                "label": "location",
+                "substring": "novel ecosystems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            },
+            {
+                "begin": 1380,
+                "end": 1405,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1456,
+                "end": 1481,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 172,
+                "end": 179,
+                "label": "location",
+                "substring": "Bendigo",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+            },
+            {
+                "begin": 246,
+                "end": 256,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 513,
+                "end": 525,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 791,
+                "end": 808,
+                "label": "location",
+                "substring": "urban communities",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            },
+            {
+                "begin": 237,
+                "end": 241,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "<heading>Technological change</heading>\nTechnological changes, including infrastructure change, are rapidly evolving and spreading across urban regions in response to climate change. Technological change for climate change adaptation involves interlinking urban infrastructures and delivering urban services through deployment of digitalization, automation, and similar emerging technologies 69 . \"Smart cities\" and suburbs promise a quicker, more efficient, and integrated future supported by \"big data\", the Internet of Things (IoT), urban intelligence, emerging, and future technologies. Yet technological changes may also be quite low-tech without digitalization and involve urban citizens retrofitting their homes with their own devices in a self-help fashion 70 . We discuss how climate change can inspire the deployment of technology and infrastructure change aimed at reducing its impacts on the urban economy, optimize energy supply waste management, and continued services for a burgeoning urban populace. While technological innovations can hold promise for climate change adaptation, they should be carefully implemented with potential negative unintended consequences and risks to social justice in mind (e.g., technological \"lock-ins\", digital divides that amplify social inequality, privacy concerns, and technocratic governance), and benefits to broader society as a common goal 71 . We describe both types and scales of interventions.",
+        "span": [
+            31375,
+            32826
+        ],
+        "entities": [
+            {
+                "begin": 208,
+                "end": 233,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1069,
+                "end": 1094,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 138,
+                "end": 151,
+                "label": "location",
+                "substring": "urban regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            }
+        ]
+    },
+    {
+        "text": "Despite technological \"smart city\" aspirations, most of the world's cities still require a significant departure from the status quo to leverage impactful technological change for climate change adaptation at multiple scales 6 , and to do so equitably across socioeconomic groups 71 . Climate-related technology can be embedded in the world's cities following technological replacement, upgrade, and evolution 72 . This, however, is still the exception rather than the norm, and often practiced on a small scale based on opportunity or need as, for example, a disasterdriven response by city governments 73 . Technological including infrastructural climate change adaptation changes by government, industry, and residents require forward-thinking action now, rather than salience-driven approaches to climate change adaptation motivated by risk 73 . The substitution of old infrastructural assets with more flexible and adaptive infrastructure that can harness IoT innovations such as weather sensors could enable \"smart\" urban meteorology, supporting cities to improve weather forecasting and proactively adapt to extreme events triggered by climate change 74 .\nSimple and small actions by urban residents could promote powerful technological and infrastructural advances for climate change adaptation (e.g., participatory and opportunistic crowdsensing) 75 .",
+        "span": [
+            32827,
+            34187
+        ],
+        "entities": [
+            {
+                "begin": 180,
+                "end": 205,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 649,
+                "end": 674,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 801,
+                "end": 826,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1277,
+                "end": 1302,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            }
+        ]
+    },
+    {
+        "text": "For example, new \"smart\" car windshield wipers, deployed on an interconnected car fleet, can improve local realtime precipitation measurements, produce highly accurate rainfall maps, and even capture rainfall events missed by current technology 76 . Similarly, the substitution of traditional public transport shelters with \"smarter\" ones may provide not only a shelter from harsh weather conditions but also for enhancing ambient urban sensing, intelligence, and climate change adaptation 77 . Thus, urban technological change can, if properly mainstreamed and scaled, heighten city and resident ability to locally predict, respond, and adapt to extreme weather events, like urban flooding or extreme heat.\nMost contemporary urban infrastructure systems are relatively inflexible, rigid, and long-lasting 6,78 . Although infrastructure systems are often designed and engineered to meet demands decades into the future, new opportunities to leap-frog using the latest technology for more adaptive approaches can spontaneously arise. Cycles of urban decay and replacement, or climate-driven extreme events that may damage or destroy existing infrastructure, offer urban planners, engineers, and architects the chance to update technology. Integrating \"green\" infrastructure as a nature-based solution for regenerating urban water infrastructure could alleviate forecasted large stormwater surges, as shown for Buffalo, NY, USA.",
+        "span": [
+            34188,
+            35614
+        ],
+        "entities": [
+            {
+                "begin": 464,
+                "end": 489,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 647,
+                "end": 669,
+                "label": "weather event",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 694,
+                "end": 706,
+                "label": "weather event",
+                "substring": "extreme heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 676,
+                "end": 690,
+                "label": "natural hazard",
+                "substring": "urban flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb5c09ec-c924-4deb-8294-8a27697a4550"
+            },
+            {
+                "begin": 1409,
+                "end": 1425,
+                "label": "location",
+                "substring": "Buffalo, NY, USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            }
+        ]
+    },
+    {
+        "text": "On a small, residential scale, the substitution of old water meters with smarter sensors can increase water savings in drought-stricken cities such as Cape Town, South Africa 79 , the first city in the world to face \"Day Zero\" and the complete shutdown of its water supply 80 . Water meters implemented in urban gardens can improve irrigation efficiency, reduce crop mortality, and redesign garden systems for future harsher climate conditions 46 . Residents are also adapting to climate change using existing infrastructure and technologies already in hand for microscale adaptation. For example, in Ho Chi Minh City, Vietnam, residents are creatively updating building infrastructure to physically raise homes and shop entrances above flood levels 81 . In Sweden, neighborhood residents collaborate to create roof pipeline networks to prepare for increased stormwater runoff 82 . These examples well highlight how technological systems interact with ecological and social systems for relatively accessible adaptation actions.\nOn a larger scale, smart water grids can allow cities to improve water shortage and drought management by detecting leaks in real time and optimizing supply through cloud-based systems during times of scarcity (e.g., Australian Water Association). Simply repainting buildings can also manage albedo and mitigate temperature 83 , while nanotechnology promises a future of supercooling materials for retrofitting buildings and new constructions 84,85 .",
+        "span": [
+            35615,
+            37093
+        ],
+        "entities": [
+            {
+                "begin": 102,
+                "end": 115,
+                "label": "variable",
+                "substring": "water savings",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 119,
+                "end": 126,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 151,
+                "end": 174,
+                "label": "location",
+                "substring": "Cape Town, South Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8097e76e-e265-4105-8cd9-729e2fde36ac"
+            },
+            {
+                "begin": 260,
+                "end": 265,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 278,
+                "end": 283,
+                "label": "variable",
+                "substring": "Water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 332,
+                "end": 353,
+                "label": "variable",
+                "substring": "irrigation efficiency",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/59b3849e-6704-402f-9a3e-512db10c2f51"
+            },
+            {
+                "begin": 619,
+                "end": 626,
+                "label": "location",
+                "substring": "Vietnam",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8f4b20b4-633c-4a2e-941d-49e4b5ab3374"
+            },
+            {
+                "begin": 737,
+                "end": 749,
+                "label": "variable",
+                "substring": "flood levels",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/44278367-2c4d-4309-90a2-03244a12ae39"
+            },
+            {
+                "begin": 758,
+                "end": 764,
+                "label": "location",
+                "substring": "Sweden",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2edce566-82e1-4645-a94d-58cffa42f8e2"
+            },
+            {
+                "begin": 1112,
+                "end": 1119,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 55,
+                "end": 60,
+                "label": "variable",
+                "substring": "water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a7364ea3-694f-41d1-b296-819379ec6336"
+            },
+            {
+                "begin": 601,
+                "end": 617,
+                "label": "location",
+                "substring": "Ho Chi Minh City",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8f4b20b4-633c-4a2e-941d-49e4b5ab3374"
+            },
+            {
+                "begin": 859,
+                "end": 876,
+                "label": "variable",
+                "substring": "stormwater runoff",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8b85871f-7851-4320-9eec-6aa26b9310f7"
+            },
+            {
+                "begin": 1093,
+                "end": 1107,
+                "label": "natural hazard",
+                "substring": "water shortage",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1245,
+                "end": 1273,
+                "label": "provider",
+                "substring": "Australian Water Association",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5dee7001-09d3-43b3-bf9b-b5d717f557b2"
+            },
+            {
+                "begin": 1340,
+                "end": 1351,
+                "label": null,
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 362,
+                "end": 366,
+                "label": "variable",
+                "substring": "crop",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c74f390-9d82-4903-98e0-bddf0d3247fb"
+            },
+            {
+                "begin": 306,
+                "end": 319,
+                "label": "location",
+                "substring": "urban gardens",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e4abd82b-b17a-4f16-be79-0093f2a09f7d"
+            }
+        ]
+    },
+    {
+        "text": "Nordic cities are using active approaches to rebuild cities after permafrost melting by integrating changes associated with soil thawing into a building's foundational design and maintenance for future melting 86 . Finally, new transportation technologies, such as electric, battery-powered automated vehicles (AVs) adopted by public transportation networks, businesses, and residents, have the potential to reduce greenhouse gas emissions and combat contemporary transportation woes around pollution, congestion, and parking 87 . Cities such as Tempe, Arizona, USA, have implemented AVs as part of their Smart Mobility strategies in their Climate Action Plan 88 . High-speed electric trackless trams implemented at the city-scale are another green tech option for future cities, equipped with GPS and LIDAR technologies to move quickly and precisely through cities, all while reducing emissions. Such emerging technologies are proposed for climate change adaptation and urban regeneration in Australian cities, including Perth, Sydney, and Melbourne 89 .\nUrban policymakers need updated information on human behavior and perceptions and how they relate to global and local environmental change.",
+        "span": [
+            37094,
+            38289
+        ],
+        "entities": [
+            {
+                "begin": 941,
+                "end": 966,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 0,
+                "end": 13,
+                "label": "location",
+                "substring": "Nordic cities",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf3a607a-aef8-41db-bdc6-aea74fcfed12"
+            },
+            {
+                "begin": 415,
+                "end": 439,
+                "label": "variable",
+                "substring": "greenhouse gas emissions",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 546,
+                "end": 565,
+                "label": "location",
+                "substring": "Tempe, Arizona, USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 993,
+                "end": 1003,
+                "label": "location",
+                "substring": "Australian",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+            },
+            {
+                "begin": 1022,
+                "end": 1050,
+                "label": "location",
+                "substring": "Perth, Sydney, and Melbourne",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/03e2acdd-67f7-4380-8c82-53aeb1d4730e"
+            },
+            {
+                "begin": 802,
+                "end": 820,
+                "label": "instrument",
+                "substring": "LIDAR technologies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6182be8b-d006-4327-994d-6f27c7e4d9a9"
+            },
+            {
+                "begin": 794,
+                "end": 797,
+                "label": "instrument",
+                "substring": "GPS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e66a90c4-3a5c-4e52-b039-bc93857642bf"
+            }
+        ]
+    },
+    {
+        "text": "For example, seemingly basic questions about the value of urban green space or the social and cultural benefits of urban parks to diverse residents (answers that are essential to bring the innovations in nature-based solutions into planning, management, and design), are currently challenging to answer because adequate social data limit such social-ecological research. Big data, including social media data, can offer new opportunities to link research and decisionmaking with advanced data and computation 12 . Citizen science methods where urban residents monitor atmospheric conditions using smart devices (e.g., personal weather stations) are also providing new, crowdsourced data sets for monitoring and analyzing urban heat island patterns and intensity across urban regions 90 while engaging resident-level agency for potential climate change adaptation.\nIt is not only a question of adequate and informative data that link citizens to policy and planning, but importantly the political will of governing bodies to favor long-term proactive climate change adaptation changes over short-term or temporary byproducts (e.g., job loss). Governing bodies must also be wary that transforming urban landscapes into \"smart cities\" through technology (IoT, big data, and automation) is connected to risks of deepening social divides linked with private asset ownership, access to information and knowledge, gentrification and displacement, neoliberal investment rationales, agendas of growth, and others.",
+        "span": [
+            38290,
+            39794
+        ],
+        "entities": [
+            {
+                "begin": 837,
+                "end": 862,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 721,
+                "end": 747,
+                "label": "variable",
+                "substring": "urban heat island patterns",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 1030,
+                "end": 1083,
+                "label": "project",
+                "substring": "long-term proactive climate change adaptation changes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 769,
+                "end": 782,
+                "label": "location",
+                "substring": "urban regions",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "These consequences argue for managing the interdependences of social and technological, and potential unintended feedbacks between subsystems. Indeed, this is the challenge of managing SETS change for just climate resilience. Ultimately, urban change can be collectively achieved with city residents through digital technology that encourages cocreation, engagement, and participation across all social groups (e.g., JigsAudio technologies) 91 in combination with a political drive that supports equitable agency.\n<heading>CHALLENGES CAN BE WAYS FORWARD</heading>\nUrban SETS change can be proactively harnessed to build urban climate adaptation. Yet, the impacts of climate change on urban SETS and interactions across SETS systems are often unpredictable and make change implementation especially challenging. In addition, identifying or proactively supporting the mechanisms through which change can occur may be difficult in some urban and cultural contexts at the appropriate scale. Challenges and barriers can arise in urban systems and contexts to limit the effective implementation of this framework, and lead to outstanding issues for research and for global urban society:\n• How can all urban residents be not mere spectators or victims of SETS change and climate change, but engaged players that can lead SETS to change for climate change adaptation?\n• How can unforeseen shifts in social-ecological systems be translated into adaptive, rather than maladaptive, responses toward climate change?",
+        "span": [
+            39795,
+            41299
+        ],
+        "entities": [
+            {
+                "begin": 1334,
+                "end": 1359,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1315,
+                "end": 1319,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 719,
+                "end": 723,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 684,
+                "end": 694,
+                "label": "project",
+                "substring": "urban SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 570,
+                "end": 574,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 185,
+                "end": 189,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1249,
+                "end": 1253,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "• How can spatial and temporal asynchronies be realigned to match action with impact?\n• How can cities promote effective and meaningful changes that are transferable across urban contexts?\n• How can societal-level institutional bodies support just policy and governance actions to minimize trade-offs and upscale impacts?\n• To what extent can we retrofit existing urban transformation and transition initiatives with climate change adaptation elements?\nWe conclude by addressing these complex questions arising from interactions within SETS as potential ways forward to harness social, ecological, and technological change and their interactions for positive urban climate change adaptation.\n<heading>Context-dependent adaptation</heading>\nIt is not always possible to standardize, retrofit, and design SET change toward climate change adaptation for all cities. As \"one size does not fit all\", what works in a particular urban context, and at a specific point in time, does not ensure that this will be universally effective. Cities vary greatly in what specific climaterelated challenges they are facing, and what infrastructure and technology is already in place. As shown in the application of climate change and the SETS framework, some cities and towns might not have the capacity, resources, decision-making power, social and political willingness, or governance structures to pursue changes when a window of opportunity for deliberate change arises 92 .",
+        "span": [
+            41300,
+            42761
+        ],
+        "entities": [
+            {
+                "begin": 417,
+                "end": 442,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 665,
+                "end": 690,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 536,
+                "end": 540,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 821,
+                "end": 846,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1221,
+                "end": 1225,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 173,
+                "end": 187,
+                "label": "location",
+                "substring": "urban contexts",
+                "identifier": null
+            },
+            {
+                "begin": 803,
+                "end": 806,
+                "label": "project",
+                "substring": "SET",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "In emerging and developing countries, other more urgent priorities and development challenges might hamper the application of this framework, as often seen in more traditional efforts toward climate change adaptation 93 (Fig. 1). Furthermore, urban residents within and across cities are highly heterogeneous in sociodemographics, and in their actual and perceived need, willingness, and capacity for change adaptation. Hence, with this framework, we argue for a vast array of opportunities-like the diverse SETS changes that are already inevitably happening across cities-to retrofit urban climate change adaptation and complement other SETS frameworks. Local urban managers could tailor this framework to their context through the filter of their own knowledge. Here, stakeholders can prototype climate change adaptation changes locally, through safe-to-fail approaches (e.g., Fig. 2A) 94 .\n<heading>Temporal asynchronicity</heading>\nUrban systems are driven by unpredictable feedback loops, multiscalar interactions, and legacies, all likely to occur asynchronously 1 . This is also true for urban climate change impacts, with adaptive responses likely to vary at different spatial and temporal scales 94,95 . Small incremental SETS change can be possible but often comes in disruptive and abrupt ways (Fig. 2B), leaving small windows of opportunity to plan for unpredictability and design effective strategies for climate change adaptation.",
+        "span": [
+            42762,
+            44206
+        ],
+        "entities": [
+            {
+                "begin": 191,
+                "end": 216,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 591,
+                "end": 616,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1095,
+                "end": 1115,
+                "label": "natural hazard",
+                "substring": "urban climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 508,
+                "end": 512,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 638,
+                "end": 642,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 1231,
+                "end": 1235,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 797,
+                "end": 822,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1418,
+                "end": 1443,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            }
+        ]
+    },
+    {
+        "text": "The steady progression of climate change, coupled with the variability of urban SETS change, might create tensions or time lapses in results as cities change themselves. To create and plan for change for a constantly \"moving\" and adapting system requires an approach that accommodates uncertainty across space and time and the metagovernance and orchestration of changes across SETS systems 3 . This needs a longer-term perspective, stable power structures, and considering potential lags in responses of environmental and social systems. Moreover, this can be achieved by designing contingency plans that allow for different pathways and outcomes as a key ingredient for moving toward proactive change. The ideal is a response system that aligns and amplifies positive changes to a more complex response to urban SETS change that synchronizes adaptation across scales, urban contexts, and social milieu. Following a context-dependent approach (3.1), decision-makers can use guidelines superimposed with incentives (e.g., tax cuts) that steer climatically 'safe' behavioral change.\n<heading>Inequality in adaptation</heading>\nChanges must be leveraged through active participation and diverse collaboration across all levels of society, across the Global North and South, to stabilize the earth's climate 3 .",
+        "span": [
+            44207,
+            45515
+        ],
+        "entities": [
+            {
+                "begin": 80,
+                "end": 84,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 378,
+                "end": 382,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 808,
+                "end": 825,
+                "label": "project",
+                "substring": "urban SETS change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 870,
+                "end": 884,
+                "label": "location",
+                "substring": "urban contexts",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Although cities can be engines of innovation 96 , innovations, such as those related to technology and big data, might be generated by corporations and urban actors, but not necessarily aligned with environmental goals and values, specifically those related to climate change. New technology may thrive in un(der)-regulated markets and are associated with issues around political surveillance, privacy, and corporate power of automation 71 . Furthermore, technological uptake for climate change adaptation can hamper strides to improve urban social equity and justice 97 ; higher resources of early technology adopters might disproportionately allow access to better technology and underlying benefits while exacerbating social divides with other social groups less capable of early technology adoption or access 98 . The question of whether and who should regulate SETS change for climate change adaptation should be explicitly addressed by local and international governance and policies, and not left to market devices. Inclusive governance at both local and global scales can help mitigate potential issues around equity and justice in climate change action and should establish policies that provide equitable access and distribution of opportunities for adaptation 99 (Fig. 1A).\n<heading>Transform barriers into potential solutions</heading>\nMany of the challenges to urban climate adaptation are due to the hybrid character of SETS.",
+        "span": [
+            45516,
+            46955
+        ],
+        "entities": [
+            {
+                "begin": 480,
+                "end": 505,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 866,
+                "end": 870,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 882,
+                "end": 907,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1434,
+                "end": 1438,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "The intrinsic hybridity and complexity of SETS cannot be simply solved as it is an inherent property of urban systems. Indeed, this hybridity means that SETS change can be responsible for major changes to the global climate, while also setting the seed for solutions to climate change. The framework of ideas proposed in this paper focuses on the latter scenario. While this complexity seems somewhat limiting, we can work around this complexity to find current progressive, integrated, and scalable solutions to climate change within and across different dimensions of SETS at different spatial and social scales. Where existing urban transitions are already occurring, these could benefit from the introduction of climate change adaptation elements. Rather than subsystem change, we must look also toward interactions between and among urban systems as a true potential opportunity for climate adaptation (Fig. 1). Urban scholars, policymakers, and local communities have concepts and tools to better than superficially understand and address it. Thus, it is up to local urban managers to adapt these ideas to their local context, to flip the coin, and change how the current climate narrative is understood and acted upon. What we suggest here is that urban change, regardless of its ecological, technological, or social nature, must be translated as an opportunity, rather than a burden. As a momentous occasion to increase the capacity of our cities and their residents to deal with and thrive under a changing climate.",
+        "span": [
+            46956,
+            48480
+        ],
+        "entities": [
+            {
+                "begin": 716,
+                "end": 741,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 42,
+                "end": 46,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 153,
+                "end": 157,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            },
+            {
+                "begin": 570,
+                "end": 574,
+                "label": "project",
+                "substring": "SETS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/701feec6-f1b3-450c-9df6-75706822256d"
+            }
+        ]
+    },
+    {
+        "text": "<heading>AUTHOR CONTRIBUTIONS</heading>\nM.E. and A.O. initiated the idea for the paper. M.E. led the data collection, writing of, and revising the paper. All authors contributed to the data collection and paper writing and revising.\n<heading>Reporting summary</heading>\nFurther information on research design is available in the Nature Research Reporting Summary linked to this article.\n<heading>DATA AVAILABILITY</heading>\nThe authors have no data to report.\n<heading>FUNDING</heading>\nOpen Access funding enabled and organized by Projekt DEAL.\n<heading>COMPETING INTERESTS</heading>\nThe authors declare no competing interests.\n<heading>ADDITIONAL INFORMATION</heading>\nSupplementary information The online version contains supplementary material available at https://doi.org/10.1038/s42949-021-00024-y.\nCorrespondence and requests for materials should be addressed to M.E.\nReprints and permission information is available at http://www.nature.com/ reprints Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+        "span": [
+            48481,
+            49575
+        ],
+        "entities": []
+    }
+]

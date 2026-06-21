@@ -1,0 +1,2508 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nFuture energy demand is likely to increase due to climate change, but the magnitude depends on many interacting sources of uncertainty. We combine econometrically estimated responses of energy use to income, hot and cold days with future projections of spatial population and national income under five socioeconomic scenarios and temperature increases around 2050 for two emission scenarios simulated by 21 Earth System Models (ESMs). Here we show that, across 210 realizations of socioeconomic and climate scenarios, vigorous (moderate) warming increases global climate-exposed energy demand before adaptation around 2050 by 25-58% (11-27%), on top of a factor 1.7-2.8 increase above present-day due to socioeconomic developments. We find broad agreement among ESMs that energy demand rises by more than 25% in the tropics and southern regions of the USA, Europe and China. Socioeconomic scenarios vary widely in the number of people in lowincome countries exposed to increases in energy demand.\n<heading></heading>\nE nergy use is one of the human systems most directly exposed to changes in the climate 1,2 . Rising ambient temperatures are expected to increase hot season cooling demand 3 and could decrease cold season heating demand across multiple economic sectors (see definition of economic sectors for this study in Supplementary Note 1) 4,5 , as well as increase agriculture's demand for irrigation during crop-growing seasons 6 .",
+        "span": [
+            0,
+            1469
+        ],
+        "entities": [
+            {
+                "begin": 359,
+                "end": 370,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 436,
+                "end": 455,
+                "label": "model",
+                "substring": "Earth System Models",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 457,
+                "end": 461,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 791,
+                "end": 795,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 845,
+                "end": 852,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 881,
+                "end": 884,
+                "label": "location",
+                "substring": "USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1155,
+                "end": 1167,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1427,
+                "end": 1437,
+                "label": "variable",
+                "substring": "irrigation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+            },
+            {
+                "begin": 244,
+                "end": 253,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": null
+            },
+            {
+                "begin": 886,
+                "end": 892,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": null
+            },
+            {
+                "begin": 897,
+                "end": 902,
+                "label": "location",
+                "substring": "China",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Population expansion, economic growth, shifts in the sectoral composition of economies, behavior of individuals and organizations, and the pace of technological development are multiple sources of uncertainty that will interact to determine future demand of different energy sources across regions 7 . Layered on top of this are the additional uncertainties in the timing and intensity of future temperature changes-both at the global level, driven by trajectories of global greenhouse gas emissions and radiative forcing, and at finer geographic scales, determined by the effects on future regional climates.\nIdentifying the relative magnitudes of these uncertainties, their shapes, and interactions is very relevant to policy makers, who need to make decisions with decadal consequences today. To characterize the interactions among these multiple sources of uncertainty, we leverage on the new socioeconomic (Shared Socioeconomic Pathway, SSPs) and climate scenarios (Representative Concentration Pathways, RCPs) 8 , and combine empirically derived reduced-form responses of sectoral energy demand by fuel with climatological exposures and socioeconomic variables. The Shared Socioeconomic Pathways and Representative Concentration Pathways are a set of socioeconomic and GHG emission scenarios that have been developed by the research community at the request of the Intergovernmental Panel on Climate Change (IPCC) and that are used to make scenario-based mitigation and impacts studies more comparable across the literature.",
+        "span": [
+            1470,
+            3000
+        ],
+        "entities": [
+            {
+                "begin": 396,
+                "end": 407,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 504,
+                "end": 521,
+                "label": "variable",
+                "substring": "radiative forcing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+            },
+            {
+                "begin": 1371,
+                "end": 1412,
+                "label": "project",
+                "substring": "Intergovernmental Panel on Climate Change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fbcf679-578f-4f06-bd33-9fac85df2c58"
+            },
+            {
+                "begin": 1414,
+                "end": 1418,
+                "label": "project",
+                "substring": "IPCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fbcf679-578f-4f06-bd33-9fac85df2c58"
+            },
+            {
+                "begin": 971,
+                "end": 1008,
+                "label": "experiment",
+                "substring": "Representative Concentration Pathways",
+                "identifier": null
+            },
+            {
+                "begin": 1206,
+                "end": 1243,
+                "label": "experiment",
+                "substring": "Representative Concentration Pathways",
+                "identifier": null
+            },
+            {
+                "begin": 1172,
+                "end": 1201,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathways",
+                "identifier": null
+            },
+            {
+                "begin": 912,
+                "end": 940,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathway",
+                "identifier": null
+            },
+            {
+                "begin": 1010,
+                "end": 1014,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": null
+            },
+            {
+                "begin": 942,
+                "end": 946,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "We follow a top-down methodology as described in Swan and Ugursal (2009) 9 , increasingly being used as a computationally efficient alternative [10][11][12][13] to process-based simulation models [14][15][16][17] . Engineering bottom-up models are generally applied to specific countries or regions to simulate energy performance of specific buildings or building archetypes, and to forecast specific end uses in the near term 18 . Top-down models do not articulate end-use services, but rely on aggregate national statistics and macroeconomic drivers. When extending the time horizon to the long term, bottom-up models also face the issue of technological and behavioral uncertainty, often being addressed through stylized assumptions or reduced-form relationships between the parameter of interest and income 7 . When aiming at depicting global trends, the much greater complexity and data requirements make it difficult to develop high-quality global bottom-up models 19,20 , and more aggregated or statistical approaches are often preferred 18 . Top-down approaches can capture the joint influence of uncertain future climatic and socioeconomic conditions. Acknowledging parameter uncertainty and stability over time 21,22 , they are increasingly being used as computationally efficient alternatives [10][11][12][13]21 to characterize global or aggregate patterns over the long run.",
+        "span": [
+            3001,
+            4387
+        ],
+        "entities": []
+    },
+    {
+        "text": "A top-down method makes it possible to develop ex ante climate-induced potential impacts prior to any direct or indirect adjustment induced by market interactions between future technological or behavioral changes with energy supplies and the rest of the economy through price changes 23 .\nOur contribution is to develop climate-induced shocks that can be subsequently included in Integrated Assessment Models (IAMs) or Computable General Equilibrium (CGE) models to derive actual ex post energy consumption, which could be substantially moderated by substitution and price adjustments across multiple markets 14 . These intervening adjustments ultimately drive the economic impacts, such as changes in household incomes and welfare. Their scale and scope depend on future changes in structural, technological, and market characteristics that top-down, empirically based approaches imperfectly reflect, and that can be better analyzed using IAM or CGE frameworks [14][15][16][17] .\nWe employ econometric estimates of the per-capita demand for three different final energy carriers associated with heating and cooling (electricity, petroleum products, and natural gas, see specific definition in Supplementary Note 1.) in four economic sectors (agriculture, industry, residential, and commercial) for tropical and temperate countries as a function of percapita gross domestic product (GDP) and exposure to hot (>27.5°C) and cold (<12.5°C) days obtained from De Cian and Sue Wing (2018) 24 -hereafter DCSW.",
+        "span": [
+            4388,
+            5892
+        ],
+        "entities": [
+            {
+                "begin": 1300,
+                "end": 1308,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 411,
+                "end": 415,
+                "label": "model",
+                "substring": "IAMs",
+                "identifier": null
+            },
+            {
+                "begin": 941,
+                "end": 944,
+                "label": "model",
+                "substring": "IAM",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "We use cold and hot days as an alternative indicator to heating and cooling degree days, commonly computed using 18°C as the comfort threshold, a value suitable to temperate regions, but not to tropical countries. The cutoff values for defining hot and cold days in our study are based on the distribution of daily average temperature across all world regions in temperate and tropical countries and meet the need to capture low and high extremes while guaranteeing a sufficient number of observations. See Fig. 2 in DCSW 24 . We combine the income elasticities for energy consumption with GDP per-capita projections from the SSPs. We determine the climatic shocks by combining temperature elasticities with the change in the number of hot and cold days between now and 2050 from 21 Earth System Models (ESMs) and two emission scenarios: RCPs 4.5 and 8.5 [25][26][27] . Finally, we combine the baseline projections for energy consumption with the impacts from temperature change and spatial population projections to derive the spatial patterns of changes in energy demand.\nWe find that vigorous (moderate) warming increases global climate-exposed energy demand before adaptation around 2050 by 25-58% (11-27%), on top of the expansion due to socioeconomic development. We find broad agreement among ESMs that energy demand increases by more than 25% in the tropics and southern regions of the United States, Europe, and China. The number of low-income people exposed to increased energy needs varies greatly across SSPs.",
+        "span": [
+            5893,
+            7414
+        ],
+        "entities": [
+            {
+                "begin": 194,
+                "end": 202,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 323,
+                "end": 334,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 377,
+                "end": 385,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 678,
+                "end": 689,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 783,
+                "end": 802,
+                "label": "model",
+                "substring": "Earth System Models",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 804,
+                "end": 808,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 838,
+                "end": 842,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 960,
+                "end": 971,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1300,
+                "end": 1304,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 1358,
+                "end": 1365,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1394,
+                "end": 1407,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 253,
+                "end": 262,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": null
+            },
+            {
+                "begin": 744,
+                "end": 753,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": null
+            },
+            {
+                "begin": 16,
+                "end": 24,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": null
+            },
+            {
+                "begin": 1409,
+                "end": 1415,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": null
+            },
+            {
+                "begin": 1421,
+                "end": 1426,
+                "label": "location",
+                "substring": "China",
+                "identifier": null
+            },
+            {
+                "begin": 626,
+                "end": 630,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            },
+            {
+                "begin": 1516,
+                "end": 1520,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "<heading>Results</heading>\nBaseline energy demand around 2050. We first combined the income elasticities for energy consumption from DCSW 24 with GDP per-capita projections from the Shared Socioeconomic Pathway 8,28,29 to construct five scenarios of baseline energy demand in 2050 without climate-change impacts, based on projections of future spatially disaggregated population 30,31 and GDP growth for 183 countries 32 .\nAcross SSP scenarios, global population around 2050 ranges between 8.4 and 10 billion people, with modestly varying geographic distribution that concentrates the bulk of future population change in northern mid-to-low latitudes (Fig. 1a). Per-capita GDP increases from 2010's global average of $9763 to between 18,000 and $42,000, with geographic patterns of economic development differing by SSP-especially latitudinally (cf SSP4 in Fig. 1b). Combining these spatial patterns with the income elasticities (specified by energy carrier, sector, and climatic zone) results in a northwardshifted and peaked latitudinal distribution of baseline future energy demand (Fig. 1c). Across SSPs, energy demand is more sensitive to income growth as compared to population expansion, with the largest energy demand increases occurring in the rapid economic growth SSP1 and SSP5 scenarios.\nCurrent global energy demand is concentrated in the high percapita income, high-population density areas of temperate regions, especially Western Europe, United States, Japan, and China.",
+        "span": [
+            7415,
+            8901
+        ],
+        "entities": [
+            {
+                "begin": 1469,
+                "end": 1474,
+                "label": "location",
+                "substring": "Japan",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9ae108db-2d76-44a1-b381-eba2df9554ad"
+            },
+            {
+                "begin": 1103,
+                "end": 1107,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": null
+            },
+            {
+                "begin": 1284,
+                "end": 1288,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 1438,
+                "end": 1452,
+                "label": "location",
+                "substring": "Western Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 1454,
+                "end": 1467,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1480,
+                "end": 1485,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1275,
+                "end": 1279,
+                "label": "experiment",
+                "substring": "SSP1",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c0308d3-89ba-40b7-8ea8-539d8f744a97"
+            },
+            {
+                "begin": 182,
+                "end": 210,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathway",
+                "identifier": null
+            },
+            {
+                "begin": 430,
+                "end": 443,
+                "label": "experiment",
+                "substring": "SSP scenarios",
+                "identifier": null
+            },
+            {
+                "begin": 849,
+                "end": 853,
+                "label": "experiment",
+                "substring": "SSP4",
+                "identifier": null
+            },
+            {
+                "begin": 816,
+                "end": 819,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Baseline final energy demand grows by a factor of 1.4-2.7 for industrialized regions, with more rapid growth in China (Table 1). Conversely, the tropics are home to developing economies that are poorer and consume far less energy, but whose population, income, and energy demand all increase significantly under the SSP scenarios. Energy demand in tropical developing regions grows by a factor of 2-4. Globally, 2050 baseline energy demand is two to three times larger than today (Table 1), or an increase from 137 EJ of climate-exposed final energy use in 2010 to 234-388 EJ by mid-century (see Supplementary Table 1).\nImpacts of climate change. We determine the climatic shocks by combining temperature elasticities from DCSW 24 with the change between now and 2050 for spatial population and the number of hot and cold days from the current mean climate under two emission scenarios: RCPs 4.5 and 8.5 [25][26][27] . We use downscaled and bias-corrected simulations of all 21 Earth System Models (ESMs) that participated in the Coupled Model Intercomparison Project, Phase V (CMIP5) (see the \"Methods\" section) 33,34 .\nCMIP5 projections of temperature around 2050 show pronounced increases in hot days throughout the tropics, especially in the southern hemisphere. The median annual increase in the tropics is around 100 hot days (Fig. 1d and Supplementary Fig. 6). The mid-latitudes experience increases in the number of hot days that are much smaller, but still double their exposure compared with the present climate.",
+        "span": [
+            8902,
+            10424
+        ],
+        "entities": [
+            {
+                "begin": 145,
+                "end": 152,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 693,
+                "end": 704,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1142,
+                "end": 1153,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1219,
+                "end": 1226,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1246,
+                "end": 1265,
+                "label": "location",
+                "substring": "southern hemisphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/417235ba-103a-443c-bb43-75a1a772a2e2"
+            },
+            {
+                "begin": 1301,
+                "end": 1308,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 112,
+                "end": 117,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 316,
+                "end": 329,
+                "label": "experiment",
+                "substring": "SSP scenarios",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 348,
+                "end": 356,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 817,
+                "end": 826,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 1030,
+                "end": 1067,
+                "label": "model",
+                "substring": "Coupled Model Intercomparison Project",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 978,
+                "end": 997,
+                "label": "model",
+                "substring": "Earth System Models",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 1078,
+                "end": 1083,
+                "label": "model",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 999,
+                "end": 1003,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 887,
+                "end": 891,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 1121,
+                "end": 1126,
+                "label": "model",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 1195,
+                "end": 1203,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 1372,
+                "end": 1385,
+                "label": "location",
+                "substring": "mid-latitudes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+            },
+            {
+                "begin": 1323,
+                "end": 1331,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 1424,
+                "end": 1432,
+                "label": "natural hazard",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            }
+        ]
+    },
+    {
+        "text": "Declines in exposure to <12.5°C days are concentrated in the midlatitudes, especially in the northern hemisphere, but these changes are much smaller in both relative and absolute magnitude (Fig. 1e and Supplementary Fig. 6). Owing to the northerly skewed distribution of population, current, and future baseline energy demand, climatic changes exert impacts that are potentially large and of opposite sign compared to socioeconomic forces.\nOver the period 2010-2050, the largest increases in baseline final energy demand occur in heavily populated tropical and midlatitude areas exposed up to 75 (50) additional hot days and up to 40 (30) fewer cold days under vigorous (moderate) warming (Fig. 2 and Supplementary Fig. 7). This expansion is the largest for areas experiencing small changes in hot or cold days (<10), reflecting the fact that at mid-century, most grid cells experience only modest changes in temperature, especially under the moderate RCP 4.5 scenario. The SSP-specific multi-ESM means (Fig. 2c, d, g, h) suggest that socioeconomic forces shift this pattern monotonically, with the largest (smallest) absolute quantity of energy demand exposed under the rapid economic growth (population growth) SSP5 (SSP3) scenario. Patterns of exposure vary markedly among climate model realizations (Fig. 2a, b, e, f).\nChanges in energy demand due to warmer temperatures shift the baseline exposure patterns (Fig. 2, brown lines).",
+        "span": [
+            10425,
+            11859
+        ],
+        "entities": [
+            {
+                "begin": 93,
+                "end": 112,
+                "label": "location",
+                "substring": "northern hemisphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/507794a1-9563-49a4-b2d3-8a28347c1fd7"
+            },
+            {
+                "begin": 909,
+                "end": 920,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 974,
+                "end": 977,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 61,
+                "end": 73,
+                "label": "location",
+                "substring": "midlatitudes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+            },
+            {
+                "begin": 645,
+                "end": 654,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 548,
+                "end": 556,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 612,
+                "end": 620,
+                "label": "natural hazard",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 952,
+                "end": 959,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 801,
+                "end": 810,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 993,
+                "end": 996,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 1213,
+                "end": 1217,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 1219,
+                "end": 1223,
+                "label": "experiment",
+                "substring": "SSP3",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2792d3ad-f228-4fcf-891b-b4db8d90fc9e"
+            },
+            {
+                "begin": 1362,
+                "end": 1374,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            }
+        ]
+    },
+    {
+        "text": "The total demand rises with increased frequency of hot days (with the largest effects arising for 15-70 additional days) and falls with reduced frequency of cold days (with the largest effects arising for declines of fewer than 10 cold days). The net impact is amplification of global energy demand by an amount that is an order of magnitude smaller than the socioeconomically driven increases in energy demand (Table 1), at the median of our ESM ensemble, adding 37% (20%) or 90-131 (48-67) EJ/yr by 2050 under RCP 8.5 (RCP 4.5). Across 21 ESM and 5 SSP realizations, net effects are uniformly positive but differ widely in magnitude, with a global interquartile range of 25-58% (11-27%) under RCP 8.5 (RCP 4.5).\nUnderlying these aggregate changes are shifts in the various sectors' demands for different energy carriers (Fig. 3   Supplementary Fig. 8). The most important contributors to changes in global demand are industry and services (both net positive). The contributions of residences and especially agriculture are small and net negative. For residence, this is due to the lack of significant elasticities in our data set. For agriculture, this differs from the scarce existing literature 6 , as we include multiple energy carriers that change in opposite directions. Electricity demand expands in every sector. Commercial electricity accounts for 80% of the global total climate-driven energy demand increase. Sectoral changes in natural gas demand are small and offset one another (positive in industry and negative in households).",
+        "span": [
+            11860,
+            13403
+        ],
+        "entities": [
+            {
+                "begin": 551,
+                "end": 554,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 51,
+                "end": 59,
+                "label": "natural hazard",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 157,
+                "end": 166,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 231,
+                "end": 240,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 443,
+                "end": 446,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 512,
+                "end": 519,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 541,
+                "end": 544,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 704,
+                "end": 711,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 695,
+                "end": 702,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 521,
+                "end": 528,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "These impacts differ only slightly across socioeconomic scenarios, with households and services exhibiting the largest variation. Differences among ESM realizations (Fig. 3, error bars) are much larger. The cross-ESM distributions of demand impacts for industry, services, and the economy-wide total are longtailed-particularly for electricity relative to other energy carriers-with a small number of climate model projections accounting for large increases in demand. The balance between increased cooling demand and decreased heating demand determines the net impact at the regional scale (see Supplementary Tables 2 and 3 for details). For Europe, the heating effect (RCP 4.5: −9 to 11%, RCP 8.5: −11 to14%) dominates the cooling effect (RCP 4.5: 4%, RCP 8.5: 10-12%), yielding a net decrease in the total final energy demand under moderate warming and a small net positive or negative impact under vigorous warming. In all other regions, climate change increases the total final energy use, with a 75th percentile impact between 45 and 75% across sectors and energy carriers in the Americas, the Middle East, and Asia under vigorous warming (Table 1).\nESMs agree that large areas of the world are likely to experience final energy demand increases of up to 10% by 2050 under RCP 8.5 and SSP5 (Fig. 4 and Supplementary Fig. 9). While increases of >50% are confined to the tropics and the southern parts of the United States, there is substantial agreement that Southern Europe and China experience increases of >25%.",
+        "span": [
+            13404,
+            14923
+        ],
+        "entities": [
+            {
+                "begin": 643,
+                "end": 649,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a62ae820-58c5-47ff-bb72-2680962b26f4"
+            },
+            {
+                "begin": 1117,
+                "end": 1121,
+                "label": "location",
+                "substring": "Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5366ab82-ff8b-46a4-85d1-672c8bb23480"
+            },
+            {
+                "begin": 1375,
+                "end": 1382,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 148,
+                "end": 151,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 213,
+                "end": 216,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 671,
+                "end": 678,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 691,
+                "end": 698,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 754,
+                "end": 761,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 1086,
+                "end": 1094,
+                "label": "location",
+                "substring": "Americas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d4db292f-3097-4843-a6c5-291cf993bea9"
+            },
+            {
+                "begin": 741,
+                "end": 748,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 1100,
+                "end": 1111,
+                "label": "location",
+                "substring": "Middle East",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab"
+            },
+            {
+                "begin": 1279,
+                "end": 1286,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 1291,
+                "end": 1295,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 1464,
+                "end": 1479,
+                "label": "location",
+                "substring": "Southern Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 1413,
+                "end": 1426,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1484,
+                "end": 1489,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1156,
+                "end": 1160,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "There is consensus among ESMs that the total final energy use declines in Northern Europe, Russia, western Canada, and the United States, broad agreement on reductions of up to 10% in Northern Russia, the United Kingdom, and Patagonia, and no agreement that the total energy demand will decline by more than 25% in any part of the world. The differences in these spatial patterns among the SSP scenarios are minor.\nImplications for societal vulnerability and inequality. We combine the spatial population projections for the SSPs with the changes described above to characterize the distribution of vulnerable populations to the impacts of climate change on energy demand (Fig. 5 and Supplementary Fig. 3). Impacts exhibit substantial variation across energy carriers and sectors (Supplementary Figs. 1, 2). Regarding the total final energy demand, a minority of the world's population experiences modest (0-10%) declines (mostly in Russia, Western Europe, Canada, and Chile/ Argentina) and the majority faces modest (0-25%) increases, with about 30% of people experiencing substantial increases (of >25%) over a very wide range. The longest tails of the distribution are for electricity demand and for the commercial and industrial sectors. This pattern shifts only slightly across SSPs, with the biggest changes being the absolute level of the population. Higher radiative forcing lengthens the impact distribution's upper tail and increases its inter-model dispersion.",
+        "span": [
+            14924,
+            16395
+        ],
+        "entities": [
+            {
+                "begin": 205,
+                "end": 219,
+                "label": "location",
+                "substring": "United Kingdom",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1928f419-0c4b-4b06-9f66-eb37f49105de"
+            },
+            {
+                "begin": 976,
+                "end": 985,
+                "label": "location",
+                "substring": "Argentina",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/838923bc-cda7-4cf5-a21a-0c777304a593"
+            },
+            {
+                "begin": 25,
+                "end": 29,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 123,
+                "end": 136,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 74,
+                "end": 89,
+                "label": "location",
+                "substring": "Northern Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 99,
+                "end": 113,
+                "label": "location",
+                "substring": "western Canada",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d0081284-5cef-484d-b1ee-a6787b197a33"
+            },
+            {
+                "begin": 193,
+                "end": 199,
+                "label": "location",
+                "substring": "Russia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef0b5153-2e92-4634-9c27-930c591a262d"
+            },
+            {
+                "begin": 91,
+                "end": 97,
+                "label": "location",
+                "substring": "Russia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef0b5153-2e92-4634-9c27-930c591a262d"
+            },
+            {
+                "begin": 225,
+                "end": 234,
+                "label": "location",
+                "substring": "Patagonia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 390,
+                "end": 403,
+                "label": "experiment",
+                "substring": "SSP scenarios",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 525,
+                "end": 529,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 933,
+                "end": 939,
+                "label": "location",
+                "substring": "Russia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ef0b5153-2e92-4634-9c27-930c591a262d"
+            },
+            {
+                "begin": 957,
+                "end": 963,
+                "label": "location",
+                "substring": "Canada",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b301e170-c91e-4275-9858-d7720fb93416"
+            },
+            {
+                "begin": 941,
+                "end": 955,
+                "label": "location",
+                "substring": "Western Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b3765f7-20f7-4425-bd50-d1bb99d09d86"
+            },
+            {
+                "begin": 969,
+                "end": 974,
+                "label": "location",
+                "substring": "Chile",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/da26d486-1ee6-4689-abe9-5a59b2d572b1"
+            },
+            {
+                "begin": 1283,
+                "end": 1287,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1358,
+                "end": 1382,
+                "label": "variable",
+                "substring": "Higher radiative forcing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+            }
+        ]
+    },
+    {
+        "text": "Although the aggregate population distributions of impact exposures vary only slightly across socioeconomic scenarios, they vary markedly when populations are stratified by income level (as defined by the World Bank, see Supplementary Note 2), which we take as an indicator of the capacity to adapt to changing circumstances. The exposure of populations in countries at different average per-capita income levels varies widely across the SSPs (Fig. 5; Supplementary Fig. 3). By 2050, all countries exceed the World Bank's low-income threshold; in the high economic growth SSP1 and SSP5 scenarios, almost all of the world's population lives in countries with per-capita GDP above its upper  4 and 5). Moderate warming under RCP 4.5 scales down the overall distribution of people exposed to increased energy demand.\n<heading>Discussion</heading>\nAcross the four economic sectors and three energy carriers, climate change increases the world's total final energy demand at mid-century by 11-27% (25-58%) under moderate (vigorous) warming on top of socioeconomic developments. As our study is the first with global comprehensive coverage across four major \ne\nFig. 2 The total energy demand exposed to changes in cold and hot days. The upper half displays the results for RCP 8.5, the bottom half for RCP 4.5.",
+        "span": [
+            16396,
+            17700
+        ],
+        "entities": [
+            {
+                "begin": 1267,
+                "end": 1274,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 1296,
+                "end": 1303,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 438,
+                "end": 442,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 581,
+                "end": 585,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 572,
+                "end": 576,
+                "label": "experiment",
+                "substring": "SSP1",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c0308d3-89ba-40b7-8ea8-539d8f744a97"
+            },
+            {
+                "begin": 723,
+                "end": 730,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 1217,
+                "end": 1225,
+                "label": "natural hazard",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            }
+        ]
+    },
+    {
+        "text": "In the detailed panels (a, b, e, f) the blue lines depict present-day energy demand, and the red lines depict SSP5 baseline energy demand for 2050; brown lines indicate energy use under SSP5 after impacts of climate change (mean and all 21 individual ESMs) exposed to changes in hot and cold days. Aggregate panels (c, d, g, h) show the multi-ESM mean for all five SSPs. Impacts from climate change are only shown for changes in hot (b, d, f, h) or cold (a, c, e, g) days; combined impacts are shown in Supplementary Fig. 7 sectors, comparison with the literature can only be done on the sectoral or regional level. Moreover, the wide distribution across ESMs in our results implies that any comparison of future climate-change impacts based on a subset of climate models represents just a single data point in a distribution.\nStarting with the sectoral dimension, the few existing globalscale studies focus on the residential sector and confirm our finding that warming will reduce overall global energy use for residential space conditioning by 2050 16,17 (though this trend reverses itself by 2100 when temperature increases are larger). Agreement on total energy demand increase Fig. 4 Agreement across ESMs on changes in final energy demand.",
+        "span": [
+            17701,
+            18947
+        ],
+        "entities": [
+            {
+                "begin": 655,
+                "end": 659,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 1106,
+                "end": 1117,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1207,
+                "end": 1211,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 110,
+                "end": 114,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 186,
+                "end": 190,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 287,
+                "end": 296,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 251,
+                "end": 255,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 365,
+                "end": 369,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 343,
+                "end": 346,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            }
+        ]
+    },
+    {
+        "text": "Maps depict the number of climate models that agree on decreases and increases in total energy demand across sectors and energy carriers by more than 0% (a, b), 10% (c, d), 25% (e, f), or 50% (g, h) by 2050 under RCP 8.5 and SSP5, as a result of temperature projections and changes in both hot and cold days (see Supplementary Fig. 9 for RCP 4.5 results)\nMore recent global studies projecting future energy demand pathways for the (broader defined) building sector point at residential space cooling as a key driver for the projected net increase in final energy demand across different SSPs 7 . In our findings, the commercial and industrial sectors are the dominant drivers of energy demand increases. By considering a broader range of energy-using sectors, we highlight the potentially important impacts of commercial and industrial adaptation to climate change, which has only been explored for specific regions 4,[35][36][37][38] by few studies that confirm the potentially large impacts of these sectors.\nDespite regional variation in outcomes, we find a pervasive increase in the demand for electricity to satisfy increased cooling needs in multiple sectors.",
+        "span": [
+            18948,
+            20113
+        ],
+        "entities": [
+            {
+                "begin": 213,
+                "end": 220,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 246,
+                "end": 257,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 338,
+                "end": 345,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 225,
+                "end": 229,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 298,
+                "end": 307,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 587,
+                "end": 591,
+                "label": "project",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            }
+        ]
+    },
+    {
+        "text": "For Europe, a north-south gradient of impacts of opposing sign generates a median 2% net reduction in the total final energy, on par with the findings of fuel-specific Present-day World Bank definitions for GDP per capita were used to classify countries in income categories, which we used as a proxy for adaptation challenges (GDP per capita <6000 USD/yr for high-adaptation challenge, 6000-15,000 USD/yr for moderate-adaptation challenge, and >15,000 USD/yr for low-adaptation challenge, see Supplementary Note 2 for detailed discussion). Supplementary Fig. 3 presents a version of this figure for RCP 4.5 and Supplementary Figs 1, 2 present the results by sector and fuel studies 17,[39][40][41] . In the United States, electricity use for cooling drives a net positive increase in final energy that, while not detected by earlier multi-fuel studies 4,37,42 , is qualitatively in line with recent electricity-focused analyses [43][44][45][46] . Our disaggregated elasticities by sector and fuel also yield different results. As our elasticity for commercial electricity demand is very sensitive to hot days (Table 2), our increases in the aggregated total electricity consumption for the United States, Europe, Asia, and Latin America, exceed existing projections that use elasticities based on country-specific aggregated total electricity load 5,17,41,47,48 .\nOur impact projections, although comprehensive, are limited by the quantity and quality of the data available to undertake a global analysis.",
+        "span": [
+            20114,
+            21620
+        ],
+        "entities": [
+            {
+                "begin": 600,
+                "end": 607,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 1191,
+                "end": 1204,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 4,
+                "end": 10,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a62ae820-58c5-47ff-bb72-2680962b26f4"
+            },
+            {
+                "begin": 708,
+                "end": 721,
+                "label": "location",
+                "substring": "United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1206,
+                "end": 1212,
+                "label": "location",
+                "substring": "Europe",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a62ae820-58c5-47ff-bb72-2680962b26f4"
+            },
+            {
+                "begin": 1214,
+                "end": 1218,
+                "label": "location",
+                "substring": "Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5366ab82-ff8b-46a4-85d1-672c8bb23480"
+            },
+            {
+                "begin": 1224,
+                "end": 1237,
+                "label": "location",
+                "substring": "Latin America",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e83dd9e9-ecbb-4c44-a90f-829fbfbc08a3"
+            },
+            {
+                "begin": 1101,
+                "end": 1109,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            }
+        ]
+    },
+    {
+        "text": "Similar to other existing empirical studies, we could not identify significant temperature elasticities for several combinations of energy carriers, sectors, and climatic zones (see Table 2), most importantly residential electricity use in tropical areas in response to changes in hot days. We do find that developing countries' per-capita income growth drives substantial extensive-margin investments in energy-using durable goods, particularly residential air conditioning 5,17 . However, by treating the effect of future air-conditioning penetration as orthogonal to temperature responses, our methodology ignores the possibility that this higher level of air-conditioning adoption can further amplify the growth in electricity demand with climate change 17,24,49 .\nAn important caveat to our results is the limitations of the empirical energy demand elasticities on which we base our projections. The finest-resolution internationally comparable energyuse data are the annual records of International Energy Agency (IEA) member countries. This presents an unavoidable trade-off between scope and fidelity, as top-down empirical climate responses constructed from these data have the geographic and sectoral coverage necessary to construct coarse-scale global projections of impacts, but struggle to replicate the fine spatial-, temporal scale of bottom-up local demand responses captured by empirical studies that employ subnational data over limited geographical domains 41,46,49,50 .",
+        "span": [
+            21621,
+            23110
+        ],
+        "entities": [
+            {
+                "begin": 79,
+                "end": 90,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 240,
+                "end": 254,
+                "label": "location",
+                "substring": "tropical areas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 570,
+                "end": 581,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1020,
+                "end": 1023,
+                "label": "provider",
+                "substring": "IEA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1bd02f4-052c-4c24-9b4a-7a1ddc8783af"
+            },
+            {
+                "begin": 281,
+                "end": 289,
+                "label": "experiment",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 991,
+                "end": 1018,
+                "label": "provider",
+                "substring": "International Energy Agency",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e236abe1-c8c5-4bca-ab7d-89b5a0392d6b"
+            }
+        ]
+    },
+    {
+        "text": "In DCSW, IEA annual national fuel consumption observations in 204 countries over the years 1978-2010 are regressed on population-weighted national average exposure to numbers of days in different average temperature intervals. The resulting estimates are potentially subject to spatial and temporal aggregation bias. Large countries that span different climatic zones or incorporate regions that vary in the size and characteristics of stocks of energy-using durables (e.g., air conditioners, insulation) exhibit heterogeneous local energy demand responses to temperature. DCSW's estimates represent the mean within-country response that is a weighted average of these effects. By exploiting very large samples of high-frequency data, other studies 41,46,49,50 are also better able to capture the nonlinear response of energy demand to temperature with greater fidelity, by statistically identifying the distinct marginal effects of exposure to many temperature intervals-but over restricted geographic domains (California zip codes, US regions, Mexican municipalities, or EU countries). By contrast, IEA data's coarse resolution only permits identification of the effects of days with average temperatures of <12.5°C and >27°C, with each additional hot day or cold day having the same effect, irrespective of how far into the tails of the temperature it happened to be. All estimates are significant at least at the 10% level. Insufficient observations for the missing fuel, sector, region combinations.",
+        "span": [
+            23111,
+            24615
+        ],
+        "entities": [
+            {
+                "begin": 9,
+                "end": 12,
+                "label": "provider",
+                "substring": "IEA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1bd02f4-052c-4c24-9b4a-7a1ddc8783af"
+            },
+            {
+                "begin": 204,
+                "end": 215,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 560,
+                "end": 571,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 836,
+                "end": 847,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 950,
+                "end": 961,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1012,
+                "end": 1022,
+                "label": "location",
+                "substring": "California",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc4f2acd-ace7-452b-a540-4162f9e9ddb0"
+            },
+            {
+                "begin": 1101,
+                "end": 1104,
+                "label": "provider",
+                "substring": "IEA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1bd02f4-052c-4c24-9b4a-7a1ddc8783af"
+            },
+            {
+                "begin": 1340,
+                "end": 1351,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1046,
+                "end": 1068,
+                "label": "location",
+                "substring": "Mexican municipalities",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/70d89073-6697-4eb6-b01b-989c623a5649"
+            },
+            {
+                "begin": 1034,
+                "end": 1044,
+                "label": "location",
+                "substring": "US regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1194,
+                "end": 1206,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            }
+        ]
+    },
+    {
+        "text": "This study uses the estimates from the error-correction model specification Notwithstanding these limitations, the demand for electricity that is a key driver of our projected impacts exhibits localized, high temporal frequency responses, whose shape can be well approximated by linear schedules outside of an intermediate moderate temperature range 46 . We exploit this property to reconcile top-down and bottom-up estimates of the response of annual electricity demand to warming (see Supplementary Note 3). Local conditional mean energy demand and the fraction of demand that is sensitive to variations in weather are crucial determinants of local impacts. However, these are not observed for the various fuel × sector combinations in grid cells across the world, and our projection methodology assumes that over the long run, all energy demand is responsive to temperature. This assumption likely overestimates the response of demand to warming, but lack of availability of local data makes it impossible to assess the magnitude and geographic distribution of the resulting bias. Our findings should thus be interpreted as worstcase projections of the impact of a given amount of warming, especially in tropical and subtropical regions that see large increases in extreme high-temperature days.",
+        "span": [
+            24616,
+            25914
+        ],
+        "entities": [
+            {
+                "begin": 332,
+                "end": 343,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 865,
+                "end": 876,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1207,
+                "end": 1215,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1220,
+                "end": 1239,
+                "label": "location",
+                "substring": "subtropical regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1276,
+                "end": 1297,
+                "label": "variable",
+                "substring": "high-temperature days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e8580cbb-701a-4ab1-a40f-5fae4ae1ea24"
+            }
+        ]
+    },
+    {
+        "text": "Our work shows that it is possible to identify a globally comprehensive relationship between temperature and energy, and what the potential consequences would be in the light of climatic and socioeconomic uncertainties, but also shows that better data availability would greatly enhance this work. Strengthening the empirical basis for global-scale projections of energy impact thus necessitates fundamental advances in the data collection.\nCompared with impacts constructed at the mean of multiple ESM realizations of future climate change 14,41,46 , our explicit consideration of uncertainty yields important insights, especially for policy makers. Although the lower tail of the RCP8.5 distribution of shocks to the global total final energy demand overlaps the upper tail of the RCP4.5 distribution (cf Table 1), Wilcoxon rank-sum tests confirm that the two densities differ. As early as mid-century, there can be benefits to mitigating climate change (t tests indicate a statistically significant 14-20% difference in the means of the distributions), but the associated costs depend critically on the uncertain greenhouse gas intensity of electricity generation that satisfies the anticipated large increases in future demand. Such increased electricity consumption does not translate one-to-one in carbon emissions, as, depending on the merit order, higher or lower carbonintense electricity production technologies might be dominant.",
+        "span": [
+            25915,
+            27355
+        ],
+        "entities": [
+            {
+                "begin": 93,
+                "end": 104,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1304,
+                "end": 1310,
+                "label": "variable",
+                "substring": "carbon",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5c52009f-2c44-4db1-b62b-135c6181bad2"
+            },
+            {
+                "begin": 499,
+                "end": 502,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 682,
+                "end": 688,
+                "label": "experiment",
+                "substring": "RCP8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 783,
+                "end": 789,
+                "label": "weather event",
+                "substring": "RCP4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 1116,
+                "end": 1140,
+                "label": "variable",
+                "substring": "greenhouse gas intensity",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            }
+        ]
+    },
+    {
+        "text": "Similarly, adapting to an uncertain climate poses a monumental challenge to energy supply and infrastructure development planning: for RCP 8.5 (RCP 4.5), worst-case amplification among the CMIP5 ESMs of the 2010-2050 change in ex-ante total final energy demand is 150% (41%) globally, and across regions, 265% (68%), concentrated in Asia, generally in line with the recent IEA cooling demand outlook 3 . Such uncertainties, stemming from the ensemble of ESMs, dwarf the uncertainties in percentage and absolute impacts due to differences in sectoral composition of countries' energy systems under the various SSPs (Fig. 3).\nUrbanization is implicit in our methodology, as future temperature fields are population-weighted, and the spatial distribution of population varies across SSPs along with countrylevel population trends, which do play a large role in the underlying SSP projections. Across the SSPs, urbanization levels vary widely 51 , with low urbanization in SSP3 and high urbanization in SSP1 and SSP5. Urbanization drives the location of population in the SSP spatial population projections, where they are allocated from the national level to individual grid cells. In our projections, urbanization determines to which temperature changes people are exposed, and temperature changes in urban grid cells are more dominant in higher-urbanization scenarios.\nFuture climate change is likely to affect energy use in the transport sector as well, but as suggested in DCSW, the underlying drivers remain opaque.",
+        "span": [
+            27356,
+            28873
+        ],
+        "entities": [
+            {
+                "begin": 333,
+                "end": 337,
+                "label": "location",
+                "substring": "Asia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5366ab82-ff8b-46a4-85d1-672c8bb23480"
+            },
+            {
+                "begin": 373,
+                "end": 376,
+                "label": "provider",
+                "substring": "IEA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1bd02f4-052c-4c24-9b4a-7a1ddc8783af"
+            },
+            {
+                "begin": 679,
+                "end": 690,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1068,
+                "end": 1071,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1232,
+                "end": 1243,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1276,
+                "end": 1287,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 135,
+                "end": 142,
+                "label": "experiment",
+                "substring": "RCP 8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 195,
+                "end": 199,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 189,
+                "end": 194,
+                "label": "model",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 454,
+                "end": 458,
+                "label": "model",
+                "substring": "ESMs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 144,
+                "end": 151,
+                "label": "experiment",
+                "substring": "RCP 4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 609,
+                "end": 613,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 780,
+                "end": 784,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 907,
+                "end": 919,
+                "label": "variable",
+                "substring": "urbanization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e759cacb-33f0-4564-b151-c7cfa5e85ed3"
+            },
+            {
+                "begin": 983,
+                "end": 995,
+                "label": "variable",
+                "substring": "urbanization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e759cacb-33f0-4564-b151-c7cfa5e85ed3"
+            },
+            {
+                "begin": 969,
+                "end": 973,
+                "label": "experiment",
+                "substring": "SSP3",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2792d3ad-f228-4fcf-891b-b4db8d90fc9e"
+            },
+            {
+                "begin": 953,
+                "end": 965,
+                "label": "variable",
+                "substring": "urbanization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e759cacb-33f0-4564-b151-c7cfa5e85ed3"
+            },
+            {
+                "begin": 901,
+                "end": 905,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 873,
+                "end": 876,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 999,
+                "end": 1003,
+                "label": "experiment",
+                "substring": "SSP1",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c0308d3-89ba-40b7-8ea8-539d8f744a97"
+            },
+            {
+                "begin": 1008,
+                "end": 1012,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 1199,
+                "end": 1211,
+                "label": "variable",
+                "substring": "urbanization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e759cacb-33f0-4564-b151-c7cfa5e85ed3"
+            },
+            {
+                "begin": 1344,
+                "end": 1356,
+                "label": "variable",
+                "substring": "urbanization",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e759cacb-33f0-4564-b151-c7cfa5e85ed3"
+            }
+        ]
+    },
+    {
+        "text": "On the one hand, people occupying vehicles modify cooling and heating while driving to maintain thermal comfort. On the other hand, when faced with extreme cold or hot weather conditions, they might simply make different mobility choices (e.g., drive more, or do not drive at all). Weather traditionally does not enter the model of the demand for transportation, and temperature-related energy use is marginal for transportation purposes. Since our projection methodology cannot discern the fraction of energy that is sensitive to variations in weather, we focus on the final sectors where temperature more directly affects the climate-sensitive energy use. The dynamics of the transport sector are more complex and sub-sector-specific (e.g., fright transport would have different dynamics compared with personal mobility choices. In the residential sector demand for mobility, services would also interact with leisure-labor choices), calling for dedicated studies first identifying the underlying mechanisms at play, and subsequently evaluating them empirically.\nWe conclude by emphasizing that our results indicate the potential, ex-ante impacts of climate change, prior to any direct or indirect adaptation measures 23 , representing the first step of a full-impact analysis. The present impact estimates are key inputs to the Integrated Assessment Model or CGE model simulations, which can examine the shifts in economic structure or technology between socioeconomic and climate scenarios driven by our ex ante shocks.",
+        "span": [
+            28874,
+            30397
+        ],
+        "entities": [
+            {
+                "begin": 367,
+                "end": 378,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 590,
+                "end": 601,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1331,
+                "end": 1358,
+                "label": "model",
+                "substring": "Integrated Assessment Model",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            }
+        ]
+    },
+    {
+        "text": "Rebound effects and price changes will also dampen the consequent changes energy demand, further influencing the gap between our projections and ex post outcomes 52 . Given these considerations, our findings should be interpreted not as future physical changes in energy use, but as the changes in demand that, without price, substitution, and induced technical change adjustments, would maintain the level of economic services delivered by energy systems in the baseline scenario, if they were subjected to temperature shocks. Within CGE models, a practical way to operationalize such impacts could be technological shift parameters that lower the productivity of energy inputs to sectoral economic activities by the warranted percentage increase in energy demand, and vice versa. Induced technological change could then be modeled as a structural process that generates ex post modifications of such productivity shifts, following the practices of bottom-up approaches.\nThe emission consequences of our projected climate-driven expansion of global fossil fuel demand give rise to a fundamental tension between mitigating and adapting to higher temperatures. Follow-up investigations using IAM simulations to characterize the balance of these forces and its implications for the joint costs of mitigation and adaptation have just started to appear in the literature 53 .",
+        "span": [
+            30398,
+            31769
+        ],
+        "entities": [
+            {
+                "begin": 508,
+                "end": 526,
+                "label": "natural hazard",
+                "substring": "temperature shocks",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1838e31f-ef6d-42f8-b166-71f6cd1aaa57"
+            },
+            {
+                "begin": 1146,
+                "end": 1158,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1191,
+                "end": 1194,
+                "label": "model",
+                "substring": "IAM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            }
+        ]
+    },
+    {
+        "text": "Empirically based, global-scale probabilistic impact projections of the kind reported here are critical to catalyzing synergistic research throughout the broader integrated assessment community.\n<heading>Methods</heading>\nEmpirical approach. Our methodology is based on DCSW 24 , the relation to which is summarized in Fig. 6. DCSW 24 derived econometric estimates of per-capita demand for three different final energy carriers associated with heating and cooling in four economic sectors for temperate and tropical countries as a function of percapita gross domestic product (GDP) and exposure to hot (>27.5°C) and cold (<12.5°C) days. The methodology applied in DCSW 24 is detailed in this section. This study combines their elasticities, β Y (income) and β T (temperature), with a large set of future changes in income and temperatures. In the first step, we combine the income elasticities with population and GDP projections from the Shared Socioeconomic Pathways (SSPs) to construct five scenarios of baseline global energy demand in 2050 without climate-change impacts. In the second step, we impose climatic shocks derived from 21 Earth System Models and 2 emission scenarios (RCPs) on top of the baseline scenarios by combining temperature elasticities with the 2050 present difference in spatial population and hot and cold days from the current mean climate.",
+        "span": [
+            31770,
+            33139
+        ],
+        "entities": [
+            {
+                "begin": 763,
+                "end": 774,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1237,
+                "end": 1248,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 507,
+                "end": 515,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 826,
+                "end": 838,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 970,
+                "end": 974,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1139,
+                "end": 1158,
+                "label": "model",
+                "substring": "Earth System Models",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 1185,
+                "end": 1189,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 939,
+                "end": 968,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathways",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1329,
+                "end": 1338,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            }
+        ]
+    },
+    {
+        "text": "We use long-run income elasticities and temperature semi-elasticities estimated by DCSW 24 to explore uncertainty in projected energy demand impacts across a range of climate models and socioeconomic scenarios. DCSW 24 uses unbalanced panel data of energy demand, income per capita, prices, and weather covariates for 204 countries over the period 1970-2014 (see detailed references in DCSW 24 ) to estimate income elasticities and temperature semi-elasticities of sectoral energy demand across two regions (temperate, tropical), three energy carriers (electricity, natural gas, and petroleum products), and four sectors (residential, commercial, industry, and agriculture). Differently from the customary approach used in the climate-economy literature 12 , DCSW 24 models, the relationship between energy demand, weather, income, and prices as a dynamic adjustment process. The adjustment in energy demand following a shock is not immediate, because of capital fixity and adjustments in expectations. At each point in time, changes in energy demand are a function of weather, income, and price shocks, as well as of the adjustment process induced by shocks that took place in the previous period (year). Adjustments in energy use to price, income, and weather shocks occur over time, in line with studies finding evidence of persistency 12,54 . DCSW estimates the model as a dynamic panel using an Error-Correction Model (ECM), which yields short-and long-run elasticities.",
+        "span": [
+            33140,
+            34615
+        ],
+        "entities": [
+            {
+                "begin": 40,
+                "end": 51,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 432,
+                "end": 443,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 519,
+                "end": 527,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            }
+        ]
+    },
+    {
+        "text": "Over the long run, adjustments on the extensive margin (e.g., purchase of air conditioners, improvements in energy efficiency) also affect the use of energy, and this additional effect is being captured by the long-run elasticities, which we use here in this paper. The ECM can also be represented as an Autoregressive-Distributed-Lag model, and it also allows obtaining statistical inference that is robust to nonstationary data. Long-run estimates can be seen as a weighted average of elasticities estimated in the first difference or using a static model (Hendry, 1995 55 , see also Table 2).\nTable 2 summarizes the estimated elasticities from the error-correction model (ECM) specification as reported in DCSW 24 and compares them with elasticities obtained from the static and first-difference specifications. The semi-elasticities to temperature bins reported in Table 2 suggest that temperature change has an influence on energy demand in 16 out of 24 energy carrier, sector, region combinations. Temperature semi-elasticities indicate that energy carrier demands tend to increase with hot days with a magnitude that varies among energy carriers and sectors. Responses to hot and cold days are asymmetric, and depending on whether an energy carrier is mostly used for heating or cooling, response in one or both directions can be significant. Several semi-elasticities to cold days are negative, suggesting that extreme cold weather could reduce energy demand, especially in production processes in industry and agriculture.",
+        "span": [
+            34616,
+            36147
+        ],
+        "entities": [
+            {
+                "begin": 840,
+                "end": 851,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 890,
+                "end": 901,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1093,
+                "end": 1101,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 1379,
+                "end": 1388,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 1187,
+                "end": 1196,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            }
+        ]
+    },
+    {
+        "text": "The negative estimates can be due to reduced energy consumption for cooling or irrigation during the shoulder seasons of spring and fall (e.g., reduction in electricity use in commercial activities, industry, and agriculture), or to fuel switching (e.g., from petroleum products to electricity in the commercial sector in the tropics). An increase in cold days can temporarily induce production activities to reduce their electricity demand and/or temporarily shift to cheaper sources such as natural gas. Moreover, commercial and industrial consumers may also have back-up energy generation.\nIn this paper, we use the historical evidence on energy use over a period of about 30 years summarized in Table 2 as an analog of how we might use energy in the future over the next 30 years to generate a set of counterfactual scenarios aimed at exploring climate and socioeconomic uncertainty. Because the elasticities for cold and hot days are estimated individually, future impacts in response to changes in both hot and cold days can be reported individually or combined.\nBaseline projections. To establish mid-century baseline energy demand in the absence of climate change, we applied income elasticities from DCSW 24 to the increases in countries' GDP per capita from 2010 to 2050 corresponding to each Shared Socioeconomic Pathway (SSP) scenario, generating energy carrier x sector consumption growth factors that were used to scale each sector's per-capita energy demand from its 2010 level.",
+        "span": [
+            36148,
+            37641
+        ],
+        "entities": [
+            {
+                "begin": 79,
+                "end": 89,
+                "label": "variable",
+                "substring": "irrigation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a756fd6b-6208-4af0-ac56-6ee914fc4597"
+            },
+            {
+                "begin": 326,
+                "end": 333,
+                "label": "location",
+                "substring": "tropics",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1333,
+                "end": 1336,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 351,
+                "end": 360,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 926,
+                "end": 934,
+                "label": "weather event",
+                "substring": "hot days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8abe2ceb-8d8e-43f9-8204-f18e54e01b5d"
+            },
+            {
+                "begin": 1017,
+                "end": 1026,
+                "label": "natural hazard",
+                "substring": "cold days",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d846b871-1b6b-49c6-8bbd-b88df151896e"
+            },
+            {
+                "begin": 1303,
+                "end": 1331,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathway",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            }
+        ]
+    },
+    {
+        "text": "The resulting country-wide average values of percapita demand for the three energy carriers by four sectors were then combined with gridded maps of future population under the SSPs to yield projected levels of energy demand across the globe on a 0.25°grid. Due to the lack of information for spatial distribution of energy demands, the energy demand in each grid cell is simply the national average energy demand per capita multiplied by the population in the grid cell.\nThe Shared Socioeconomic Pathways (SSPs) that we used in this research have been developed by the climate research community as common basis across mitigation and impact research 28 . The SSPs have diverging narratives that describe how these worlds evolve into high or low challenges to mitigation or adaptation 29 . SSP1 represents a world with low socioeconomic challenges to both adaptation and mitigation. In SSP2, intermediate progresses have been made, and both adaptation and mitigation challenges remain at a medium level, whereas SSP3 represents a future with high challenges on both dimensions. In SSP4 and SSP5, adaptation or mitigation challenges dominate respectively. Several key variables have been projected forward for each of the SSPs. In this paper, we use SSP projections of future spatial population change 30,56 and GDP growth for 183 countries 57 . A global summary of population and GDP of the Shared Socioeconomic Pathways is shown in Table 3 to indicate the wide variation between SSPs.",
+        "span": [
+            37642,
+            39126
+        ],
+        "entities": [
+            {
+                "begin": 1248,
+                "end": 1251,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 176,
+                "end": 180,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 475,
+                "end": 504,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathways",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 506,
+                "end": 510,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 659,
+                "end": 663,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 789,
+                "end": 793,
+                "label": "experiment",
+                "substring": "SSP1",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9c0308d3-89ba-40b7-8ea8-539d8f744a97"
+            },
+            {
+                "begin": 885,
+                "end": 889,
+                "label": "experiment",
+                "substring": "SSP2",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/56f93aa0-f5a2-4718-b5c0-c716e541042f"
+            },
+            {
+                "begin": 1011,
+                "end": 1015,
+                "label": "experiment",
+                "substring": "SSP3",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2792d3ad-f228-4fcf-891b-b4db8d90fc9e"
+            },
+            {
+                "begin": 1089,
+                "end": 1093,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            },
+            {
+                "begin": 1080,
+                "end": 1084,
+                "label": "experiment",
+                "substring": "SSP4",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1f14440e-0c43-4521-9bc5-8d829bb88d12"
+            },
+            {
+                "begin": 1220,
+                "end": 1224,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1390,
+                "end": 1419,
+                "label": "experiment",
+                "substring": "Shared Socioeconomic Pathways",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1479,
+                "end": 1483,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            }
+        ]
+    },
+    {
+        "text": "There is some debate on whether each of the five SSPs can actually be combined with all levels of climate change from the Representative Concentration Pathways (RCPs) (for details, see Figure 8 in Riahi et al. 58 ). This is especially relevant for the highest-emission scenario, RCP8.5, which can only be reached under SSP5. However, the widest diversion between scenarios, both for the SSPs and the RCPs, takes place in the second half of the 21st century. In this paper, we only focus on results for midcentury, a period for which the potential inconsistency between SSPs and RCPs is much less clear. Moreover, we only use GDP and population from the SSPs and whether the projections for economy and population of 2050 are inconsistent with RCP8.5 levels of warming, is still an open question. Finally, in the structure of our impact analysis, the main difference between the SSPs are different distributions of population over the planet (i.e., different countries have higher/lower population growth) and different sectoral composition of energy demand, due to differences in economic growth. These are both relevant uncertainties to explore in the context of this impact study, and both these issues are not the main uncertainties with respect to (in-)consistency between the SSPs and RCP8.5.\nSix Integrated Assessment Modeling (IAM) teams have published energy demand projection for the SSPs 58 . The methods used by these models are fundamentally different from our econometric approach.",
+        "span": [
+            39127,
+            40621
+        ],
+        "entities": [
+            {
+                "begin": 49,
+                "end": 53,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 122,
+                "end": 159,
+                "label": "experiment",
+                "substring": "Representative Concentration Pathways",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 279,
+                "end": 285,
+                "label": "experiment",
+                "substring": "RCP8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 319,
+                "end": 323,
+                "label": "experiment",
+                "substring": "SSP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 161,
+                "end": 165,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 387,
+                "end": 391,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 878,
+                "end": 882,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 743,
+                "end": 749,
+                "label": "experiment",
+                "substring": "RCP8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 653,
+                "end": 657,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 578,
+                "end": 582,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 569,
+                "end": 573,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 400,
+                "end": 404,
+                "label": "experiment",
+                "substring": "RCPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 1290,
+                "end": 1296,
+                "label": "experiment",
+                "substring": "RCP8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 1302,
+                "end": 1332,
+                "label": "model",
+                "substring": "Integrated Assessment Modeling",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 1281,
+                "end": 1285,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1334,
+                "end": 1337,
+                "label": "model",
+                "substring": "IAM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 1393,
+                "end": 1397,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f07d4c2-cfee-43ff-86d1-289058fe5050"
+            }
+        ]
+    },
+    {
+        "text": "IAMs provide simplified representations of human and natural systems and integrate the energy systems in the macroeconomic system. Our econometric elasticities do not capture large structural changes in the economy or changes in energy demand patterns over different stages of development. Supplementary Figs. 4 and 5 show a comparison between the range of IAM quantifications of the SSPs and our econometric method (red dots) for each sector, energy carrier combination for the years 2010 (Supplementary Fig. 4) and 2050 (Supplementary Fig. 5).\nBecause the SSP quantifications of the IAMs are only publicly available for aggregated sectors and regions, we merged our residential and commercial sectors into a single-building sector. Also, there is no SSP information available on the agriculture sector, so we could not make that comparison. For some sector x energy  carrier combinations, we could not estimate statistically significant elasticities, and therefore our method does not project any change from today's level, with future projections of GDP per capita (for instance, for petroleum products in the industry and building sectors). For the largest (and for the fastest-growing) energy carrier x sector combinations, such as electricity in buildings and industry, our baseline demand projections are in line with IAM projections. For some others, such as natural gas in buildings, our method assumes a tighter relation between energy demand and GDP per capita compared with IAMs.",
+        "span": [
+            40622,
+            42113
+        ],
+        "entities": [
+            {
+                "begin": 558,
+                "end": 561,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 752,
+                "end": 755,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 0,
+                "end": 4,
+                "label": "model",
+                "substring": "IAMs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 384,
+                "end": 388,
+                "label": "experiment",
+                "substring": "SSPs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 357,
+                "end": 360,
+                "label": "model",
+                "substring": "IAM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 585,
+                "end": 589,
+                "label": "model",
+                "substring": "IAMs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 1486,
+                "end": 1490,
+                "label": "model",
+                "substring": "IAMs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 1325,
+                "end": 1328,
+                "label": "model",
+                "substring": "IAM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            }
+        ]
+    },
+    {
+        "text": "For this comparison, it is also important to note that there are some definitional differences for the base year between the IAMs and our data, as can be seen in Supplementary Fig. 4.\nClimate-change impacts. The last methodological step is calculating the effects of mid-century climate change relative to the baseline. Our main data source is the NASA Earth Exchange Global Daily Downscaled Projections (NEX-GDDP) 34 , which tabulate bias-corrected daily maximum and minimum temperatures on a 0.25°grid over the 2006-2100 period for the RCP4.5 26 and RCP8.5 27 scenarios simulated by 21 Earth System models participating in the global Climate Model Intercomparison Project round 5 (CMIP5) 33 . The NASA-NEX-GDDP are both bias correction as well as spatial downscaling of the CMIP5 data to a consistent spatial grid. The bias correction is based on a statistical approach that compares spatially explicit GCM output for a historical period to actual historic data to compute an offset to shift the local GCM results. The spatial downscaling is a combination of linear interpolation, with preservation of the spatial details of the observational data. A detailed description of the NEX-GDDP data set can be found in ref. 34 and https://nex.nasa.gov/nex/static/media/other/NEX-GDDP_Tech_Note_v1_08June2015.pdf.\nFor each grid cell, we computed mean daily temperatures from the daily max and min temperature provided by the NEX-GDDP data, and then sum the annual days of exposure to average temperatures <12.5°C and >27.5°C.",
+        "span": [
+            42114,
+            43634
+        ],
+        "entities": [
+            {
+                "begin": 905,
+                "end": 908,
+                "label": "model",
+                "substring": "GCM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+            },
+            {
+                "begin": 1004,
+                "end": 1007,
+                "label": "model",
+                "substring": "GCM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+            },
+            {
+                "begin": 1392,
+                "end": 1403,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 125,
+                "end": 129,
+                "label": "model",
+                "substring": "IAMs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dfabc125-d4e3-4673-817f-c1d79b6838c4"
+            },
+            {
+                "begin": 348,
+                "end": 403,
+                "label": "model",
+                "substring": "NASA Earth Exchange Global Daily Downscaled Projections",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 476,
+                "end": 488,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 538,
+                "end": 544,
+                "label": "experiment",
+                "substring": "RCP4.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b12df2b5-8f2a-44c3-8136-a3dcce2678c8"
+            },
+            {
+                "begin": 405,
+                "end": 413,
+                "label": "model",
+                "substring": "NEX-GDDP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 552,
+                "end": 558,
+                "label": "experiment",
+                "substring": "RCP8.5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/83083e38-58c1-4d9b-9eac-8fce4b54ff48"
+            },
+            {
+                "begin": 629,
+                "end": 673,
+                "label": "model",
+                "substring": "global Climate Model Intercomparison Project",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 588,
+                "end": 607,
+                "label": "model",
+                "substring": "Earth System models",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b52"
+            },
+            {
+                "begin": 683,
+                "end": 688,
+                "label": "model",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 776,
+                "end": 781,
+                "label": "model",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 699,
+                "end": 712,
+                "label": "model",
+                "substring": "NASA-NEX-GDDP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 1181,
+                "end": 1198,
+                "label": "model",
+                "substring": "NEX-GDDP data set",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 1352,
+                "end": 1364,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1420,
+                "end": 1433,
+                "label": "model",
+                "substring": "NEX-GDDP data",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 1487,
+                "end": 1499,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            }
+        ]
+    },
+    {
+        "text": "In our 2050 no climate-change baseline scenario, each grid cell's vector of temperature exposures was assumed to remain at its 2006-2015 average value. To construct ensemble projections of climate-change impact, we computed the difference between each grid cell's NEX-GDDP projected annual exposure and its baseline exposure over the period 2040-2060 and combined the results with our empirically derived longrun temperature elasticities of energy demand to generate gridded maps of annual changes in energy carrier x sector energy demand, which were then averaged over years to produce the effect of climate circa 2050.\nAggregating the results across energy carriers and sectors yields 21 ESM realizations of future change in total final energy demand for each of two RCP scenarios and five SSP scenarios. The SSP scenarios were developed as discrete storylines with no information as to their relative likelihood of occurrence; accordingly, we treat energy demand under each SSP, as well as its potential to generate a high or low trajectory of radiative forcing, separately. Within each scenario combination, we treat each ESM's gridded realization of temperature as an independent draw from an unknown conditional probability distribution. The realizations of 2050-2010 changes in temperature exposure, and concomitant effects on energy demand, generated by our ESM ensemble can be weighted in any number of ways 59 .",
+        "span": [
+            43635,
+            45056
+        ],
+        "entities": [
+            {
+                "begin": 76,
+                "end": 87,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 413,
+                "end": 424,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 690,
+                "end": 693,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6fdc9e80-f07f-47c2-b602-3262c8400173"
+            },
+            {
+                "begin": 977,
+                "end": 980,
+                "label": "experiment",
+                "substring": "SSP",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 1047,
+                "end": 1064,
+                "label": "variable",
+                "substring": "radiative forcing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fad64ce-32fe-413d-8b55-c78000d1980c"
+            },
+            {
+                "begin": 1126,
+                "end": 1129,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6fdc9e80-f07f-47c2-b602-3262c8400173"
+            },
+            {
+                "begin": 1155,
+                "end": 1166,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1285,
+                "end": 1296,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 1366,
+                "end": 1369,
+                "label": "model",
+                "substring": "ESM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6fdc9e80-f07f-47c2-b602-3262c8400173"
+            },
+            {
+                "begin": 811,
+                "end": 824,
+                "label": "experiment",
+                "substring": "SSP scenarios",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 792,
+                "end": 805,
+                "label": "experiment",
+                "substring": "SSP scenarios",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd1965ee-cf37-4773-81df-a3ec5f97e8a2"
+            },
+            {
+                "begin": 769,
+                "end": 782,
+                "label": "experiment",
+                "substring": "RCP scenarios",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f8da7ba3-6659-4be3-b357-c0c9c82eb6a6"
+            },
+            {
+                "begin": 264,
+                "end": 272,
+                "label": "model",
+                "substring": "NEX-GDDP",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The simplicity and transparency of the independence assumption make it a useful jumping-off point for characterizing the risk of climate-change impacts.\n<heading>Acknowledgements</heading>\nClimate scenarios used were from the NEX-GDDP data set, prepared by the Climate Analytics Group and NASA Ames Research Center using the NASA Earth Exchange, and distributed by the NASA Center for Climate Simulation (NCCS). BvR   \n<heading>Data availability</heading>\nThe output data generated during our analyses and supporting the findings of this paper are available in the IIASA DARE repository with access code 41: [https://dare.iiasa.ac.at/ 41/]. This repository also contains R-scripts to regenerate all figures in this paper. The input data used in this analysis are available at the following public locations: NASA-NEX climate data: \n<heading>Additional information</heading>\nSupplementary Information accompanies this paper at https://doi.org/10.1038/s41467-019-10399-3.\n<heading>Competing interests:</heading>\nThe authors declare no competing interests.\nReprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/ Peer review information: Nature Communications thanks Elisa Lanzi and other anonymous reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.\nPublisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+        "span": [
+            45057,
+            46544
+        ],
+        "entities": [
+            {
+                "begin": 226,
+                "end": 243,
+                "label": "model",
+                "substring": "NEX-GDDP data set",
+                "identifier": null
+            },
+            {
+                "begin": 325,
+                "end": 329,
+                "label": "provider",
+                "substring": "NASA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a014021c-5636-4388-85d4-ff8dc25e3853"
+            },
+            {
+                "begin": 405,
+                "end": 409,
+                "label": "provider",
+                "substring": "NCCS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e146d234-91d5-4893-b921-b85543e9a1c7"
+            },
+            {
+                "begin": 261,
+                "end": 284,
+                "label": "provider",
+                "substring": "Climate Analytics Group",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 289,
+                "end": 314,
+                "label": "provider",
+                "substring": "NASA Ames Research Center",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 369,
+                "end": 403,
+                "label": "provider",
+                "substring": "NASA Center for Climate Simulation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            },
+            {
+                "begin": 808,
+                "end": 816,
+                "label": "project",
+                "substring": "NASA-NEX",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4fd0aa9d-1a80-4dde-8452-c69b5c4d08cc"
+            }
+        ]
+    }
+]

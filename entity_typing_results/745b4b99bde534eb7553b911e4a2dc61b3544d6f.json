@@ -1,0 +1,2504 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nThe paper reports on a four-pronged study of the physical controls on regional patterns of the flow duration curve (FDC). This involved a comparative analysis of longterm continuous data from nearly 200 catchments around the US, encompassing a wide range of climates, geology, and ecology. The analysis was done from three different perspectives -statistical analysis, process-based modeling, and databased classification -followed by a synthesis, which is the focus of this paper. Streamflow data were separated into fast and slow flow responses, and associated signatures, and both total flow and its components were analyzed to generate patterns. Regional patterns emerged in all aspects of the study. The mixed gamma distribution described well the shape of the FDC; regression analysis indicated that certain climate and catchment properties were first-order controls on the shape of the FDC. In order to understand the spatial patterns revealed by the statistical study, and guided by the hypothesis that the middle portion of the FDC is a function of the regime curve (RC, mean within-year variation of flow), we set out to classify these catchments, both empirically and through process-based modeling, in terms of their regime behavior. The classification analysis showed that climate seasonality and aridity, either directly (empirical classes) or through phenology (vegetation processes), were the dominant controls on the RC.",
+        "entities": [
+            {
+                "begin": 253,
+                "end": 255,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 296,
+                "end": 303,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7495208e-fe75-4423-801d-bc9d14e27beb"
+            },
+            {
+                "begin": 510,
+                "end": 520,
+                "label": "variable",
+                "substring": "Streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+            },
+            {
+                "begin": 1405,
+                "end": 1415,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 737,
+                "end": 761,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": null
+            },
+            {
+                "begin": 1394,
+                "end": 1403,
+                "label": "variable",
+                "substring": "phenology",
+                "identifier": null
+            },
+            {
+                "begin": 309,
+                "end": 316,
+                "label": "location",
+                "substring": "ecology",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"geology\", \"type\": \"other\"},\n    {\"entity\": \"Streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"phenology\", \"type\": \"other\"},\n    {\"entity\": \"ecology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "model",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "Quantitative synthesis of these results determined that these classes were indeed related to the FDC through its slope and related statistical parameters. Qualitative synthesis revealed much diversity in the shapes of the FDCs even within each climate-based homogeneous class, especially in the low-flow tails, suggesting that catchment properties may have become the dominant controls. Thus, while the middle portion of the FDC contains the average response of the catchment, and is mainly controlled by climate, the tails of the FDC, notably the low-flow tails, are mainly controlled by catchment properties such as geology and soils. The regime behavior explains only part of the FDC; to gain a deeper understanding of the physical controls on the FDC, these extremes must be analyzed as well. Thus, to completely separate the climate controls from the catchment controls, the roles of catchment properties such as soils, geology, topography etc. must be explored in detail.Catchment signatures quantify hydrologic responses to rainfall inputs in a compact manner; by distilling catchment behavior into a few signatures, classification of variable behavior across many different catchments can be made. One such signature, the regime curve (RC), describes the intraannual variability of monthly (or even daily) average (ensemble mean) streamflows. Another signature, the flow duration curve (FDC), plots daily streamflow magnitude (on a log scale) as a function of the percent of time it is exceeded.",
+        "entities": [
+            {
+                "begin": 934,
+                "end": 944,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 1031,
+                "end": 1039,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 618,
+                "end": 625,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7495208e-fe75-4423-801d-bc9d14e27beb"
+            },
+            {
+                "begin": 630,
+                "end": 635,
+                "label": "variable",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 918,
+                "end": 923,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 1413,
+                "end": 1423,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+            },
+            {
+                "begin": 1338,
+                "end": 1349,
+                "label": "variable",
+                "substring": "streamflows",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+            },
+            {
+                "begin": 925,
+                "end": 932,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7495208e-fe75-4423-801d-bc9d14e27beb"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"topography\", \"type\": \"variable\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"},\n    {\"entity\": \"geology\", \"type\": \"variable\"},\n    {\"entity\": \"soils\", \"type\": \"variable\"},\n    {\"entity\": \"soils\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"streamflows\", \"type\": \"variable\"},\n    {\"entity\": \"geology\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "Encoded within these signatures are the combined impacts of climate, geology, topography, ecology, and even human Published by Copernicus Publications on behalf of the European Geosciences Union.\n<heading></heading>\nactivities. We hypothesize that some function relates each hydrologic signature, the FDC included, to both the climate and the landscape, thus connecting the variability of climate inputs to the variability of runoff. This function can then be determined empirically, through the application of complex process-based models, or some combination thereof, both in detail for a small region via a process-based (Newtonian) approach, or through a comparative, data-based (Darwinian) approach. On the basis of these analyses, unique functions can then be defined for regions of similar catchment and landscape properties. With this idea of regionalization based on clusters of similar behavior, the prediction of the FDC or any other hydrologic signature can be greatly improved in cases where this function is not easily determined, such as ungauged basins.\nThe FDC is a signature of the within-year variability of the runoff in a watershed and represents the relationship between magnitude and frequency of streamflows at some location in the basin (Botter et al., 2008). Although the FDC is widely used in practice, and with much empirical knowledge in specific regions having been gained, the physical controls on the shape of the FDC are still not well understood (Yokoo and Sivapalan, 2011).",
+        "entities": [
+            {
+                "begin": 78,
+                "end": 88,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 426,
+                "end": 432,
+                "label": "variable",
+                "substring": "runoff",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/132ef849-3da3-4252-8f70-8dd36e790844"
+            },
+            {
+                "begin": 1131,
+                "end": 1137,
+                "label": "variable",
+                "substring": "runoff",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/132ef849-3da3-4252-8f70-8dd36e790844"
+            },
+            {
+                "begin": 343,
+                "end": 352,
+                "label": "location",
+                "substring": "landscape",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f36d71c6-f2ad-49c4-809f-09b4f0688412"
+            },
+            {
+                "begin": 90,
+                "end": 97,
+                "label": "location",
+                "substring": "ecology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a66ec515-6a6e-487b-9004-2d19d6ffff04"
+            },
+            {
+                "begin": 1220,
+                "end": 1231,
+                "label": "variable",
+                "substring": "streamflows",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+            },
+            {
+                "begin": 811,
+                "end": 820,
+                "label": "location",
+                "substring": "landscape",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f36d71c6-f2ad-49c4-809f-09b4f0688412"
+            },
+            {
+                "begin": 69,
+                "end": 76,
+                "label": "location",
+                "substring": "geology",
+                "identifier": null
+            }
+        ],
+        "response": "[\n    {\"entity\": \"topography\", \"type\": \"other\"},\n    {\"entity\": \"runoff\", \"type\": \"variable\"},\n    {\"entity\": \"runoff\", \"type\": \"variable\"},\n    {\"entity\": \"landscape\", \"type\": \"other\"},\n    {\"entity\": \"ecology\", \"type\": \"other\"},\n    {\"entity\": \"streamflows\", \"type\": \"variable\"},\n    {\"entity\": \"landscape\", \"type\": \"other\"},\n    {\"entity\": \"geology\", \"type\": \"other\"}\n]",
+        "labels": [
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "Because of its wide usage and the simple data demands on its construction, the FDC is an important catchment signature. In a rapidly changing world, such signatures can be used to track catchment responses to perturbations, in addition to the more traditional application to analyze or interpret long-term catchment responses (Vogel and Fennessey, 1995). Improved understanding of the physical processes controlling the shape of the FDC would allow for better comparisons of catchments across diverse regions as well as over long time periods for a single catchment. Ultimately, an increased understanding of the controls on the FDC would enable better estimation and prediction of the response from ungauged catchments, as well as improving our ability to carry out hydrologic space-for-time substitutions when making predictions under change.\nIn the past, FDCs have been generally analyzed through purely graphical means (e.g., Fennesy, 1994, 1995) or stochastically by fitting appropriate statistical distributions (e.g., Le Boutillier and Waylen, 1993;Castellarin et al., 2004Castellarin et al., , 2007. Recently, the stochastic approach has been augmented with a more process-based approach, wherein the different components of the catchment's dynamic response are incorporated into stochastic models (Botter et al., 2007a(Botter et al., , b, 2009Muneepeerakul et al., 2010), thus allowing for a more complete picture of the streamflow variability of different catchments.",
+        "entities": [
+            {
+                "begin": 1430,
+                "end": 1452,
+                "label": "variable",
+                "substring": "streamflow variability",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/01a84bc1-a571-4d23-b57f-1b04fd9542a6"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"streamflow variability\", \"type\": \"variable\"}]\n```",
+        "labels": [
+            "variable"
+        ]
+    },
+    {
+        "text": "Their complete model contains many underlying physical properties of a catchment but still uses a Poisson assumption for the arrival of rainfall events, which enables an analytical solution to be obtained. The model is applied seasonally, and, since there is no carryover of soil moisture storage between seasons, the results are not applicable to the whole year. This may not be realistic in all cases, especially in regions that exhibit strong seasonal variations of climate and water storage, and highlights the need for a more general framework, one for the entire year that captures within-year variations in climate and soil moisture storage.\nThe numerical study of Yokoo and Sivapalan (2011) followed this process-based framework with one important exception: there is no Poisson assumption. Rather, their numerical water balance modeling framework uses precipitation data (either observed or synthetic) to both provide the randomness inherent in precipitation at the event scale and yet capture the seasonal variability of climate. Carryover of soil moisture storage across the year allows for antecedent soil moisture conditions to affect the runoff response of the catchment. As a result of this work, they hypothesized that the flow duration curve could be divided into three parts, or limbs.",
+        "entities": [
+            {
+                "begin": 481,
+                "end": 494,
+                "label": "variable",
+                "substring": "water storage",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0692f19d-55bc-4fd7-8bf8-a0224e8715f9"
+            },
+            {
+                "begin": 626,
+                "end": 647,
+                "label": "variable",
+                "substring": "soil moisture storage",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/27dd85c2-3403-438d-8b0c-8d424df60468"
+            },
+            {
+                "begin": 954,
+                "end": 967,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 1053,
+                "end": 1074,
+                "label": "variable",
+                "substring": "soil moisture storage",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/27dd85c2-3403-438d-8b0c-8d424df60468"
+            },
+            {
+                "begin": 1113,
+                "end": 1137,
+                "label": "variable",
+                "substring": "soil moisture conditions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/27dd85c2-3403-438d-8b0c-8d424df60468"
+            },
+            {
+                "begin": 1152,
+                "end": 1158,
+                "label": "variable",
+                "substring": "runoff",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/132ef849-3da3-4252-8f70-8dd36e790844"
+            },
+            {
+                "begin": 136,
+                "end": 144,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 275,
+                "end": 288,
+                "label": "variable",
+                "substring": "soil moisture",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88e1a654-5cfd-423f-9350-0ef48d85e085"
+            },
+            {
+                "begin": 861,
+                "end": 879,
+                "label": "variable",
+                "substring": "precipitation data",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"water storage\", \"type\": \"variable\"},\n    {\"entity\": \"soil moisture storage\", \"type\": \"variable\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"soil moisture storage\", \"type\": \"variable\"},\n    {\"entity\": \"soil moisture conditions\", \"type\": \"variable\"},\n    {\"entity\": \"runoff\", \"type\": \"variable\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"},\n    {\"entity\": \"soil moisture\", \"type\": \"variable\"},\n    {\"entity\": \"precipitation data\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "The upper limb corresponds to the fast flow response of a catchment to precipitation; the middle limb is related to the slow flow response of the catchment, and as such is a function of the monthly regime curve; and the tail limb could be related to evaporation from variable saturated regions in the catchment impacting low flows. This insight, to separate the streamflow into fast flow and slow flow and look at the FDC the same way, provided the motivation for this four-pronged study, which was undertaken to further explore the possible physical controls on the FDC. While the Yokoo and Sivapalan work was mainly hypothetical and used synthetic inputs to a hydrological model, the present four-pronged study that follows it is empirically based, using long-term continuous daily climate and streamflow data from about 200 catchments in the MOPEX database. Using this data, the possible controls on the FDC were explored from three angles: statistically to identify patterns, through the use of a simple physically based model to separate climate and landscape controls, and through catchment classification to organize the patterns into classes.\nThe first angle of exploration was empirical (Cheng et al., 2012), and was accomplished by first separating total streamflow (Q) into fast flow (Q f ) and slow flow (Q u ) and fitting each of their duration curves as well as that of precipitation (P ) to a mixed gamma distribution, which has three parameters: \u03ba, \u03b8, and \u03b1.",
+        "entities": [
+            {
+                "begin": 71,
+                "end": 84,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 250,
+                "end": 261,
+                "label": "variable",
+                "substring": "evaporation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/881eea51-e32c-4174-a73f-d56c94122c2e"
+            },
+            {
+                "begin": 1384,
+                "end": 1397,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 362,
+                "end": 372,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 796,
+                "end": 806,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 1265,
+                "end": 1275,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 1055,
+                "end": 1064,
+                "label": "location",
+                "substring": "landscape",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f36d71c6-f2ad-49c4-809f-09b4f0688412"
+            },
+            {
+                "begin": 1408,
+                "end": 1432,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"evaporation\", \"type\": \"variable\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"landscape\", \"type\": \"other\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "model"
+        ]
+    },
+    {
+        "text": "The first two parameters -the shape parameter \u03ba, which affects the shape of the curve, and the scale parameter \u03b8, which stretches or shrinks the curve and is related to the magnitude of the variable in question -are embedded in the standard gamma distribution. However, for the duration curves of P and Q f , as well as Q of catchments in arid regions, the duration can be less than 100 %. Thus a third parameter, \u03b1, the fraction (or ratio) of no rain or flow days, was introduced to capture this (see Cheng et al., 2012 for further details of the fitting). Spatial plots of the gamma parameters obtained for the long-term (covering the entire record) duration curves for all catchments as well as the annual duration curves of a few selected catchments showed interesting regional (between catchment) patterns and between-year variations. Moreover, both the between-catchment and betweenyear analyses demonstrated that the physical properties of the catchment, represented in the baseflow index (BI), are the dominant controls on the shape of the FDCs of Q and Q u , while climate (precipitation) is the dominant control on the shape of the FDC of Q f . However, this dominance was by no means absolute, which meant that other factors may be controlling the shapes as well, and this in turn led to the modeling portion of the study as a way to further elucidate these other controlling factors.",
+        "entities": [
+            {
+                "begin": 1083,
+                "end": 1096,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 241,
+                "end": 259,
+                "label": "model",
+                "substring": "gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"precipitation\", \"type\": \"variable\"}, {\"entity\": \"gamma distribution\", \"type\": \"other\"}]\n```",
+        "labels": [
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "The second angle of exploration involved top-down process modeling (Ye et al., 2012), using a simple two-stage hydrologic model following the modeling framework outlined in Yokoo and Sivapalan (2011). The regime curve (RC) is used as the signature of comparison during the model calibration since, as previously mentioned, the middle portion of the FDC, which connects the high flows to the low flows, is related to the RC, and both the FDC and the RC are necessary for understanding the catchment response. Where the base model failed to capture fully the shape of the RC, processes were added to the model in a systematic fashion, but always guided by the data. Controlling processes were then identified for each catchment, and, when plotted spatially, these also showed interesting regional patterns. As an example, phenology (vegetation-induced seasonality in streamflow) and snowmelt processes dominated the northeast portion of the US, with both becoming less dominant towards the south and west. In some cases, however, very different catchments had the same controlling process. For instance, precipitation seasonality dominated in both the mountainous Pacific Northwest and in the flat peninsula region of Florida, highlighting the fact that dominant processes alone may not make catchments similar, and pointing towards a need for further classification of catchment response.",
+        "entities": [
+            {
+                "begin": 939,
+                "end": 941,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1216,
+                "end": 1223,
+                "label": "location",
+                "substring": "Florida",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b607766c-83f5-42bb-96b2-2de4e7b488a4"
+            },
+            {
+                "begin": 831,
+                "end": 841,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7b5c02c-724d-4a19-b824-98180f3900c9"
+            },
+            {
+                "begin": 820,
+                "end": 829,
+                "label": "variable",
+                "substring": "phenology",
+                "identifier": null
+            },
+            {
+                "begin": 1102,
+                "end": 1127,
+                "label": "variable",
+                "substring": "precipitation seasonality",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+            },
+            {
+                "begin": 1162,
+                "end": 1179,
+                "label": "location",
+                "substring": "Pacific Northwest",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a19e4450-64c4-4687-9080-cebded8a90eb"
+            },
+            {
+                "begin": 881,
+                "end": 899,
+                "label": "variable",
+                "substring": "snowmelt processes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dd6de9e1-61e7-41bf-a2dc-9d2afc690bb3"
+            },
+            {
+                "begin": 865,
+                "end": 875,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"Florida\", \"type\": \"location\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"phenology\", \"type\": \"other\"},\n    {\"entity\": \"precipitation seasonality\", \"type\": \"weather event\"},\n    {\"entity\": \"Pacific Northwest\", \"type\": \"location\"},\n    {\"entity\": \"snowmelt processes\", \"type\": \"other\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "The third angle of exploration involved the development of a classification system using information readily obtained from the daily RC (Coopersmith et al., 2012). Unlike the previous two studies, all 428 catchments in the MOPEX dataset were used in order have the highest possible variation in climate and location, since most of the long-term hydrologic data in the US tend to be concentrated in the more humid, eastern half of the country. As with the modeling study, the RC was chosen as the signature of comparison instead of the FDC and for much the same reasons, with one addition: the RC contains much more easily interpretable information than does the FDC. This may indeed be one of the reasons the FDC is still not well-understood, even after much use and much study. From the RCs of P , potential evaporation (E p ), Q and its components Q f and Q u , one can establish the average aridity and seasonality of the climate, as well as when P and Q peak for a particular catchment. Using these four similarity indices and an objective function that minimized within-group variance, catchments were clustered along a decision tree until further splitting ceased when catchments within a terminal node were sufficiently similar or there was no further reduction in variability by splitting again. Over three-fourths of the catchments studied fell into only six classes, with the first major distinction between catchments being seasonality.",
+        "entities": [
+            {
+                "begin": 368,
+                "end": 370,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 799,
+                "end": 820,
+                "label": "variable",
+                "substring": "potential evaporation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9e8257c6-5c14-4707-995a-d31409265407"
+            },
+            {
+                "begin": 1125,
+                "end": 1138,
+                "label": "model",
+                "substring": "decision tree",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"potential evaporation\", \"type\": \"variable\"},\n    {\"entity\": \"decision tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "The eastern portion of the US experiences very low seasonality in precipitation, with a wet/dry seasonal pattern becoming more pronounced as one moves further west across the continent. Again, interesting regional patterns emerged when the catchment classes were displayed spatially. As with the model processes, the Northeastern US formed a different cluster than the Southeast, and the Midwest US formed two major clusters, but this time the Pacific Northwest and Florida in the extreme Southeast fell into two different classes. This shows that while both regions experience high seasonality in P (the dominant model process), the amount of rainfall each region receives (more overall in the NW,) as well as the timing of the wet season (in the NW it is out of phase with E p , while in FL it is in phase), distinguishes Florida from the Pacific NW. This analysis leads to the conclusion that there may be some connection between the results of each of these studies, and elucidation of this connection could lead to deeper insights into the controls on the FDC.\nEach approach outlined above produced valuable insights into the controls on the FDC and showed tantalizing spatial patterns that pointed toward some underlying structure or controlling process(es). However, since the main focus of the modeling study and the classification scheme was the RC, not the FDC, there still remains a need to extract information from these three studies and apply it to the FDC and its possible controls, i.e., to synthesize the results.",
+        "entities": [
+            {
+                "begin": 27,
+                "end": 29,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 66,
+                "end": 79,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 317,
+                "end": 332,
+                "label": "location",
+                "substring": "Northeastern US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 466,
+                "end": 473,
+                "label": "location",
+                "substring": "Florida",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b607766c-83f5-42bb-96b2-2de4e7b488a4"
+            },
+            {
+                "begin": 644,
+                "end": 652,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 824,
+                "end": 831,
+                "label": "location",
+                "substring": "Florida",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b607766c-83f5-42bb-96b2-2de4e7b488a4"
+            },
+            {
+                "begin": 388,
+                "end": 398,
+                "label": "location",
+                "substring": "Midwest US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 790,
+                "end": 792,
+                "label": "location",
+                "substring": "FL",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9ceb0b3b-703a-4a40-85a5-b16a751b7b2a"
+            },
+            {
+                "begin": 444,
+                "end": 461,
+                "label": "location",
+                "substring": "Pacific Northwest",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"Northeastern US\", \"type\": \"location\"},\n    {\"entity\": \"Florida\", \"type\": \"location\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"},\n    {\"entity\": \"Florida\", \"type\": \"location\"},\n    {\"entity\": \"Midwest US\", \"type\": \"location\"},\n    {\"entity\": \"FL\", \"type\": \"location\"},\n    {\"entity\": \"Pacific Northwest\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "What, then, is synthesis? Because catchments are complex systems that have co-evolved over time to reach their present state, the problem of predicting future behavior can quickly become multidimensional. Since a catchment can be thought of as a \"filter\" of the precipitation inputs, with various interactions and feedbacks among the various processes at work within the catchment, one way to deal with this problem of complexity is to look for emergent patterns in the catchment signatures, and thereby gain some fundamental understanding of catchment functioning. Sivapalan et al. (2011a) in their call for a synthesis approach to hydrology define these patterns as consistent trends of similarity or difference across time and/or space. A focus on patterns in order to gain understanding of the underlying processes and to bring together various research efforts into one integrated body of work forms the framework for our synthesis approach. Using the hypothesis of Yokoo and Sivapalan (2011) as the basis for analysis and combining the results from the first three parts of our study of hydrologic signatures, the synthesis approach is applied to the current problem. The goal of this paper, the last in the four-part series outlined in the preceding paragraphs, is to map the possible connections between the parameters of the mixed gamma distribution obtained in the empirical study, the dominant model processes, and the catchment classification.",
+        "entities": [
+            {
+                "begin": 262,
+                "end": 275,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 1334,
+                "end": 1358,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"precipitation\", \"type\": \"variable\"}, {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}]\n```",
+        "labels": [
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "It is in finding the common ground between the empirical, modeling, and classification work, and building further on this synthesis that a deeper understanding of the physical processes controlling the shape of the FDC can be gained.\nThis paper is divided into four sections. In Sect. 1, we have introduced the FDC, and the ideas of regionalization, similarity, and synthesis as a way to better understand the physical controls on the shape of the FDC. Section 2 describes the study site, data used, and the specific methods used in the synthesis, and Sect. 3 presents the results of the synthesis. In Sect. 4 the conclusions of the entire four-part study are summarized. We conclude with a discussion of the limitations of the study and a look towards future work that will overcome these limitations.\n<heading>Data and methods</heading>\n\n<heading>Study site and data description</heading>\nOut of the 428 catchments in the MOPEX database, 197 catchments were chosen for their long-term, continuous daily datasets. The data used in the present work (areaaveraged daily precipitation, total streamflow, baseflowseparated streamflow, and potential evaporation, all in units of mm) were assembled into a processed database as part of the Hydrologic Synthesis Project (Sivapalan et al., 2011b;Brooks et al., 2011) and is freely available at http://voda.hwr. arizona.edu/mopex/.",
+        "entities": [
+            {
+                "begin": 1069,
+                "end": 1082,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 1136,
+                "end": 1157,
+                "label": "variable",
+                "substring": "potential evaporation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/881eea51-e32c-4174-a73f-d56c94122c2e"
+            },
+            {
+                "begin": 1120,
+                "end": 1130,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 1090,
+                "end": 1100,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"potential evaporation\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "While the overall spatial distribution of these catchments covers the entire continental United States and therefore represents most of the climate and geographic variability found there, a majority of the catchments are located east of the Mississippi River (Fig. 1). In the empirical, modeling, and classification studies, the common theme of emergent regional patterns in the spatial distribution of the gamma parameters, the dominant model processes, and the catchment classes provided visual evidence of some underlying organization. Clear spatial patterns are also seen in climate indicators such as the aridity index (E p /P ), which exhibits the typical continental pattern of increasing aridity with increasing distance from the coast and with decreasing latitude in the Western US, as well as the seasonality index (Fig. 1a), adapted from Walsh and Lawler (1981) and defined here as\nSI = 365 i=1 P i \u2212 365 i=1 P i 365 365 i=1 P i 365 (1)\nwhere P i is the daily precipitation at each site. Less clear is the spatial organization of catchment-related indices such as the baseflow index (Q u /Q), shown in Fig. 1b. Since the baseflow index is related in large part to geology, which tends to vary at the local scale, its spatial pattern shows a more localized clustering compared to the climate indices, which tend to vary along a gradient.",
+        "entities": [
+            {
+                "begin": 241,
+                "end": 258,
+                "label": "location",
+                "substring": "Mississippi River",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c3954181-53c1-4847-84dd-cf62815b985f"
+            },
+            {
+                "begin": 780,
+                "end": 790,
+                "label": "location",
+                "substring": "Western US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 971,
+                "end": 984,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 77,
+                "end": 102,
+                "label": "location",
+                "substring": "continental United States",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e5e56286-ef79-45ac-af70-05ab0696ac1c"
+            },
+            {
+                "begin": 1175,
+                "end": 1182,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4150db4f-5ef2-4623-9b17-d11bdf62a571"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Mississippi River\", \"type\": \"location\"},\n    {\"entity\": \"Western US\", \"type\": \"location\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"continental United States\", \"type\": \"location\"},\n    {\"entity\": \"geology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "Daily data from the processed MOPEX database were first normalized before being used in this study, with P normalized by the mean annual daily precipitation for the 54 yr time period, and Q, Q f , and Q u all normalized by the corresponding mean flow values for the same time period. The duration curves of P , Q, Q f , Q u analyzed herein were produced using the quantile method (Vogel and Fennessey, 1994); i.e., only data points corresponding to the 0.5, 1.0, 1.5, ..., 99.0, and 99.5 exceedance percentages from the 54 years of normalized daily data were considered. In addition to the processed daily time-series data, results from the first three parts of the four-part study described previously were used to create a database for the synthesis analysis. From the empirical analysis (Cheng et al., 2012), the fitted parameters of the mixed gamma distribution \u03b1, \u03ba, and \u03b8 for P , Q, Q f , and Q u for each catchment were obtained. From the modeling study (Ye et al., 2012), the dominant model process \"class\" (i.e., that combination of processes that were found to be necessary for good model prediction for a given catchment) for each of the 197 catchments was extracted. From the catchment classification study (Coopersmith et al., 2012), the class associated with each of these catchments was added to this new database. Lastly, daily regime curves used in the previous two studies will also be used.",
+        "entities": [
+            {
+                "begin": 143,
+                "end": 156,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 841,
+                "end": 865,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "These are calculated using the entire period of record by finding the average flow for each Julian day of the year, then smoothing with a 30-day circular moving average (see Coopersmith et al., 2012, for further details).\n<heading>Synthesis methods</heading>\nAs discussed earlier, all the work done in these related studies, including the present one, has been guided by the framework laid out in Yokoo and Sivapalan (2011), which is presented visually in Fig. 2. This conceptual model was built on the partitioning idea outlined by L'vovich (1979), wherein P is partitioned into Q f and catchment wetting (infiltration), and this wetting is then further partitioned into Q u and vaporization (ET). Thus the upper portion of the FDC, which represents the high flows that are exceeded rarely, is controlled by Q f , a simple function of P . The middle portion of the FDC, which represents the average flows, is controlled by Q u , which is a function of the monthly flow regime. The lower portion of the FDC, which represents the extreme low flows that are exceeded most of the time, may be a function of evaporation from saturated areas, among other things. In this framework, the RC, which contains the average flows experienced by a catchment throughout the year, forms the bridge between the low flows and the high flows in the FDC. Thus the results from the modeling and classification studies can be used to learn more about the physical controls on the FDC.",
+        "entities": [
+            {
+                "begin": 1104,
+                "end": 1115,
+                "label": "variable",
+                "substring": "evaporation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/881eea51-e32c-4174-a73f-d56c94122c2e"
+            },
+            {
+                "begin": 694,
+                "end": 696,
+                "label": "variable",
+                "substring": "ET",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"evaporation\", \"type\": \"variable\"}, {\"entity\": \"ET\", \"type\": \"variable\"}]\n```",
+        "labels": [
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Because the middle limb of the FDC forms the connection between the extreme high flows and the extreme low flows, and is related to the average flow regime of a catchment, the slope of this portion of the FDC is often used in modeling and classification studies as a means of quantifying the shape of the FDC (Carillo et al., 2011;Sawicz et al., 2011;Yadav et al., 2007). The fitted gamma parameters also quantify the shape of the FDC, but they encompass all of the FDC, not just the middle portion. Since the middle part of the FDC relates to the RC and therefore the modeling and classification studies, it is included here as a way to synthesize the findings of these studies. From the three papers cited above, the slope of the flow duration curve is defined as\nSlope FDC = ln(Q 0.33 ) \u2212 ln(Q 0.66 ) (0.66 \u2212 0.33) (2)\nwhere Q 0.33 and Q 0.66 are the flow values exceeded 33 % and 66% of the time, respectively. Since P and Q f are either zero or some extremely small number (< 0.001 mm) and usually exceeded at or less than 66 % of the time in nearly all the catchments, the slopes (as defined here) of these duration curves were not mathematically meaningful, and thus only the slopes only the slopes of the Q and Q u FDCs were used for this analysis.\nThe three previous studies -empirical, modeling, and classification -form three angles of what can conceptually be  Yokoo and Sivapalan, 2011); here Q f is the fast flow (surface runoff) and Q u is the slow flow (sub-surface runoff). described as a synthesis \"triangle\" (Fig. 3).",
+        "entities": [
+            {
+                "begin": 1436,
+                "end": 1442,
+                "label": "variable",
+                "substring": "runoff",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/132ef849-3da3-4252-8f70-8dd36e790844"
+            },
+            {
+                "begin": 1482,
+                "end": 1488,
+                "label": "variable",
+                "substring": "runoff",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/132ef849-3da3-4252-8f70-8dd36e790844"
+            }
+        ],
+        "response": "```json\n[]\n```",
+        "labels": [
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "The parameters of the mixed gamma distribution form the apex of the triangle, and at the base, moving clockwise from the top, are the dominant model processes and the catchment classes. The goal of the synthesis analysis is to make connections between each of these three angles, thus forming the \"legs\" and completing the triangle. To map the FDC to possible controlling processes, a two-stage analysis is conducted: for each leg of the synthesis triangle, a qualitative visual grouping analysis is followed by a quantitative variability analysis. Additionally, because two of the legs of the triangle are derived from the RC, the synthesis analysis will zoom in on the middle portion of the FDC and the same visual grouping and variability analysis will be performed on the slope of the FDCs sorted by both catchment class and dominant processes. Lastly, because of the regression relationship seen between the shape parameter of the mixed gamma distribution \u03ba and the baseflow and seasonality indices, the slope of the FDC will also be compared to these indices. Since \u03ba represents the entire FDC and the FDC slope represents just the middle portion of the FDC, a strong relationship may help clarify the underlying controls. Thus the analysis of the slope of the FDC builds on the three-way mapping outlined by the synthesis triangle.",
+        "entities": [
+            {
+                "begin": 22,
+                "end": 46,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 936,
+                "end": 960,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}, {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}]\n```",
+        "labels": [
+            "model",
+            "model"
+        ]
+    },
+    {
+        "text": "The variability analysis must be done between sets of quantitative data (parameters of the mixed gamma distribution, the slopes and quantiles of the FDCs) as well as between sets of qualitative data (the dominant model processes and catchment classes). For the quantitative data, this is accomplished by determining self-organizing behavior with a decision tree (Breiman et al., 1993). Consider a dataset of size n, with variance \u03c3 2 . Next, partition that dataset into m subsets, using an existing decision tree. Each subset i of size S i is characterized by a variance \u03c3 2 i . Let a variance measure of the data, using the partitions implied by the tree, be calculated as follows:  \u03c3\n2 = m i=1 S i \u03c3 2 i n .(3)\nIn essence, the average of the variance of each subset is calculated, weighted by the number of members of each subset.\nFor the qualitative data, this is accomplished by determining self-organization into distinct classes. Again, consider a dataset of size n, which now is characterized by k distinct, qualitatively described classes. Let the entropy of any group of that data be defined as\nE = \u2212 k j =1 p j log k p j (4\n)\nwhere p j represents the proportion of the group of class j . Equation ( 4) returns a value between 0 (minimum entropy, all elements within a set of the same class) and 1 (maximum entropy, equal proportions of a set of each of the k classes). Next, partition the dataset of size n into m subsets of size S i , each with an entropy E i , calculated with Eq. (4).",
+        "entities": [
+            {
+                "begin": 91,
+                "end": 115,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": null
+            },
+            {
+                "begin": 348,
+                "end": 361,
+                "label": "model",
+                "substring": "decision tree",
+                "identifier": null
+            },
+            {
+                "begin": 499,
+                "end": 512,
+                "label": "model",
+                "substring": "decision tree",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"decision tree\", \"type\": \"other\"},\n    {\"entity\": \"decision tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "model",
+            "model",
+            "model"
+        ]
+    },
+    {
+        "text": "Let the entropy of the data, using the partitions implied by the tree, analogous to Eq. (3), be calculated as follows:\nE = m i=1 S i E i n .(5)\nIf the variance measure calculated in Eq. (3) and the entropy calculated in Eq. (5) are lower than that of the entire dataset, we can conclude that the tree structure explains, in part, the variability of the parameters/classes we desire to map.\n3 Results: three-way mapping and synthesis\n<heading>Catchment classes and dominant processes</heading>\nFigure 4 shows the FDCs of catchments in the four largest catchment classes, which together account for about twothirds of all the catchments in the study, grouped within each class by dominant model process. The class LJ (low seasonality, wetter spring), which includes 68 catchments and encompasses most of the Atlantic coast region of the US, and the class LWC (low seasonality, wetter winters), which covers the southern Appalachian Mountain region and the southern Gulf states, show remarkably little difference between FDCs for high flows exceeded about 15-20 % of the time (Fig. 4c and d). The curves begin to diverge at the mid-to low-flow end, as well as at the extreme high flow end, but even there the range is less than that of the intermediate seasonality classes ISQJ and ITC, which include catchments in the Midwest from the humid Corn Belt region in Illinois and Iowa to the drier Plains regions south and west of the Corn Belt (Fig. 4a and b).",
+        "entities": [
+            {
+                "begin": 806,
+                "end": 827,
+                "label": "location",
+                "substring": "Atlantic coast region",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cf249a36-2e82-4d32-84cd-23a4f40bb393"
+            },
+            {
+                "begin": 835,
+                "end": 837,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1359,
+                "end": 1367,
+                "label": "location",
+                "substring": "Illinois",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/06b1e163-667a-4d13-b638-5273e7a65dad"
+            },
+            {
+                "begin": 1372,
+                "end": 1376,
+                "label": "location",
+                "substring": "Iowa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ed048ffc-f15c-4b27-899e-70d00417685b"
+            },
+            {
+                "begin": 918,
+                "end": 945,
+                "label": "location",
+                "substring": "Appalachian Mountain region",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1427,
+                "end": 1436,
+                "label": "location",
+                "substring": "Corn Belt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1339,
+                "end": 1348,
+                "label": "location",
+                "substring": "Corn Belt",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Atlantic coast region\", \"type\": \"location\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"Illinois\", \"type\": \"location\"},\n    {\"entity\": \"Iowa\", \"type\": \"location\"},\n    {\"entity\": \"Appalachian Mountain region\", \"type\": \"location\"},\n    {\"entity\": \"Corn Belt\", \"type\": \"location\"},\n    {\"entity\": \"Corn Belt\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "Of note is that the catchments in these two intermediate seasonality classes are also where the simple process model had difficulty in satisfactorily reproducing the regime curve (Ye et al., 2012), while the two dominant low-seasonality classes are largely made up of model process classes relating to forest and snow processes. In Fig. 5 the grouping is reversed; here the FDCs of catchments in the four largest dominant model process classes, which together account for about half of all the catchments in the study, are grouped within by catchment classification. Again, we see two of these classes (b and c) have smaller range of FDC variability than the other two. A closer inspection reveals that both (b) and (c) seem to taper at the top (largest flows) while (a) and (d) do not. Since the vertical axis of an FDC is on a log scale, any differences that appear small at this end are actually quite large, while differences between FDCs at the low end, which appear large, are actually very small. It can be further noted that both (b) and (c) contain subsurface-influenced Q f , and it may be due in part to this underlying process control that (b) and (c) have more similar high flows. Also of note in Fig. 5 is that three of the four main dominant model processes involve vegetation (interception, phenology, or both), and thus the two large classes LJ and LWC, which are dominated by catchments in the NE and mid-Atlantic regions of the US, feature prominently in these groupings (Fig. 5b, c, and d).",
+        "entities": [
+            {
+                "begin": 313,
+                "end": 317,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 1281,
+                "end": 1291,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 1447,
+                "end": 1449,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 302,
+                "end": 308,
+                "label": "variable",
+                "substring": "forest",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 1307,
+                "end": 1316,
+                "label": "variable",
+                "substring": "phenology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"snow\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"variable\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"forest\", \"type\": \"variable\"},\n    {\"entity\": \"phenology\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "The base model cluster features the majority of the extreme seasonality classes as well as the more seasonal of the intermediate classes. In these catchments, the strong seasonal signal in precipitation overrides even the vegetation signature in the streamflow regime curve; the effect on the FDC is not so evident. However a lack of precipitation shows up very strongly in the FDC, where the drier catchments in the southern and western regions (e.g., IAQ and XADB in Fig. 5a, LPC and ISQJ in Fig. 5b, and   ISQJ in Fig. 5d) have a markedly different curve than their more humid counterparts.\nThe visual analysis of Figs. 4 and 5 presented here shows strong regional patterns as the large number of catchments are divided into a small number of groupings. This reflects the fact that the co-evolution of catchments with the climate and the underlying geology is reflected in both the vegetation and the soils in which they grow. Thus the humid east coast with its steady supply of rainfall during the year has the ability to support large areas of deciduous forest, while the drier inter-continental regions with more variable rainfall tend to support more grassland. These differences in vegetation canopies, the underlying soils and topography, in addition to the presence or absence of a winter snowpack, all affect how a catchment stores and filters precipitation, and this is reflected in these groupings. This idea is further illustrated by another large model process class that does not appear in Fig.",
+        "entities": [
+            {
+                "begin": 189,
+                "end": 202,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 222,
+                "end": 232,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 334,
+                "end": 347,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 885,
+                "end": 895,
+                "label": "location",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 982,
+                "end": 990,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 1128,
+                "end": 1136,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 1158,
+                "end": 1167,
+                "label": "location",
+                "substring": "grassland",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/142ea0c1-b77f-44da-8c64-ac7ee13fd5f6"
+            },
+            {
+                "begin": 1236,
+                "end": 1246,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 1355,
+                "end": 1368,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 250,
+                "end": 260,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 904,
+                "end": 909,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 1226,
+                "end": 1231,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 1083,
+                "end": 1108,
+                "label": "location",
+                "substring": "inter-continental regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a672f19-dad5-4114-819a-2eb55bdbb56a"
+            },
+            {
+                "begin": 1299,
+                "end": 1307,
+                "label": "variable",
+                "substring": "snowpack",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 1190,
+                "end": 1209,
+                "label": "variable",
+                "substring": "vegetation canopies",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7b5c02c-724d-4a19-b824-98180f3900c9"
+            },
+            {
+                "begin": 1049,
+                "end": 1065,
+                "label": "location",
+                "substring": "deciduous forest",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 852,
+                "end": 859,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7495208e-fe75-4423-801d-bc9d14e27beb"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"},\n    {\"entity\": \"grassland\", \"type\": \"other\"},\n    {\"entity\": \"topography\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"soils\", \"type\": \"other\"},\n    {\"entity\": \"soils\", \"type\": \"other\"},\n    {\"entity\": \"inter-continental regions\", \"type\": \"location\"},\n    {\"entity\": \"snowpack\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation canopies\", \"type\": \"other\"},\n    {\"entity\": \"deciduous forest\", \"type\": \"other\"},\n    {\"entity\": \"geology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "5 but does feature prominently in two of the largest catchment classes (Fig. 4a and b). In a large part of the Midwest, where human activity has greatly altered this co-evolution by changing the catchment storage and drainage properties (tile drainage) and even the vegetation type (agriculture), the model, based on natural processes, cannot satisfactorily reproduce the RC for these catchments (the \"No Model\" class).\nIn order to quantify in an objective way the findings from the visual inspection of patterns conducted so far, the connection between the catchment classes and the dominant model processes was also examined using the variability analysis described in Sect. 2.2; the result is summarized in Table 1. There is a significant reduction in entropy as the dominant model processes are sorted along the classification tree (i.e., the variance within each model grouping is less than that between the groups); thus the model processes display an  underlying organization expressible quantitatively. This was seen qualitatively in Fig. 4 where even the largest classes contained distinct model processes associated with them. Although the reduction in entropy was fairly consistent for each split of the tree, with entropy being reduced by about half overall, the largest drop occurred at the most bifurcated layer of the tree (Level 7). This is where many of the most seasonal catchments clustered, and these had fewer dominant model processes associated with them.",
+        "entities": [
+            {
+                "begin": 266,
+                "end": 281,
+                "label": "variable",
+                "substring": "vegetation type",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7b5c02c-724d-4a19-b824-98180f3900c9"
+            },
+            {
+                "begin": 816,
+                "end": 835,
+                "label": "model",
+                "substring": "classification tree",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cf3a3ce-4dd4-4364-8414-83e3b01354ec"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"vegetation type\", \"type\": \"other\"},\n    {\"entity\": \"classification tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "In fact, this level contains the two catchment classes (ITC and ISCJ) where the model did not perform well in most cases, as well as three catchment classes where snow was a dominant factor. These catchments also cluster regionally, with most being located in the northwest-central portion of the US.  Fig. 6. The parameter \u03b8 of the mixed gamma distribution for total streamflow grouped by catchment class and showing the number of catchments per class (L, I, and X denote low to high seasonality in P ).\n<heading>Catchment classes and the parameters of the mixed gamma distribution</heading>\nThe visual mapping of the three parameters of the mixed gamma distribution onto the catchment classes consisted of grouping the parameter values by class. For the Q duration curve, as expected, the \u03b1 parameter was 0 except for classes containing arid catchments. For the scale parameter \u03b8 of the Q duration curve (Fig. 6), catchments with low seasonality, which in this dataset are also generally more humid, have lower values (\u03b8 < 20), reflecting the strong similarity in mean amount of P and Q experienced within these classes. Catchments with higher seasonality are characterized by a wider range of \u03b8-values, and, within the group of intermediate to high seasonality catchments, those that are more arid (A or S in the abbreviation) tend to have a higher \u03b8 than those that are more humid. For the shape parameter \u03ba of the Q duration curve, the pattern is not so clear. Although FDCs of arid catchments have a distinct shape, as was seen in Fig.",
+        "entities": [
+            {
+                "begin": 163,
+                "end": 167,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 297,
+                "end": 299,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 333,
+                "end": 357,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 368,
+                "end": 378,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 558,
+                "end": 591,
+                "label": "model",
+                "substring": "mixed gamma distribution</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 643,
+                "end": 667,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"snow\", \"type\": \"other\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"mixed gamma distribution</heading\", \"type\": \"other\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "model",
+            "variable",
+            "model",
+            "model"
+        ]
+    },
+    {
+        "text": "5a (IAQ and XADB, both arid catchment classes), the catchment classes, which group mainly on climate properties, may not always capture the differences in shape related to catchment properties, which are reflected in \u03ba.\nAs before, the visual mapping of the connection between the catchment classes and the three parameters of the mixed gamma distribution was followed by a quantitative variability analysis; the result is summarized in Table 2. These results show that, with each step down the tree, the overall variability of all three parameters decreases, and thus these, like the dominant model processes, are explained by the classification tree in quantitative terms. However, not all parameters sort equally well; both \u03b1 and \u03b8 show significant reduction in variance while \u03ba does not. This may be explained by the basis for the classification scheme: the four criteria are mainly climate-oriented, as is \u03b1, and they utilize the RC, which reflects the average values of P and Q over a long time period, as does \u03b8. Where variance reduction is significant, it is greater in the first few splits on the tree than at the later branches. For \u03b1, this is because \u03b1 is nonzero when there is no P or Q; the larger the \u03b1 is, the more intermittent the rainfall or streamflow. The first two branchings of the tree immediately split off a large portion of humid catchments, where \u03b1 \u2248 0 for Q and Q u and is small for P and Q f , from the rest, thus providing an immediate, and large, reduction in variance.",
+        "entities": [
+            {
+                "begin": 330,
+                "end": 354,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 631,
+                "end": 650,
+                "label": "model",
+                "substring": "classification tree",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cf3a3ce-4dd4-4364-8414-83e3b01354ec"
+            },
+            {
+                "begin": 1258,
+                "end": 1268,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": null
+            },
+            {
+                "begin": 1246,
+                "end": 1254,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"classification tree\", \"type\": \"other\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "model",
+            "model",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "From the visual mapping, these same catchments also experienced very low seasonality and had very small ranges of \u03b8-values; thus splitting them off from their more variable counterparts provided immediate organization with respect to \u03b8.\n<heading>Dominant processes and the parameters of the mixed gamma distribution</heading>\nThe last part of the three-way mapping was the connection between the dominant model processes and the parameters of the mixed gamma distribution. For \u03b1, the story is the same as outlined in the previous section. For the shape parameter, the process class \"Vegetation\" showed a wider variability of \u03ba-values relative to most of the other classes, notably large classes such as \"Snow, Vegetation\", \"Snow, SubQ f , Vegetation\", and even \"SubQ f , Vegetation\" (where \"SubQ f \" refers to subsurface-influenced Q f ) as seen in Fig. 7. Vegetation as the sole dominant process seems to produce a large variability in the shape parameter \u03ba. Although vegetation processes were lumped together into one model process class, different kinds of vegetation (grassland, forest) affect the streamflow RC in different ways -the phenology signature of forested catchments, for example, shows up clearly as a significant drop in summer streamflow. On the other hand, snowmelt affects the RC in one way -a sharp peak in spring. While not visually obvious when plotting the FDCs, these variations may be showing up in the shape parameter of the fitted FDC  as a wider range of \u03ba-values.",
+        "entities": [
+            {
+                "begin": 583,
+                "end": 593,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 704,
+                "end": 708,
+                "label": "variable",
+                "substring": "Snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 710,
+                "end": 720,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 724,
+                "end": 728,
+                "label": "variable",
+                "substring": "Snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 739,
+                "end": 749,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 771,
+                "end": 781,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 857,
+                "end": 867,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 969,
+                "end": 979,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 1060,
+                "end": 1070,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 1072,
+                "end": 1081,
+                "label": "location",
+                "substring": "grassland",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/142ea0c1-b77f-44da-8c64-ac7ee13fd5f6"
+            },
+            {
+                "begin": 1276,
+                "end": 1284,
+                "label": "variable",
+                "substring": "snowmelt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/32259124-81f7-4845-b2fb-6435d7bb5804"
+            },
+            {
+                "begin": 447,
+                "end": 471,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 291,
+                "end": 324,
+                "label": "model",
+                "substring": "mixed gamma distribution</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 1083,
+                "end": 1089,
+                "label": "location",
+                "substring": "forest",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 1162,
+                "end": 1181,
+                "label": "location",
+                "substring": "forested catchments",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 1102,
+                "end": 1112,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": null
+            },
+            {
+                "begin": 1245,
+                "end": 1255,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": null
+            },
+            {
+                "begin": 1139,
+                "end": 1148,
+                "label": "variable",
+                "substring": "phenology",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Snow\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Snow\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"grassland\", \"type\": \"other\"},\n    {\"entity\": \"snowmelt\", \"type\": \"weather event\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"mixed gamma distribution</heading\", \"type\": \"other\"},\n    {\"entity\": \"forest\", \"type\": \"other\"},\n    {\"entity\": \"forested catchments\", \"type\": \"location\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"phenology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "model",
+            "model",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "However, when snow and/or subsurface-influenced Q f share dominance with vegetation, the variability seems to be lessened. From our inspection of the shapes of the FDCs in Fig. 5, this seems to be borne out, at least for \"Snow, SubQ f , Vegetation\" and \"SubQ f , Vegetation\", and may be caused by the presence of subsurfaceinfluence Q f . We also saw from Ye et al. (2012) and Coopersmith et al. (2012) that snow-dominated catchments share similar climate and physical properties; in addition, the presence of snow in heavily vegetated areas further groups the catchments by climate and geology/topography, as the majority of these catchments are found in the northeastern US. This may explain in part the smaller variation in \u03ba-values for process classes containing snow and vegetation. However, process classes with snow but without vegetation contain many fewer catchments, and thus a more quantitative examination is necessary to determine if the smaller variability in the \u03ba parameter is significant. For \u03b8, the trend was not so clear, likely due to the wide range of climates (and therefore average P and Q) experienced within some model process classes.\nAs shown in Fig. 7, some process classes contained fewer catchments than others, and so a visual assessment alone is insufficient to analyze differences between classes. Thus the connection between the dominant model processes and the three parameters of the mixed gamma distribution was analyzed quantitatively using the variability analysis described in Sect.",
+        "entities": [
+            {
+                "begin": 14,
+                "end": 18,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 73,
+                "end": 83,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 222,
+                "end": 226,
+                "label": "variable",
+                "substring": "Snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 237,
+                "end": 247,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 263,
+                "end": 273,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 408,
+                "end": 412,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 510,
+                "end": 514,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 595,
+                "end": 605,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 660,
+                "end": 675,
+                "label": "location",
+                "substring": "northeastern US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 767,
+                "end": 771,
+                "label": "location",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 776,
+                "end": 786,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 818,
+                "end": 822,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 835,
+                "end": 845,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 587,
+                "end": 594,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4150db4f-5ef2-4623-9b17-d11bdf62a571"
+            },
+            {
+                "begin": 526,
+                "end": 541,
+                "label": "location",
+                "substring": "vegetated areas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7b5c02c-724d-4a19-b824-98180f3900c9"
+            },
+            {
+                "begin": 1420,
+                "end": 1444,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"snow\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"variable\"},\n    {\"entity\": \"Snow\", \"type\": \"variable\"},\n    {\"entity\": \"Vegetation\", \"type\": \"variable\"},\n    {\"entity\": \"Vegetation\", \"type\": \"variable\"},\n    {\"entity\": \"snow\", \"type\": \"variable\"},\n    {\"entity\": \"snow\", \"type\": \"variable\"},\n    {\"entity\": \"topography\", \"type\": \"other\"},\n    {\"entity\": \"northeastern US\", \"type\": \"location\"},\n    {\"entity\": \"snow\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"variable\"},\n    {\"entity\": \"snow\", \"type\": \"variable\"},\n    {\"entity\": \"vegetation\", \"type\": \"variable\"},\n    {\"entity\": \"geology\", \"type\": \"other\"},\n    {\"entity\": \"vegetated areas\", \"type\": \"location\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "model"
+        ]
+    },
+    {
+        "text": "2.2; the result is summarized in Table 3. As before, the results show a decrease in variance when the parameters are grouped compared to when they are not. Interestingly, when the parameters are grouped by dominant model process, the opposite is seen compared to when they are grouped by catchment class. Here \u03ba shows statistically significant variance reduction while \u03b1 and \u03b8 do not; thus the shape parameter \u03ba is better described by the dominant model processes while both the scale parameter \u03b8 and \u03b1, the fraction of no rainy or flow days, are better described by the catchment classification system. This may be because the classification system is based in large part on the climate -the amount and timing of water available to a catchment -while the dominant model processes are more closely related to catchment function, since they explicitly take into account the effect of interception, phenology, and subsurface-influenced Q f .\n<heading>Synthesis: the slope of the FDC</heading>\nAs was previously discussed, there is more than one way of quantifying the FDC: the fitted parameters of the mixed gamma distribution (\u03b1, \u03ba, \u03b8 ) or the slope of the FDC. However, the three parameters describe the entire FDC, while the slope as defined here only describes the middle limb -the bridge between the high flows and the low flows. By focusing on one limb of the FDC at a time, more specific controls may be identified, since the analyses in previous sections were not able to fully untangle the climate from the catchment controls.",
+        "entities": [
+            {
+                "begin": 1100,
+                "end": 1124,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": null
+            },
+            {
+                "begin": 897,
+                "end": 906,
+                "label": "variable",
+                "substring": "phenology",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"phenology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "model",
+            "variable"
+        ]
+    },
+    {
+        "text": "In this paper we only examine the slope of the middle limb of the FDC, as it is closely related to the RC, on which the modeling and classification studies were based; the upper and lower limbs are left for future work. The slopes of the FDC for Q and Q u were grouped first by class (Fig. 8) and then by dominant model process (Fig. 9). The box plots provide a visual assessment of the variability of the magnitudes of the slope of the FDC within each grouping: the size of the box represents the 25th-75th percentile, while the whiskers show the minimum and maximum values. Because of the way the slope is calculated, catchments with ephemeral streams or those for which the streamflow becomes very small at higher percent exceedance (i.e., drier catchments) will have very large slopes. This is clearly illustrated by the class XADB (high seasonality, arid, wetter winters) in Fig. 8, which consists entirely of arid catchments in southern California.\nIn general, the FDCs of classes with low seasonality (those with L in their designation) tended to have smaller slopes and less variability in slope values than did those classes with higher seasonality (those with I or X in their designation). The FDCs of more arid catchments (those with S and A in their designation) with higher seasonality tended to have steeper slopes. In general, the majority of catchments with snow as a dominant process tended to have less variability in M. Yaeger et al.",
+        "entities": [
+            {
+                "begin": 934,
+                "end": 953,
+                "label": "location",
+                "substring": "southern California",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc4f2acd-ace7-452b-a540-4162f9e9ddb0"
+            },
+            {
+                "begin": 1374,
+                "end": 1378,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 677,
+                "end": 687,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"southern California\", \"type\": \"location\"},\n    {\"entity\": \"snow\", \"type\": \"other\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": ": Controls of regional patterns of flow duration curves -Part 4: Synthesis slopes than did those without (Fig. 9). However, from previous examination (Fig. 7) we see that some of these process classes are quite small in size compared to others. Nevertheless, when examining the four largest process classes aside from \"Base Model\" and \"No Model\", the majority of the catchments in \"Snow, Sub Q f , Vegetation\" and \"Snow, Vegetation\" showed more narrow ranges of FDC slopes than did \"Sub Q f , Vegetation\" and \"Vegetation\". These results mirror those of the visual mapping done in previous sections, where low seasonality reduced variability in \u03b8-values, and where snow processes reduced the variability in \u03ba-values.\nAs with the three-way mapping, the visual assessment was followed by a variability analysis. Both the slope of the FDCs and the FDC quantiles were sorted on the catchment classification decision tree. When the FDC quantiles were sorted along the tree, there was a monotonic decrease in variance for all duration curves, yet as before the most variance was explained in the first two levels. The result for the Q FDC was significant (Table 4a), while that for Q u was not. When the slopes of the Q and Q u FDCs were sorted along the tree, the same pattern of early reduction of variance leveling off with further branching was repeated, but this time the slopes of the Q u FDC showed a more significant reduction in variance than those of Q (Table 4b).",
+        "entities": [
+            {
+                "begin": 382,
+                "end": 386,
+                "label": "variable",
+                "substring": "Snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 398,
+                "end": 408,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 415,
+                "end": 419,
+                "label": "variable",
+                "substring": "Snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 421,
+                "end": 431,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 493,
+                "end": 503,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 510,
+                "end": 520,
+                "label": "variable",
+                "substring": "Vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 664,
+                "end": 668,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 902,
+                "end": 915,
+                "label": "model",
+                "substring": "decision tree",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cf3a3ce-4dd4-4364-8414-83e3b01354ec"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Snow\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Snow\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Vegetation\", \"type\": \"other\"},\n    {\"entity\": \"snow\", \"type\": \"other\"},\n    {\"entity\": \"decision tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "The overall pattern seen here is similar to the reduction in variance obtained by sorting the gamma parameters on the classification tree; there too the decrease in variance (where significant) was greater in the early branchings than in the outer branches. This may again be explained in part by the way that the classification tree branches -the early splits remove a large portion of the low-seasonality, humid catchments from the distribution, which (as visually mapped in Fig. 4c and d) have very similar FDCs, with the majority of the differences between the FDCs in each class seen at flows occurring > 66 % of the time -i.e., the lower limb of the FDC.\nReturning to the conceptual model presented in Sect. 1 of this paper, we have now analyzed the catchment response indicator, in the form of the FDC, from both the perspective of the entire FDC (parameters of mixed gamma distribution) and the middle limb of the FDC/regime curve (slope). What remains is to examine more closely the relationship between  the FDC and the climate and catchment properties that define its shape. The Q FDC was plotted against both the seasonality index (SI), representing the climate, and the baseflow index (BI), representing the catchment (although we should note that climate factors into BI as well). As an additional layer of analysis, the slopes of the FDCs were grouped first by catchment class (Fig. 10) and then by dominant model process (Fig.",
+        "entities": [
+            {
+                "begin": 118,
+                "end": 137,
+                "label": "model",
+                "substring": "classification tree",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cf3a3ce-4dd4-4364-8414-83e3b01354ec"
+            },
+            {
+                "begin": 869,
+                "end": 893,
+                "label": "model",
+                "substring": "mixed gamma distribution",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 314,
+                "end": 333,
+                "label": "model",
+                "substring": "classification tree",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"classification tree\", \"type\": \"other\"},\n    {\"entity\": \"mixed gamma distribution\", \"type\": \"other\"},\n    {\"entity\": \"classification tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "model",
+            "model",
+            "model"
+        ]
+    },
+    {
+        "text": "11) in order to determine if any clustering becomes evident, which could help bring out which process governs which part of the FDC and could aid in regionalization.\nFrom both Figs. 10 and 11, it can be seen that there is a much stronger relationship between the slope of the Q FDC and BI than with SI, although this seems to break down at higher slopes (in arid catchments other processes may be affecting slow flow). The catchments with the highest slopes all belong to arid or semi-arid classes with mid-to high climate seasonality. The dominant model processes for these same catchments vary between \"No Model\" (in some arid catchments, the simple model was not complex enough to capture the regime curve) and \"Base Model\" (here the climate seasonality is the only complexity needed). Of these arid catchments with a large FDC slope are two that at first glance may seem at odds with the aridity of the region: one is dominated by vegetation processes, and the other by both snowmelt and vegetation processes. The first catchment is on the Caney River in Kansas, one of the Great Plains states, and closer inspection reveals a lush riparian corridor. Due to the aridity of the region, the stream may become dry in the summer months, thus causing the large FDC slope. In dry regions, phreatophytes may make up a large portion of the woody riparian vegetation.",
+        "entities": [
+            {
+                "begin": 935,
+                "end": 945,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 979,
+                "end": 987,
+                "label": "variable",
+                "substring": "snowmelt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/32259124-81f7-4845-b2fb-6435d7bb5804"
+            },
+            {
+                "begin": 992,
+                "end": 1002,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 1059,
+                "end": 1065,
+                "label": "location",
+                "substring": "Kansas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/42b510c8-3f17-4f95-85f5-011065fcc038"
+            },
+            {
+                "begin": 1193,
+                "end": 1199,
+                "label": "variable",
+                "substring": "stream",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd"
+            },
+            {
+                "begin": 1336,
+                "end": 1361,
+                "label": "location",
+                "substring": "woody riparian vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c7b5c02c-724d-4a19-b824-98180f3900c9"
+            },
+            {
+                "begin": 1044,
+                "end": 1055,
+                "label": "location",
+                "substring": "Caney River",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"snowmelt\", \"type\": \"other\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Kansas\", \"type\": \"location\"},\n    {\"entity\": \"stream\", \"type\": \"other\"},\n    {\"entity\": \"woody riparian vegetation\", \"type\": \"other\"},\n    {\"entity\": \"Caney River\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "These deep-rooted plants, by tapping into shallow groundwater, draw down the water table; this can reduce streamflow, thus contributing in part to the steep slopes seen in these FDCs. The second catchment is on the Bad River in South Dakota, and is a snow-fed tributary of the Missouri River that flows in part through a national prairie grassland. The plot of the slope of the Q u FDC (not shown here for brevity) follows that for the Q FDC, except shifted slightly to the left, as the slope of the Q u FDC is generally less than that of Q. This is likely due to the extreme high flows present in the Q FDC pulling the curve upwards, thus steepening the overall slope. Baseflow Index  \n<heading>Discussion</heading>\n\n<heading>Comparative analysis: regionalization</heading>\nIn all three studies -statistical, modeling, and classification -one common theme emerged: patterns, both spatial and empirical, pointed toward an underlying structure or control. The current work has attempted to draw connections between the results of previous work to elucidate the nature of these controls. This pooling of information is the essence of synthesis; examining the information gained from several analyses leads to a deeper understanding of the questions, which can then lead to better answers, as well as guide the direction of future work. Our four-part study has been comparative in nature, encompassing nearly 200 catchments with a wide gradient of climate and catchment properties.",
+        "entities": [
+            {
+                "begin": 77,
+                "end": 88,
+                "label": "variable",
+                "substring": "water table",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ecbe9f17-6012-4e39-a707-713973b7d167"
+            },
+            {
+                "begin": 228,
+                "end": 240,
+                "label": "location",
+                "substring": "South Dakota",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d401d70a-eacf-4ee7-89a4-70b67f711ccd"
+            },
+            {
+                "begin": 251,
+                "end": 255,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 321,
+                "end": 347,
+                "label": "location",
+                "substring": "national prairie grassland",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/142ea0c1-b77f-44da-8c64-ac7ee13fd5f6"
+            },
+            {
+                "begin": 50,
+                "end": 61,
+                "label": "variable",
+                "substring": "groundwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/734f8f27-6976-4b67-8794-c7fc79d6161e"
+            },
+            {
+                "begin": 215,
+                "end": 224,
+                "label": "location",
+                "substring": "Bad River",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+            },
+            {
+                "begin": 277,
+                "end": 291,
+                "label": "location",
+                "substring": "Missouri River",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c42c3695-f569-40f4-8330-9b6fde553abf"
+            },
+            {
+                "begin": 106,
+                "end": 116,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"water table\", \"type\": \"location\"},\n    {\"entity\": \"South Dakota\", \"type\": \"location\"},\n    {\"entity\": \"snow\", \"type\": \"other\"},\n    {\"entity\": \"national prairie grassland\", \"type\": \"location\"},\n    {\"entity\": \"groundwater\", \"type\": \"location\"},\n    {\"entity\": \"Bad River\", \"type\": \"location\"},\n    {\"entity\": \"Missouri River\", \"type\": \"location\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable"
+        ]
+    },
+    {
+        "text": "This process of learning from different places (a Darwinian approach) runs counter to the current general ethos of hydrology, which is to learn from an individual place in great detail (the Newtonian approach). Our method has been to step back and look at this issue holistically through a combined approach, where information gained from detailed studies of individual catchments augments the information gained from the study of a population of catchments. By examining the entire dataset across a population of catchments, we have identified regions of homogeneity, and have attempted to classify them in different ways, as well as make connections between them in order to clarify how catchments behave in different locations, thus partitioning the nation into regions of similarity. By determining the underlying processes within a region, and in turn how they might vary by region, we gain understanding of the physical controls and in this way step closer to the ultimate goal, the prediction of the FDC, in any ungauged basin.\nThe regional patterns highlighted in these four papers led to the groupings that have been explored both qualitatively and quantitatively in this synthesis analysis. We have shown that the variance within these groups, both in the three-way mapping and in the FDC slope analysis, was less than that between groups, thus objectively demonstrating that these groupings are meaningful.",
+        "entities": [],
+        "response": "[]",
+        "labels": []
+    },
+    {
+        "text": "This is consistent with the idea that classification and catchment grouping is useful for estimation of the FDC in ungauged catchments, particularly in large areas (see e.g., Sauquet and Catalogne, 2011). Of note is one region that was highlighted in all of our studies, particularly the modeling and catchment classification: the Midwestern US. This is a mid-continent region of transition to higher climate seasonality and aridity, and is also this country's main agricultural region. While the MOPEX catchments are ostensibly minimally impacted by human behavior (Duan et al., 2006), recent work by Wang and Hejazi (2011) has shown that this is not always the case. These human alterations have, in part, become dominant processes themselves, as illustrated by the simple model's inability to perform satisfactorily in this part of the US, and thus must be taken into account in any regionalization studies with significant anthropogenic activities.\nThe synthesis analysis of these groups showed that while the classification tree described well the scale parameter \u03b8, and the zero exceedance parameter \u03b1, the dominant model processes better described the shape parameter \u03ba. Since the model processes focus more on catchment function, this gives first-order physical meaning to the shape parameter. However, there was no unique value of \u03ba for each model process, which points to the need for a more complex model than we use here, such as the process-based model of Carillo et al.",
+        "entities": [
+            {
+                "begin": 331,
+                "end": 344,
+                "label": "location",
+                "substring": "Midwestern US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 839,
+                "end": 841,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1014,
+                "end": 1033,
+                "label": "model",
+                "substring": "classification tree",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Midwestern US\", \"type\": \"location\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"classification tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "model"
+        ]
+    },
+    {
+        "text": "(2011) and others like it that can capture catchment properties in greater detail and thus bring out their controls on the FDC. Since the climate and catchment function are so closely linked through geologic time by co-evolution, more specific properties of the catchment, such as topography, soil types, etc., all of which determine in part the filtering of infiltrated precipitation and thus the FDC at the outlet, may need to be included. Thus, with the catchment more explicitly defined in the model, the effects of the catchment itself may be separated from the effects of the climate it experiences. In addition, the parameter fitting itself was strongly affected by the tails of the FDC. Parameter values containing more close fits to the tails would likely produce stronger synthesis relationships with the model processes.\nFurther analysis into the slope of the Q FDC revealed that the baseflow index was a stronger control on it than was the seasonality index. The slope of the FDC as defined here is related to the RC, which is a function of long-term catchment response, and this would confirm the idea that the middle limb of the FDC is related to the RC. Clustering of classes and model processes was seen in the scatter plots (Figs. 10 and 11); catchments in the region where snowmelt is the dominant process tended to all have higher BI, while the vegetation process dominated regions explored a larger range of BI.",
+        "entities": [
+            {
+                "begin": 281,
+                "end": 291,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 293,
+                "end": 303,
+                "label": "location",
+                "substring": "soil types",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 359,
+                "end": 384,
+                "label": "variable",
+                "substring": "infiltrated precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+            },
+            {
+                "begin": 1291,
+                "end": 1299,
+                "label": "variable",
+                "substring": "snowmelt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/32259124-81f7-4845-b2fb-6435d7bb5804"
+            },
+            {
+                "begin": 1364,
+                "end": 1374,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"topography\", \"type\": \"variable\"},\n    {\"entity\": \"soil types\", \"type\": \"variable\"},\n    {\"entity\": \"infiltrated precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"snowmelt\", \"type\": \"other\"},\n    {\"entity\": \"vegetation\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Combining the results of this study and the empirical one, we see that catchments with larger \u03ba-values tended to also have larger BI (a greater proportion of Q exits as Q u ) and flatter Q and Q u FDC slopes. These results seem to indicate that catchment properties rather than the more timedependent climate properties are the dominant controls on the FDC. Climate seasonality does affect the catchment response as the classification study highlighted, and to some extent the shape of the FDC, as the empirical study highlighted, but the control is secondary to the catchment properties, as evidenced by the stronger relationship of the slope of the FDC to BI compared to SI, and the more significant variance reduction of the Q u FDC compared to the Q FDC when sorted on the classification tree. Seasonality implies timing; the FDC removes the time element, and by doing so may also provide a first-order separation of climate influence from that of catchment properties.\nThat the relationship is stronger with BI may be due to the way the slope of the FDC is calculated. A slope obtained using Eq. (2) represents the middle limb of the FDC, which itself represents the long-term, averaged response from the catchment. Since the baseflow index also is a measure of these processes, and as such is governed more by the topography and other earth processes than by climate processes, this result confirms the hypothesis of Yokoo and Sivapalan (2011) that the middle limb of the FDC is a function of the RC.",
+        "entities": [
+            {
+                "begin": 1320,
+                "end": 1330,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 777,
+                "end": 796,
+                "label": "model",
+                "substring": "classification tree",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8cf3a3ce-4dd4-4364-8414-83e3b01354ec"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"topography\", \"type\": \"other\"},\n    {\"entity\": \"classification tree\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "model"
+        ]
+    },
+    {
+        "text": "This relationship of the shape of the FDC with groundwater-related measures has also been seen previously in the literature, in studies not limited to the US. For example, Claps and Fiorentino (1997) use BI to regionalize the FDC in Basilicata, in southern Italy. Similarly, in the UK the HOST classification of soils is used as a surrogate for the geology (Holmes et al., 2002). Sauquet and Catalogne (2011) found that the catchment yield and the percentage of impermeable substratum (which are more or less related to the geology) are among the most important explanatory variables to regionalize the FDC in France.\nRegarding seasonality, which showed a weaker relationship to the slope of the FDC, not many papers use it explicitly to regionalize the FDC. One example is Sauquet and Catalogne (2011) who use the seasonality index to group French catchments into regions of different regression applications. On the other hand, the seasonality is implicitly accounted for in other works. For example, in Arora et al. (2005) and Ganora et al. (2009) the mean catchment elevation is used to discriminate between regions with different FDCs in Nepal and Italy respectively, and it is argued that elevation is a proxy for distinguishing areas more or less influenced by snow mechanisms (and therefore different seasonality). Li et al.",
+        "entities": [
+            {
+                "begin": 155,
+                "end": 157,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 257,
+                "end": 262,
+                "label": "location",
+                "substring": "Italy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4"
+            },
+            {
+                "begin": 282,
+                "end": 284,
+                "label": "location",
+                "substring": "UK",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1928f419-0c4b-4b06-9f66-eb37f49105de"
+            },
+            {
+                "begin": 610,
+                "end": 616,
+                "label": "location",
+                "substring": "France",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6"
+            },
+            {
+                "begin": 1143,
+                "end": 1148,
+                "label": "location",
+                "substring": "Nepal",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5a3c4d08-5924-4ea7-a59b-06cc653deba7"
+            },
+            {
+                "begin": 1153,
+                "end": 1158,
+                "label": "location",
+                "substring": "Italy",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4"
+            },
+            {
+                "begin": 1268,
+                "end": 1272,
+                "label": "variable",
+                "substring": "snow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/09c21315-faba-446c-b060-136705972347"
+            },
+            {
+                "begin": 47,
+                "end": 58,
+                "label": "location",
+                "substring": "groundwater",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/734f8f27-6976-4b67-8794-c7fc79d6161e"
+            },
+            {
+                "begin": 233,
+                "end": 243,
+                "label": "location",
+                "substring": "Basilicata",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e0f9be30-793f-463e-adc1-c8bedb8bc4f1"
+            },
+            {
+                "begin": 349,
+                "end": 356,
+                "label": "location",
+                "substring": "geology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7495208e-fe75-4423-801d-bc9d14e27beb"
+            },
+            {
+                "begin": 842,
+                "end": 859,
+                "label": "location",
+                "substring": "French catchments",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d692828f-47ce-4a56-a665-2ce3b5af8c26"
+            },
+            {
+                "begin": 312,
+                "end": 317,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 524,
+                "end": 531,
+                "label": "location",
+                "substring": "geology",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"Italy\", \"type\": \"location\"},\n    {\"entity\": \"UK\", \"type\": \"location\"},\n    {\"entity\": \"France\", \"type\": \"location\"},\n    {\"entity\": \"Nepal\", \"type\": \"location\"},\n    {\"entity\": \"Italy\", \"type\": \"location\"},\n    {\"entity\": \"snow\", \"type\": \"weather event\"},\n    {\"entity\": \"groundwater\", \"type\": \"other\"},\n    {\"entity\": \"Basilicata\", \"type\": \"location\"},\n    {\"entity\": \"geology\", \"type\": \"other\"},\n    {\"entity\": \"French catchments\", \"type\": \"location\"},\n    {\"entity\": \"soils\", \"type\": \"other\"},\n    {\"entity\": \"geology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "(2010) found that the leaf area index is correlated to the shape of the FDC in south-eastern Australia; vegetation impacts ET differentially between summer and winter, increasing the slope of the FDC and the probability of having zero flow for some portion of the year, similar to what was seen in some of the more arid regions in the US. These implicit seasonality effects were also seen in the MOPEX catchments when vegetation-related dominant model processes led to higher variability and steeper slopes in the FDC. Thus the findings of this study, based solely on catchments in the continental US, correlate with findings from a more global perspective and further highlight this co-evolutionary relationship between climate and catchment properties.\n<heading>Comparative analysis: regime curve and the flow duration curve</heading>\nThe aim of this study was to determine the underlying physical controls on the FDC. However, another, less expected, theme that kept surfacing throughout the entire study was that the differences between catchment responses are more readily seen in the RC than in the FDC. These differences between catchments appear more obviously, and the reasons for those differences are far more straightforward, in the RC in part because the temporal pattern remains intact, while in the FDC this information is removed.",
+        "entities": [
+            {
+                "begin": 22,
+                "end": 37,
+                "label": "variable",
+                "substring": "leaf area index",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b1d65d88-7bd0-491d-91ca-4102b89dc3e7"
+            },
+            {
+                "begin": 93,
+                "end": 102,
+                "label": "location",
+                "substring": "Australia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ce0984da-1151-41ff-8d92-ab551c9d08bc"
+            },
+            {
+                "begin": 104,
+                "end": 114,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 335,
+                "end": 337,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 418,
+                "end": 428,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            },
+            {
+                "begin": 598,
+                "end": 600,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 123,
+                "end": 125,
+                "label": "variable",
+                "substring": "ET",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0f270ed3-f1ac-4864-ba25-a4cc2260794e"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"leaf area index\", \"type\": \"variable\"},\n    {\"entity\": \"Australia\", \"type\": \"location\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"vegetation\", \"type\": \"other\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"ET\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "variable"
+        ]
+    },
+    {
+        "text": "From both the catchment classification study (Coopersmith et al., 2012) and the process modeling study (Ye et al., 2012), it was shown that many of the processes controlling the catchment response are time-dependent, for example, the seasonality of precipitation or the vegetation processes of tree leaf-out and leaf-drop. In addition, it is not uncommon for more than one hydrologic control process to be at work in a given catchment; thus one complicating factor in relating the regional patterns seen in these studies to the physical controls on the FDC is that the patterns obtained for both the dominant model processes and the classification system were based on the RC, not the FDC. The guiding principle behind these two studies was that the RC and middle limb of the FDC are related to each other, and we have seen evidence of this in both this paper and in the statistical study (Cheng et al., 2012). To further understand this relationship between the RC and the FDC, we have again approached it both qualitatively, by examining RCs and FDCs from a few selected catchments in the study, and quantitatively, by comparing the slopes of both the FDC and the RC plotted as an FDC. Qualitatively, the information about process controls on the catchment response contained within the FDC is more subtle, since removal of the time element filters out what this work has shown to be crucial information. This might lead one to think that two catchments with different regime curves could have the same FDC. However, as Fig.",
+        "entities": [
+            {
+                "begin": 249,
+                "end": 262,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 270,
+                "end": 280,
+                "label": "variable",
+                "substring": "vegetation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/053b8d43-684c-43c4-977d-2b678575fe22"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"precipitation\", \"type\": \"variable\"}, {\"entity\": \"vegetation\", \"type\": \"variable\"}]\n```",
+        "labels": [
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "12 shows, this is not always true; there is still some information to be gained from the FDC. For the catchment in Montana (MT), when looking at the RC, the peak in streamflow caused by snowmelt is quite prominent, but, for the rest of the year, Q is relatively constant. This can be seen in the FDC of MT as a fairly flat slope through most of the curve, with a slight uptick at the rarely exceeded (high flows) end, as in this catchment the highest flows generally correspond to the annual snowmelt events. Contrast this with the semi-arid catchment in Kansas (KS), where the streamflow varies a great deal throughout the year. This is seen in the FDC of KS as a much steeper slope overall, with the aridity of the catchment indicated by the curve tending to zero flow before 100 % exceedance. Thus catchments with very different RCs also have different FDCs, although this difference is much less pronounced. Catchments with very similar RCs have even more similar FDCs, as illustrated by the two forested catchments in Pennsylvania (PA) and Virginia (VA); here the seasonal patterns of leaf-out in the spring and leaf-drop in the fall are seen in the RC as a decrease in streamflow from about May to October, even though the precipitation for the east coast of the US is fairly constant all year. This phenology signature is less clear in the FDC, where the two catchments are nearly indistinguishable from one another -except at the extreme ends -and not substantially different from the MT catchment described earlier.",
+        "entities": [
+            {
+                "begin": 124,
+                "end": 126,
+                "label": "location",
+                "substring": "MT",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88030de5-d237-4074-943f-b6422790d58d"
+            },
+            {
+                "begin": 186,
+                "end": 194,
+                "label": "variable",
+                "substring": "snowmelt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/32259124-81f7-4845-b2fb-6435d7bb5804"
+            },
+            {
+                "begin": 303,
+                "end": 305,
+                "label": "location",
+                "substring": "MT",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88030de5-d237-4074-943f-b6422790d58d"
+            },
+            {
+                "begin": 492,
+                "end": 500,
+                "label": "variable",
+                "substring": "snowmelt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/32259124-81f7-4845-b2fb-6435d7bb5804"
+            },
+            {
+                "begin": 555,
+                "end": 561,
+                "label": "location",
+                "substring": "Kansas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/42b510c8-3f17-4f95-85f5-011065fcc038"
+            },
+            {
+                "begin": 563,
+                "end": 565,
+                "label": "location",
+                "substring": "KS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/42b510c8-3f17-4f95-85f5-011065fcc038"
+            },
+            {
+                "begin": 657,
+                "end": 659,
+                "label": "location",
+                "substring": "KS",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/42b510c8-3f17-4f95-85f5-011065fcc038"
+            },
+            {
+                "begin": 1023,
+                "end": 1035,
+                "label": "location",
+                "substring": "Pennsylvania",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d7fa4d05-8c37-4e23-99eb-4f9a888a0d5d"
+            },
+            {
+                "begin": 1045,
+                "end": 1053,
+                "label": "location",
+                "substring": "Virginia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c86d3f12-106a-435d-ba9e-d735b306b200"
+            },
+            {
+                "begin": 1055,
+                "end": 1057,
+                "label": "location",
+                "substring": "VA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c86d3f12-106a-435d-ba9e-d735b306b200"
+            },
+            {
+                "begin": 1229,
+                "end": 1242,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 1269,
+                "end": 1271,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 115,
+                "end": 122,
+                "label": "location",
+                "substring": "Montana",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88030de5-d237-4074-943f-b6422790d58d"
+            },
+            {
+                "begin": 165,
+                "end": 175,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 578,
+                "end": 588,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 1493,
+                "end": 1495,
+                "label": "location",
+                "substring": "MT",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88030de5-d237-4074-943f-b6422790d58d"
+            },
+            {
+                "begin": 1306,
+                "end": 1315,
+                "label": "variable",
+                "substring": "phenology",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/cc5ab64b-11d0-4196-b7b3-f9c61e5e3ac6"
+            },
+            {
+                "begin": 1037,
+                "end": 1039,
+                "label": "location",
+                "substring": "PA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/28cda453-9d41-4fed-a1cd-8cb837020181"
+            },
+            {
+                "begin": 1175,
+                "end": 1185,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 1000,
+                "end": 1019,
+                "label": "location",
+                "substring": "forested catchments",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"MT\", \"type\": \"location\"},\n    {\"entity\": \"snowmelt\", \"type\": \"weather event\"},\n    {\"entity\": \"MT\", \"type\": \"location\"},\n    {\"entity\": \"snowmelt\", \"type\": \"weather event\"},\n    {\"entity\": \"Kansas\", \"type\": \"location\"},\n    {\"entity\": \"KS\", \"type\": \"location\"},\n    {\"entity\": \"KS\", \"type\": \"location\"},\n    {\"entity\": \"Pennsylvania\", \"type\": \"location\"},\n    {\"entity\": \"Virginia\", \"type\": \"location\"},\n    {\"entity\": \"VA\", \"type\": \"location\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"Montana\", \"type\": \"location\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"MT\", \"type\": \"location\"},\n    {\"entity\": \"phenology\", \"type\": \"other\"},\n    {\"entity\": \"PA\", \"type\": \"location\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"forested catchments\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "In spite of this, some differences in the shape of the FDCs can be related to possible physical controls, the arid catchment in Kansas being a good example of this. Note that the major differences in these example FDCs are in the tails; this is where the story of the FDC may lie, and it is possible that an analysis of extremes may illuminate this further. Also, this example only highlighted the Q FDC; it may also be that the FDCs of the components Q f and Q u , as well as their tails, may further elucidate the physical controls on the FDC.\nThe qualitative visual analysis of Fig. 12 highlighted the information contained in the RC that does not readily appear in the FDC. However, by examining both signatures in a quantitative fashion, it becomes clear that there is information in the FDC that is not contained in the RC. When the smoothed daily RC is normalized by its mean, then sorted and plotted as an FDC, the slope of the resulting curve can be calculated using Eq. (2), but with the highest and lowest values instead of the middle third. Figure 13 shows these slopes plotted against the slopes of the middle third of the FDC, and grouped by catchment class. In general, the slopes of the FDCs are larger than those of the RC FDCs. This is because the FDC contains information about the extreme flows (both high and low) that a catchment experiences, and these pull the middle limb of the FDC in opposite directions, thus increasing the slope.",
+        "entities": [
+            {
+                "begin": 128,
+                "end": 134,
+                "label": "location",
+                "substring": "Kansas",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/42b510c8-3f17-4f95-85f5-011065fcc038"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"Kansas\", \"type\": \"location\"}]\n```",
+        "labels": [
+            "location"
+        ]
+    },
+    {
+        "text": "The daily RC, being a long-term average of all these flows, has the extremes smoothed out; thus the slope of an RC FDC is much lower than the corresponding FDC middle limb. By grouping these slopes by catchment classes, we see some interesting regional patterns emerge.\nThe catchments where the RC FDC slope is the same or larger than the corresponding FDC cluster mainly in the lowto-mid seasonality, more humid catchments in the northwest central US (e.g., LBMH, LPQ, IHM). This region is dominated by snowmelt processes, as illustrated by the MT catchment shown in Fig. 12, and this is seen quantitatively in both the RC and the FDC through their slopes. Catchments in the low-seasonality, humid east coast (e.g., classes LJ and LWC) tended to have RC FDC slopes closer to those of their corresponding FDC than did the intermediate-seasonality catchments in the mid-continent region (e.g., ISQJ and ITC). In the eastern, deciduous-forested catchments, the spring flow peak followed by the sharp decline in streamflow during the summer months (as illustrated by the PA catchment in Fig. 12) serves to mimic the extremes seen in the FDC tails, thus steepening the RC FDC somewhat. This, combined with the flatter overall slope of FDCs in humid regions, brings the RC FDC slope closer to the slope of the corresponding FDC. However, this clear spring peak/summer low flow regime behavior is generally not seen in the RCs of catchments in the Midwest, which are dominated by grassland and more seasonal precipitation.",
+        "entities": [
+            {
+                "begin": 431,
+                "end": 451,
+                "label": "location",
+                "substring": "northwest central US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 504,
+                "end": 512,
+                "label": "variable",
+                "substring": "snowmelt",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/32259124-81f7-4845-b2fb-6435d7bb5804"
+            },
+            {
+                "begin": 1474,
+                "end": 1483,
+                "label": "location",
+                "substring": "grassland",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/142ea0c1-b77f-44da-8c64-ac7ee13fd5f6"
+            },
+            {
+                "begin": 1502,
+                "end": 1515,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 934,
+                "end": 953,
+                "label": "location",
+                "substring": "forested catchments",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46e4aaa4-349c-4049-a910-035391360010"
+            },
+            {
+                "begin": 546,
+                "end": 558,
+                "label": "location",
+                "substring": "MT catchment",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/88030de5-d237-4074-943f-b6422790d58d"
+            },
+            {
+                "begin": 1009,
+                "end": 1019,
+                "label": "variable",
+                "substring": "streamflow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7b335954-929b-4568-a758-1640d15c2504"
+            },
+            {
+                "begin": 1068,
+                "end": 1080,
+                "label": "location",
+                "substring": "PA catchment",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/28cda453-9d41-4fed-a1cd-8cb837020181"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"northwest central US\", \"type\": \"location\"},\n    {\"entity\": \"snowmelt\", \"type\": \"other\"},\n    {\"entity\": \"grassland\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"forested catchments\", \"type\": \"other\"},\n    {\"entity\": \"MT catchment\", \"type\": \"other\"},\n    {\"entity\": \"streamflow\", \"type\": \"variable\"},\n    {\"entity\": \"PA catchment\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "Because the averaging processes inherent in producing a regime curve further smooth out the differences between the extreme flows, RC FDC slopes from catchments in this region deviate even further from their corresponding FDC slope. \n<heading>Conclusions</heading>\nEach aspect of this four-pronged analysis revealed regional patterns that led to insights into the first-order controls on the flow regimes and flow duration curves in nearly 200 catchments across the continental US and laid the foundation for a framework that can be built upon in the future. The empirical study of the FDC (Cheng et al., 2012) showed that geology and landscape properties of the catchment have a stronger influence on the shape of the FDC than do climate properties, but the scatter in this relationship shows that even here climate is exerting some influence. Regional patterns in the values of the parameters of the mixed gamma function led us to classification as a way to organize and explain the underlying controls. Guided by the hypothesis that the RC provides the backbone to the shape of the FDC (Yokoo and Sivapalan, 2011), we classified these same catchments in terms of their regime behavior. This classification was done both empirically (Coopersmith et al., 2012) and with the aid of process-based modeling (Ye et al., 2012), and both methods showed that climate seasonality followed by aridity were the dominant controls on the regime behavior across the continent, overriding the catchment controls of topography, soils, etc.",
+        "entities": [
+            {
+                "begin": 478,
+                "end": 480,
+                "label": "location",
+                "substring": "US",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 1502,
+                "end": 1512,
+                "label": "location",
+                "substring": "topography",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e822484-c94a-457b-a32f-376fcbd6fd35"
+            },
+            {
+                "begin": 902,
+                "end": 922,
+                "label": "model",
+                "substring": "mixed gamma function",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 635,
+                "end": 644,
+                "label": "location",
+                "substring": "landscape",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f36d71c6-f2ad-49c4-809f-09b4f0688412"
+            },
+            {
+                "begin": 1514,
+                "end": 1519,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 623,
+                "end": 630,
+                "label": "location",
+                "substring": "geology",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"US\", \"type\": \"location\"},\n    {\"entity\": \"topography\", \"type\": \"variable\"},\n    {\"entity\": \"mixed gamma function\", \"type\": \"other\"},\n    {\"entity\": \"landscape\", \"type\": \"variable\"},\n    {\"entity\": \"soils\", \"type\": \"variable\"},\n    {\"entity\": \"geology\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "model",
+            "location",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "Quantitative analysis performed in this synthesis paper showed that both the process and empirical classes, which are based on the RC, were connected to the broad properties of the flow duration curve (the slope of the middle limb and the parameters of the mixed gamma function). However, the regime behavior captures different aspects of variability compared to what is reflected in the FDC. While the regime curve smoothes out the high and low flow behaviors, which together can impact the slope of the middle limb of the duration curve, the FDC retains this information in the upper and lower tails. Thus in the FDC, time information (seasonality) is lost, but information about the extreme flows is gained.\nThe visual mapping done here showed that, within each regime class, both process and empirical, there was a great deal of heterogeneity in the shapes of the FDC, which was most noticeable in the tails. This emphasized a finding of the first study, where the statistical fitting was strongly affected by the tails of the FDC. While the upper tail is most affected by the precipitation intensity, the lower tail is affected more by catchment properties of landscape, soils, geology, etc. than by climate. Thus further analysis of the tails of the FDC, especially the low flows, may separate the physical controls on the shape of the FDC more effectively. In moving forward, the modeling study must also be enhanced to incorporate these high and low flow processes.",
+        "entities": [
+            {
+                "begin": 1081,
+                "end": 1094,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 257,
+                "end": 277,
+                "label": "model",
+                "substring": "mixed gamma function",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ac392872-1571-4bfd-94dd-81f93d9f1fd0"
+            },
+            {
+                "begin": 1176,
+                "end": 1181,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 1165,
+                "end": 1174,
+                "label": "location",
+                "substring": "landscape",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f36d71c6-f2ad-49c4-809f-09b4f0688412"
+            },
+            {
+                "begin": 1183,
+                "end": 1190,
+                "label": "location",
+                "substring": "geology",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"mixed gamma function\", \"type\": \"other\"},\n    {\"entity\": \"soils\", \"type\": \"other\"},\n    {\"entity\": \"landscape\", \"type\": \"other\"},\n    {\"entity\": \"geology\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "model",
+            "location",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "The similar regions delineated in this study, based on the regime curve, can be used to \"zoom in\" on a particular class, guiding the application or development of more detailed models to bring out the differences in the underlying physical (as well as anthropogenic) controls at work in each region. Under this framework, the coupled soil-water-plant growth analytical model of Feng et al. (2012) and the detailed process-based model of Carillo et al. (2011) are the kind of models that would be better suited to fully separate the catchment controls of the FDC from the climate controls. We leave the pursuit of this exploration to future research.\n<heading></heading>\nAcknowledgements. The work presented in this paper was carried out as part of the NSF-funded project \"Water Cycle Dynamics in a Changing Environment: Advancing Hydrologic Science through Synthesis\" (NSF grant EAR-0636043, M. Sivapalan, PI), also the NSF project \"Understanding the Hydrologic Implications of Landscape Structure and Climate -Toward a Unifying Framework of Watershed Similarity\" (NSF Grant EAR-0635998, T. Wagener, PI). Special thanks are owed to Matej Durcik of SAHRA (University of Arizona) for providing the version of the MOPEX dataset used in this study. We also wish to thank our referees for their constructive criticism and insights which have helped us improve this work. Edited by: A. Castellarin",
+        "entities": [
+            {
+                "begin": 752,
+                "end": 755,
+                "label": null,
+                "substring": "NSF",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13215210-664a-4636-96a8-cf8713e94c76"
+            },
+            {
+                "begin": 869,
+                "end": 872,
+                "label": null,
+                "substring": "NSF",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13215210-664a-4636-96a8-cf8713e94c76"
+            },
+            {
+                "begin": 920,
+                "end": 923,
+                "label": null,
+                "substring": "NSF",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/13215210-664a-4636-96a8-cf8713e94c76"
+            },
+            {
+                "begin": 772,
+                "end": 777,
+                "label": null,
+                "substring": "Water",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4c4878cb-18f5-464c-b4bb-858273a48d6a"
+            },
+            {
+                "begin": 1065,
+                "end": 1068,
+                "label": null,
+                "substring": "NSF",
+                "identifier": null
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"NSF\", \"type\": \"provider\"},\n    {\"entity\": \"NSF\", \"type\": \"provider\"},\n    {\"entity\": \"NSF\", \"type\": \"provider\"},\n    {\"entity\": \"Water\", \"type\": \"other\"},\n    {\"entity\": \"NSF\", \"type\": \"provider\"}\n]\n```",
+        "labels": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+]

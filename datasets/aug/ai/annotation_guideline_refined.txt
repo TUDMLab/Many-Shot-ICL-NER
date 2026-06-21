@@ -1,0 +1,120 @@
+# Task Instruction
+
+You are a professional data annotator for Named Entity Recognition (NER) tasks. Identify and tag entities in the input text by wrapping them with XML-like tag <entity type="[TYPE]">...</entity> tags. Replace [TYPE] with the correct entity category. Make sure that you only wrap text that corresponds to an entity and leave the rest of the text unchanged. Tag all valid entities, even if they repeat.
+
+The target text domain is AI.
+
+The interested entity types are: ['algorithm', 'conference', 'country', 'field', 'location', 'metrics', 'miscellaneous', 'organization', 'person', 'product', 'programming language', 'researcher', 'task', 'university']
+
+# Entity Type Definitions
+
+- **"algorithm"**  
+Definition: Named computational procedures or mathematical methods used to solve specific problems in AI and related fields.  
+Patterns:  
+  - Specific method names (e.g., "ZCA-whitening", "Cholesky decomposition")  
+  - Statistical methods (e.g., "maximum likelihood", "principal component analysis")  
+  - Do NOT include general processing steps (e.g., "whitening", "tokenizer") unless they refer to specific algorithms  
+  - Includes learning algorithms (e.g., "AdaBoost", "LogitBoost")  
+
+- **"conference"**  
+Definition: Academic or professional events where research is presented, including their acronyms.  
+Patterns:  
+  - Named competitions/challenges (e.g., "ImageNet Large Scale Visual Recognition Challenge")  
+  - Clear conference names with terms like "Conference" or "Workshop"  
+  - Exclude generic events without proper names  
+
+- **"country"**  
+Definition: Sovereign nations or geopolitical entities.  
+Patterns:  
+  - Only actual countries (e.g., "U.S.", "Brazil")  
+  - Exclude states/provinces (e.g., "Michigan" should be location)  
+  - Includes country names even with articles (e.g., "the U.S.")  
+
+- **"field"**  
+Definition: Academic disciplines or areas of study within AI and related domains.  
+Patterns:  
+  - Broad domains (e.g., "computer science", "natural language processing")  
+  - Subfields (e.g., "computational learning theory")  
+  - Exclude specific tasks or methods (e.g., "machine translation" is a task)  
+
+- **"location"**  
+Definition: Specific places, cities, or regions that are not countries.  
+Patterns:  
+  - Cities and towns (e.g., "Rochester Hills")  
+  - States/provinces (e.g., "Massachusetts")  
+  - Exclude university campuses (annotate as university)  
+
+- **"metrics"**  
+Definition: Quantitative measures used to evaluate AI systems or algorithms.  
+Patterns:  
+  - Evaluation metrics (e.g., "mean squared error (MSE)")  
+  - Statistical measures (e.g., "covariance") only when used as metrics  
+  - Exclude general mathematical concepts  
+
+- **"miscellaneous"**  
+Definition: Technical terms that don't fit other categories, including components, processes, and specialized concepts.  
+Patterns:  
+  - System components (e.g., "tokenizer", "gazetteer")  
+  - Technical processes (e.g., "whitening transform")  
+  - Unique concepts (e.g., "Turing test")  
+  - Project names (e.g., "Cyc artificial project")  
+
+- **"organization"**  
+Definition: Companies, institutions, or formal groups.  
+Patterns:  
+  - Full organizational names (e.g., "Bolt, Beranek and Newman")  
+  - Government departments (e.g., "US Department of Commerce NIST")  
+  - Include acronyms when part of the name  
+
+- **"person"**  
+Definition: Names of individuals, typically non-researchers.  
+Patterns:  
+  - Full names in non-research contexts  
+  - Exclude researchers (use "researcher" type instead)  
+
+- **"product"**  
+Definition: Named software, systems, or technological products.  
+Patterns:  
+  - Software packages (e.g., "GATE", "ANNIE")  
+  - Operating systems (e.g., "iOS operating system")  
+  - Exclude programming languages  
+
+- **"programming language"**  
+Definition: Formal languages used to implement algorithms.  
+Patterns:  
+  - Language names (e.g., "Java", "Python", "OCTAVE")  
+  - Exclude software products written in languages  
+  - Include language names even when not capitalized  
+
+- **"researcher"**  
+Definition: Names of academics or scientists in AI-related fields.  
+Patterns:  
+  - Full names in research contexts  
+  - Includes both historical and contemporary figures  
+  - Exclude non-research individuals  
+
+- **"task"**  
+Definition: Specific problems or applications in AI.  
+Patterns:  
+  - Application areas (e.g., "speech recognition", "object classification and detection")  
+  - Processing steps (e.g., "feature extraction")  
+  - Exclude general concepts or methods  
+
+- **"university"**  
+Definition: Higher education institutions.  
+Patterns:  
+  - Full institution names (e.g., "University of Calcutta")  
+  - Include college names that are part of universities  
+  - Annotate campus names as university if they refer to academic institutions  
+
+General Annotation Rules:
+1. Annotate the most specific entity type possible (e.g., "researcher" over "person")
+2. For nested entities, annotate the entire proper name (e.g., "University of London" not just "London")
+3. When a term could be multiple types, prefer: algorithm > task > field > miscellaneous
+4. Only annotate acronyms when they appear with their full names or are clearly established terms
+5. Exclude generic terms that could refer to multiple entities (e.g., "text-based systems")
+6. For system components, prefer "miscellaneous" unless they are specific algorithms
+7. Be consistent with hyphenated terms - annotate the full term if any part qualifies
+8. When in doubt between product and programming language, check if it's a language first
+9. For metrics vs algorithms, prefer algorithm if it's a method, metric if it's an evaluation measure
+10. Annotate university campuses and colleges as "university" when they refer to academic institutions

@@ -1,0 +1,51 @@
+# ---- Large data, model outputs & checkpoints (kept out of git) ----
+output/
+unlabeled/
+ckpts/
+ner_bert_checkpoints/
+ner_bert_checkpoints_GPU1/
+ner_bert_checkpoints_GPU2/
+GLiNER/
+
+# ---- Model / binary artifacts ----
+*.pt
+*.pkl
+*.bin
+*.safetensors
+*.ckpt
+*.onnx
+*.h5
+*.zip
+*.tar
+*.tar.gz
+*.7z
+bfg.jar
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.env
+.python-version
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Secrets / credentials ----
+*.key
+secrets.*
+.env.*
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

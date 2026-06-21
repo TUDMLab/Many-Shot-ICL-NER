@@ -1,0 +1,2778 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nExtreme weather events are a significant cause of loss of life and livelihoods, particularly in vulnerable countries and communities in Africa. Such events or their probability of occurring may be, or are, changing due to climate change with consequent changes in the associated risks. To adapt to, or to address loss and damage from, this changing risk we need to understand the effects of climate change on extreme weather events and their impacts. The emerging science of probabilistic event attribution can provide scientific evidence about the contribution of anthropogenic climate change to changes in risk of extreme events. This research has the potential to be useful for climate change adaptation, but there is a need to explore its application in vulnerable developing countries, particularly those in Africa, since the majority of existing event attribution studies have focused on mid-latitude events. Here we explain the methods of, and implications of, different approaches to attributing extreme weather events in an African context. The analysis demonstrates that different ways of framing attribution questions can lead to very different assessments of change in risk. Crucially, defining the most appropriate attribution question to ask is not a science decision but one that needs to be made in dialogue with those stakeholders who will use the answers.",
+        "entities": [
+            {
+                "begin": 28,
+                "end": 50,
+                "label": "weather event",
+                "substring": "Extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 164,
+                "end": 170,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 250,
+                "end": 264,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 419,
+                "end": 433,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 437,
+                "end": 459,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 470,
+                "end": 477,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 593,
+                "end": 621,
+                "label": "weather event",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+            },
+            {
+                "begin": 644,
+                "end": 658,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 709,
+                "end": 734,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a6c571-406e-4023-b479-6a1fc30f184c"
+            },
+            {
+                "begin": 841,
+                "end": 847,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 922,
+                "end": 941,
+                "label": "location",
+                "substring": "mid-latitude events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+            },
+            {
+                "begin": 1032,
+                "end": 1054,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1061,
+                "end": 1068,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"climate change adaptation\", \"type\": \"other\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"mid-latitude events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"African\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "weather event",
+            "location",
+            "weather event",
+            "weather event",
+            "natural hazard",
+            "variable",
+            "weather event",
+            "natural hazard",
+            "project",
+            "location",
+            "location",
+            "natural hazard",
+            "location"
+        ]
+    },
+    {
+        "text": "This is true of all attribution studies but may be particularly relevant in a tropical context, suggesting that collaboration between scientists and policy-makers is a priority for Africa.\n<heading>Introduction</heading>\nWhile there are no ambiguous research findings concerning the fact that the world is warming due to anthropogenic greenhouse gas (GHG) emissions (Stocker et al. (2013)), the influence of climate change on extreme weather events such as heatwaves, flooding, and drought, is less well understood (IPCC 2012). Extreme weather events (for example recent droughts in the Greater Horn of Africa (Funk et al. 2013)) can cause very high damages, but detecting changes in them and then attributing these to external climate drivers is hampered by lack of good data and statistical sampling issues: extreme events are by definition rare, and therefore observations are limited. Ensembles of climate model experiments offer the potential to explore the probability of rare events, and using these simulations the emerging science of probabilistic event attribution (PEA) (Allen 2003) allows for evaluation of the extent to which humaninduced climate change is affecting localised weather events (e.g., Stott et al. 2004;Stone and Allen 2005;Pall et al. 2011;Otto et al. 2012).\nAssessments of the influence of anthropogenic climate change on extreme events has potential value for policy which is designed to address current and future climate change impacts.",
+        "entities": [
+            {
+                "begin": 78,
+                "end": 86,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 181,
+                "end": 187,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 321,
+                "end": 349,
+                "label": "variable",
+                "substring": "anthropogenic greenhouse gas",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 351,
+                "end": 354,
+                "label": "variable",
+                "substring": "GHG",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 408,
+                "end": 422,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 426,
+                "end": 448,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 457,
+                "end": 466,
+                "label": "natural hazard",
+                "substring": "heatwaves",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ca820557-401e-4e5e-ac32-29fdbc0628b3"
+            },
+            {
+                "begin": 468,
+                "end": 476,
+                "label": "natural hazard",
+                "substring": "flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb5c09ec-c924-4deb-8294-8a27697a4550"
+            },
+            {
+                "begin": 482,
+                "end": 489,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 516,
+                "end": 520,
+                "label": "provider",
+                "substring": "IPCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3fbcf679-578f-4f06-bd33-9fac85df2c58"
+            },
+            {
+                "begin": 528,
+                "end": 550,
+                "label": "natural hazard",
+                "substring": "Extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 571,
+                "end": 579,
+                "label": "natural hazard",
+                "substring": "droughts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/12a896f3-993d-49f6-aafc-17378ffa3998"
+            },
+            {
+                "begin": 587,
+                "end": 609,
+                "label": "location",
+                "substring": "Greater Horn of Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 810,
+                "end": 824,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1139,
+                "end": 1166,
+                "label": "weather event",
+                "substring": "humaninduced climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+            },
+            {
+                "begin": 1180,
+                "end": 1204,
+                "label": "weather event",
+                "substring": "localised weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1319,
+                "end": 1347,
+                "label": "natural hazard",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1351,
+                "end": 1365,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1438,
+                "end": 1459,
+                "label": "weather event",
+                "substring": "future climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6277139d-26ee-4280-a7e8-61091f0e866a"
+            },
+            {
+                "begin": 1460,
+                "end": 1467,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 902,
+                "end": 927,
+                "label": "model",
+                "substring": "climate model experiments",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"tropical\", \"type\": \"location\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"anthropogenic greenhouse gas\", \"type\": \"other\"},\n    {\"entity\": \"GHG\", \"type\": \"other\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"heatwaves\", \"type\": \"weather event\"},\n    {\"entity\": \"flooding\", \"type\": \"weather event\"},\n    {\"entity\": \"drought\", \"type\": \"weather event\"},\n    {\"entity\": \"IPCC\", \"type\": \"provider\"},\n    {\"entity\": \"Extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"droughts\", \"type\": \"weather event\"},\n    {\"entity\": \"Greater Horn of Africa\", \"type\": \"location\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"humaninduced climate change\", \"type\": \"other\"},\n    {\"entity\": \"localised weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"future climate change\", \"type\": \"other\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"climate model experiments\", \"type\": \"experiment\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "weather event",
+            "natural hazard",
+            "natural hazard",
+            "natural hazard",
+            "natural hazard",
+            "provider",
+            "natural hazard",
+            "natural hazard",
+            "location",
+            "natural hazard",
+            "weather event",
+            "weather event",
+            "natural hazard",
+            "natural hazard",
+            "weather event",
+            "variable",
+            "model"
+        ]
+    },
+    {
+        "text": "By investigating how human influence on the climate is affecting flooding or drought now, it might be possible to provide guidance on whether to expect increases or decreases in intensity or frequency of such extremes in the future, and therefore inform adaptation planning to reduce consequent risks. As well as being relevant to adaptation, event attribution studies could be useful for emerging mechanisms to address Bloss and damage^from climate change, in particular the Warsaw International Mechanism (WIM) established by the United Nations Framework Convention on Climate Change (UNFCCC) in 2013 (http://unfccc.int/resource/ docs/2013/cop19/eng/10a01.pdf). It is not yet clear what constitutes Bloss and damage^under the UNFCCC, and whether scientific evidence of a climate change signal will be needed before an event is considered relevant to the WIM, but PEA research could be highly relevant in investigating the influence of climate change on loss and damage from extreme events (James et al. 2014).\nAfrica is often considered to be the most vulnerable continent to climate change (Boko et al. 2007) and therefore understanding the changing risk from extreme events could be particularly important here. Yet African climate has received a lack of research attention: both in general (Washington et al. 2006), and in the case of extreme event attribution.\nStudies of probabilistic event attribution undertaken so far have concentrated on certain high profile events to demonstrate the method (Stott et al. 2004;Pall et al.",
+        "entities": [
+            {
+                "begin": 65,
+                "end": 73,
+                "label": "natural hazard",
+                "substring": "flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb5c09ec-c924-4deb-8294-8a27697a4550"
+            },
+            {
+                "begin": 77,
+                "end": 84,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 442,
+                "end": 456,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 476,
+                "end": 506,
+                "label": "project",
+                "substring": "Warsaw International Mechanism",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/67f93e65-5991-4ffa-85ec-a26bd324181e"
+            },
+            {
+                "begin": 508,
+                "end": 511,
+                "label": "project",
+                "substring": "WIM",
+                "identifier": null
+            },
+            {
+                "begin": 532,
+                "end": 585,
+                "label": "provider",
+                "substring": "United Nations Framework Convention on Climate Change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/67f93e65-5991-4ffa-85ec-a26bd324181e"
+            },
+            {
+                "begin": 587,
+                "end": 593,
+                "label": "provider",
+                "substring": "UNFCCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            },
+            {
+                "begin": 728,
+                "end": 734,
+                "label": "provider",
+                "substring": "UNFCCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            },
+            {
+                "begin": 773,
+                "end": 787,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 856,
+                "end": 859,
+                "label": "project",
+                "substring": "WIM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            },
+            {
+                "begin": 937,
+                "end": 951,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 976,
+                "end": 990,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1012,
+                "end": 1018,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1078,
+                "end": 1092,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1163,
+                "end": 1177,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1220,
+                "end": 1227,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1340,
+                "end": 1353,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"flooding\", \"type\": \"weather event\"},\n    {\"entity\": \"drought\", \"type\": \"weather event\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"Warsaw International Mechanism\", \"type\": \"other\"},\n    {\"entity\": \"WIM\", \"type\": \"other\"},\n    {\"entity\": \"United Nations Framework Convention on Climate Change\", \"type\": \"provider\"},\n    {\"entity\": \"UNFCCC\", \"type\": \"provider\"},\n    {\"entity\": \"UNFCCC\", \"type\": \"provider\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"WIM\", \"type\": \"other\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"African\", \"type\": \"location\"},\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"}\n]\n```",
+        "labels": [
+            "natural hazard",
+            "natural hazard",
+            "weather event",
+            "project",
+            "project",
+            "provider",
+            "provider",
+            "provider",
+            "weather event",
+            "project",
+            "weather event",
+            "natural hazard",
+            "location",
+            "weather event",
+            "natural hazard",
+            "location",
+            "natural hazard"
+        ]
+    },
+    {
+        "text": "2011;Otto et al. 2012;Peterson et al. 2013), mainly in midlatitude climates, with very few studies attempting to attribute extreme weather events in Africa (Lott et al. 2013;Funk et al. 2013;Otto et al. 2013).\nThere is now an annual report on the attribution of extreme events, but this has so far included only one study focusing on Africa (Peterson et al. 2012(Peterson et al. , 2013Herring et al. 2014). The combination of high vulnerability and limited research highlights the importance of exploring the opportunities and challenges of PEA research in Africa.\nThere are various reasons why carrying out PEA analyses could be particularly challenging in an African context. Model validation and bias correction requires observations, which are limited in many African regions, particularly for precipitation (Washington et al. 2006). Many existing PEA studies have employed atmospheric models forced with sea surface temperatures (SSTs), and this methodology may have different implications for tropical precipitation, which is strongly influenced by large scale teleconnection patterns, particularly in Africa (Giannini et al. 2008); in contrast to mid-latitude regions which are dominated by synoptic precipitation and influenced more by internal variability than remote SSTs. In addition, interannual precipitation variability is much higher in African regions (Giannini et al. 2008) than mid-latitude climates, which could make it more difficult to distinguish the anthropogenic signal from noise (Otto et al. 2013).",
+        "entities": [
+            {
+                "begin": 55,
+                "end": 75,
+                "label": "location",
+                "substring": "midlatitude climates",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+            },
+            {
+                "begin": 123,
+                "end": 145,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 149,
+                "end": 155,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 262,
+                "end": 276,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 334,
+                "end": 340,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 557,
+                "end": 563,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 661,
+                "end": 668,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 764,
+                "end": 779,
+                "label": "location",
+                "substring": "African regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 798,
+                "end": 811,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 909,
+                "end": 933,
+                "label": "variable",
+                "substring": "sea surface temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 935,
+                "end": 939,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 999,
+                "end": 1007,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 1008,
+                "end": 1021,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 1055,
+                "end": 1081,
+                "label": "teleconnection",
+                "substring": "large scale teleconnection",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b887d3e5-4280-43d2-a34e-0f63ac086b6a"
+            },
+            {
+                "begin": 1108,
+                "end": 1114,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1154,
+                "end": 1174,
+                "label": "location",
+                "substring": "mid-latitude regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+            },
+            {
+                "begin": 1198,
+                "end": 1220,
+                "label": "variable",
+                "substring": "synoptic precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+            },
+            {
+                "begin": 1277,
+                "end": 1281,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1296,
+                "end": 1333,
+                "label": "variable",
+                "substring": "interannual precipitation variability",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+            },
+            {
+                "begin": 1352,
+                "end": 1367,
+                "label": "location",
+                "substring": "African regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1396,
+                "end": 1417,
+                "label": "weather event",
+                "substring": "mid-latitude climates",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/46769685-522d-49c3-ad81-22e1cc8c0c2b"
+            },
+            {
+                "begin": 878,
+                "end": 896,
+                "label": "model",
+                "substring": "atmospheric models",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e1f20631-b5b9-438c-b5c2-b1fa0fce100a"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"midlatitude climates\", \"type\": \"other\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"African\", \"type\": \"other\"},\n    {\"entity\": \"African regions\", \"type\": \"location\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"sea surface temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"tropical\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"large scale teleconnection\", \"type\": \"teleconnection\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"mid-latitude regions\", \"type\": \"location\"},\n    {\"entity\": \"synoptic precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"interannual precipitation variability\", \"type\": \"variable\"},\n    {\"entity\": \"African regions\", \"type\": \"location\"},\n    {\"entity\": \"mid-latitude climates\", \"type\": \"other\"},\n    {\"entity\": \"atmospheric models\", \"type\": \"model\"}\n]\n```",
+        "labels": [
+            "location",
+            "natural hazard",
+            "location",
+            "natural hazard",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "teleconnection",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "weather event",
+            "model"
+        ]
+    },
+    {
+        "text": "Finally, aerosols are known to have a key role in the African climate system (e.g., Ackerley et al. 2011;Jury 2013), and therefore it is important to consider their role relative to anthropogenic GHGs, the latter having been the main focus in existing PEA research.\nThere are thus many important considerations in establishing a methodology for attribution studies in Africa. The central concept of probabilistic event attribution is to compare simulations of a defined extreme weather event with and without certain climate drivers, such as anthropogenic GHGs. The exact method used to remove a climate driver from the model simulations and the decisions on which drivers to remove will significantly influence the result of an attribution study. Different methodologies can lead to scientifically equally robust results, but the results will differ in quantifying the risk. Therefore, extending PEA in Africa requires not only scientific developments but also dialogue between scientists and policy-makers to frame the research questions in a way that will best inform strategies to reduce the risk from the impacts of extreme climate events. This paper will discuss existing event attribution studies for Africa and present an illustrative example of temperature extremes in East Africa, in order to explore the challenges in conducting policy-relevant event attribution studies in an African context. In Section 2 the PEA methodology will be outlined and challenges of applying PEA in an African context discussed in more depth.",
+        "entities": [
+            {
+                "begin": 9,
+                "end": 17,
+                "label": "variable",
+                "substring": "aerosols",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e5a401b-1507-4f57-82b8-36557c13b154"
+            },
+            {
+                "begin": 54,
+                "end": 76,
+                "label": "weather event",
+                "substring": "African climate system",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a6212424-1146-4a79-a14c-8ce88543b08b"
+            },
+            {
+                "begin": 182,
+                "end": 200,
+                "label": "variable",
+                "substring": "anthropogenic GHGs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 368,
+                "end": 374,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 470,
+                "end": 491,
+                "label": "weather event",
+                "substring": "extreme weather event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 542,
+                "end": 560,
+                "label": "variable",
+                "substring": "anthropogenic GHGs",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 904,
+                "end": 910,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1110,
+                "end": 1117,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 1121,
+                "end": 1143,
+                "label": "natural hazard",
+                "substring": "extreme climate events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1208,
+                "end": 1214,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1254,
+                "end": 1274,
+                "label": "natural hazard",
+                "substring": "temperature extremes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1838e31f-ef6d-42f8-b166-71f6cd1aaa57"
+            },
+            {
+                "begin": 1278,
+                "end": 1289,
+                "label": "location",
+                "substring": "East Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 1388,
+                "end": 1395,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1492,
+                "end": 1499,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"aerosols\", \"type\": \"variable\"},\n    {\"entity\": \"African climate system\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic GHGs\", \"type\": \"variable\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"extreme weather event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic GHGs\", \"type\": \"variable\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"extreme climate events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"temperature extremes\", \"type\": \"weather event\"},\n    {\"entity\": \"East Africa\", \"type\": \"location\"},\n    {\"entity\": \"African\", \"type\": \"other\"},\n    {\"entity\": \"African\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "weather event",
+            "variable",
+            "location",
+            "weather event",
+            "variable",
+            "location",
+            "variable",
+            "natural hazard",
+            "location",
+            "natural hazard",
+            "location",
+            "location",
+            "location"
+        ]
+    },
+    {
+        "text": "In Section 3 the limited literature on event attribution in Africa is reviewed and an example of an attribution analysis on July daily minimum temperatures in East Africa is presented. This illustrates how slightly different methodologies can lead to large differences in the quantifiable risk. The implications for policy are discussed in Section 4 and conclusions summarised in Section 5.\n<heading>The science of probabilistic event attribution in an african context</heading>\nThe majority of event attribution studies employ the BACE^-method (Attribution of Climaterelated Extremes, e.g., Christidis et al. 2012): model simulations representing present-day weather statistics are contrasted with simulations of a so-called counterfactual world, a Bworld that might have been^, had anthropogenic GHG emissions not altered the climate system. These simulations are achieved by running the same climate model but with the anthropogenic forcing removed. Any differences in the statistics of extreme weather events obtained can then be attributed to anthropogenic GHG forcing.\nThis methodology requires the availability of large climate model ensembles to simulate the statistics of extreme events, which are by definition rare. So far there have been several successful assessments of the human-influence on the probability 1 of occurrence of extreme 1 Occurrence probability is often used rather loosely interchangeably with the term risk in the context of event attribution e.g., in Bindoff et al.",
+        "entities": [
+            {
+                "begin": 60,
+                "end": 66,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 124,
+                "end": 155,
+                "label": "variable",
+                "substring": "July daily minimum temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 159,
+                "end": 170,
+                "label": "location",
+                "substring": "East Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 453,
+                "end": 460,
+                "label": "location",
+                "substring": "african",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 784,
+                "end": 811,
+                "label": "variable",
+                "substring": "anthropogenic GHG emissions",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 922,
+                "end": 943,
+                "label": "variable",
+                "substring": "anthropogenic forcing",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 990,
+                "end": 1012,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1048,
+                "end": 1073,
+                "label": "variable",
+                "substring": "anthropogenic GHG forcing",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 1181,
+                "end": 1195,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1127,
+                "end": 1140,
+                "label": "model",
+                "substring": "climate model",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e1f20631-b5b9-438c-b5c2-b1fa0fce100a"
+            },
+            {
+                "begin": 895,
+                "end": 908,
+                "label": "model",
+                "substring": "climate model",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"July daily minimum temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"East Africa\", \"type\": \"location\"},\n    {\"entity\": \"african\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic GHG emissions\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic forcing\", \"type\": \"other\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic GHG forcing\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"climate model\", \"type\": \"model\"},\n    {\"entity\": \"climate model\", \"type\": \"model\"}\n]\n```",
+        "labels": [
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "natural hazard",
+            "model",
+            "model"
+        ]
+    },
+    {
+        "text": "(2013) where risk it is determined by frequency of occurrence of an extreme event and vulnerability, but only assessing changes in the former but not the latter. This is different to the use in other contexts and highlights the fact that there is currently a research gap between attributing the impacts of a changing climate (Cramer et al. 2014) and attributing the changes in the climate system to external drivers (Bindoff et al. 2013). The former considers climate change independent of its causes, not all of which can be attributed to anthropogenic drivers. precipitation events (Pall et al. 2011;Lott et al. 2013;Sparrow et al. 2013). These have focused on specific events but a system could be set up using an existing validated modelling framework to run a seasonal attribution experiments routinely which would mean the resources necessary to attribute single events would be relatively small, and could be applied to any events in Africa.\nA particular challenge in Africa is the lack of long-term meteorological observations which are needed on the one hand to identify extreme events and define crucial thresholds, and on the other hand to validate the model data. Event attribution relies on the model's ability to reliably simulate the climate conditions generating the extreme weather event, however the model does not need to have predictive skill, i.e., it needs the ability to predict the correct frequency of events rather than the exact time of occurrence. Numerous studies (e.g., Folland et al. 1986;Hoerling et al.",
+        "entities": [
+            {
+                "begin": 68,
+                "end": 81,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 296,
+                "end": 303,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 400,
+                "end": 416,
+                "label": "variable",
+                "substring": "external drivers",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 461,
+                "end": 475,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 564,
+                "end": 584,
+                "label": "variable",
+                "substring": "precipitation events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2c2baf1f-3e73-443b-8b1d-d248bb438c1b"
+            },
+            {
+                "begin": 942,
+                "end": 948,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 976,
+                "end": 982,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1081,
+                "end": 1095,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1284,
+                "end": 1305,
+                "label": "natural hazard",
+                "substring": "extreme weather event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"external drivers\", \"type\": \"other\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"precipitation events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme weather event\", \"type\": \"weather event\"}\n]\n```",
+        "labels": [
+            "natural hazard",
+            "variable",
+            "variable",
+            "weather event",
+            "variable",
+            "location",
+            "location",
+            "natural hazard",
+            "natural hazard"
+        ]
+    },
+    {
+        "text": "2006) have demonstrated the importance of SST variations in explaining variability in African precipitation. This offers an entry point for reliable attribution studies of extreme precipitation events in Africa despite the considerable gaps in observations. Prescribing SSTs in an atmosphere-only general circulation model (AGCM) allows fundamental processes correlated to SSTs to be well simulated resulting in a good representation of extreme weather events, and improved signal-to-noise ratio. An explorative attribution study of such events in the Congo Basin (Otto et al. 2013) highlighted this potential by analysing the high predictability of rainfall from prescribed SSTs in several African regions. However, this approach also depends on relatively good observations of SSTs and sea ice and of the weather events we are interested in analysing in the model simulations, both for validation of the simulations and possible bias correction. The sparseness of or lack of access to the latter could be a challenge for comprehensive attribution studies in the context of African extreme events.\nAs yet, attribution of extreme weather events in Africa to external climate drivers has not been attempted comprehensively. This is not surprising given that the method was only developed in 2003 (Allen 2003) and had not been applied frequently before 2011 (Peterson et al. 2012). It also crucially depends on the availability of different data sources for model validation.",
+        "entities": [
+            {
+                "begin": 42,
+                "end": 45,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 86,
+                "end": 93,
+                "label": "location",
+                "substring": "African",
+                "identifier": null
+            },
+            {
+                "begin": 94,
+                "end": 107,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 172,
+                "end": 200,
+                "label": "natural hazard",
+                "substring": "extreme precipitation events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab"
+            },
+            {
+                "begin": 204,
+                "end": 210,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 270,
+                "end": 274,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 281,
+                "end": 322,
+                "label": "model",
+                "substring": "atmosphere-only general circulation model",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3b20a141-8408-44b2-adf1-632ac9222c61"
+            },
+            {
+                "begin": 324,
+                "end": 328,
+                "label": "model",
+                "substring": "AGCM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3b20a141-8408-44b2-adf1-632ac9222c61"
+            },
+            {
+                "begin": 373,
+                "end": 377,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 437,
+                "end": 459,
+                "label": "weather event",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 552,
+                "end": 563,
+                "label": "location",
+                "substring": "Congo Basin",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ebe4123-f42a-41fb-80ea-bb1b97b9db0b"
+            },
+            {
+                "begin": 650,
+                "end": 658,
+                "label": "variable",
+                "substring": "rainfall",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 675,
+                "end": 679,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 691,
+                "end": 706,
+                "label": "location",
+                "substring": "African regions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 779,
+                "end": 783,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 788,
+                "end": 795,
+                "label": "variable",
+                "substring": "sea ice",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a4aea007-d297-4051-8b41-5cdde00b4d1e"
+            },
+            {
+                "begin": 807,
+                "end": 821,
+                "label": "weather event",
+                "substring": "weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1075,
+                "end": 1082,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1083,
+                "end": 1097,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1122,
+                "end": 1144,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1148,
+                "end": 1154,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"African\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"extreme precipitation events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"atmosphere-only general circulation model\", \"type\": \"model\"},\n    {\"entity\": \"AGCM\", \"type\": \"model\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"Congo Basin\", \"type\": \"location\"},\n    {\"entity\": \"rainfall\", \"type\": \"variable\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"African regions\", \"type\": \"location\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"sea ice\", \"type\": \"variable\"},\n    {\"entity\": \"weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"African\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "variable",
+            "natural hazard",
+            "location",
+            "variable",
+            "model",
+            "model",
+            "variable",
+            "weather event",
+            "location",
+            "variable",
+            "variable",
+            "location",
+            "variable",
+            "variable",
+            "weather event",
+            "location",
+            "natural hazard",
+            "natural hazard",
+            "location"
+        ]
+    },
+    {
+        "text": "There are, however, a number of examples of African event attribution studies and process-oriented attribution studies that can inform event attribution. We will discuss these examples in the following section.\n<heading>Review of probabilistic event attribution studies for Africa</heading>\nArguably, the first PEA study in an African context was conducted by Lott et al. (2013) on the East African drought, a type of event notoriously difficult to define.\nThis study quantified the attributable increase in risk of extreme low precipitation in the two rainy seasons in East Africa preceding the 2011 drought. They found that the failure of the Bshort rains^(in October-December) could be attributed to the El Ni\u00f1o Southern Oscillation (ENSO) and in particular, to the occurrence of a strong La Ni\u00f1a event earlier in the year. Although human influence was found to have increased the likelihood of an extremely dry Blong rains^season (March-June), the magnitude of the increase strongly depended on the exact warming pattern removed from the observations to simulate the Bworld that might have been^. To account for this uncertainty, Lott et al. (2013) used 3 different plausible SST patterns representing the anthropogenic influence resulting in 3 different ensembles of the year 2011 in a world without human-induced climate change. In addition to using observed SSTs to drive the model, observed weather data including the event studied was needed for model validation purposes. In the absence of in-situ measurements, Lott et al.",
+        "entities": [
+            {
+                "begin": 44,
+                "end": 51,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 274,
+                "end": 289,
+                "label": "location",
+                "substring": "Africa</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 327,
+                "end": 334,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2ca1b865-5555-4375-aa81-72811335b695"
+            },
+            {
+                "begin": 386,
+                "end": 406,
+                "label": "natural hazard",
+                "substring": "East African drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 516,
+                "end": 541,
+                "label": "variable",
+                "substring": "extreme low precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 570,
+                "end": 581,
+                "label": "location",
+                "substring": "East Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 601,
+                "end": 608,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 652,
+                "end": 661,
+                "label": "variable",
+                "substring": "rains^(in",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 707,
+                "end": 735,
+                "label": "teleconnection",
+                "substring": "El Ni\u00f1o Southern Oscillation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 737,
+                "end": 741,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 792,
+                "end": 799,
+                "label": "teleconnection",
+                "substring": "La Ni\u00f1a",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 1180,
+                "end": 1183,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1319,
+                "end": 1333,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1365,
+                "end": 1369,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 915,
+                "end": 933,
+                "label": "variable",
+                "substring": "Blong rains^season",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f173c4b6-8e6e-4e74-bb59-acdbb89a5ecb"
+            },
+            {
+                "begin": 553,
+                "end": 566,
+                "label": "weather event",
+                "substring": "rainy seasons",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f173c4b6-8e6e-4e74-bb59-acdbb89a5ecb"
+            },
+            {
+                "begin": 1500,
+                "end": 1520,
+                "label": "project",
+                "substring": "in-situ measurements",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d3df0ea0-8954-4bea-aa01-c84c5d32eb54"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"African\", \"type\": \"location\"},\n    {\"entity\": \"Africa</heading\", \"type\": \"location\"},\n    {\"entity\": \"African\", \"type\": \"location\"},\n    {\"entity\": \"East African drought\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme low precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"East Africa\", \"type\": \"location\"},\n    {\"entity\": \"drought\", \"type\": \"weather event\"},\n    {\"entity\": \"rains^(in\", \"type\": \"variable\"},\n    {\"entity\": \"El Ni\u00f1o Southern Oscillation\", \"type\": \"teleconnection\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"La Ni\u00f1a\", \"type\": \"teleconnection\"},\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"Blong rains^season\", \"type\": \"variable\"},\n    {\"entity\": \"rainy seasons\", \"type\": \"variable\"},\n    {\"entity\": \"in-situ measurements\", \"type\": \"instrument\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "location",
+            "natural hazard",
+            "variable",
+            "location",
+            "natural hazard",
+            "variable",
+            "teleconnection",
+            "teleconnection",
+            "teleconnection",
+            "variable",
+            "weather event",
+            "variable",
+            "variable",
+            "weather event",
+            "project"
+        ]
+    },
+    {
+        "text": "(2013) relied on satellite data to remove model biases from the simulations.\nIn another recent study Otto et al. (2013), applied the method of PEA to the data sparse Congo Basin. The authors refrained from applying a bias correction because the model simulations were within the spread of the observed satellite and reanalysis data sets; but satellite measurements in such sparsely populated region provide no guide to what extreme events really happened. The aim of the paper was to investigate the applicability of PEA analysis to a tropical region, in this case the Congo Basin. In view of the unreliability of observed data, the high signal-to noise ratio from using the high-quality SST observations from the surrounding ocean basins to force the model provided some confidence in the model and led to the conclusion that event attribution studies on extreme precipitation events can be robust in spite of poor-quality local observational data.\nBoth studies (Lott et al. 2013;Otto et al. 2013) therefore highlight the importance of representing the major large-scale mechanisms which influence weather events and their frequency of occurrence in Africa. In the case of Lott et al. the interannual SST variations influenced the extreme event, but in the case of Otto et al. interannual variations were largely removed, since the study investigated the probability of dry conditions over a whole decade: yet large scale SST forcing was also found to be important.\nThe most recent event attribution study for Africa was published by Funk et al.",
+        "entities": [
+            {
+                "begin": 166,
+                "end": 177,
+                "label": "location",
+                "substring": "Congo Basin",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ebe4123-f42a-41fb-80ea-bb1b97b9db0b"
+            },
+            {
+                "begin": 316,
+                "end": 326,
+                "label": "model",
+                "substring": "reanalysis",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/878e70de-f929-4d2f-9325-145ca95787e9"
+            },
+            {
+                "begin": 424,
+                "end": 438,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 535,
+                "end": 550,
+                "label": "location",
+                "substring": "tropical region",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 569,
+                "end": 580,
+                "label": "location",
+                "substring": "Congo Basin",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ebe4123-f42a-41fb-80ea-bb1b97b9db0b"
+            },
+            {
+                "begin": 688,
+                "end": 691,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 726,
+                "end": 738,
+                "label": "location",
+                "substring": "ocean basins",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b58fc6f1-2fb5-4e3a-9553-f041fe75960b"
+            },
+            {
+                "begin": 856,
+                "end": 884,
+                "label": "natural hazard",
+                "substring": "extreme precipitation events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fc5a1b7a-5ee8-4d67-80f5-a57e3f1734ab"
+            },
+            {
+                "begin": 1099,
+                "end": 1113,
+                "label": "weather event",
+                "substring": "weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1151,
+                "end": 1157,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1202,
+                "end": 1205,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1232,
+                "end": 1245,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1423,
+                "end": 1426,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1511,
+                "end": 1517,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 17,
+                "end": 26,
+                "label": "instrument",
+                "substring": "satellite",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3f542e06-d6d2-4387-84cb-e4430ae8c8d4"
+            },
+            {
+                "begin": 302,
+                "end": 311,
+                "label": "instrument",
+                "substring": "satellite",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3f542e06-d6d2-4387-84cb-e4430ae8c8d4"
+            },
+            {
+                "begin": 373,
+                "end": 398,
+                "label": "location",
+                "substring": "sparsely populated region",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ae9f3a07-f23e-4116-b172-677435102b2f"
+            },
+            {
+                "begin": 342,
+                "end": 364,
+                "label": "project",
+                "substring": "satellite measurements",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d3df0ea0-8954-4bea-aa01-c84c5d32eb54"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Congo Basin\", \"type\": \"location\"},\n    {\"entity\": \"reanalysis\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"tropical region\", \"type\": \"location\"},\n    {\"entity\": \"Congo Basin\", \"type\": \"location\"},\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"ocean basins\", \"type\": \"location\"},\n    {\"entity\": \"extreme precipitation events\", \"type\": \"weather event\"},\n    {\"entity\": \"weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"satellite\", \"type\": \"instrument\"},\n    {\"entity\": \"satellite\", \"type\": \"instrument\"},\n    {\"entity\": \"sparsely populated region\", \"type\": \"location\"},\n    {\"entity\": \"satellite measurements\", \"type\": \"instrument\"}\n]\n```",
+        "labels": [
+            "location",
+            "model",
+            "natural hazard",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "natural hazard",
+            "weather event",
+            "location",
+            "variable",
+            "natural hazard",
+            "variable",
+            "location",
+            "instrument",
+            "instrument",
+            "location",
+            "project"
+        ]
+    },
+    {
+        "text": "(2013), who examined rainfall deficits in Kenya and Somalia and the potential link between warmer SSTs in the Indian Ocean and the poor 2012 March-May East African rains. They generated a 30 member-ensemble of simulations with observed SSTs and 30 simulations driven with observed SSTs with all other variability apart from ENSO removed. Although this approach is similar to Lott et al. (2013), Funk et al. (2013) looked at the differences between full-ocean and ENSOonly SST effects. The anthropogenic influence could then be identified by assuming the difference in SSTs between the two ensembles represented, amongst other large-scale teleconnection patterns, the anthropogenic warming. Results showed that the dominant influence causing the drought was non-ENSO SST forcing, which included the anthropogenic warming signal, as well as other SST patterns from either the Indian Ocean (Williams and Funk 2011) or the Pacific Ocean (Lyon and DeWitt 2012). Their conclusion was that the drought resulted from both anthropogenic and residual natural variability contributions. When the analysis was repeated for the years 2000-2012 and 1993-2012, the influence of non-ENSO forcing became weaker over these longer timescales. This implies that non-ENSO forcing caused the recent drought but that ENSO plays an important role in earlier droughts highlighting that a case-by-case analysis is necessary for the attribution of individual events.",
+        "entities": [
+            {
+                "begin": 21,
+                "end": 38,
+                "label": "weather event",
+                "substring": "rainfall deficits",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 42,
+                "end": 47,
+                "label": "location",
+                "substring": "Kenya",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9a733984-abe2-4a34-b189-9bb62b9f9b85"
+            },
+            {
+                "begin": 52,
+                "end": 59,
+                "label": "location",
+                "substring": "Somalia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/48beae8c-e18a-4924-9d39-a6c7b18e29cb"
+            },
+            {
+                "begin": 98,
+                "end": 102,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 110,
+                "end": 122,
+                "label": "location",
+                "substring": "Indian Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/24872895-bbe6-4a7c-8661-70f3cc9f7781"
+            },
+            {
+                "begin": 151,
+                "end": 163,
+                "label": "location",
+                "substring": "East African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 164,
+                "end": 169,
+                "label": "variable",
+                "substring": "rains",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/5953d403-41e8-48f7-a4a8-06aaa633e12a"
+            },
+            {
+                "begin": 236,
+                "end": 240,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 281,
+                "end": 285,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 324,
+                "end": 328,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 463,
+                "end": 471,
+                "label": "teleconnection",
+                "substring": "ENSOonly",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 472,
+                "end": 475,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 568,
+                "end": 572,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 626,
+                "end": 661,
+                "label": "teleconnection",
+                "substring": "large-scale teleconnection patterns",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b887d3e5-4280-43d2-a34e-0f63ac086b6a"
+            },
+            {
+                "begin": 745,
+                "end": 752,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 761,
+                "end": 765,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 766,
+                "end": 777,
+                "label": "variable",
+                "substring": "SST forcing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 798,
+                "end": 826,
+                "label": "variable",
+                "substring": "anthropogenic warming signal",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 845,
+                "end": 848,
+                "label": "variable",
+                "substring": "SST",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 874,
+                "end": 886,
+                "label": "location",
+                "substring": "Indian Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/24872895-bbe6-4a7c-8661-70f3cc9f7781"
+            },
+            {
+                "begin": 919,
+                "end": 932,
+                "label": "location",
+                "substring": "Pacific Ocean",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/4dfa41b2-f3d0-402d-8a23-edb81bac12b6"
+            },
+            {
+                "begin": 987,
+                "end": 994,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 1167,
+                "end": 1171,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 1246,
+                "end": 1250,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 1277,
+                "end": 1284,
+                "label": "natural hazard",
+                "substring": "drought",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 1294,
+                "end": 1298,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 1334,
+                "end": 1342,
+                "label": "natural hazard",
+                "substring": "droughts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/12a896f3-993d-49f6-aafc-17378ffa3998"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"rainfall deficits\", \"type\": \"variable\"},\n    {\"entity\": \"Kenya\", \"type\": \"location\"},\n    {\"entity\": \"Somalia\", \"type\": \"location\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"Indian Ocean\", \"type\": \"location\"},\n    {\"entity\": \"East African\", \"type\": \"other\"},\n    {\"entity\": \"rains\", \"type\": \"weather event\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"ENSOonly\", \"type\": \"other\"},\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"large-scale teleconnection patterns\", \"type\": \"teleconnection\"},\n    {\"entity\": \"drought\", \"type\": \"natural hazard\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"SST forcing\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic warming signal\", \"type\": \"other\"},\n    {\"entity\": \"SST\", \"type\": \"variable\"},\n    {\"entity\": \"Indian Ocean\", \"type\": \"location\"},\n    {\"entity\": \"Pacific Ocean\", \"type\": \"location\"},\n    {\"entity\": \"drought\", \"type\": \"natural hazard\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"drought\", \"type\": \"natural hazard\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"droughts\", \"type\": \"natural hazard\"}\n]\n```",
+        "labels": [
+            "weather event",
+            "location",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "variable",
+            "variable",
+            "variable",
+            "teleconnection",
+            "teleconnection",
+            "variable",
+            "variable",
+            "teleconnection",
+            "natural hazard",
+            "teleconnection",
+            "variable",
+            "variable",
+            "variable",
+            "location",
+            "location",
+            "natural hazard",
+            "teleconnection",
+            "teleconnection",
+            "natural hazard",
+            "teleconnection",
+            "natural hazard"
+        ]
+    },
+    {
+        "text": "All three approaches used slightly different methods to remove the anthropogenic signal in the counterfactual experiments. They are all scientifically valid but produce different kinds of results and, crucially, would do so had they investigated the same event. They provide answers to different questions as will be shown below using an example.\n<heading>An example of East African minimum temperatures</heading>\nBy using scientifically meaningful implementations of similar methodological approaches, the attribution studies described above can be used to explore how to address the question regarding whether, and to what extent, a meteorological extreme event is attributable to anthropogenic GHG emissions. Figure 1 illustrates two of the approaches using model simulations of minimum daily temperatures in July in East Africa (12\u00b0S -18\u00b0N, 22\u00b0E-52\u00b0E,).\nFigure 1 was generated using the ACE-method, following a similar approach to Pall et al. (2011), in which very large ensembles of global climate models were used to assess the change in risk of autumn flooding in the United Kingdom under two different climate scenarios: i) the observed autumn 2000; and ii) a scenario based on a counterfactual ensemble forced with GHG concentrations representative of autumn 2000 without anthropogenic emissions. We use the distributed computing framework weather@home (Massey et al.",
+        "entities": [
+            {
+                "begin": 370,
+                "end": 382,
+                "label": "location",
+                "substring": "East African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 635,
+                "end": 663,
+                "label": "natural hazard",
+                "substring": "meteorological extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3678d18c-9dca-4743-abc0-1442b4d438d2"
+            },
+            {
+                "begin": 683,
+                "end": 710,
+                "label": "variable",
+                "substring": "anthropogenic GHG emissions",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 782,
+                "end": 808,
+                "label": "variable",
+                "substring": "minimum daily temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 820,
+                "end": 831,
+                "label": "location",
+                "substring": "East Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 988,
+                "end": 1009,
+                "label": "model",
+                "substring": "global climate models",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d1e2c5e2-076b-4949-8125-384712a33b58"
+            },
+            {
+                "begin": 1052,
+                "end": 1067,
+                "label": "natural hazard",
+                "substring": "autumn flooding",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7fdc339e-017f-4e4b-89a3-12e441a40bad"
+            },
+            {
+                "begin": 1075,
+                "end": 1089,
+                "label": "location",
+                "substring": "United Kingdom",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1928f419-0c4b-4b06-9f66-eb37f49105de"
+            },
+            {
+                "begin": 1224,
+                "end": 1242,
+                "label": "variable",
+                "substring": "GHG concentrations",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1281,
+                "end": 1304,
+                "label": "experiment",
+                "substring": "anthropogenic emissions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a619e9-88ba-4dc6-91a6-5f95284d6f80"
+            },
+            {
+                "begin": 1188,
+                "end": 1211,
+                "label": "experiment",
+                "substring": "counterfactual ensemble",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            },
+            {
+                "begin": 383,
+                "end": 412,
+                "label": "variable",
+                "substring": "minimum temperatures</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6abc5393-cfe7-4e0b-b748-8f3a71602faf"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"East African\", \"type\": \"location\"},\n    {\"entity\": \"meteorological extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic GHG emissions\", \"type\": \"other\"},\n    {\"entity\": \"minimum daily temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"East Africa\", \"type\": \"location\"},\n    {\"entity\": \"global climate models\", \"type\": \"model\"},\n    {\"entity\": \"autumn flooding\", \"type\": \"natural hazard\"},\n    {\"entity\": \"United Kingdom\", \"type\": \"location\"},\n    {\"entity\": \"GHG concentrations\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic emissions\", \"type\": \"other\"},\n    {\"entity\": \"counterfactual ensemble\", \"type\": \"experiment\"},\n    {\"entity\": \"minimum temperatures</heading\", \"type\": \"variable\"}\n]\n```",
+        "labels": [
+            "location",
+            "natural hazard",
+            "variable",
+            "variable",
+            "location",
+            "model",
+            "natural hazard",
+            "location",
+            "variable",
+            "experiment",
+            "experiment",
+            "variable"
+        ]
+    },
+    {
+        "text": "2014),where members of the public facilitate multi-thousand-member ensemble weather simulation experiments at 1.25\u00d71.875\u00b0resolution using the Met Office Hadley Centre (MOHC) model HadAM3P (ibid.).\nTwo very large ensemble simulations of weather events in the decade 2000-2010 were run and the statistics of extreme weather events analysed. The first ensemble represents the actual climate conditions of the decade. The second (counterfactual) ensemble is identical except that it excludes anthropogenic GHG and aerosol emissions. Both ensemble simulations are driven by observed SST patterns, although the warming signal of anthropogenic emissions is removed from the SST forcing in the counterfactual ensemble. The warming signal was obtained from CMIP5 (Taylor et al. 2012) simulations of the MOHC model HadGEM2-ES. The resulting ensembles are simulations of weather as it could have occurred given the Figure 1 shows four ensembles for the daily minimum temperatures: in the actual and the counterfactual ensembles, and in both cases for the single year 2005 and for the whole decade 2000-2010. The red (b) and the blue (d) curves represent simulations of July minimum temperatures for the whole decade, while the pink (a) and the green (c) curves represent just 2005.",
+        "entities": [
+            {
+                "begin": 142,
+                "end": 166,
+                "label": "provider",
+                "substring": "Met Office Hadley Centre",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0dd52e65-f1b0-46d4-be1a-9254b8e73fb6"
+            },
+            {
+                "begin": 168,
+                "end": 172,
+                "label": "provider",
+                "substring": "MOHC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0dd52e65-f1b0-46d4-be1a-9254b8e73fb6"
+            },
+            {
+                "begin": 180,
+                "end": 187,
+                "label": "model",
+                "substring": "HadAM3P",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/eb5e5d7d-2d63-4818-b6bc-80456f2e6ace"
+            },
+            {
+                "begin": 236,
+                "end": 250,
+                "label": "weather event",
+                "substring": "weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 306,
+                "end": 328,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 488,
+                "end": 505,
+                "label": "variable",
+                "substring": "anthropogenic GHG",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9d15e288-95cd-476e-acdd-5e31add3ca32"
+            },
+            {
+                "begin": 510,
+                "end": 527,
+                "label": "variable",
+                "substring": "aerosol emissions",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2e5a401b-1507-4f57-82b8-36557c13b154"
+            },
+            {
+                "begin": 569,
+                "end": 590,
+                "label": "variable",
+                "substring": "observed SST patterns",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 623,
+                "end": 646,
+                "label": "variable",
+                "substring": "anthropogenic emissions",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 667,
+                "end": 678,
+                "label": "variable",
+                "substring": "SST forcing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 748,
+                "end": 753,
+                "label": "model",
+                "substring": "CMIP5",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f4bc60f4-5505-4eb4-83e6-585e0683eac3"
+            },
+            {
+                "begin": 794,
+                "end": 798,
+                "label": "provider",
+                "substring": "MOHC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0dd52e65-f1b0-46d4-be1a-9254b8e73fb6"
+            },
+            {
+                "begin": 805,
+                "end": 815,
+                "label": "model",
+                "substring": "HadGEM2-ES",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/028fe075-8ed0-47f0-b462-71e4adf72a4e"
+            },
+            {
+                "begin": 942,
+                "end": 968,
+                "label": "variable",
+                "substring": "daily minimum temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1163,
+                "end": 1183,
+                "label": "variable",
+                "substring": "minimum temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 212,
+                "end": 232,
+                "label": "experiment",
+                "substring": "ensemble simulations",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            },
+            {
+                "begin": 686,
+                "end": 709,
+                "label": "experiment",
+                "substring": "counterfactual ensemble",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            },
+            {
+                "begin": 534,
+                "end": 554,
+                "label": "experiment",
+                "substring": "ensemble simulations",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            },
+            {
+                "begin": 977,
+                "end": 1016,
+                "label": "experiment",
+                "substring": "actual and the counterfactual ensembles",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0a184cdc-c074-4946-90a6-02f03c686341"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Met Office Hadley Centre\", \"type\": \"provider\"},\n    {\"entity\": \"MOHC\", \"type\": \"model\"},\n    {\"entity\": \"HadAM3P\", \"type\": \"model\"},\n    {\"entity\": \"weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic GHG\", \"type\": \"other\"},\n    {\"entity\": \"aerosol emissions\", \"type\": \"other\"},\n    {\"entity\": \"observed SST patterns\", \"type\": \"ocean circulation\"},\n    {\"entity\": \"anthropogenic emissions\", \"type\": \"other\"},\n    {\"entity\": \"SST forcing\", \"type\": \"ocean circulation\"},\n    {\"entity\": \"CMIP5\", \"type\": \"experiment\"},\n    {\"entity\": \"MOHC\", \"type\": \"model\"},\n    {\"entity\": \"HadGEM2-ES\", \"type\": \"model\"},\n    {\"entity\": \"daily minimum temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"minimum temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"ensemble simulations\", \"type\": \"experiment\"},\n    {\"entity\": \"counterfactual ensemble\", \"type\": \"experiment\"},\n    {\"entity\": \"ensemble simulations\", \"type\": \"experiment\"},\n    {\"entity\": \"actual and the counterfactual ensembles\", \"type\": \"experiment\"}\n]\n```",
+        "labels": [
+            "provider",
+            "provider",
+            "model",
+            "weather event",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "model",
+            "provider",
+            "model",
+            "variable",
+            "variable",
+            "experiment",
+            "experiment",
+            "experiment",
+            "experiment"
+        ]
+    },
+    {
+        "text": "Under the assumption that the differences between the two complementary ensembles ((a) and (c); and (b) and (d)) simulate weather in a world with and without anthropogenic climate change, the differences between magnitude and frequency of occurrence of temperature extremes gives an indication of whether and to what extent the risk for such extremes has changed due to anthropogenic climate change.\nAssuming there had been a heat wave in July 2005 characterised by high minimum temperatures Fig. 1 could be used to quantify the changes in risk of occurrence of such an event. Different assessments of the extent of the change in risk are obtained by comparing either just the simulation of the year 2005 or simulation of the whole decade in both ensembles. In the illustative case shown in Fig. 1 we use an arbitrary threshold of 19\u00b0C min temperature to define the extreme event. If an assessment is made based on the whole decade, the incorporation of anthropogenic forcing increases the probability of a minimum temperature above19\u00b0C from 1 in every 6-7 years to more than once every year (Fig. 1, dark grey arrow). If the assessment is based only on 2005, anthropogenic climate forcing increases the probability of the event to occur from 1 in every 40 years, to more than once every year (Fig. 1, light grey arrow).",
+        "entities": [
+            {
+                "begin": 158,
+                "end": 186,
+                "label": "variable",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 253,
+                "end": 273,
+                "label": "natural hazard",
+                "substring": "temperature extremes",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/79f28c8b-b3a7-489d-a95f-7d4af14e3b50"
+            },
+            {
+                "begin": 370,
+                "end": 398,
+                "label": "weather event",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 426,
+                "end": 435,
+                "label": "natural hazard",
+                "substring": "heat wave",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ca820557-401e-4e5e-ac32-29fdbc0628b3"
+            },
+            {
+                "begin": 471,
+                "end": 491,
+                "label": "variable",
+                "substring": "minimum temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 840,
+                "end": 851,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3e7854b1-d7bc-4e5b-af2f-57d8d7bc5648"
+            },
+            {
+                "begin": 866,
+                "end": 879,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 954,
+                "end": 975,
+                "label": "variable",
+                "substring": "anthropogenic forcing",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 1007,
+                "end": 1026,
+                "label": "variable",
+                "substring": "minimum temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1160,
+                "end": 1189,
+                "label": "variable",
+                "substring": "anthropogenic climate forcing",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"temperature extremes\", \"type\": \"variable\"},\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"heat wave\", \"type\": \"weather event\"},\n    {\"entity\": \"minimum temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"temperature\", \"type\": \"variable\"},\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic forcing\", \"type\": \"other\"},\n    {\"entity\": \"minimum temperature\", \"type\": \"variable\"},\n    {\"entity\": \"anthropogenic climate forcing\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "natural hazard",
+            "weather event",
+            "natural hazard",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Making the assessment based on individual years suggests that changes in the risk of an extreme event occuring due to anthropogenic forcing are much larger than if the assessment had been made based on the simulation of decades. Importantly, if we change the arbitrary threshold from 19 to 18.5\u00b0C, this changes the results again.\nThe differences in the four return periods of minimum night temperatures in July demonstrates that the answer to the attribution question depends crucially not only on the modelling framework available but also on how the research question is framed within a modelling approach and the definition of the threshold that constitutes the extreme event. What the relevant threshold is will depend on the context of the study. Nighttime temperatures above 19\u00b0C could mark the threshold of whether or not the human body can recover from the days heat and hence be highly relevant for damages in the context of human health while at the same time the threshold that determines damages on crop might be higher. Highlighting the importance to define the meteorological event with respect to its impacts and the sensitivity of the attribution result to that definition.\n<heading>Discussion on framing and policy: asking the right questions</heading>\nThe examples discussed above show that PEA statements are made with respect to a counterfactual situation, the definition of the counterfactual is however different in each case leading to differing results.",
+        "entities": [
+            {
+                "begin": 88,
+                "end": 101,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 118,
+                "end": 139,
+                "label": "variable",
+                "substring": "anthropogenic forcing",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 376,
+                "end": 402,
+                "label": "variable",
+                "substring": "minimum night temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 665,
+                "end": 678,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 752,
+                "end": 774,
+                "label": "variable",
+                "substring": "Nighttime temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 865,
+                "end": 874,
+                "label": "variable",
+                "substring": "days heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 1075,
+                "end": 1095,
+                "label": "weather event",
+                "substring": "meteorological event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 1116,
+                "end": 1123,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 1011,
+                "end": 1015,
+                "label": "variable",
+                "substring": "crop",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/2dda92a8-6c26-4506-9881-43b6d9a83b18"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic forcing\", \"type\": \"experiment\"},\n    {\"entity\": \"minimum night temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"Nighttime temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"days heat\", \"type\": \"weather event\"},\n    {\"entity\": \"meteorological event\", \"type\": \"weather event\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"crop\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "natural hazard",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "weather event",
+            "variable",
+            "variable"
+        ]
+    },
+    {
+        "text": "Furthermore these results are valid for a particular definition of the extreme event in question. Below we will explore the potential implications of these issues for policy, and then discuss the potential to promote sciencepolicy dialogue to frame attribution questions.\n<heading>Defining the counterfactual</heading>\nFigure 1 gives very different results for the increase in risk depending on whether an annual or decadal approach is used. Based on a single year it answers the question Bgiven all other conditions being equal, how has the risk of occurrence of such an extreme event changed as a result of anthropogenic emissions^? Comparing whole decades instead of single years smoothes the interannual variability of large-scale oscillations in the SSTs, thus answering the question Bgiven all predictable (long term) things being equal, how has the risk changed due to the global mean temperature increase and increase in GHG forcing?^. The former approach addresses the event conditioned on the SSTs, and the latter analyses the climatological shift. Another approach to PEA, which has so far not been employed with large enough ensembles to attribute extreme events but is probably the most promising, is to use SSTs from seasonal forecasts instead of observed SSTs for the season of interest. This will provide an answer to the question Bgiven all predictable (short term) conditions being equal, how has the risk of occurrence of such an extreme event changed as a result of anthropogenic emissions^?",
+        "entities": [
+            {
+                "begin": 71,
+                "end": 84,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 572,
+                "end": 585,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 609,
+                "end": 632,
+                "label": "variable",
+                "substring": "anthropogenic emissions",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 723,
+                "end": 747,
+                "label": "teleconnection",
+                "substring": "large-scale oscillations",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b887d3e5-4280-43d2-a34e-0f63ac086b6a"
+            },
+            {
+                "begin": 755,
+                "end": 759,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 880,
+                "end": 903,
+                "label": "variable",
+                "substring": "global mean temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 929,
+                "end": 940,
+                "label": "variable",
+                "substring": "GHG forcing",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1003,
+                "end": 1007,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1160,
+                "end": 1174,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1221,
+                "end": 1225,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1270,
+                "end": 1274,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1449,
+                "end": 1462,
+                "label": "natural hazard",
+                "substring": "extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1486,
+                "end": 1509,
+                "label": "variable",
+                "substring": "anthropogenic emissions",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic emissions\", \"type\": \"other\"},\n    {\"entity\": \"large-scale oscillations\", \"type\": \"teleconnection\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"global mean temperature\", \"type\": \"variable\"},\n    {\"entity\": \"GHG forcing\", \"type\": \"other\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic emissions\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "natural hazard",
+            "natural hazard",
+            "variable",
+            "teleconnection",
+            "variable",
+            "variable",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable",
+            "variable",
+            "natural hazard",
+            "variable"
+        ]
+    },
+    {
+        "text": "The latter approach will eliminate the unpredictable noise for the given year from the assessment of changes in risk.\nIt is worth noting that if based on temperatures in a temperate climate, e.g., the UK, Fig. 1 would look very different (see Otto et al. 2013, Fig. 5). In particular the discrepancy between the return times for a single year and those for a whole decade would be much smaller. This suggests as a rule of thumb that in any given summer the daily variability of night time temperatures is much higher in a UK climate compared to East Africa, the interannual variability is much smaller and only weakly correlated to large scale teleconnection systems like ENSO or the Atlantic Meridional Oscillation (AMO). Thus the importance of clearly stating how the research question is framed exactly becomes again particulaly apparent in the sub-tropical and tropical climates of Africa.\nFor an assessment of the anthropogenic influence on African climate overall, the use of decadal or longer simulations has the potential to better quantify the overall changes in risk, which is relevant for long term adaptation planning. However single year simulations (either with observed or seasonal forecast SSTs) will give a better assessment of how anthropogenic climate change altered the risk of specific events occurring. This allows us to make use of observed responses to extremes to help plan the adaptation to anthropogenic changes.",
+        "entities": [
+            {
+                "begin": 154,
+                "end": 166,
+                "label": "variable",
+                "substring": "temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 201,
+                "end": 203,
+                "label": "location",
+                "substring": "UK",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1928f419-0c4b-4b06-9f66-eb37f49105de"
+            },
+            {
+                "begin": 478,
+                "end": 501,
+                "label": "variable",
+                "substring": "night time temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 522,
+                "end": 524,
+                "label": "location",
+                "substring": "UK",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1928f419-0c4b-4b06-9f66-eb37f49105de"
+            },
+            {
+                "begin": 545,
+                "end": 556,
+                "label": "location",
+                "substring": "East Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            },
+            {
+                "begin": 632,
+                "end": 666,
+                "label": "teleconnection",
+                "substring": "large scale teleconnection systems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b887d3e5-4280-43d2-a34e-0f63ac086b6a"
+            },
+            {
+                "begin": 672,
+                "end": 676,
+                "label": "teleconnection",
+                "substring": "ENSO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/095a05c0-6220-4abd-9c1b-c4504a092d7d"
+            },
+            {
+                "begin": 684,
+                "end": 715,
+                "label": "teleconnection",
+                "substring": "Atlantic Meridional Oscillation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dcdb6cf1-48a7-488e-aeb8-e6c0b36752d4"
+            },
+            {
+                "begin": 717,
+                "end": 720,
+                "label": "teleconnection",
+                "substring": "AMO",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dcdb6cf1-48a7-488e-aeb8-e6c0b36752d4"
+            },
+            {
+                "begin": 848,
+                "end": 860,
+                "label": "location",
+                "substring": "sub-tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 865,
+                "end": 873,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 886,
+                "end": 892,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 946,
+                "end": 961,
+                "label": "location",
+                "substring": "African climate",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1206,
+                "end": 1210,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 1249,
+                "end": 1277,
+                "label": "weather event",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 172,
+                "end": 189,
+                "label": "location",
+                "substring": "temperate climate",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/ae02541a-4968-4573-8569-0f4a02575ab2"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"UK\", \"type\": \"location\"},\n    {\"entity\": \"night time temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"UK\", \"type\": \"location\"},\n    {\"entity\": \"East Africa\", \"type\": \"location\"},\n    {\"entity\": \"large scale teleconnection systems\", \"type\": \"teleconnection\"},\n    {\"entity\": \"ENSO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"Atlantic Meridional Oscillation\", \"type\": \"teleconnection\"},\n    {\"entity\": \"AMO\", \"type\": \"teleconnection\"},\n    {\"entity\": \"sub-tropical\", \"type\": \"other\"},\n    {\"entity\": \"tropical\", \"type\": \"other\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"African climate\", \"type\": \"other\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"temperate climate\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "location",
+            "teleconnection",
+            "teleconnection",
+            "teleconnection",
+            "teleconnection",
+            "location",
+            "location",
+            "location",
+            "location",
+            "variable",
+            "weather event",
+            "location"
+        ]
+    },
+    {
+        "text": "The new approach using seasonal forecast SSTs may be particularly advantageous here, as estimating the predictable change in risk instead of the actual will be much easier to communicate.\nThus from an decision-making point of view we are looking at two different problems: the first is assessment of a specific observed event which gives guidance on how to build resilience to more or less of given this event and its impacts and responses; the second is an assessment of climatological shifts which could be used to provide more general guidance on adaptation responses. This distinction refers only to using the information to build resilience to future risks, which is the dominant focus in the UNFCCC processes on adaptation, including the recent negotiations on loss and damage (UNFCCC 2012). However, the annual approach, providing information about specific events, could also provide information about the causes of past events, with potential applications for liability and compensation (Allen 2003). This could be highly controversial (James et al. 2014), and at the time of writing the concrete aims and implementation of the WIM are undetermined. Scientists are acutely aware that simply providing information may have unpredictable consequences, including diverting attention away from building resilience towards a Bsearch for the guilty^ (Hulme et al. 2011). 'The appropriate response is for science-policy dialogue to understand how to effectively blend and use scientific and local knowledge.",
+        "entities": [
+            {
+                "begin": 41,
+                "end": 45,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 418,
+                "end": 425,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 698,
+                "end": 704,
+                "label": "provider",
+                "substring": "UNFCCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            },
+            {
+                "begin": 784,
+                "end": 790,
+                "label": "provider",
+                "substring": "UNFCCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            },
+            {
+                "begin": 1137,
+                "end": 1140,
+                "label": "project",
+                "substring": "WIM",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"UNFCCC\", \"type\": \"provider\"},\n    {\"entity\": \"UNFCCC\", \"type\": \"provider\"},\n    {\"entity\": \"WIM\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "variable",
+            "variable",
+            "provider",
+            "provider",
+            "project"
+        ]
+    },
+    {
+        "text": "The interaction between hazards and evolving vulnerability, including how vulnerability may change as stakeholders respond to new information, is critical in determining overall risk.\nIt is paramount that the scientific community communicates the exact framing of the research question they aim to answer, but it is also important to identify the questions decision-makers and stakeholders want and need answers to.\n<heading>Defining an event</heading>\nIn Fig. 1 the attributable risk of exceeding 19\u00b0C is much larger than the attributable risk of exceeding 18.5\u00b0C. The inferred influence of climate change is different depending on which arbitrary threshold is chosen. 2 If these studies are to be useful beyond academic interest, the definition of the event, and the dependence of the results on the choice of threshold must be made explicit. This leads to questions about which risks really matter for practical decisions. Is a 1 in 100 year event or a 1 in 1000 year event more important? This is likely to depend on the stakeholder and the application. Whilst the most rare, high magnitude events might receive more attention in the media, in developing countries less rare events can still lead to large scale damages. It is likely that the questions which information is needed to answer will depend on spatial and temporal factors relating to the vulnerability of people, such as where they are located geographically.",
+        "entities": [
+            {
+                "begin": 592,
+                "end": 606,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            }
+        ],
+        "response": "```json\n[{\"entity\": \"climate change\", \"type\": \"platform\"}]\n```",
+        "labels": [
+            "weather event"
+        ]
+    },
+    {
+        "text": "The answers will also be determined by people's existing experience of extreme events, and by social dimensions, e.g., gender, ethnicity and age (Blaikie et al. 1994).\nFurthermore, the meteorological extreme event is only the first step in a potentially multistep assessment of loss and damage due to anthropogenic climate change, ranging e.g., from attributing large scale atmospheric dynamics, over precipitation above a threshold, to river flow and finally inundated crop land or properties.\n<heading>Promoting science-policy dialogue</heading>\nFraming research questions for attribution studies which are useful in an applied context is therefore not something scientists can do alone. Nor can stakeholders embark on this without an understanding of the science. A dialogue between science and policy is required should PEA provide scientific evidence for questions of adaptation and loss and damage. Co-production of knowledge occurs when scientists and stakeholders come together to generate new knowledge and technologies jointly through processes of learning. Co-production works when there are clearly defined boundaries and the means to overcome asymmetric power dynamics (Jasanoff 2006). To initiate this process it is important to build on existing mechanisms (e.g., participatory action and scenario development planning), engage with novel approaches (e.g., serious gaming, Mendler de Suarez et al. 2012) and to develop new platforms such as Rainwatch-AfClix.",
+        "entities": [
+            {
+                "begin": 71,
+                "end": 85,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 185,
+                "end": 213,
+                "label": "natural hazard",
+                "substring": "meteorological extreme event",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 301,
+                "end": 329,
+                "label": "weather event",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 401,
+                "end": 414,
+                "label": "variable",
+                "substring": "precipitation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bfa93e9c-392f-4f59-8cc8-0866e24531f5"
+            },
+            {
+                "begin": 437,
+                "end": 447,
+                "label": "variable",
+                "substring": "river flow",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb6b3b76-c496-464b-bd20-1b22296aae15"
+            },
+            {
+                "begin": 460,
+                "end": 479,
+                "label": "location",
+                "substring": "inundated crop land",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/e2e53a45-c6ee-4fac-9c08-7677c1318533"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"meteorological extreme event\", \"type\": \"weather event\"},\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"precipitation\", \"type\": \"variable\"},\n    {\"entity\": \"river flow\", \"type\": \"variable\"},\n    {\"entity\": \"inundated crop land\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "natural hazard",
+            "natural hazard",
+            "weather event",
+            "variable",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "3 Each of these different Bmechanisms^presents opportunities to discuss PEA in an African context and initiate a dialogue.\nThe dialogue might be most productive if links are made between policy communities in disaster risk reduction and climate change adaptation. This need for broadening sectorial engagement is demonstrated by the SREX report (Field et al. 2012), which calls for Bnew balance\u2026to be struck between taking measures to reduce risk, transfer risk (e.g., through insurance) and effectively prepare for and manage the impacts of disasters in a changing climate. This balance will require a stronger emphasis on anticipation and risk reduction (Mitchell and van Aalst 2011). Understanding the evidence from attribution studies of extreme events relative to attribution of long term changes in climate could be important in shaping progress. A poor understanding of the links between hazards, climate change and vulnerability may lead to scarce resources being allocated to the wrong actions today based on a poor understanding of climate-related adverse impacts (e.g., devoting resources 'only' to climatological hazard as opposed to investing in development, e.g., education, health etc.), then that could leave future generations worse off (UNFCCC 2012). It is vital that policy-makers understand the uncertainties in the evidence that is available.",
+        "entities": [
+            {
+                "begin": 82,
+                "end": 89,
+                "label": "location",
+                "substring": "African",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 209,
+                "end": 232,
+                "label": "project",
+                "substring": "disaster risk reduction",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/6b2fad63-2230-4d54-8f31-fee604d1f977"
+            },
+            {
+                "begin": 237,
+                "end": 262,
+                "label": "project",
+                "substring": "climate change adaptation",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c4a6c571-406e-4023-b479-6a1fc30f184c"
+            },
+            {
+                "begin": 531,
+                "end": 538,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 742,
+                "end": 756,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 904,
+                "end": 918,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 1066,
+                "end": 1073,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 1255,
+                "end": 1261,
+                "label": "provider",
+                "substring": "UNFCCC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/7471c405-d062-42cb-bfab-94a93d46cce6"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"African\", \"type\": \"location\"},\n    {\"entity\": \"disaster risk reduction\", \"type\": \"other\"},\n    {\"entity\": \"climate change adaptation\", \"type\": \"other\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"UNFCCC\", \"type\": \"provider\"}\n]\n```",
+        "labels": [
+            "location",
+            "project",
+            "project",
+            "variable",
+            "natural hazard",
+            "weather event",
+            "variable",
+            "provider"
+        ]
+    },
+    {
+        "text": "It might be that many stakeholders will take the view that simulated evidence, with current relatively low-resolution climate models, is not robust enough in the context of tools and information relevant to adaptation and loss and damage. This need to be clearly communicated as it means that attribution results of extreme weather events would not be usable to address damages from events other than the so-called slow-onset events such as sea-level rise for at least another decade when high resolution models may be available to be used for running large ensembles. Although such slow-onset events in context of the loss and damage agenda are highly predictable events, they cannot include other comparable but unpredictable slowly evolving events like multi-month droughts. While concentrating on predictable slow-onset events in developing countries for consideration under Bloss and damage^might be good news for the Maldives, this outcome is likely to raise serious problems for land-locked African countries assuming that impacts of human-induced climate change are addressed.\nAnother important issue is how decision frameworks are determined by relationships between different actor groups and governments, which are in-turn often influenced by power dynamics and asymmetry of information (i.e., moral hazard). Clearly a blueprint Bone fits all\u00e2 pproach might not be desirable.",
+        "entities": [
+            {
+                "begin": 118,
+                "end": 132,
+                "label": "model",
+                "substring": "climate models",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/8680cb49-1637-4a47-a5fd-f39d4e618e45"
+            },
+            {
+                "begin": 316,
+                "end": 338,
+                "label": "natural hazard",
+                "substring": "extreme weather events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b7d562cf-9b9b-4461-900b-50423a8c4d29"
+            },
+            {
+                "begin": 441,
+                "end": 455,
+                "label": "variable",
+                "substring": "sea-level rise",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0afaaa5e-f88c-4c1f-95c1-1faa0148885a"
+            },
+            {
+                "begin": 756,
+                "end": 776,
+                "label": "natural hazard",
+                "substring": "multi-month droughts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/12a896f3-993d-49f6-aafc-17378ffa3998"
+            },
+            {
+                "begin": 923,
+                "end": 931,
+                "label": "location",
+                "substring": "Maldives",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/eabe42d5-1826-4d7c-9988-4a6397873061"
+            },
+            {
+                "begin": 986,
+                "end": 1015,
+                "label": "location",
+                "substring": "land-locked African countries",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1030,
+                "end": 1037,
+                "label": "variable",
+                "substring": "impacts",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0ac1326b-77cd-4b5a-a60b-32c5528ff9d0"
+            },
+            {
+                "begin": 1055,
+                "end": 1069,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate models\", \"type\": \"model\"},\n    {\"entity\": \"extreme weather events\", \"type\": \"weather event\"},\n    {\"entity\": \"sea-level rise\", \"type\": \"natural hazard\"},\n    {\"entity\": \"multi-month droughts\", \"type\": \"weather event\"},\n    {\"entity\": \"Maldives\", \"type\": \"location\"},\n    {\"entity\": \"land-locked African countries\", \"type\": \"location\"},\n    {\"entity\": \"impacts\", \"type\": \"other\"},\n    {\"entity\": \"climate change\", \"type\": \"other\"}\n]\n```",
+        "labels": [
+            "model",
+            "natural hazard",
+            "variable",
+            "natural hazard",
+            "location",
+            "location",
+            "variable",
+            "weather event"
+        ]
+    },
+    {
+        "text": "The discussion needs to start now; to find out which questions the scientific community should aim to answer if scientific evidence is thought in determining the pertinent climate risks.\n<heading>Conclusions</heading>\nExtreme event attribution studies have the potential to provide scientific evidence relevant to adaptation and loss and damage from climate change, which is especially important in vulnerable countries. Despite the relative lack of existing event attribution studies for developing countries, and potential challenges of applying the methodology in regions with a tropical climate and limited observation; there is a great deal of opportunity to extend PEA research to include a large range of events, not least because a new technique using seasonal forecasting allows for studies to be conducted more rapidly, and to provide results which are easier to communicate. In addition, the strong role of SSTs on tropical climates could be an advantage for distinguishing anthropogenic signals.\nHowever, to make the science useful, attribution studies need to address the appropriate attribution questions identified by decision makers on the ground. As shown by a review of existing event attribution studies in Africa, and an example using slightly different methodologies to explore changing risk of high minimum temperatures in East Africa, different framings can lead to very different results, which are often equally valid scientifically, but may have differing implications for policy.",
+        "entities": [
+            {
+                "begin": 350,
+                "end": 364,
+                "label": "weather event",
+                "substring": "climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 582,
+                "end": 598,
+                "label": "location",
+                "substring": "tropical climate",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 918,
+                "end": 922,
+                "label": "variable",
+                "substring": "SSTs",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78"
+            },
+            {
+                "begin": 926,
+                "end": 943,
+                "label": "location",
+                "substring": "tropical climates",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 985,
+                "end": 1006,
+                "label": "variable",
+                "substring": "anthropogenic signals",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b35"
+            },
+            {
+                "begin": 1226,
+                "end": 1232,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 1316,
+                "end": 1341,
+                "label": "variable",
+                "substring": "high minimum temperatures",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            },
+            {
+                "begin": 1345,
+                "end": 1356,
+                "label": "location",
+                "substring": "East Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1837fc8f-4622-433b-8148-dd2b5826f6f2"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"climate change\", \"type\": \"other\"},\n    {\"entity\": \"tropical climate\", \"type\": \"other\"},\n    {\"entity\": \"SSTs\", \"type\": \"variable\"},\n    {\"entity\": \"tropical climates\", \"type\": \"other\"},\n    {\"entity\": \"anthropogenic signals\", \"type\": \"other\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"high minimum temperatures\", \"type\": \"variable\"},\n    {\"entity\": \"East Africa\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "weather event",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location",
+            "variable",
+            "location"
+        ]
+    },
+    {
+        "text": "This could be particularly relevant for Africa, since the implications of different methodologies can be larger in a tropical context. Co-production of knowledge between scientists and users is vital to avoid pre-defined event definitions that do not take account of the perspectives and priority needs of users of event attribution studies (Stott et al. 2013).\nExtensive validation of the models and clear communication regarding the limitations of event attribution is also paramount. Poor adaptation decisions taken now could leave future generations worse off if the increased risk of an event is attributed wrongly to anthropogenic warming rather than the natural and internal variability of the climate system (Stott et al. 2013). However, not using available information from attribution studies could lead to equally illplanning if crucial changes in the magnitude and frequency of extreme events are not taken into account. Looking forwards, regular assessment of extreme events in relation to their probable triggers will lead to improved understanding of extreme events in the near term, and improved projections in the longer term. Policy expectations and needs on the ground will need to be better aligned however with the evolution of the scientific understandings of extreme events.\nExperience has shown that communicating science between scientists and those who can use it to meet societal needs can be challenging but also rewarding to all involved.",
+        "entities": [
+            {
+                "begin": 40,
+                "end": 46,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 117,
+                "end": 125,
+                "label": "location",
+                "substring": "tropical",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/639c23bd-f64a-4061-a535-4a1a842d230f"
+            },
+            {
+                "begin": 890,
+                "end": 904,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 973,
+                "end": 987,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1066,
+                "end": 1080,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            },
+            {
+                "begin": 1282,
+                "end": 1296,
+                "label": "natural hazard",
+                "substring": "extreme events",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/b29b46ad-f05f-4144-b965-5f606ce96963"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"tropical\", \"type\": \"location\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"},\n    {\"entity\": \"extreme events\", \"type\": \"weather event\"}\n]\n```",
+        "labels": [
+            "location",
+            "location",
+            "natural hazard",
+            "natural hazard",
+            "natural hazard",
+            "natural hazard"
+        ]
+    },
+    {
+        "text": "In this case, the reward could be scientifically-based strategies to manage risk in many of the most vulnerable communities adversely affected by anthropogenic climate change.\n<heading></heading>\nAcknowledgments This research was funded by the Natural Environment Research Council (NERC) NE/ K005472/1. Special thanks are extended to the United Nations Economic Commission for Africa, Special Initiatives Division, African Climate Policy Center (ACPC), Addis Ababa, Ethiopia for their financial support to discuss this paper at the third conference on Climate Change and Development in Africa, Addis Ababa, Ethiopia, 21-23 October, 2013.\nOpen Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+        "entities": [
+            {
+                "begin": 146,
+                "end": 174,
+                "label": "weather event",
+                "substring": "anthropogenic climate change",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/d91ab3c6-89b0-4748-b824-1e3d45e49049"
+            },
+            {
+                "begin": 244,
+                "end": 280,
+                "label": "provider",
+                "substring": "Natural Environment Research Council",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/28206540-ba2e-4f70-827e-1ee63b3d186d"
+            },
+            {
+                "begin": 282,
+                "end": 286,
+                "label": "provider",
+                "substring": "NERC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/28206540-ba2e-4f70-827e-1ee63b3d186d"
+            },
+            {
+                "begin": 338,
+                "end": 383,
+                "label": "provider",
+                "substring": "United Nations Economic Commission for Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9644d76f-c8c6-43e7-8a26-4aceae2e534f"
+            },
+            {
+                "begin": 415,
+                "end": 444,
+                "label": "provider",
+                "substring": "African Climate Policy Center",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9644d76f-c8c6-43e7-8a26-4aceae2e534f"
+            },
+            {
+                "begin": 446,
+                "end": 450,
+                "label": "provider",
+                "substring": "ACPC",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/9644d76f-c8c6-43e7-8a26-4aceae2e534f"
+            },
+            {
+                "begin": 453,
+                "end": 464,
+                "label": "location",
+                "substring": "Addis Ababa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bf35988f-1bab-4b16-87c4-811c572f7b24"
+            },
+            {
+                "begin": 466,
+                "end": 474,
+                "label": "location",
+                "substring": "Ethiopia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bf35988f-1bab-4b16-87c4-811c572f7b24"
+            },
+            {
+                "begin": 586,
+                "end": 592,
+                "label": "location",
+                "substring": "Africa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/789268ec-9e39-48cb-97cb-89a2d33efe09"
+            },
+            {
+                "begin": 594,
+                "end": 605,
+                "label": "location",
+                "substring": "Addis Ababa",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bf35988f-1bab-4b16-87c4-811c572f7b24"
+            },
+            {
+                "begin": 607,
+                "end": 615,
+                "label": "location",
+                "substring": "Ethiopia",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bf35988f-1bab-4b16-87c4-811c572f7b24"
+            }
+        ],
+        "response": "```json\n[\n    {\"entity\": \"anthropogenic climate change\", \"type\": \"other\"},\n    {\"entity\": \"Natural Environment Research Council\", \"type\": \"provider\"},\n    {\"entity\": \"NERC\", \"type\": \"provider\"},\n    {\"entity\": \"United Nations Economic Commission for Africa\", \"type\": \"provider\"},\n    {\"entity\": \"African Climate Policy Center\", \"type\": \"provider\"},\n    {\"entity\": \"ACPC\", \"type\": \"provider\"},\n    {\"entity\": \"Addis Ababa\", \"type\": \"location\"},\n    {\"entity\": \"Ethiopia\", \"type\": \"location\"},\n    {\"entity\": \"Africa\", \"type\": \"location\"},\n    {\"entity\": \"Addis Ababa\", \"type\": \"location\"},\n    {\"entity\": \"Ethiopia\", \"type\": \"location\"}\n]\n```",
+        "labels": [
+            "weather event",
+            "provider",
+            "provider",
+            "provider",
+            "provider",
+            "provider",
+            "location",
+            "location",
+            "location",
+            "location",
+            "location"
+        ]
+    }
+]

@@ -1,0 +1,985 @@
+[
+    {
+        "text": "<heading>ABSTRACT</heading>\nBacillus subtilis and other Bacilli have long been used as biological control agents against plant bacterial diseases but the mechanisms by which the bacteria confer protection are not well understood. Our goal in this study was to isolate strains of B. subtilis that exhibit high levels of biocontrol efficacy from natural environments and to investigate the mechanisms by which these strains confer plant protection. We screened a total of sixty isolates collected from various locations across China and obtained six strains that exhibited above 50% biocontrol efficacy on tomato plants against the plant pathogen Ralstonia solanacearum under greenhouse conditions. These wild strains were able to form robust biofilms both in defined medium and on tomato plant roots and exhibited strong antagonistic activities against various plant pathogens in plate assays. We show that plant protection by those strains depended on widely conserved genes required for biofilm formation, including regulatory genes and genes for matrix production. We provide evidence suggesting that matrix production is critical for bacterial colonization on plant root surfaces. Finally, we have established a model system for studies of B. subtilis-tomato plant interactions in protection against a plant pathogen.\n<heading>Introduction</heading>\nBacterial wilt caused by Ralstonia solanacearum, a genetically diverse soil-borne pathogen with a wide host range, is a devastating plant vascular disease (Hayward, 1991).",
+        "span": [
+            0,
+            1524
+        ],
+        "entities": [
+            {
+                "begin": 525,
+                "end": 530,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 604,
+                "end": 617,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 674,
+                "end": 684,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1163,
+                "end": 1182,
+                "label": "location",
+                "substring": "plant root surfaces",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1255,
+                "end": 1267,
+                "label": "variable",
+                "substring": "tomato plant",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1424,
+                "end": 1428,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 780,
+                "end": 798,
+                "label": "location",
+                "substring": "tomato plant roots",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "It occurs worldwide, causing great losses in agriculture and horticulture. No effective chemical product is available for Ralstonia-induced wilt. Alternative methods such as biological control agents (BCAs) have shown effectiveness and have thus been increasingly applied in the field (Bais et al., 2004;Aliye et al., 2008;Haggag and Timmusk, 2008;Ji et al., 2008;Xue et al., 2009). The potential BCAs against Ralstonia wilt disease include non-virulent strains of R. solanacearum, the arbuscular mycorrhizal (AM) fungus Glomus versiforme, and some naturally antagonistic rhizobacteria, such as Bacillus spp., Pseudomonas spp., and Streptomyces spp. (Lemessa and Zeller, 2007;Aliye et al., 2008;Xue et al., 2009). Bacillus subtilis is a nonpathogenic bacterium that lives in soil, often in association with roots of higher plants. B. subtilis cells are capable of forming dormant spores that are resistant to extreme conditions and thus can be easily formulated and stored (Piggot and Hilbert, 2004). B. subtilis also produces a variety of biologically active compounds with a broad spectrum of activities toward phytopathogens and that are able to induce host systemic resistance (Bais et al., 2004;Stein, 2005;Butcher et al., 2007;Nagorska et al., 2007;Ongena et al., 2007;Ongena and Jacques, 2008). Various strains of B. subtilis have also been shown to be capable of forming multicellular structures or biofilms (Branda et al., 2001;Hamon and Lazazzera, 2001;Bais et al., 2004).",
+        "span": [
+            1525,
+            3007
+        ],
+        "entities": [
+            {
+                "begin": 775,
+                "end": 779,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            }
+        ]
+    },
+    {
+        "text": "Due to these beneficial traits, B. subtilis is potentially useful as a biological control agent. Indeed, it has been reported that some B. subtilis strains can effectively suppress the Ralstonia wilt disease in several plant hosts (Lemessa and Zeller, 2007;Aliye et al., 2008;Ji et al., 2008).\nBiofilms are microbial communities in which a population of differentiated cells is encased by a self-made extracellular matrix (O'Toole et al., 2000). It is now widely recognized that most microbes associate with abiotic and biotic surfaces in the form of biofilms in natural, clinical and industrial settings (Davey and O'Toole, 2000). Rhizosphere bacteria, among them Plant Growth Promoting Rhizobacteria (PGPR), are frequently found to form microcolonies or biofilm-like structures on plant roots (Morris and Monier, 2003). Studies have suggested that biofilm formation by PGPR plays an important role in protecting plants. For example, Paenibacillus polymyxa, a PGPR bacterium, has been shown to colonize plant root tips, forming biofilm-like structures and protecting the plants against infections by pathogens (Timmusk et al., 2005;Haggag and Timmusk, 2008). As another example, highly mucoid mutants (often an indication of enhanced biofilm formation) of the Pseudomonas fluorescens CHA0 strain are considered good biocontrol agents and showed a markedly enhanced capacity of colonizing carrot roots compared to its wild type parent (Bianciotto et al., 2001).",
+        "span": [
+            3008,
+            4469
+        ],
+        "entities": []
+    },
+    {
+        "text": "As a further example, a previous study demonstrated that a B. subtilis strain (ATCC 6051) is able to form biofilm-like structures on the roots of Arabidopsis plants and protect Arabidopsis from infections by Pseudomonas syringae (Bais et al., 2004). In most of the above work, however, little direct evidence has been presented to demonstrate a causal role for biofilm formation in biocontrol efficacy.\nB. subtilis strain 3610 has been used as a model system to study biofilm formation (Branda et al., 2001;Lemon et al., 2008). Under laboratory conditions, strain 3610 is able to form architecturally complex colonies on solid medium and pellicles at the interface of liquid medium and the air. The regulatory pathways that control biofilm formation in B. subtilis are well understood (Fig. 1A) (Lopez et al., 2009a). Biofilm formation depends on two matrix gene operons: tapA-sipW-tasA and epsA-O, which are responsible for synthesis of two major matrix components: amyloid-like fibers and an exopolysaccharide (Kearns et al., 2005;Branda et al., 2006;Chu et al., 2006;Romero et al., 2011). The two matrix operons are directly controlled by a repressor SinR (Kearns et al., 2005;Chu et al., 2006). Derepression is triggered by SinI, an antirepressor whose gene is activated by phosphorylated Spo0A (Spo0A~P) (Fig. 1A) (Bai et al., 1993;Kearns et al., 2005;Chai et al., 2011). Spo0A~P is a master regulatory protein and of central importance for biofilm formation.",
+        "span": [
+            4470,
+            5934
+        ],
+        "entities": [
+            {
+                "begin": 690,
+                "end": 693,
+                "label": "variable",
+                "substring": "air",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/1bfab372-f275-449c-ac46-2d6193305592"
+            }
+        ]
+    },
+    {
+        "text": "Phosphorylation of Spo0A is controlled by a network of kinases and phosphatases in response to various environmental signals (Burbulys et al., 1991;Ireton et al., 1993;Perego et al., 1994). Spo0A~P also represses the gene for AbrB, a repressor that contributes to repression of the matrix operons (Fig. 1A) (Hamon and Lazazzera, 2001;Chu et al., 2008). Under as yet poorly defined conditions, matrix gene expression is alternatively turned on by a Spo0A~Pindependent pathway consisting of YwcC, a TetR-type repressor, and SlrA, a paralog of SinI whose gene is repressed by YwcC. SlrA contributes to biofilm formation by antagonizing SinR and thereby derepressing matrix genes (Fig. 1A) (Chai et al., 2009). Different strains of B. subtilis differ in their ability to form biofilms (Branda et al., 2001;McLoon et al., 2011). For example, the wild strain 3610 is able to form robust floating biofilms (pellicles) (but not submerged ones, with the exception that we will discuss) while other laboratory strains are capable of forming submerged, surface-attached biofilms (Branda et al., 2001;Hamon and Lazazzera, 2001). In those strains, biofilm formation can be assayed by standard crystal-violet staining method (Hamon and Lazazzera, 2001;Bais et al., 2004). It is also important to note that several well-studied laboratory strains of B. subtilis have lost the ability to form robust biofilms during domestication (McLoon et al., 2011).",
+        "span": [
+            5935,
+            7371
+        ],
+        "entities": []
+    },
+    {
+        "text": "Several studies also reported that B. subtilis forms biofilm-like structures in natural environments, especially on plant roots (Bais et al., 2004;Nagorska et al., 2007;Rudrappa et al., 2008). In a recent study (Chen et al., 2012), we showed that B. subtilis 3610 is able to form robust biofilms on the root surfaces of tomato plants and that the ability to colonize roots requires biofilm matrix genes.\nHere we report the isolation of six wild strains of B. subtilis as potential biocontrol agents from a total of sixty isolates obtained from natural environments. We characterized those strains with respect to biocontrol efficacy, the ability to form biofilms, and antagonistic activities against various plant pathogens. We demonstrate that biofilm formation and plant protection by these strains was dependent on the same core regulatory and matrixproduction genes previously shown to govern the formation of multicellular communities by the well-studied strain 3610 (above). We further demonstrate that in those wild strains, both biofilm formation and surfactin production were necessary, but neither one alone was sufficient, for plant protection, and that they act synergistically to enhance biocontrol efficacy. Our finding is consistent with previous work reporting the importance of biofilm formation and surfactin production by a B. subtilis strain in protecting Arabidopsis plants from infections by P. syringae (Bais et al., 2004).",
+        "span": [
+            7372,
+            8818
+        ],
+        "entities": [
+            {
+                "begin": 320,
+                "end": 333,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "We further show that matrix production seems to be critical for colonization of B. subtilis on tomato plant roots. The B. subtilistomato plant model system that we established could be useful for future studies of bacterium-plant interactions in plant protection.\n<heading>Results</heading>\n\n<heading>Isolation and characterization of B. subtilis wild strains</heading>\nThe starting point of this work was the isolation of wild strains of B. subtilis from natural environments and the screening of candidate strains for biocontrol efficacy. We collected rhizosphere soils from diverse locations in China and isolated heat-resistant bacterial spores by following a protocol described in Experimental Procedures. A total of 60 distinct bacterial isolates were obtained and a majority of them were confirmed to be able to form heat-resistant spores. To type the 60 isolates, we sequenced their 16S ribosomal RNA (rRNA) genes. Based on sequence similarity of the 16S rRNA genes, 55 out of the 60 isolates were assigned to various Bacillus species, including B. subtilis, B. cereus, B. anthracis, B. pumilus, B. amyloliquefaciens, and B. mycoides (data not shown). Among the 55 isolates of Bacillus species, 20 showed a close phylogenetic relationship with the sequenced strain B. subtilis subsp. subtilis str. NCIB 3610 (Fig. 1B).",
+        "span": [
+            8819,
+            10145
+        ],
+        "entities": [
+            {
+                "begin": 95,
+                "end": 107,
+                "label": "variable",
+                "substring": "tomato plant",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 554,
+                "end": 571,
+                "label": "variable",
+                "substring": "rhizosphere soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 598,
+                "end": 603,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 617,
+                "end": 621,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            },
+            {
+                "begin": 824,
+                "end": 828,
+                "label": "variable",
+                "substring": "heat",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/bb9c9be6-78c7-4fbd-9a35-a218276393ec"
+            }
+        ]
+    },
+    {
+        "text": "The 16S rRNA genes from those 20 isolates (GenBank accession: JQ361050-JQ361069) shared at least 98.9% nucleotide sequence identity with that of the strain 3610, higher than the generally accepted value (97%) for defining members in the same species (Ji et al., 2008). We thus conclude that these 20 isolates are strains of B. subtilis. These strains were designated from CYBS-1 to CYBS-20 and were analyzed further.\n<heading>Wild isolates of B. subtilis exhibit high biocontrol efficacy on tomato bacterial wilt disease</heading>\nNext, we evaluated the biocontrol ability of the 20 wild isolates (CYBS-1 to CYBS-20) together with two model laboratory strains, the wild strain 3610 and the domesticated strain PY79. Strain 3610 is a robust biofilm-forming strain whereas PY79, which is wildly used for genetic and molecular studies, is defective in biofilm formation (Branda et al., 2001). We measured the biocontrol efficacy of these strains against tomato wilt disease caused by a soil-borne plant pathogen Ralstonia solanacearum under greenhouse conditions (see Experimental Procedures), a system that we developed previously for studies of tomato plant biocontrol (Xue et al., 2009). Biocontrol efficacy is presented as the percent of the total number of tomato plants protected from wilt disease by treatment with B. subtilis based on a weighed score that takes into account the extent of protection (see Experimental Procedures). A representative result from such assays is shown in Fig. S1.",
+        "span": [
+            10146,
+            11643
+        ],
+        "entities": [
+            {
+                "begin": 491,
+                "end": 497,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 951,
+                "end": 957,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 983,
+                "end": 987,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 1038,
+                "end": 1048,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1144,
+                "end": 1156,
+                "label": "variable",
+                "substring": "tomato plant",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1259,
+                "end": 1272,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "To summarize, we found that many wild isolates showed a strong capacity to reduce the wilt disease intensity, although the efficacy varied significantly among the strains (from 13.3% to 80%, Fig. 1C). Six wild isolates  as well as the model strain 3610 were particularly effective in protecting against R. solanacearum, all achieving more than 50% biocontrol efficacy (Fig. 1C). The other model strain PY79 had a relatively poor biocontrol efficacy (28.9%) against the disease when compared to that of 3610 (70.3%) and the 6 wild isolates. These 6 wild isolates were selected for further study.\n<heading>Wild isolates form robust biofilms both in defined medium and on tomato roots</heading>\nWe wished to understand the molecular mechanisms by which some wild strains demonstrated higher biocontrol efficacy than others. A hint came from our initial results. PY79, a derivative of the domesticated B. subtilis strain 168 that is genetically very similar to 3610, exhibited a relatively poor biocontrol efficacy (Fig. 1C) (Zeigler et al., 2008). Previous studies have revealed key genetic differences between 168 and 3610 that explain differences in the behaviors of the two strains, such as the impaired ability of 168 to form biofilms, produce surfactin, and exhibit swarming (McLoon et al., 2011). It seemed plausible that the strong biocontrol efficacy in 3610 as well as the 6 wild isolates could be related to these features.",
+        "span": [
+            11644,
+            13074
+        ],
+        "entities": [
+            {
+                "begin": 669,
+                "end": 675,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "Biofilm formation is of special interest because we recently reported that B. subtilis 3610 was able to form root-associated biofilms on tomato plants (Chen et al., 2012). As 3610 has already been intensively documented for robust biofilm formation, we were interested to know whether the 6 wild isolates, which demonstrated equally strong biocontrol efficacy, were able to form robust biofilms. We tested this first in a defined medium, MSgg (a minimal medium that promotes biofilm formation in B. subtilis) (Branda et al., 2001). For formation of biofilm colonies, we spotted each of the 6 wild isolates on solidified MSgg; for pellicle development, we inoculated those cells into liquid MSgg. We included the model strains 3610 and PY79 in the experiment for comparison. Interestingly, all 6 wild isolates formed robust yet morphologically diverse biofilms in MSgg, similar to those by 3610 but in sharp contrast to those of PY79 (Fig. 2). Interestingly, the wrinkles, elevations, and other surface morphologies varied substantially among different wild isolates (Fig. 2). Similar phenotypic variations have previously been documented by Earl et al. in a dozen of closely related B. subtilis strains (Earl et al., 2007).\nGiven that these wild strains were isolated from rhizosphere soils, where the bacteria interact with the plant hosts and other soil microorganisms, we wondered whether these strains might also form biofilms on plant roots, similar to what we have observed with 3610 (Chen et al., 2012).",
+        "span": [
+            13075,
+            14585
+        ],
+        "entities": [
+            {
+                "begin": 137,
+                "end": 150,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1273,
+                "end": 1290,
+                "label": "variable",
+                "substring": "rhizosphere soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            }
+        ]
+    },
+    {
+        "text": "We therefore tested biofilm formation of these wild strains on tomato plant roots. To visualize the bacterial cells on the tomato roots, we introduced into the 6 wild isolates and the two reference strains a constitutively expressed green fluorescent gene reporter (P hyspank -gfp) at the amyE locus on the chromosome (seeExperimental Procedures). It is interesting to note that many of these wild isolates are sufficiently naturally competent that we were able to rely on genetic transformation for strain construction (although the transformation efficiency varied significantly among the strains; Chen Y, unpublished data). Two days after co-cultivation of the tomato plants and the B. subtilis cells in Murashige and Skoog (MS) medium (Murashige and Skoog, 1962), roots were fixed and examined by Confocal Scanning Laser Microscopy (CSLM). All 6 wild strains and 3610 were found to be able to colonize and even engulf the roots with large numbers of cell clusters that apparently formed biofilm-like structures on the roots (Fig. 3). (These biofilm-like structures were readily distinguished from a background of green autofluorescence exhibited by the roots as seen in Fig. 3.) Interestingly, the root-associated biofilms formed by these wild isolates displayed significantly varied phenotypes. For example, 3610 adhered to the roots by cells in short chains and the biofilm structures were somewhat flat (Figs.",
+        "span": [
+            14586,
+            16002
+        ],
+        "entities": [
+            {
+                "begin": 63,
+                "end": 81,
+                "label": "variable",
+                "substring": "tomato plant roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 123,
+                "end": 129,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 664,
+                "end": 677,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "3 and 5), whereas strains CYBS-14 and CYBS-19 formed more robust biofilms, evidenced by cells in long chains and thick overall structures on the root surfaces. Strain CYBS-6 displayed even heavier cell clusters along the roots (Fig. 3). The above results demonstrate that the wild isolates we obtained not only were able to form biofilms in defined media but also on tomato root surfaces.\n<heading>Key genes for biofilm formation in 3610 are conserved and function similarly in wild isolates</heading>\nThe regulatory circuitry that governs biofilm formation has been well studied in B. subtilis wild strain 3610 (Fig. 1A) (Lopez et al., 2009a). Although no genome sequence is yet available for any of the 6 wild isolates, we wondered whether key genes in the regulatory circuitry are also present in the wild isolates and whether their function is conserved. Accordingly, we amplified by PCR and sequenced three of these genes (namely sinI, sinR, and ywcC). We were able to confirm that the tested genes were highly conserved in our wild isolates (data not shown). We next introduced null mutations of the genes that were known to cause either hyper robust biofilms (ΔsinR, ΔabrB, and ΔywcC) or defective biofilms (ΔsinI, ΔtasA, and ΔepsA-O) in 3610, into the 6 wild isolates by transformation using genomic DNAs from the corresponding 3610 mutants (see Experimental Procedures). The resulting mutants were spotted on solid MSgg medium and tested for biofilm colony formation. As shown in Fig.",
+        "span": [
+            16003,
+            17496
+        ],
+        "entities": [
+            {
+                "begin": 367,
+                "end": 373,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "4, mutants derived from the 6 wild isolates behaved similarly to those from 3610. Null mutation in sinR, abrB, or ywcC in the wild isolates caused the formation of hyper robust biofilm colonies as did in 3610 whereas knockouts of sinI, epsA-O, or tasA resulted in colonies with much flatter or feature-less surfaces (Fig. 4). These results strongly suggest that the functions of these genes in the pathways that control biofilm formation in 3610 are conserved in our wild isolates of B. subtilis.\n<heading>Biocontrol efficacy correlates with the ability of the wild strains to form biofilms</heading>\nOne way to assess whether biofilm formation is important for plant biocontrol is to compare the biocontrol efficacy between the wild type and the mutants (both hyper and defective biofilm mutants). We decided to do so by conducting the biocontrol efficacy experiments using both the wild strains and the biofilm mutants derived from those wild strains (Fig. 4). The results are summarized in Table 1. In general, the biocontrol efficacy was marginally higher in the ΔsinR, ΔabrB, and ΔywcC mutants, all of which formed hyper robust biofilms, when compared to those of the wild-type strains. In contrast, in the mutants (ΔsinI, ΔepsA-O, and ΔtasA) that were defective in biofilm formation, biocontrol efficacy was significantly lower when compared to those of the wild types (Table 1). For tomato plants treated with biofilm-defective mutants, there was a reduction in the efficacy, ranging from 8.1% to 50.9%.",
+        "span": [
+            17497,
+            19007
+        ],
+        "entities": [
+            {
+                "begin": 1390,
+                "end": 1403,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "Interestingly, for tomato plants treated with hyper-biofilm mutants, the improvement in the biocontrol efficacy was modest and the average percentage increase was around 10% (0.9%-20.3%). Our results also indicate that loss of exopolysaccharide, a key matrix component of the B. subtilis biofilm, contributed most to the decrease in the biocontrol efficacy. In all 7 tested strains, the ΔepsA-O mutants had the lowest biocontrol efficacy compared to their wild-type parents and other types of mutants (Table 1). In toto, these results strongly suggest that biofilm formation by B. subtilis plays a critical role in biocontrol against tomato bacterial wilt disease and that the ability to form robust biofilms positively correlates with the biocontrol efficacy of the cells.\nWe have shown above that the mutants with altered abilities of biofilm formation in defined medium also demonstrated similarly altered biocontrol efficacy under greenhouse conditions (Fig. 4 and Table 1). However, it was important to determine whether those mutants behaved similarly in biofilm formation on the roots as they did in defined medium since the roots are where cells exert biocontrol effects. We investigated this using the model strain 3610. We introduced a constitutive gfp reporter (P hyspank -gfp) into various mutants of 3610 shown in Figure 4 at the chromosomal amyE locus to visualize bacterial cells on the roots. We then applied those strains in the assays of biofilm formation on tomato plant roots.",
+        "span": [
+            19008,
+            20504
+        ],
+        "entities": [
+            {
+                "begin": 19,
+                "end": 32,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 634,
+                "end": 640,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 935,
+                "end": 945,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1477,
+                "end": 1489,
+                "label": "variable",
+                "substring": "tomato plant",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "The assays were done similarly and the results were shown in Figure 5. In general, results of the biofilm formation on the tomato root surfaces by different mutants were consistent with those seen in MSgg medium. Mutants of ΔsinR, ΔabrB, or ΔywcC showed substantially increased numbers of cells that attached to the root and formed hyper-robust multicellular structures on the root surfaces. The ΔywcC mutant in particular formed long chains of cells, which were thought to facilitate matrix assembly during biofilm formation (Chai et al., 2009). In contrast, the ΔsinI mutant and the two mutants of the matrix operons (ΔtasA and ΔepsA-O) exhibited severely diminished attachment of cells to the roots: only few regions on the root surfaces were found to contain cell clusters at much smaller scales (Fig. 5). These results suggest that the ability to form robust biofilms in defined medium correlated well with that on the plant roots. Although this conclusion was based on the results in 3610, we believe it true for other wild isolates as well.\n<heading>Antimicrobial activities are also important for plant protection</heading>\nSo far, our results have suggested a central role for biofilm formation in plant protection. However, some of our evidence implied that the ability to form a robust biofilm is necessary but not sufficient for biocontrol activity. We obtained some wild isolates (e.g. CYBS-3, CYBS-7, and CYBS-16) that seemed to form relatively robust biofilms in defined medium (Fig.",
+        "span": [
+            20505,
+            22003
+        ],
+        "entities": [
+            {
+                "begin": 123,
+                "end": 129,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "S2), but lacked the ability to protect tomato plants from infection by R. solanacearum (Fig. 1C). These results indicate that besides biofilm formation, other features are likely also important in plant biocontrol.\nWe therefore expanded our focus to include the production of antimicrobial agents. Bacillus species produce a variety of antimicrobial agents that were proposed to be important in plant biocontrol since these molecules could inhibit growth of certain pathogenic soil microorganisms (Bais et al., 2004;Stein, 2005;Nagorska et al., 2007). To test antimicrobial activities in our wild isolates, we performed in vitro plate assays for the antagonistic activities of the 20 wild strains (from CYBS-1 to CYBS-20) toward 9 different plant pathogens (Table 2). A representative assay is shown in Fig. S3. The antagonistic activity toward a given plant pathogen was measured as the radius of the inhibition zone on the plate (Fig. S3). The complete set of the results for all tested strains are summarized in Table 2. We noticed that different wild strains demonstrated different activities against tested plant pathogens. For example, some isolates exhibited high antagonistic activity toward one set of plant pathogens but not against another set. The 6 wild isolates ) that demonstrated good biocontrol efficacy and robust biofilm formation on plant roots also showed relatively good antagonistic activities toward the tested pathogens (Table 2).",
+        "span": [
+            22004,
+            23459
+        ],
+        "entities": [
+            {
+                "begin": 39,
+                "end": 52,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "Interestingly, the wild isolates that formed relative robust biofilms but had surprisingly poor biocontrol efficacy (e.g. CYBS-3, CYBS-7, and CYBS-16; Figs. 1C and S2), almost always lacked strong antagonistic activities (Table 2). These results indicate that the production of antimicrobial agents is as important as biofilm formation in plant protection.\n<heading>Surfactin production contributes to plant biocontrol via two mechanisms</heading>\nTo further test whether production of antimicrobial agents is important in plant biocontrol, we decided to mutate candidate genes for biosynthesis of several selected antimicrobial agents, some of which were proposed in previous reports to be involved in plant biocontrol. The selected candidate genes include srfAA (surfactin) (Peypoux et al., 1999), sunA (sublancin) (Westers et al., 2003), albA-F(subtilosin A) (Zheng et al., 1999;Stein et al., 2004), pksA-E (bacillaene) (Butcher et al., 2007), ppsA-E(fengycin) (Steller et al., 1999) and genes for two cannibalism toxins SDP (sporulation delaying protein) and SKF(sporulation killing factor) (Gonzalez-Pastor et al., 2003;Liu et al., 2010). We introduced null mutations in each of the candidate genes in 3610 and tested the antagonistic activities of the mutants against the plant pathogen R. solanacearum in plate assays. Surprisingly, only the ΔsrfAA mutant showed a significant loss (~50%) of the antagonistic activity against R. solanacearum whereas all other mutants behaved similarly to the wild type (Fig. 6A).",
+        "span": [
+            23460,
+            24980
+        ],
+        "entities": []
+    },
+    {
+        "text": "We therefore decided to focus on srfAA and surfactin production.\nNext, we introduced the null mutation of srfAA into the 6 wild isolates, and compared the biocontrol activity of the mutants to that of the wild type parents. The results show that all 7 ΔsrfAA mutants (including the ΔsrfAA mutant in 3610) exhibited a substantial decrease in the biocontrol efficacy when compared to that of the corresponding wild type (Fig. 6B). Our finding is consistent with earlier work reporting that a B. subtilis mutant defective in surfactin production failed to protect Arabidopsis from infections by P. syringae while the wild type strain was capable of (Bais et al., 2004).\nIt has been shown that surfactin also acts as a signaling molecule that stimulates biofilm formation in strain 3610 and that a ΔsrfAA mutant of 3610 forms less robust biofilms (Lopez et al., 2009b). We wondered whether this role of surfactin in biofilm formation was applicable to our wild isolates. We compared the biofilm phenotype of ΔsrfAA mutants from of the 6 wild isolates to those of the wild type parents. As shown in Fig. 4, the 6 ΔsrfAA mutants formed less robust biofilm colonies than the corresponding wild type strains. We also examined biofilm formation on tomato plant roots by the ΔsrfAA mutant of 3610. Again, the root-associated biofilms formed by the mutant were less robust (Fig. 5).",
+        "span": [
+            24981,
+            26352
+        ],
+        "entities": [
+            {
+                "begin": 1239,
+                "end": 1257,
+                "label": "location",
+                "substring": "tomato plant roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "Therefore, our evidence suggests that surfactin production is important in plant biocontrol via two distinct mechanisms: as an antimicrobial agent and as a signaling molecule that stimulates biofilm formation on plant roots. Conceivably, biofilm formation on roots helps increase the local concentration of surfactin in root-surrounding areas, which in turn further stimulates biofilm formation while also acting as an antimicrobial agent. Therefore, biofilm formation and surfactin production may act synergistically to enhance plant biocontrol efficacy, and this could be a widespread mechanism for plant biocontrol in nature.\n<heading>Biofilm formation promotes colonization on tomato root surfaces</heading>\nHow biofilm formation by B. subtilis cells on tomato plant roots protects the plant from infection by pathogenic bacteria is unknown. It is assumed that a successful biocontrol agent must colonize well in the host plant rhizosphere, which is the first step to suppress the diseases caused by soil-borne pathogens. In our assays, we indeed observed that when B. subtilis cells formed biofilms on the tomato roots, the estimated total number of the rootassociated cells was far larger than that observed with a biofilm mutant (e.g. ΔepsA-O) (Figs. 3 and 5). One speculation is that biofilm formation promotes colonization on the root surface.",
+        "span": [
+            26353,
+            27705
+        ],
+        "entities": [
+            {
+                "begin": 681,
+                "end": 692,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 758,
+                "end": 776,
+                "label": "location",
+                "substring": "tomato plant roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 1004,
+                "end": 1008,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 1111,
+                "end": 1123,
+                "label": "variable",
+                "substring": "tomato roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "To test this hypothesis and to semi-quantitatively measure cell colonization on tomato root surfaces, we performed assays to determine the dynamics of the B. subtilis cells that are root-colonized or tightly associated (see Experimental Procedures). B. subtilis 3610 was used as a reference strain and was compared to various biofilm mutants derived from 3610. Cell population sizes of the various strains in the tomato rhizosphere during the entire span of the experiment were monitored by the plating method. The results are shown in Fig. 7A. Overall, the cell population of all tested strains in the rhizosphere decreased continuously post-inoculation. For example, the cell population of 3610 declined from 2.4X10 7 CFU/g*soil at the beginning of the experiment to a level around 10 5 CFU/g*soil after 3 weeks of cultivation (at 21 and 30 days post inoculation, the total numbers of cells were 5.85 and 2.80 X10 5 CFU/g*soil, respectively). In comparison to the wild type, biofilmdefective mutants (ΔsinI, Δeps, ΔtasA, and ΔsrfAA) showed a 5-to 7-fold reduction in the total number of root-colonizing cells after 30 days of inoculation, which was in the range of10 4 CFU/g*soil. Two hyper-biofilm mutants (ΔabrB and ΔsinR) had a mildly higher number of root-colonizing cells, while the third one, the ΔywcC mutant, unexpectedly had a slightly less than the wild type number of root-colonizing cells (Fig. 7A).\nBased on the above results, it seems that matrix production correlates well with cell colonization on plant root surface, but how?",
+        "span": [
+            27706,
+            29250
+        ],
+        "entities": [
+            {
+                "begin": 80,
+                "end": 91,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 413,
+                "end": 431,
+                "label": "variable",
+                "substring": "tomato rhizosphere",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "Although the biochemical and biophysical properties of the B. subtilis biofilm matrix are yet to be characterized, we speculate that the biofilm matrix may help with the process of adhesion that allows cells to attach to the root surface. To better understand the process of cell attachment on the root surface, we attempted to mimic this process by using microbeads with a similar size (~2 μm in diameter) to that of an average B. subtilis cell and that are either positively or negatively charged (see Experimental Procedures). Our results revealed that tomato plant root surfaces are most likely negatively charged: they only allowed strong interaction with, and attachment of, positively charged microbeads (Figs 7B and 7C). Presumably, this negative surface charge of the tomato roots may act against attachment of the B. subtilis cells [Note that B. subtilis cells are negatively charged (Gordienko and Kurdish, 2007)]. Thus, we speculate that the secreted biofilm matrix functions to neutralize the electronic repulsion between the tomato root surface and the surface of the B. subtilis cells and therefore permit adhesion. Among the biofilm matrix components, exopolysaccharide could be of particular importance since the ΔepsA-O mutant was the most deficient in plant biocontrol (Table 1).",
+        "span": [
+            29251,
+            30549
+        ],
+        "entities": [
+            {
+                "begin": 556,
+                "end": 573,
+                "label": "variable",
+                "substring": "tomato plant root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 777,
+                "end": 789,
+                "label": "variable",
+                "substring": "tomato roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 1039,
+                "end": 1050,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "However, efforts to demonstrate that the addition of purified exopolysaccharide or semi-purified matrix from B. subtilis biofilms would allow the attachment of negatively charged microbeads to the tomato root surfaces were unsuccessful (data not shown). Efforts to demonstrate that living wild type B. subtilis cells would facilitate the attachment of negatively charged beads to the roots were also unsuccessful (data not shown).\n<heading>Discussion</heading>\nB. subtilis, and other members of the genus Bacillus, have long been used as biological control agents (BCAs) in agriculture (Nagorska et al., 2007;Ongena and Jacques, 2008). For example, several B. subtilis strains have been successfully employed in pest and disease management programs (Wulff et al., 2002;Bais et al., 2004;Stein, 2005;Lemessa and Zeller, 2007;Nagorska et al., 2007;Ji et al., 2008;Ongena and Jacques, 2008;Chen et al., 2009b;Chen et al., 2009a). In this work, we isolated wild strains of B. subtilis that demonstrated strong biocontrol activities toward a number of fungal pathogens and a soilborne bacterial pathogen R. solanacearum in both in vitro assays and in experiments performed under greenhouse conditions. How B. subtilis exerts strong biocontrol activities in the rhizosphere is not well understood.",
+        "span": [
+            30550,
+            31841
+        ],
+        "entities": [
+            {
+                "begin": 197,
+                "end": 208,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 1174,
+                "end": 1184,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            }
+        ]
+    },
+    {
+        "text": "Past investigations provided some evidence that production of antimicrobial agents, biofilm formation, and triggering of host systemic resistance contribute to the biocontrol activities of B. subtilis (Bais et al., 2004;Nagorska et al., 2007;Ongena et al., 2007). In this study, we focused on the role of biofilm formation in plant biocontrol and provide several lines of evidence documenting its importance in biocontrol. First, we showed that the ability to form robust biofilms is a prevailing feature of many wild isolates of B. subtilis but not a domesticated strain, implying that multicellularity is important for B. subtilis to adapt to its natural habitat. We further tested two different categories of biofilm mutants (hyper-robust and defective biofilm mutants) and showed that biofilm formation strongly and positively correlated with biocontrol efficacy. That is, mutants that are defective in biofilm formation showed substantially decreased biocontrol efficacy whereas mutants that produced hyper-robust biofilms showed a modest improvement in biocontrol efficacy. Interestingly, all wild strains of B. subtilis that we collected were capable of forming robust biofilms although with morphological variations, implying that biofilm formation is important for the fitness of B. subtilis in nature.\nIn our collection of the wild strains, there were a few isolates that formed robust biofilms in defined medium (and likely on plant roots as well) but showed poor biocontrol efficacy.",
+        "span": [
+            31842,
+            33337
+        ],
+        "entities": []
+    },
+    {
+        "text": "This led us to speculate that biofilm formation alone might not be sufficient for strong biocontrol activity. Production of antimicrobial agents is another important characteristic of B. subtilis. B. subtilis has an average of 4-5% of its genome devoted to antibiotic synthesis and has the potential to produce more than two dozens of structurally diverse antimicrobial compounds (Stein, 2005). In some studies, cyclic lipopeptides such as surfactin, iturin and fengycin, as one class of antibiotics, have been reported to be involved in the biocontrol of plant diseases (Bais et al., 2004;Toure et al., 2004;Leclere et al., 2005;Hou et al., 2006). Strong antagonistic activity in vitro is considered critical in selecting for B. subtilis strains as biocontrol agents against R. solanacearum. However, no report has identified the substance that inhibits this pathogen. In this study, we constructed null mutants for each of the seven selected anti-microbial factors, and demonstrated that among those tested factors, only surfactin played a significant role in exerting antagonistic activities against R. solanacearum and in biocontrol efficacy under the greenhouse conditions (Fig. 6A). Presumably, other antibiotics show strong antagonistic activities against other types of pathogens.\nSurfactin is known to stimulate biofilm formation. Part of the explanation is that it acts as a quorum-sensing signal that activates a membrane sensory histidine kinase, KinC (Lopez et al., 2009b).",
+        "span": [
+            33338,
+            34824
+        ],
+        "entities": [
+            {
+                "begin": 1156,
+                "end": 1166,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            }
+        ]
+    },
+    {
+        "text": "In our present study, we showed that mutants of our wild strains deficient in surfactin production were defective in biofilm formation in defined medium and on plant roots, indicating that the requirement for surfactin in biofilm formation is widely conserved. Therefore, surfactin plays important roles in plant biocontrol likely via at least two mechanisms: as an antimicrobial agent and a stimulus for biofilm formation. We also speculate that colonization on the root leads to a high local concentration of surfactin that enhances its activity as an antimicrobial agent and further stimulates biofilm formation. It was reported that high levels of surfactin production were observed during colonization and biofilm formation of B. amyloliquefaciens strain S499 on tomato plant roots (Nihorimbere et al., 2012). We therefore infer, in keeping with an earlier report (Bais et al., 2004), that rather than acting independently, biofilm formation and surfactin production may act synergistically to enhance biocontrol efficacy. Furthermore, surfactin, as a biosurfactant, is also known to be important in motility and host colonization. In B. subtilis, surfactin-lacking mutants were severely defective in swarming motility and in spreading on biotic or abiotic surfaces (Kearns et al., 2004;Angelini et al., 2009). In a previous study (Bais et al., 2004), the authors attributed impaired host colonization on Arabidopsis roots by a B. subtilis surfactin mutant in part to decreased biosurfactant activity.",
+        "span": [
+            34825,
+            36331
+        ],
+        "entities": [
+            {
+                "begin": 768,
+                "end": 786,
+                "label": "location",
+                "substring": "tomato plant roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            }
+        ]
+    },
+    {
+        "text": "Therefore, the biosurfactant activity of surfactin may also contribute to host colonization and plant protection.\nHow exactly biofilm formation contributes to plant biocontrol remains unclear. Our observations by Confocal Laser Scanning Microscopy (CLSM) that the estimated number of the biofilm-forming B. subtilis cells colonizing the root surfaces was greater than for biofilm-deficient cells led us to hypothesize that biofilm formation promotes colonization of B. subtilis cells on the plant root surfaces. Successful root surface colonization may be a critical initial step in eliciting plant biocontrol activities against root-associated pathogens.\nLittle is known about plant root surface chemistry. To better understand the interactions between the B. subtilis cells and the tomato root surface during the process of colonization, we took the approach of applying microbeads with a similar size (~2 μm) to that of a typical B. subtilis cell and are either positively or negatively charged. These beads were readily observed under CSLM or even phase-contrast microscopy. Our results that only positively charged microbeads were able to tightly associate with root surfaces suggest that tomato root surfaces are likely negatively charged.",
+        "span": [
+            36332,
+            37577
+        ],
+        "entities": [
+            {
+                "begin": 784,
+                "end": 803,
+                "label": "location",
+                "substring": "tomato root surface",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 1194,
+                "end": 1205,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 491,
+                "end": 510,
+                "label": "location",
+                "substring": "plant root surfaces",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Since it is well-known that the surface of B. subtilis cells (and many other gram-positive bacteria) is negatively charged (Weidenmaier and Peschel, 2008), one would predict that the electrical repulsion between B. subtilis cells and the tomato root surfaces may prevent bacterial cell colonization. We thus hypothesize that the biofilm matrix may function to prevent such electrical repulsion and act to permit adhesion to the root surfaces.\nB. subtilis is ubiquitously and broadly distributed in various environments including soils, plant roots, animal gastrointestinal tracts and aquatic ecosystems (Earl et al., 2008). Ecotypes of B. subtilis isolates often show diverse phenotypes. In an effort to unveil the genetic variations among different strains of B. subtilis, Earl et al. (2008) analyzed the B. subtilis genomic diversity by using microarray-based comparative genomic hybridization (M-CGH) and found that about 30% of the predicted coding sequences of B. subtilis 168 were cumulatively absent or divergent in the other 17 tested B. subtilis strains. Variations were found in genes associated with antibiotic production, cell wall synthesis, sporulation, and germination (Earl et al., 2007). It is not surprising that the wild isolates we collected from different geographical and environmental niches also showed distinct traits, especially in colony morphology, biofilm formation, biocontrol activity, competence, production of secreted pigments (data not shown).",
+        "span": [
+            37578,
+            39056
+        ],
+        "entities": [
+            {
+                "begin": 238,
+                "end": 249,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 529,
+                "end": 534,
+                "label": "variable",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 584,
+                "end": 602,
+                "label": "location",
+                "substring": "aquatic ecosystems",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf"
+            }
+        ]
+    },
+    {
+        "text": "In the future, it will be interesting to determine the genetic variations that are responsible for those phenotypic differences among those strains. On the other hand, although biofilms formed by various strains are phenotypically quite different, the ability to form robust biofilms is highly conserved in those wild isolates. Also, the core regulatory circuitry that controls biofilm formation in 3610 is high conserved in those strains, implying that the ability to form biofilms is fundamental to the adaptive strategy in different environments during the life cycle of B. subtilis.\nIn conclusion, our results suggest that many wild strains of B. subtilis are capable of forming biofilms on plant root surfaces and that this capability is critical during the suppression of phytopathogens. Biofilm formation increases cell colonization efficiency as well as enhances local concentrations of antibiotics surrounding the roots. Some of these antibiotics may function as signaling molecules which in turn further stimulate biofilm formation. We also hypothesize that chemical communication between B. subtilis and the plant host could be critical in eliciting initial biofilm formation and ultimately establishing a close symbiotic relationship between the bacterium and the plant.",
+        "span": [
+            39057,
+            40339
+        ],
+        "entities": [
+            {
+                "begin": 695,
+                "end": 714,
+                "label": "location",
+                "substring": "plant root surfaces",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "Our most recent work (Chen et al., 2012) showed that root-associated biofilms of B. subtilis were triggered by chemical signals released from plants and that bacterial cells have a dedicated mechanism to sense the signals and induce biofilm formation on the roots. In the future, it will interesting to characterize those signaling molecule(s) released by the plant host that trigger B. subtilis to colonize and form biofilm on the root surfaces, and to understand how the bacterium senses and responds to the signal in stimulating biofilm formation.\n<heading>Experimental Procedures</heading>\n\n<heading>Bacterial strains and culture conditions</heading>\nBacillus subtilis wild isolates, PY79, 3610 and other derivatives were grown in Luria-Bertani (LB) or MSgg (Branda et al., 2001) medium at 37°C or 22°C as indicated. Approximately 1.5% agar was included when making solid agar medium. When appropriate, antibiotics were included at the following concentrations: 10 μg ml −1 of tetracycline, 100 μg ml −1 of spectinomycin, 20 μg ml −1 of kanamycin, 5 μg ml −1 of chloramphenicol and 1 μg ml −1 of erythromycin.",
+        "span": [
+            40340,
+            41453
+        ],
+        "entities": []
+    },
+    {
+        "text": "For formation of architecturally complex colonies, 3 μl of mid-logphase culture was inoculated onto MSgg medium containing 1.5% Bacto agar and incubated at 22°C for 72 h. For pellicle formation, 4 μl of mid-log-phase culture was inoculated into 4 ml MSgg medium in 12-well microtitre plates and incubated statically at 22°C for 72 h.\nTo introduce null mutations to the wild isolates of B. subtilis, the genomic DNAs from the corresponding mutants of 3610 were prepared as described below and introduced into the wild isolates by transformation following the standard transformation protocol for B. subtilis (Gryczan et al., 1978). To construct the GFP reporter fusion for visualization of biofilms on the root surfaces, the genomic DNA was prepared from the strain YC121 (Chai et al., 2008), which contained a constitutively expressed GFP reporter integrated at the amyE locus on the chromosome. The reporter fusion was introduced into the wild isolates and other recipient strains by transformation. Transformants were selected on LB plates supplemented appropriate antibiotics. The insertion deletion mutations in the gene clusters for various antibiotics and killing factors were generated by long-flanking homologous PCR mutagenesis (Wach, 1996). The mutation was first constructed in the strain PY79 and then introduced into the 3610 strain background by using SPP1 phage-mediated transduction as described previously (Yabsin and Young, 1974;Chu et al., 2006).",
+        "span": [
+            41454,
+            42919
+        ],
+        "entities": []
+    },
+    {
+        "text": "A detailed description of strains and primers used in this study is provided in Tables S1 and S2.\n<heading>Isolation and characterization of B. subtilis wild strains</heading>\nRhizosphere soils were collected from different locations in different provinces in China and were screened for spore-forming B. subtilis strains. Briefly, 3 g of soil was suspended in 27 ml of 0.85% NaCl solution and the mixed solution was incubated for 30 min at room temperature with gentle shaking. Suspensions were then pasteurized (10 min at 80°C), serially diluted with 0.85% NaCl solution, and plated onto LB plates supplemented with100 μg ml −1 cycloheximide to prevent fungal growth. All isolates were purified twice and then stored at −80°C in 30% glycerol for further use.\nTo study the phylogenetic relationship among the wild isolates, the 16S rRNA genes of the wild isolates were amplified by PCR and the PCR products were sequenced. In brief, the genomic DNAs of the wild isolates were prepared using the Bacterial Genomic DNA Extraction kit (TaKaRa Biotechnology Co., Ltd). Partial nucleotide sequences of the 16S rDNA genes were amplified by using the following primers: L1494-1514 (reverse) and U8-27 (forward). PCR amplification was performed with a Peltier Thermal Cycler PTC-200 (Bio-Rad, Watertown, MA, USA) using an initial denaturing step at 94°C for 5 min, and subsequently 35 cycles of denaturation at 94°C for 1 min, annealing at 56°C for 2 min, and extension at 72°C for 2 min, followed by a final extension at 72°C for 10 min.",
+        "span": [
+            42920,
+            44451
+        ],
+        "entities": [
+            {
+                "begin": 188,
+                "end": 193,
+                "label": "location",
+                "substring": "soils",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/199e3af8-4cf3-48ba-8b28-b9b54756b3db"
+            },
+            {
+                "begin": 260,
+                "end": 265,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1286,
+                "end": 1295,
+                "label": "location",
+                "substring": "Watertown",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a16eea5f-58da-45ef-aa8e-3a36d059d777"
+            },
+            {
+                "begin": 1297,
+                "end": 1299,
+                "label": "location",
+                "substring": "MA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/a16eea5f-58da-45ef-aa8e-3a36d059d777"
+            },
+            {
+                "begin": 1301,
+                "end": 1304,
+                "label": "location",
+                "substring": "USA",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/753f915c-70d4-49e1-9bd5-83e75f461e30"
+            },
+            {
+                "begin": 446,
+                "end": 457,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "The sequences of the 16S rRNA genes in those wild isolates were compared to known sequences in the NCBI GenBank using BLAST. DNA sequences of those 16S rRNA genes were deposited to the GenBank (accession numbers: JQ361050-JQ361069). The Phylogenetic tree based on the 16S rRNA genes was constructed by using the MEGA 4.0 software (Tamura et al., 2007) and B. sutbilis 3610 was used as a reference strain.\n<heading>Assays of antagonistic activity against R. solanacearum</heading>\nTo select for B. subtilis isolates as potential biological control agents, the antagonistic activities of the wild isolates towards 8 important fungal plant pathogens (Table S1) and a soil-born bacterial pathogen R. solanacearum were measured. One 5-mm disk of pure fungal pathogens mycelia was placed in the center of a Warkingsman agar plate (containing 5 g peptone, 10 g glucose, 3 g beef extract, 5 g NaCl, 15 g agar, made up to 1L, pH 7.2). The suspension of the wild isolates of B. subtilis was placed around the fungal inoculums at a distance of 2 cm. The plates were incubated at 25°C until clear zones of inhibition became visual and zones of inhibition were measured as described previously (Berg et al., 2005).",
+        "span": [
+            44452,
+            45653
+        ],
+        "entities": [
+            {
+                "begin": 664,
+                "end": 668,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/3526afb8-0dc9-43c7-8ad4-f34f250a1e91"
+            }
+        ]
+    },
+    {
+        "text": "Since the growth rates of different fungal pathogens are different, the inhibition zones were measured at different times post-inoculation as follows: Pythium ultium, 4 days (after 4 days of incubation), Fusarium graminearum, 4 days, Phytophthora capsici 7 days, Bipolaris maydis 10 days, Botrytis cinerea 6 days, Fusarium oxysporum 6 days, Sclerotinia sclerotiorum 2 days, and Gaeumannomyces graminis 10 days. All pathogens used in this study were provided by the Department of Plant Pathology, Nanjing Agriculture University (Nanjing, China).\nAntagonistic activity of B. subtilis cells against R. solanacearun was tested as follows. The stock solution of 2, 3, 5-triphenyl tetrazolium chloride (TZC) was added into 1 L of molten YGPA medium (containing 10 g glucose, 5 g peptone, 5 g yeast extract, 15 g Agar, made up to 1L, pH 7.2) at a final concentration of 0.005% (v/v); subsequently, 10 ml of the R. solanacearum suspension at O.D. 600 of 2.0 (about 2.0×10 8 CFU/ml) was added into medium and the mixture was poured into Petri Dishes. 10 μl of B. subtilis cells (O.D. 600 =3.0) were dropped onto a 0.8 cm filter paper on the YGPA plates containing R. solanacearum. The plates were incubated at 28°C for 2 days before the diameter of the clear halo surrounding the filter was measured. As a control, sterile distilled water was used in place of the suspension. Each experiment was conducted in triplicate and repeated at least three times.",
+        "span": [
+            45654,
+            47099
+        ],
+        "entities": [
+            {
+                "begin": 465,
+                "end": 526,
+                "label": "provider",
+                "substring": "Department of Plant Pathology, Nanjing Agriculture University",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/dc2088f9-ffb7-41c3-b0a1-856ecfec89de"
+            },
+            {
+                "begin": 528,
+                "end": 535,
+                "label": "location",
+                "substring": "Nanjing",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 537,
+                "end": 542,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            }
+        ]
+    },
+    {
+        "text": "<heading>Biofilm formation of B. subtilis on tomato roots</heading>\nWild type strains and the biofilm mutants of B. subtilis that harbored a constitutively expressed gfp reporter were tested for biofilm formation on tomato root surfaces. Tomato seeds (Lycopersicon esculentum Miller) were surface sterilized by a 30 s treatment in 70% ethanol, followed by 15 min in sodium hypochloride (10% active chlorine) and by three subsequent washing steps with sterile water for at least 15 min each. Sterilized seeds were then transferred onto the 0.7% Murashige and Skoog agar plate and incubated at 25°C for 4 days until the length of tomato roots reached about 3 cm. The seedlings were transplanted into 12-wells plates containing 4 ml of Murashige and Skoog (MS) medium in each well, and incubated at 25°C for 48 hours in a shaker. The speed of the shaker was set at 60 rpm with photoperiod of 16 h of light and 8 h of dark. Two days later, the B. subtilis suspension, which was grown in TY medium (LB broth, +100 μM MnSO 4 , +10 mM MgSO 4 ) to the mid-log-phase, was added into the tomato-MS medium (Murashige and Skoog, 1962) to reach the initial OD 600 =0.1. The co-cultured plates were statically incubated at 25°C for another 48 hours before examination of the bacterial biofilms on the root surfaces by Confocal Laser Scanning Microscopy (CLSM). Seedlings without bacterial inoculation were used as a control. All the treatments were repeatedly tested, and representative results were shown.",
+        "span": [
+            47100,
+            48592
+        ],
+        "entities": [
+            {
+                "begin": 45,
+                "end": 66,
+                "label": "variable",
+                "substring": "tomato roots</heading",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 216,
+                "end": 227,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 238,
+                "end": 250,
+                "label": "variable",
+                "substring": "Tomato seeds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 628,
+                "end": 640,
+                "label": "variable",
+                "substring": "tomato roots",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 1078,
+                "end": 1084,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "<heading>Confocal Laser Scanning Microscopy (CLSM)</heading>\nTo observe biofilms on the root surfaces by CLSM, the co-culture roots were harvested and generally washed three times in PBS buffer (100 mM NaH 2 PO 4 , 100 mM Na 2 HPO 4 , 1.3 M NaCl in H 2 O, pH 7.2-7.4) to remove unattached cells from the roots. Roots were then fixed in a 4% paraformaldehyde solution in PBS at 4°C overnight (Gotz et al., 2006). Single optical sections were captured with a Zeiss 10X Plan-Apochromat (numerical aperture 0.45) objective lens using a Zeiss LSM 510 NLO on an Axiovert 200M. The 488-nm laser line of the argon laser and a 530-nm long-pass filter were used for excitation and emission, respectively. Experiments were repeated twice each time with three replicas, and representative images for each treatment were presented.\n<heading>Assays of biocontrol efficacy under greenhouse conditions</heading>\nTomato seeds were surface-sterilized as described above and pre-germinated on moist potting soil. Seeds were incubated in a growth chamber (16:8 h light /dark photoperiod). After two weeks, tomato plantlets were transplanted into pots (8 cm × 9 cm ×12cm) filled with a three-element (NPK) complex fertilizer soil incorporated at the rate of 22-10-13 respectively. Wild isolates of B. subtilis and their derivatives were grown in LB broth at 30°C for 8 h in a shaker set at 200 rpm. Cell suspensions were adjusted to a cell density of 10 8 cells per ml. 30 ml of the B. subtilis suspension was applied as irrigation to each pot.",
+        "span": [
+            48593,
+            50116
+        ],
+        "entities": [
+            {
+                "begin": 864,
+                "end": 874,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 895,
+                "end": 908,
+                "label": "variable",
+                "substring": "\nTomato seeds",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 988,
+                "end": 992,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 1086,
+                "end": 1092,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            }
+        ]
+    },
+    {
+        "text": "One week after inoculation with the B. subtilis suspension, 20 ml of R. solanacearum ZJ3721 cell suspension (~10 7 cells per ml) was drenched into each pot. The pots were arranged in a randomized block design in a greenhouse. The temperature was maintained at 25°C, the intensity of illumination was 30,000 lx, and the photoperiod was 16 h. 30 days after inoculation of the pathogen, disease incidence based on the disease index (DI) 0-4 was recorded as following: DI 0 = no wilt symptoms, DI 1 = wilt symptoms on 1-25% of the leaves, DI 2 = wilt symptoms on 26-50% of the leaves, DI 3 = wilt symptoms on 51-75% of the leaves, and DI 4 = wilt symptoms on more than 76% of the leaves. Disease incidence and biocontrol efficacy were calculated according to the following formula: Disease Incidence = [(Number of diseased plants in this index × disease index) / (Total number of plants investigated × highest disease index)] ×100%. Biocontrol Efficacy = [(Disease incidence of control plants -Disease incidence of antagonist treated plants) / Disease incidence of control] ×100%. There were 3 replicas for each treatment, and each replica contained 24 tomato plants. The experiment was repeated twice. The average disease incidence and biocontrol efficacy were statistically analyzed.",
+        "span": [
+            50117,
+            51398
+        ],
+        "entities": [
+            {
+                "begin": 214,
+                "end": 224,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1149,
+                "end": 1162,
+                "label": "variable",
+                "substring": "tomato plants",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/0b4081fa-5233-4484-bc82-706976defa0e"
+            },
+            {
+                "begin": 230,
+                "end": 241,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": null
+            }
+        ]
+    },
+    {
+        "text": "<heading>Assays of cell colonization on tomato root surface</heading>\nTo study the dynamics of the B. subtilis cell population in the plant root rhizosphere, cell colonization of the stain 3610 and its biofilm mutant derivatives on the tomato root surfaces was monitored during the entire span of the biocontrol experiment. Samples were collected at 3, 7, 13, 21 and 30 days after inoculation (Gotz et al., 2006). Four rhizosphere samples were analyzed per treatment at each sampling time. Each rhizosphere sample consisted of the total root system with tightly adhering soil of four individual plants, which were thoroughly mixed and immediately processed for CFU counts. To determine the CFU counts of the inoculants by the plating methods, serial dilutions of the cell suspension were spreadplated on LB agar plates with appropriate antibiotics and 100 μg ml −1 of cycloheximide. Plates were incubated at 30°C overnight. The number of individual colonies was counted and the collected data were analyzed.\n<heading>Microbead experiments</heading>\nTissue cultures of the tomato plantlet roots were washed with PBS buffer (pH7.0) and submerged in 1.5 ml microcentrifuge tube filled with 1 ml of PBS buffer. Microbeads were serially diluted with PBS buffer and were added into tube. The tube with the mixed samples was incubated with rotation at 60 rpm for one hour at room temperature.",
+        "span": [
+            51399,
+            52784
+        ],
+        "entities": [
+            {
+                "begin": 40,
+                "end": 51,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 236,
+                "end": 247,
+                "label": "variable",
+                "substring": "tomato root",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 571,
+                "end": 575,
+                "label": "variable",
+                "substring": "soil",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/fb27559f-a2af-4fb5-960d-4635e13fecea"
+            },
+            {
+                "begin": 1072,
+                "end": 1078,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 1373,
+                "end": 1384,
+                "label": "variable",
+                "substring": "temperature",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/c1f75c04-84da-4185-ac89-4e33700b4cd3"
+            }
+        ]
+    },
+    {
+        "text": "After that, the coculture roots were harvested and generally washed three times with PBS buffer and fixed with 4% paraformaldehyde in PBS at 4°C overnight for observation.  Six wild isolates and two reference strains (3610 and PY79) were included in the experiment. Cells were inoculated to the solid MSgg media for colony formation or in MSgg liquid medium in standing culture for floating pellicle development. Cells were incubated at 22°C for 3 days before imaging. The scale bar in the upper panels is 0.2 cm and the scale bar in the lower panels is 0.4 cm.  Cells were inoculated on MSgg agar plates and incubated for 3 days at 22°C before images were taken. All strains harbored a constitutively expressed gfp reporter. Cells were similarly visualized by CLMS. Details of the biofilm-forming cells of the wild type, two hyper-biofilm mutants (ΔsinR and ΔywcC) and one defective biofilm mutant (ΔsinI) are shown enlarged in top panels. Bar in the top panels, 5 μm. Bars in the middle and lower panels, 50 μm.\n<heading>Fig. 6. Surfactin production is equally important in plant biocontrol</heading>\n(A) In vitro antagonistic activities towards R. solanacearum by the wild type and the mutants for each of the indicated antibiotic genes. Average ± SD (standard deviation) was calculated from four replicas and analyzed using the program Student's t-test (P≤ 0.05).Letters (from a to d) at the top of each bar represent the distinctness, with 'a' being the highest, and 'd' the lowest.",
+        "span": [
+            52785,
+            54272
+        ],
+        "entities": []
+    },
+    {
+        "text": "The same letters represent that no significant difference was observed. (B) Biocontrol efficacy of the wild type strains and the surfactin-deficient mutants against tomato bacterial wilt disease under greenhouse condition. The grey columns represent the wild type strains, while the corresponding surfactin-deficient mutants are shown in white columns. The average ± SD was calculated from three independent trials and analyzed using Student's t-test (P≤ 0.05).   Antagonistic abilities towards 9 plant pathogens by B. subtilis wild isolates.  Pythium ultium; F.g., Fusarium graminearum; P.c., Phytophthora capsici; B.m., Bipolaris maydis; B.c., Botrytis cinerea; G.g., Gaeumannomyces graminis; F.o., Fusarium oxysporum; S.s., Sclerotinia sclerotiorum; R.s.,Ralstonia solanacearum. An hyphen indicates that no inhibition was observed.\n<heading>Acknowledgments</heading>\nWe thank Dr. Mcloon  A for strains and members of Profs. Guo's and Losick's groups for technical assistance and helpful discussions. We especially thank Dr. Lecuyer for her help with the microbead experiments. This work was in part supported by grants from National Natural Science Foundation of China (31171809, 30971956) and Specialized Research Fund for the Doctoral Program of Higher Education of China (20100097110010) to JG, The Fundamental Research Funds for the Central Universities (KYZ201141) to HL. Y. Chen was supported by China Scholarship Council (NO.2010685015) and Graduate Innovation Projects of Jiangsu Province (No. CX10B_3152).",
+        "span": [
+            54273,
+            55790
+        ],
+        "entities": [
+            {
+                "begin": 165,
+                "end": 171,
+                "label": "variable",
+                "substring": "tomato",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/41b30b1b-5dbb-4ef8-849c-e1949ad04227"
+            },
+            {
+                "begin": 201,
+                "end": 211,
+                "label": "variable",
+                "substring": "greenhouse",
+                "identifier": "http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#26f45e2dcb96403db783e8820f717e0b36"
+            },
+            {
+                "begin": 1166,
+                "end": 1171,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1271,
+                "end": 1276,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1405,
+                "end": 1410,
+                "label": "location",
+                "substring": "China",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            },
+            {
+                "begin": 1483,
+                "end": 1499,
+                "label": "location",
+                "substring": "Jiangsu Province",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/85536e75-507b-4c8e-93f0-9048ef53e8f6"
+            }
+        ]
+    },
+    {
+        "text": "This work was also supported by NIH grants GM18568 to RL, GM58213 and GM82137 to RK.\n<heading>Supplementary Material</heading>\nRefer to Web version on PubMed Central for supplementary material.",
+        "span": [
+            55791,
+            55984
+        ],
+        "entities": [
+            {
+                "begin": 32,
+                "end": 35,
+                "label": "provider",
+                "substring": "NIH",
+                "identifier": "https://gcmd.earthdata.nasa.gov/kms/concept/af7e8249-8439-42ab-b528-c2e18550ef8d"
+            }
+        ]
+    }
+]
